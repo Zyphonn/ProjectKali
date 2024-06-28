@@ -21,5 +21,5722 @@
          .:+.  :=            
          =:                 
          			Kali Maa
-         			     Goddess of darkness.]]
-local obf_stringchar=string.char;local obf_stringbyte=string.byte;local obf_stringsub=string.sub;local obf_bitlib=bit32 or bit ;local obf_XOR=obf_bitlib.bxor;local obf_tableconcat=table.concat;local obf_tableinsert=table.insert;local function LUAOBFUSACTOR_DECRYPT_STR_0(LUAOBFUSACTOR_STR,LUAOBFUSACTOR_KEY) local result={};for i=1, #LUAOBFUSACTOR_STR do obf_tableinsert(result,obf_stringchar(obf_XOR(obf_stringbyte(obf_stringsub(LUAOBFUSACTOR_STR,i,i + 1 )),obf_stringbyte(obf_stringsub(LUAOBFUSACTOR_KEY,1 + (i% #LUAOBFUSACTOR_KEY) ,1 + (i% #LUAOBFUSACTOR_KEY) + 1 )))%256 ));end return obf_tableconcat(result);end local obf_stringmatch=string.match;local obf_tonumber=tonumber;local obf_pcall=pcall;local function obf_adjnqwidqwjhdpoq() local function obf_wrapperfunc(obf_arg) if obf_arg then local ScreenGui=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\176\123\188\220\59\68\8\145\138","\228\227\24\206\185\94\42\79"));local Frame=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\232\48\54\165\177","\80\174\66\87\200\212\123"));local project=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\255\124\38\220\219\18\201\124\50","\115\171\25\94\168\151"));local Kali=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\56\183\252\53\219\13\176\225\45","\151\108\210\132\65"));local UIGradient=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\237\125\46\90\199\69\206\81\214\64","\52\184\52\105\40\166\33\167"));local sh=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\102\11\213\188\22\213\206\87\2","\172\50\110\173\200\90\180"));local Main=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\221\181\248\72\254\168","\44\155\218\148"));local Kali_2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\217\254\52\47\248\38\179\232\247","\209\141\155\76\91\180\71"));local UIGradient_2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\198\84\248\89\27\247\116\218\69\14","\122\147\29\191\43"));local project_2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\136\213\70\29\246\254\142\123\176","\30\220\176\62\105\186\159\236"));local next=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\188\216\157\164\20\192\163\169\135\211","\221\232\189\229\208\86\181\215"));local p1=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\42\187\248\216\43\30","\78\108\212\148\188"));local TextButton=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\15\21\12\54\206\21\175\46\52\30","\90\91\112\116\66\140\96\219"));local TextButton_2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\241\82\18\24\194\189\16\209\88\4","\100\165\55\106\108\128\200"));local TextButton_3=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\241\206\41\167\231\222\37\167\202\197","\211\165\171\81"));local TextButton_4=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\48\112\202\222\245\201\16\97\221\196","\188\100\21\178\170\183"));local TextButton_5=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\74\18\72\167\144\216\106\3\95\189","\173\30\119\48\211\210"));local TextButton_6=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\111\220\33\46\121\204\45\46\84\215","\90\59\185\89"));local TextButton_7=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\116\245\66\91\25\104\84\228\85\65","\29\32\144\58\47\91"));local TextButton_8=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\39\48\105\169\99\180\7\33\126\179","\193\115\85\17\221\33"));local TextButton_9=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\217\126\22\10\141\201\249\111\1\16","\188\141\27\110\126\207"));local TextButton_10=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\185\51\70\99\198\253\29\153\57\80","\105\237\86\62\23\132\136"));local TextButton_11=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\141\76\36\89\1\8\173\93\51\67","\125\217\41\92\45\67"));local TextButton_12=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\109\177\30\75\161\78\77\160\9\81","\59\57\212\102\63\227"));local p2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\91\231\115\3\120\250","\103\29\136\31"));local clr=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\42\43\194\62\100\11\58\206\37\72","\38\126\78\186\74"));local UICorner=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\244\105\9\133\85\138\196\82","\228\161\32\74\234\39"));local ScrollingFrame=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\13\135\24\186\252\141\61\142\57\162\24\180\253\132","\224\94\228\106\213\144\225\84"));local TextLabel=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\132\237\95\212\45\177\234\66\204","\97\208\136\39\160"));local TextBox=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\194\44\219\146\123\29\35","\91\150\73\163\230\57\114"));local exe=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\122\168\170\66\210\30\170\75\65\163","\63\46\205\210\54\144\107\222"));ScreenGui.Parent=game.Players.LocalPlayer:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\192\32\245\94\217\226\11\225\78","\188\144\76\148\39"));ScreenGui.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;Frame.Parent=ScreenGui;Frame.AnchorPoint=Vector2.new(0.5,0.5);Frame.BackgroundColor3=Color3.fromRGB(24,24,24);Frame.BorderColor3=Color3.fromRGB(0,0,0);Frame.BorderSizePixel=0;Frame.ClipsDescendants=true;Frame.Position=UDim2.new(0.499694556,0,0.5,0);Frame.Size=UDim2.new(0,340,0,300);project.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\149\89\122\174\73\15\54","\53\229\43\21\196\44\108\66");project.Parent=Frame;project.BackgroundColor3=Color3.fromRGB(255,255,255);project.BackgroundTransparency=1;project.BorderColor3=Color3.fromRGB(0,0,0);project.BorderSizePixel=0;project.Position=UDim2.new(0.205882356,0,0.285741568,0);project.Size=UDim2.new(0,200,0,19);project.Font=Enum.Font.Code;project.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\3\39\24\175\54\54\3","\197\83\85\119");project.TextColor3=Color3.fromRGB(255,255,255);project.TextScaled=true;project.TextSize=14;project.TextTransparency=1;project.TextWrapped=true;Kali.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\100\251\18\62","\87\47\154\126");Kali.Parent=Frame;Kali.BackgroundColor3=Color3.fromRGB(255,255,255);Kali.BackgroundTransparency=1;Kali.BorderColor3=Color3.fromRGB(0,0,0);Kali.BorderSizePixel=0;Kali.Position=UDim2.new(0,0,0.312775344,0);Kali.Size=UDim2.new(0,340,0,91);Kali.Font=Enum.Font.Code;Kali.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\0\121\192\210","\180\75\24\172\187\178");Kali.TextColor3=Color3.fromRGB(255,255,255);Kali.TextScaled=true;Kali.TextSize=14;Kali.TextTransparency=1;Kali.TextWrapped=true;UIGradient.Color=ColorSequence.new({ColorSequenceKeypoint.new(0,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1,Color3.fromRGB(255,134,134))});UIGradient.Offset=Vector2.new(0,9);UIGradient.Rotation=70;UIGradient.Parent=Kali;sh.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\208\209","\112\163\185\133\99\28\68\153");sh.Parent=Frame;sh.BackgroundColor3=Color3.fromRGB(255,255,255);sh.BackgroundTransparency=1;sh.BorderColor3=Color3.fromRGB(0,0,0);sh.BorderSizePixel=0;sh.Position=UDim2.new(0,0,0.713656425,0);sh.Size=UDim2.new(0,0,0,14);sh.Font=Enum.Font.Code;sh.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\227\100\238\196\161\81\255\223\235\127\253\199\162\20\209\202\191\85\188\196\185\20\204\224\134\29","\171\203\52\156");sh.TextColor3=Color3.fromRGB(255,255,255);sh.TextScaled=true;sh.TextSize=14;sh.TextWrapped=true;Main.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\151\203\116\191","\192\218\170\29\209\74\225\221");Main.Parent=Frame;Kali_2.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\168\221\87\9","\157\227\188\59\96\175\45\73");Kali_2.Parent=Main;Kali_2.BackgroundColor3=Color3.fromRGB(255,255,255);Kali_2.BackgroundTransparency=1;Kali_2.BorderColor3=Color3.fromRGB(0,0,0);Kali_2.BorderSizePixel=0;Kali_2.Position=UDim2.new( -0.370588243,0,0.106108703,0);Kali_2.Size=UDim2.new(0,340,0,25);Kali_2.Font=Enum.Font.Code;Kali_2.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\148\203\219\31","\81\223\170\183\118");Kali_2.TextColor3=Color3.fromRGB(255,255,255);Kali_2.TextScaled=true;Kali_2.TextSize=14;Kali_2.TextWrapped=true;UIGradient_2.Color=ColorSequence.new({ColorSequenceKeypoint.new(0,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1,Color3.fromRGB(255,134,134))});UIGradient_2.Rotation=70;UIGradient_2.Parent=Kali_2;project_2.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\54\83\163\177\252\49\5","\113\70\33\204\219\153\82");project_2.Parent=Main;project_2.BackgroundColor3=Color3.fromRGB(255,255,255);project_2.BackgroundTransparency=1;project_2.BorderColor3=Color3.fromRGB(0,0,0);project_2.BorderSizePixel=0;project_2.Position=UDim2.new( -0.138235301,0,0.0457415767,0);project_2.Size=UDim2.new(0,200,0,19);project_2.Font=Enum.Font.Code;project_2.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\193\144\48\54\251\179\229","\208\145\226\95\92\158");project_2.TextColor3=Color3.fromRGB(255,255,255);project_2.TextScaled=true;project_2.TextSize=14;project_2.TextWrapped=true;next.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\176\228\197\88","\120\222\129\189\44\143\149\207");next.Parent=Main;next.BackgroundColor3=Color3.fromRGB(255,255,255);next.BackgroundTransparency=1;next.BorderColor3=Color3.fromRGB(0,0,0);next.BorderSizePixel=0;next.Position=UDim2.new(0.300000012,0,0.916666687,0);next.Size=UDim2.new(0,137,0,19);next.Font=Enum.Font.Code;next.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\161\9\24\178\223\95\118\170","\216\228\113\125\209\170\43\25");next.TextColor3=Color3.fromRGB(255,255,255);next.TextSize=14;next.TextWrapped=true;p1.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\233\171","\30\153\154\56\37\18");p1.Parent=Main;TextButton.Parent=p1;TextButton.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton.BackgroundTransparency=1;TextButton.BorderColor3=Color3.fromRGB(0,0,0);TextButton.BorderSizePixel=0;TextButton.Position=UDim2.new(0.511764705,0,0.49333334,0);TextButton.Size=UDim2.new(0,137,0,19);TextButton.Font=Enum.Font.Code;TextButton.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\45\184\227\15\51\16\184\183\36\46\31\249\193\94\104","\91\125\217\151\108");TextButton.TextColor3=Color3.fromRGB(255,255,255);TextButton.TextSize=14;TextButton.TextWrapped=true;TextButton_2.Parent=p1;TextButton_2.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_2.BackgroundTransparency=1;TextButton_2.BorderColor3=Color3.fromRGB(0,0,0);TextButton_2.BorderSizePixel=0;TextButton_2.Position=UDim2.new(0.511764705,0,0.596666694,0);TextButton_2.Size=UDim2.new(0,137,0,19);TextButton_2.Font=Enum.Font.Code;TextButton_2.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\204\61\133\48\234\252\0\178","\190\153\115\198\16");TextButton_2.TextColor3=Color3.fromRGB(255,255,255);TextButton_2.TextSize=14;TextButton_2.TextWrapped=true;TextButton_3.Parent=p1;TextButton_3.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_3.BackgroundTransparency=1;TextButton_3.BorderColor3=Color3.fromRGB(0,0,0);TextButton_3.BorderSizePixel=0;TextButton_3.Position=UDim2.new(0.511764705,0,0.25666666,0);TextButton_3.Size=UDim2.new(0,137,0,19);TextButton_3.Font=Enum.Font.Code;TextButton_3.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\57\43\250\139\61\110\163\199\28\94","\231\90\27\202");TextButton_3.TextColor3=Color3.fromRGB(255,255,255);TextButton_3.TextSize=14;TextButton_4.Parent=p1;TextButton_4.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_4.BackgroundTransparency=1;TextButton_4.BorderColor3=Color3.fromRGB(0,0,0);TextButton_4.BorderSizePixel=0;TextButton_4.Position=UDim2.new(0.0647058859,0,0.370000005,0);TextButton_4.Size=UDim2.new(0,137,0,19);TextButton_4.Font=Enum.Font.Code;TextButton_4.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\172\141\92\172\87\134\140\76\129\125","\62\225\228\56\194");TextButton_4.TextColor3=Color3.fromRGB(255,255,255);TextButton_4.TextSize=14;TextButton_5.Parent=p1;TextButton_5.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_5.BackgroundTransparency=1;TextButton_5.BorderColor3=Color3.fromRGB(0,0,0);TextButton_5.BorderSizePixel=0;TextButton_5.Position=UDim2.new(0.511764705,0,0.370000005,0);TextButton_5.Size=UDim2.new(0,137,0,19);TextButton_5.Font=Enum.Font.Code;TextButton_5.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\53\148\157\109\60\87\15\249\149\21\64\112\95","\53\118\217\217\77\20");TextButton_5.TextColor3=Color3.fromRGB(255,255,255);TextButton_5.TextSize=14;TextButton_6.Parent=p1;TextButton_6.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_6.BackgroundTransparency=1;TextButton_6.BorderColor3=Color3.fromRGB(0,0,0);TextButton_6.BorderSizePixel=0;TextButton_6.Position=UDim2.new(0.0647058859,0,0.49333334,0);TextButton_6.Size=UDim2.new(0,137,0,19);TextButton_6.Font=Enum.Font.Code;TextButton_6.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\128\17\226\215\33\160\11\225\158\54\160\26\232\218","\79\201\127\132\190");TextButton_6.TextColor3=Color3.fromRGB(255,255,255);TextButton_6.TextSize=14;TextButton_7.Parent=p1;TextButton_7.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_7.BackgroundTransparency=1;TextButton_7.BorderColor3=Color3.fromRGB(0,0,0);TextButton_7.BorderSizePixel=0;TextButton_7.Position=UDim2.new(0.0647058859,0,0.596666694,0);TextButton_7.Size=UDim2.new(0,137,0,19);TextButton_7.Font=Enum.Font.Code;TextButton_7.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\5\27\251\204\104\33\199\234","\169\72\116\137");TextButton_7.TextColor3=Color3.fromRGB(255,255,255);TextButton_7.TextSize=14;TextButton_7.TextWrapped=true;TextButton_8.Parent=p1;TextButton_8.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_8.BackgroundTransparency=1;TextButton_8.BorderColor3=Color3.fromRGB(0,0,0);TextButton_8.BorderSizePixel=0;TextButton_8.Position=UDim2.new(0.0647058859,0,0.703333318,0);TextButton_8.Size=UDim2.new(0,137,0,19);TextButton_8.Font=Enum.Font.Code;TextButton_8.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\78\123\197\173\127\118\192\168\126\58\253\169\126\125\197\163","\198\25\26\169");TextButton_8.TextColor3=Color3.fromRGB(255,255,255);TextButton_8.TextSize=14;TextButton_8.TextWrapped=true;TextButton_9.Parent=p1;TextButton_9.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_9.BackgroundTransparency=1;TextButton_9.BorderColor3=Color3.fromRGB(0,0,0);TextButton_9.BorderSizePixel=0;TextButton_9.Position=UDim2.new(0.511764705,0,0.696666658,0);TextButton_9.Size=UDim2.new(0,137,0,19);TextButton_9.Font=Enum.Font.Code;TextButton_9.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\2\34\141\102\180\65\126\122\77","\31\41\19\189\70\231\49\27");TextButton_9.TextColor3=Color3.fromRGB(255,255,255);TextButton_9.TextSize=14;TextButton_9.TextWrapped=true;TextButton_10.Parent=p1;TextButton_10.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_10.BackgroundTransparency=1;TextButton_10.BorderColor3=Color3.fromRGB(0,0,0);TextButton_10.BorderSizePixel=0;TextButton_10.Position=UDim2.new(0.511764705,0,0.786666691,0);TextButton_10.Size=UDim2.new(0,137,0,19);TextButton_10.Font=Enum.Font.Code;TextButton_10.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\250\130\1\166\132\195\84\227\179","\134\215\179\49");TextButton_10.TextColor3=Color3.fromRGB(255,255,255);TextButton_10.TextSize=14;TextButton_10.TextWrapped=true;TextButton_11.Parent=p1;TextButton_11.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_11.BackgroundTransparency=1;TextButton_11.BorderColor3=Color3.fromRGB(0,0,0);TextButton_11.BorderSizePixel=0;TextButton_11.Position=UDim2.new(0.0647058859,0,0.786666691,0);TextButton_11.Size=UDim2.new(0,137,0,19);TextButton_11.Font=Enum.Font.Code;TextButton_11.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\207\251\85\234\92\3","\115\129\148\54\134\53");TextButton_11.TextColor3=Color3.fromRGB(255,255,255);TextButton_11.TextSize=14;TextButton_11.TextWrapped=true;TextButton_12.Parent=p1;TextButton_12.BackgroundColor3=Color3.fromRGB(255,255,255);TextButton_12.BackgroundTransparency=1;TextButton_12.BorderColor3=Color3.fromRGB(0,0,0);TextButton_12.BorderSizePixel=0;TextButton_12.Position=UDim2.new(0.0647058859,0,0.25666666,0);TextButton_12.Size=UDim2.new(0,137,0,19);TextButton_12.Font=Enum.Font.Code;TextButton_12.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\199\134\93\78\212\13\0\250\199\113\79\213\1\29","\115\137\231\48\43\184\104");TextButton_12.TextColor3=Color3.fromRGB(255,255,255);TextButton_12.TextSize=14;p2.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\201\187","\95\185\137\122\131\201\192");p2.Parent=Main;clr.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\117\58\213","\69\22\86\167\115");clr.Parent=p2;clr.BackgroundColor3=Color3.fromRGB(255,255,255);clr.BackgroundTransparency=1;clr.BorderColor3=Color3.fromRGB(0,0,0);clr.BorderSizePixel=0;clr.Position=UDim2.new(0.629411757,0,0.813333333,0);clr.Size=UDim2.new(0,106,0,19);clr.Visible=false;clr.Font=Enum.Font.Code;clr.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\123\136\66\128\87","\71\56\228\39\225\37");clr.TextColor3=Color3.fromRGB(255,255,255);clr.TextSize=14;clr.TextWrapped=true;UICorner.Parent=p2;ScrollingFrame.Parent=p2;ScrollingFrame.Active=true;ScrollingFrame.ScrollBarImageColor3=Color3.fromRGB(0,0,0);ScrollingFrame.BackgroundColor3=Color3.fromRGB(0,0,0);ScrollingFrame.BackgroundTransparency=0.8;ScrollingFrame.BorderColor3=Color3.fromRGB(0,0,0);ScrollingFrame.BorderSizePixel=0;ScrollingFrame.Position=UDim2.new(0.0588235296,0,0.213333338,0);ScrollingFrame.Size=UDim2.new(0,300,0,164);ScrollingFrame.Visible=false;ScrollingFrame.CanvasSize=UDim2.new(10,0,99,0);ScrollingFrame.ScrollBarThickness=4;TextLabel.Parent=ScrollingFrame;TextLabel.BackgroundColor3=Color3.fromRGB(255,255,255);TextLabel.BackgroundTransparency=1;TextLabel.BorderColor3=Color3.fromRGB(0,0,0);TextLabel.BorderSizePixel=0;TextLabel.Size=UDim2.new(99,1062,1,306);TextLabel.ZIndex=2;TextLabel.Font=Enum.Font.Code;TextLabel.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\253\172\212\38\237\232\48\181\229\164\43\227\173\1\169\226\232\38\244\232\98\226\195","\66\208\129\132\73\154\141");TextLabel.TextColor3=Color3.fromRGB(255,255,255);TextLabel.TextSize=14;TextLabel.TextTransparency=0.4;TextLabel.TextXAlignment=Enum.TextXAlignment.Left;TextLabel.TextYAlignment=Enum.TextYAlignment.Top;TextBox.Parent=ScrollingFrame;TextBox.BackgroundColor3=Color3.fromRGB(44,15,15);TextBox.BackgroundTransparency=1;TextBox.BorderColor3=Color3.fromRGB(0,0,0);TextBox.BorderSizePixel=0;TextBox.Size=UDim2.new(99,1062,1,306);TextBox.ClearTextOnFocus=false;TextBox.Font=Enum.Font.Code;TextBox.MultiLine=true;TextBox.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\7\18\230\242\93\90\196\248\78\31\212\228\10\124\207\254\70\80\216\248\10\13\244","\157\42\63\182");TextBox.TextColor3=Color3.fromRGB(0,0,0);TextBox.TextSize=14;TextBox.TextTransparency=0.4;TextBox.TextWrapped=true;TextBox.TextXAlignment=Enum.TextXAlignment.Left;TextBox.TextYAlignment=Enum.TextYAlignment.Top;exe.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\222\38\44","\175\187\94\73\156");exe.Parent=p2;exe.BackgroundColor3=Color3.fromRGB(255,255,255);exe.BackgroundTransparency=1;exe.BorderColor3=Color3.fromRGB(0,0,0);exe.BorderSizePixel=0;exe.Position=UDim2.new(0.0588235296,0,0.813333333,0);exe.Size=UDim2.new(0,106,0,19);exe.Visible=false;exe.Font=Enum.Font.Code;exe.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\3\39\74\35\14\55\197","\160\70\95\47\64\123\67");exe.TextColor3=Color3.fromRGB(255,255,255);exe.TextSize=14;exe.TextWrapped=true;local fake_module_scripts={};do local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\243\85\112\36\210\95\71\50\204\83\100\37","\81\190\58\20"),p2);script.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\65\66\178\98\143\44","\83\44\45\214\23\227\73\63");local function module_script() local highlighter={};local keywords={[LUAOBFUSACTOR_DECRYPT_STR_0("\249\175\71","\64\149\218\38\222")]={LUAOBFUSACTOR_DECRYPT_STR_0("\27\169\206","\176\122\199\170"),LUAOBFUSACTOR_DECRYPT_STR_0("\16\25\181\209\58","\75\114\107\208\176\81"),LUAOBFUSACTOR_DECRYPT_STR_0("\246\57","\21\153\75\73"),LUAOBFUSACTOR_DECRYPT_STR_0("\12\31\94\247","\38\105\115\45\146\210"),LUAOBFUSACTOR_DECRYPT_STR_0("\7\26\31\115\58\4","\83\98\118\108\22"),LUAOBFUSACTOR_DECRYPT_STR_0("\64\237","\67\41\139\25\77\197\228"),LUAOBFUSACTOR_DECRYPT_STR_0("\252\166\203\36","\136\136\206\174\74\54"),LUAOBFUSACTOR_DECRYPT_STR_0("\49\253\146\140\95","\219\68\147\230\229\51\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\110\75\230\229\7\83","\123\28\46\150\128\102\39"),LUAOBFUSACTOR_DECRYPT_STR_0("\18\65\20\91\30","\21\101\41\125\55\123\233\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\228","\82\226\139\206\147\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\247\9\95","\172\145\102\45\209"),LUAOBFUSACTOR_DECRYPT_STR_0("\253\3","\30\148\109\108\32\235"),LUAOBFUSACTOR_DECRYPT_STR_0("\17\73\21","\63\116\39\113"),LUAOBFUSACTOR_DECRYPT_STR_0("\52\95\196\237\28","\200\88\48\167\140\112\72"),LUAOBFUSACTOR_DECRYPT_STR_0("\208\91\60\190\240\204","\130\162\62\72\203"),LUAOBFUSACTOR_DECRYPT_STR_0("\165\162\179\115\147\137\224\243","\157\195\215\221\16\231\224\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\122\193\27\131\241\107","\131\31\185\107\236"),LUAOBFUSACTOR_DECRYPT_STR_0("\128\170\70\45\134\170\94\37","\68\203\203\42"),LUAOBFUSACTOR_DECRYPT_STR_0("\104\86\121\208\110\86","\185\35\55\21"),LUAOBFUSACTOR_DECRYPT_STR_0("\151\248\173\143\189\252\172\151","\228\211\153\223"),LUAOBFUSACTOR_DECRYPT_STR_0("\119\238\74\51\59\1\81","\102\52\143\56\93\90"),LUAOBFUSACTOR_DECRYPT_STR_0("\124\14\176\32\234\72\13","\133\38\119\192\72")},[LUAOBFUSACTOR_DECRYPT_STR_0("\229\163\108","\155\151\193\20")]={LUAOBFUSACTOR_DECRYPT_STR_0("\41\165\13\75","\27\78\196\96\46"),LUAOBFUSACTOR_DECRYPT_STR_0("\253\244\160\179\105\84\77\233\254","\44\138\155\210\216\26\36"),LUAOBFUSACTOR_DECRYPT_STR_0("\168\78\171\83\237\175","\157\219\45\217\58"),LUAOBFUSACTOR_DECRYPT_STR_0("\189\188\34\221","\158\208\221\86\181"),LUAOBFUSACTOR_DECRYPT_STR_0("\243\85\248\2\46\184","\88\128\33\138\107\64\223"),LUAOBFUSACTOR_DECRYPT_STR_0("\213\243\119\121\168","\142\161\146\21\21\205\27"),LUAOBFUSACTOR_DECRYPT_STR_0("\4\251\111\8","\172\112\154\28\99\122\153"),LUAOBFUSACTOR_DECRYPT_STR_0("\220\246\169\10","\126\171\151\192"),LUAOBFUSACTOR_DECRYPT_STR_0("\45\27\245\25\4\238","\57\94\126\153\124\103\154"),LUAOBFUSACTOR_DECRYPT_STR_0("\25\194\81\13","\33\119\167\41\121\182"),LUAOBFUSACTOR_DECRYPT_STR_0("\98\186\46\91","\88\39\212\91\54\203\51\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\41\190\166\133\105","\168\76\204\212\234\27\174"),LUAOBFUSACTOR_DECRYPT_STR_0("\155\5\33\74","\46\236\100\83\36\105\134"),LUAOBFUSACTOR_DECRYPT_STR_0("\45\243\132\139","\111\89\154\231\224\225"),LUAOBFUSACTOR_DECRYPT_STR_0("\252\201\21\160\62\237","\177\157\186\102\197\76\153\188"),LUAOBFUSACTOR_DECRYPT_STR_0("\177\182\33\189\167\186","\207\194\222\64"),LUAOBFUSACTOR_DECRYPT_STR_0("\23\122\214\68\155\199\9\124\217\71","\179\123\21\183\32\232"),LUAOBFUSACTOR_DECRYPT_STR_0("\210\44\194\40\190\0\195\49","\98\166\67\172\93\211"),LUAOBFUSACTOR_DECRYPT_STR_0("\243\236\196\193\16\67\236\224","\130\135\131\183\181\98\42"),LUAOBFUSACTOR_DECRYPT_STR_0("\215\175\43\230","\64\163\214\91\131"),LUAOBFUSACTOR_DECRYPT_STR_0("\5\54\8\51\48\23","\95\113\79\120\86"),LUAOBFUSACTOR_DECRYPT_STR_0("\190\250\48\177\133\6","\169\203\148\64\208\230\109\95"),LUAOBFUSACTOR_DECRYPT_STR_0("\216\5\15\188\62","\134\168\119\102\210\74\123\92"),LUAOBFUSACTOR_DECRYPT_STR_0("\130\0\15\77\170\0\31\92","\57\203\110\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\141\245\7\40\13\171","\96\206\179\117\73"),LUAOBFUSACTOR_DECRYPT_STR_0("\183\38\116\49\142\49\36","\69\225\67\23"),LUAOBFUSACTOR_DECRYPT_STR_0("\242\132\48\161\211\145\139","\27\164\225\83\213\188\227\185"),LUAOBFUSACTOR_DECRYPT_STR_0("\171\0\142\241\213\219","\167\232\111\226\158"),LUAOBFUSACTOR_DECRYPT_STR_0("\113\0\38\21","\209\36\68\79\120\123\61\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\121\197\90\54\82","\96\44\129\51\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\39\14\21","\147\117\111\108\198\147\136"),LUAOBFUSACTOR_DECRYPT_STR_0("\40\164\203\87\1\149\205\88\5\164","\52\106\214\162"),LUAOBFUSACTOR_DECRYPT_STR_0("\42\25\219\182\253\4\31\238\165\227\4\2\205","\145\101\111\190\196"),LUAOBFUSACTOR_DECRYPT_STR_0("\98\204\152\239\78\67\217\177\237\93\81\192\146","\47\48\173\225\140"),LUAOBFUSACTOR_DECRYPT_STR_0("\98\213\132\203","\204\35\173\225\184\75"),LUAOBFUSACTOR_DECRYPT_STR_0("\220\69\237\137\233\171","\110\142\36\131\237\134\198"),LUAOBFUSACTOR_DECRYPT_STR_0("\73\69\180\249\55\117\19","\88\27\32\211\144"),LUAOBFUSACTOR_DECRYPT_STR_0("\191\174\189\40","\16\237\203\222\92\171\205\59"),LUAOBFUSACTOR_DECRYPT_STR_0("\213\166\184\141\17\154\239\183\178","\211\129\209\221\232\127"),LUAOBFUSACTOR_DECRYPT_STR_0("\10\64\74\40\249\30\164\65\8\93\68\37\251\24","\38\105\47\38\68\156\125\208"),LUAOBFUSACTOR_DECRYPT_STR_0("\130\143\177","\72\236\224\197\36\156"),LUAOBFUSACTOR_DECRYPT_STR_0("\209\191\66\210","\234\164\203\36"),LUAOBFUSACTOR_DECRYPT_STR_0("\27\238\129\46\128","\18\107\141\224\66\236\62\17"),LUAOBFUSACTOR_DECRYPT_STR_0("\179\191\31\246\167\163","\151\203\207\124"),LUAOBFUSACTOR_DECRYPT_STR_0("\235\61","\164\180\122\145\98\128\233\126"),LUAOBFUSACTOR_DECRYPT_STR_0("\168\1\15\192\190\16\26\217\186\6\23\200","\173\219\100\123"),LUAOBFUSACTOR_DECRYPT_STR_0("\179\45\88\6\22\160\41\88\10\17\184\45","\115\212\72\44\107"),LUAOBFUSACTOR_DECRYPT_STR_0("\131\252","\36\236\143\52\18\157\78\206"),LUAOBFUSACTOR_DECRYPT_STR_0("\64\64\49\93\236","\159\48\33\88\47"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\82\24\251\161\242","\87\127\34\121\146\211\129\87")},[LUAOBFUSACTOR_DECRYPT_STR_0("\164\241\128\254\36\42\192\102\184","\20\203\129\229\140\69\94\175")]={"#","+","-","*","%","/","^","=","~","=","<",">",",",".","(",")","{","}","[","]",";",":"}};local colors={[LUAOBFUSACTOR_DECRYPT_STR_0("\161\211\89\52\234\240\188","\130\207\166\52\86\143")]=Color3.fromRGB(255,198,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\72\85\28\225\175\122\47","\65\42\58\115\141\202\27")]=Color3.fromRGB(243,191,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\68\20\80\211\46\95\11\71","\79\43\100\53\161")]=Color3.fromRGB(204,204,204),[LUAOBFUSACTOR_DECRYPT_STR_0("\252\209\206","\36\144\164\175\47\52\44\86")]=Color3.fromRGB(132,214,247),[LUAOBFUSACTOR_DECRYPT_STR_0("\34\13\227","\31\80\111\155\196")]=Color3.fromRGB(230,105,122),[LUAOBFUSACTOR_DECRYPT_STR_0("\64\77\243","\79\51\57\129\180")]=Color3.fromRGB(173,241,149),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\189\61\85\220\57\166","\185\87\210\80\56")]=Color3.fromRGB(93,92,91),[LUAOBFUSACTOR_DECRYPT_STR_0("\200\5\162\84","\53\166\112\206\56\29\153")]=Color3.fromRGB(243,191,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\113\18\90\6","\79\18\115\54\106\149")]=Color3.fromRGB(222,251,167),[LUAOBFUSACTOR_DECRYPT_STR_0("\89\87\66\88\26\126\140\170\70","\198\42\50\46\62\69\29\237")]=Color3.fromRGB(230,105,122),[LUAOBFUSACTOR_DECRYPT_STR_0("\206\181\21\56\36\159\13\84\206\181\4","\59\162\218\118\89\72\192\110")]=Color3.fromRGB(230,105,122),[LUAOBFUSACTOR_DECRYPT_STR_0("\131\235\190\92\92\8\125\15\186\253\191\83\71\19","\97\229\158\208\63\40\97\18")]=Color3.fromRGB(230,105,122),[LUAOBFUSACTOR_DECRYPT_STR_0("\62\203\126\64\179\46\193\126\73\158","\236\77\174\18\38")]=Color3.fromRGB(230,105,122),[LUAOBFUSACTOR_DECRYPT_STR_0("\140\82\204\20\140\98\223\7\143\77\202\7\148\68","\117\224\61\175")]=Color3.fromRGB(84,142,210)};local function createKeywordSet(keywords) local FlatIdent_29B3D=0;local FlatIdent_12544;local keywordSet;while true do if (FlatIdent_29B3D==1) then while true do if (FlatIdent_12544==0) then local FlatIdent_759F1=0;while true do if (FlatIdent_759F1==1) then FlatIdent_12544=1;break;end if (0==FlatIdent_759F1) then keywordSet={};for _,keyword in ipairs(keywords) do keywordSet[keyword]=true;end FlatIdent_759F1=1;end end end if (FlatIdent_12544==1) then return keywordSet;end end break;end if (FlatIdent_29B3D==0) then FlatIdent_12544=0;keywordSet=nil;FlatIdent_29B3D=1;end end end local luaSet=createKeywordSet(keywords.lua);local rbxSet=createKeywordSet(keywords.rbx);local operatorsSet=createKeywordSet(keywords.operators);local function getHighlight(tokens,index) local token=tokens[index];if colors[token   .. LUAOBFUSACTOR_DECRYPT_STR_0("\212\68\201\132\228\85","\232\139\39\166") ] then return colors[token   .. LUAOBFUSACTOR_DECRYPT_STR_0("\220\82\92\73\120\208","\162\131\49\51\37\23") ];end if tonumber(token) then return colors.numbers;elseif (token==LUAOBFUSACTOR_DECRYPT_STR_0("\81\112\242","\20\63\25\158\74")) then return colors.null;elseif (token:sub(1,2)==LUAOBFUSACTOR_DECRYPT_STR_0("\55\151","\217\26\186\60\205\31\176\72")) then return colors.comment;elseif operatorsSet[token] then return colors.operator;elseif luaSet[token] then return colors.rbx;elseif rbxSet[token] then return colors.lua;elseif ((token:sub(1,1)=='\"') or (token:sub(1,1)=="\'")) then return colors.str;elseif ((token==LUAOBFUSACTOR_DECRYPT_STR_0("\207\99\19\233","\140\187\17\102")) or (token==LUAOBFUSACTOR_DECRYPT_STR_0("\42\138\168\82\41","\33\76\235\196"))) then return colors.boolean;end if (tokens[index + 1 ]=="(") then local FlatIdent_6900D=0;local FlatIdent_295EB;while true do if (0==FlatIdent_6900D) then FlatIdent_295EB=0;while true do if (FlatIdent_295EB==0) then local FlatIdent_52551=0;while true do if (FlatIdent_52551==0) then if (tokens[index-1 ]==":") then return colors.self_call;end return colors.call;end end end end break;end end end if (tokens[index-1 ]==".") then local FlatIdent_62B0B=0;local FlatIdent_56118;while true do if (0==FlatIdent_62B0B) then FlatIdent_56118=0;while true do if (FlatIdent_56118==0) then if (tokens[index-2 ]==LUAOBFUSACTOR_DECRYPT_STR_0("\45\228\231\82","\229\104\138\146\63\204\80\229")) then return colors.rbx;end return colors.local_property;end end break;end end end end highlighter.run=function(source) local tokens={};local currentToken="";local inString=false;local inComment=false;local commentPersist=false;for i=1, #source do local character=source:sub(i,i);if inComment then if ((character=="\n") and  not commentPersist) then local FlatIdent_287B5=0;local FlatIdent_8C1B9;while true do if (FlatIdent_287B5==0) then FlatIdent_8C1B9=0;while true do if (FlatIdent_8C1B9==1) then currentToken="";inComment=false;break;end if (FlatIdent_8C1B9==0) then local FlatIdent_12A89=0;while true do if (FlatIdent_12A89==0) then table.insert(tokens,currentToken);table.insert(tokens,character);FlatIdent_12A89=1;end if (FlatIdent_12A89==1) then FlatIdent_8C1B9=1;break;end end end end break;end end elseif ((source:sub(i-1 ,i)==LUAOBFUSACTOR_DECRYPT_STR_0("\157\64","\169\192\29\126")) and commentPersist) then local FlatIdent_4CC24=0;local FlatIdent_63B53;while true do if (FlatIdent_4CC24==0) then FlatIdent_63B53=0;while true do if (FlatIdent_63B53==1) then local FlatIdent_8B523=0;while true do if (FlatIdent_8B523==1) then FlatIdent_63B53=2;break;end if (FlatIdent_8B523==0) then currentToken="";inComment=false;FlatIdent_8B523=1;end end end if (FlatIdent_63B53==0) then currentToken=currentToken   .. "]" ;table.insert(tokens,currentToken);FlatIdent_63B53=1;end if (FlatIdent_63B53==2) then commentPersist=false;break;end end break;end end else currentToken=currentToken   .. character ;end elseif inString then if (((character==inString) and (source:sub(i-1 ,i-1 )~="\\")) or (character=="\n")) then local FlatIdent_5B4A8=0;local FlatIdent_1438D;while true do if (FlatIdent_5B4A8==0) then FlatIdent_1438D=0;while true do if (FlatIdent_1438D==0) then currentToken=currentToken   .. character ;inString=false;break;end end break;end end else currentToken=currentToken   .. character ;end elseif (source:sub(i,i + 1 )==LUAOBFUSACTOR_DECRYPT_STR_0("\124\136","\235\81\165\101")) then local FlatIdent_14194=0;local FlatIdent_651F7;while true do if (FlatIdent_14194==0) then FlatIdent_651F7=0;while true do if (FlatIdent_651F7==1) then inComment=true;commentPersist=source:sub(i + 2 ,i + 3 )==LUAOBFUSACTOR_DECRYPT_STR_0("\67\191","\172\24\228\63\121\229\100") ;break;end if (FlatIdent_651F7==0) then local FlatIdent_49280=0;while true do if (FlatIdent_49280==0) then table.insert(tokens,currentToken);currentToken="-";FlatIdent_49280=1;end if (FlatIdent_49280==1) then FlatIdent_651F7=1;break;end end end end break;end end elseif ((character=='\"') or (character=="\'")) then local FlatIdent_69F87=0;local FlatIdent_27404;while true do if (0==FlatIdent_69F87) then FlatIdent_27404=0;while true do if (FlatIdent_27404==1) then inString=character;break;end if (FlatIdent_27404==0) then local FlatIdent_206F8=0;while true do if (FlatIdent_206F8==1) then FlatIdent_27404=1;break;end if (0==FlatIdent_206F8) then table.insert(tokens,currentToken);currentToken=character;FlatIdent_206F8=1;end end end end break;end end elseif operatorsSet[character] then local FlatIdent_466B2=0;local FlatIdent_2A862;while true do if (FlatIdent_466B2==0) then FlatIdent_2A862=0;while true do if (FlatIdent_2A862==1) then currentToken="";break;end if (FlatIdent_2A862==0) then local FlatIdent_8B336=0;while true do if (FlatIdent_8B336==1) then FlatIdent_2A862=1;break;end if (FlatIdent_8B336==0) then table.insert(tokens,currentToken);table.insert(tokens,character);FlatIdent_8B336=1;end end end end break;end end elseif character:match(LUAOBFUSACTOR_DECRYPT_STR_0("\177\11\194\242\183","\173\234\46\181")) then currentToken=currentToken   .. character ;else local FlatIdent_882F4=0;local FlatIdent_8B523;while true do if (FlatIdent_882F4==0) then FlatIdent_8B523=0;while true do if (FlatIdent_8B523==1) then currentToken="";break;end if (FlatIdent_8B523==0) then table.insert(tokens,currentToken);table.insert(tokens,character);FlatIdent_8B523=1;end end break;end end end end table.insert(tokens,currentToken);local highlighted={};for i,token in ipairs(tokens) do local FlatIdent_7DFA5=0;local FlatIdent_61EE;local highlight;while true do if (FlatIdent_7DFA5==1) then while true do if (0==FlatIdent_61EE) then highlight=getHighlight(tokens,i);if highlight then local FlatIdent_7409=0;local FlatIdent_89237;local syntax;while true do if (0==FlatIdent_7409) then FlatIdent_89237=0;syntax=nil;FlatIdent_7409=1;end if (FlatIdent_7409==1) then while true do if (FlatIdent_89237==0) then syntax=string.format('<font color = \"#%s\">%s</font>',highlight:ToHex(),token:gsub("<",LUAOBFUSACTOR_DECRYPT_STR_0("\153\62\255\100","\67\191\82\139\95")):gsub(">",LUAOBFUSACTOR_DECRYPT_STR_0("\123\234\83\153","\139\93\141\39\162\140")));table.insert(highlighted,syntax);break;end end break;end end else table.insert(highlighted,token);end break;end end break;end if (FlatIdent_7DFA5==0) then FlatIdent_61EE=0;highlight=nil;FlatIdent_7DFA5=1;end end end return table.concat(highlighted);end;return highlighter;end fake_module_scripts[script]=module_script;end local function CABW_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\0\172\10\214\18\31\160\27\222\14\56","\126\76\195\105\183"),ScreenGui);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\107\95\161\116\87\135\90\90\178\120\90\177","\212\63\40\196\17\57"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);local main=script.Parent.Frame.Main;function intro() local FlatIdent_5998C=0;while true do if (FlatIdent_5998C==4) then local FlatIdent_72421=0;while true do if (FlatIdent_72421==1) then ts:Create(script.Parent.Frame.sh,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\157\206\232\238\157\217\241\244\186\219\241\232\172\197\243\227","\154\201\171\144")]=1}):Play();FlatIdent_5998C=5;break;end if (FlatIdent_72421==0) then ts:Create(script.Parent.Frame.project,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\178\225\187\196\162\6\176\179","\221\226\142\200\173\214\111\223")]=UDim2.new(0.206,0, -0.478,0)}):Play();ts:Create(script.Parent.Frame.Kali,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\58\75\167\37\156\28\79\177\34\184\15\92\186\63\171\23","\200\110\46\223\81")]=1}):Play();FlatIdent_72421=1;end end end if (FlatIdent_5998C==3) then local FlatIdent_3B7E2=0;while true do if (FlatIdent_3B7E2==0) then wait(0.8);ts:Create(script.Parent.Frame.sh,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\37\78\38\49","\34\118\39\92\84\66\178")]=UDim2.new(0,340,0,14)}):Play();FlatIdent_3B7E2=1;end if (FlatIdent_3B7E2==1) then wait(1.6);FlatIdent_5998C=4;break;end end end if (FlatIdent_5998C==8) then wait(0.1);main.Parent=script.Parent.Frame;break;end if (5==FlatIdent_5998C) then ts:Create(script.Parent.Frame.Kali,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\123\135\34\11\58\160\192\125","\19\43\232\81\98\78\201\175")]=UDim2.new(0,0, -0.451,0)}):Play();ts:Create(script.Parent.Frame.sh,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\123\220\235\175\208\228\133\69","\234\43\179\152\198\164\141")]=UDim2.new(0,0, -0.05,0)}):Play();wait(0.1);FlatIdent_5998C=6;end if (FlatIdent_5998C==0) then local FlatIdent_77172=0;while true do if (FlatIdent_77172==1) then wait(0.6);FlatIdent_5998C=1;break;end if (FlatIdent_77172==0) then main.Parent=script.Parent.Parent;ts:Create(script.Parent.Frame,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\150\83\102\219","\231\197\58\28\190\231\211\173")]=UDim2.new(0,340,0,300)}):Play();FlatIdent_77172=1;end end end if (FlatIdent_5998C==2) then local FlatIdent_7E707=0;while true do if (FlatIdent_7E707==1) then ts:Create(script.Parent.Frame.Kali.UIGradient,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\124\212\56\63\210\152","\236\51\178\94\76\183")]=Vector2.new(0,0)}):Play();FlatIdent_5998C=3;break;end if (FlatIdent_7E707==0) then ts:Create(script.Parent.Frame.Kali,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\222\200\202\87\222\223\211\77\249\221\211\81\239\195\209\90","\35\138\173\178")]=0}):Play();wait(0.4);FlatIdent_7E707=1;end end end if (6==FlatIdent_5998C) then local FlatIdent_4D61C=0;while true do if (0==FlatIdent_4D61C) then wait(0.2);wait(0.1);FlatIdent_4D61C=1;end if (1==FlatIdent_4D61C) then wait(0.1);FlatIdent_5998C=7;break;end end end if (FlatIdent_5998C==7) then wait(0.1);wait(0.4);wait(0.1);FlatIdent_5998C=8;end if (FlatIdent_5998C==1) then local FlatIdent_68856=0;while true do if (FlatIdent_68856==0) then ts:Create(script.Parent.Frame.project,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\241\12\91\213\70\116\206\13","\29\161\99\40\188\50")]=UDim2.new(0.206,0,0.229,0)}):Play();ts:Create(script.Parent.Frame.project,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\77\47\184\243\58\40\11\226\106\58\161\245\11\52\9\245","\140\25\74\192\135\110\90\106")]=0}):Play();FlatIdent_68856=1;end if (FlatIdent_68856==1) then wait(0.4);FlatIdent_5998C=2;break;end end end end end intro();end coroutine.wrap(CABW_fake_script)();local function XIBELK_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\14\94\71\243\166\145\33\67\77\226\190","\194\66\49\36\146\202"),next);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\191\38\200\7\203\184\52\223\20\204\136\52","\165\235\81\173\98"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\31\128\177\34\154\235\39\138\187\101","\132\75\229\201\86\217")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\182\119\189\177\161\125\169\170\144\33","\197\226\18\197")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(XIBELK_fake_script)();local function EYIRYJ_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\48\222\2\80\16\226\2\67\21\193\21","\49\124\177\97"),next);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local pagenum=1;local p1=script.Parent.Parent.p1;local p2=script.Parent.Parent.p2;p2.Parent=script.Parent.Parent.Parent.Parent.Parent;local d=script.Parent.Parent.Parent.Parent.Parent;local f=script.Parent.Parent;script.Parent.MouseButton1Click:Connect(function() if (pagenum==1) then local FlatIdent_15A17=0;local FlatIdent_1FC27;while true do if (FlatIdent_15A17==0) then FlatIdent_1FC27=0;while true do if (FlatIdent_1FC27==2) then local FlatIdent_2A644=0;while true do if (FlatIdent_2A644==1) then FlatIdent_1FC27=3;break;end if (FlatIdent_2A644==0) then p2.clr.Visible=true;p2.exe.Visible=true;FlatIdent_2A644=1;end end end if (FlatIdent_1FC27==3) then pagenum=2;break;end if (FlatIdent_1FC27==0) then script.Parent.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\179\62\210\183\144\41\128\150\149\63","\222\224\93\160");p2.Parent=f;FlatIdent_1FC27=1;end if (FlatIdent_1FC27==1) then local FlatIdent_8B272=0;while true do if (0==FlatIdent_8B272) then p1.Parent=d;p2.ScrollingFrame.Visible=true;FlatIdent_8B272=1;end if (FlatIdent_8B272==1) then FlatIdent_1FC27=2;break;end end end end break;end end elseif (pagenum==2) then local FlatIdent_67517=0;while true do if (FlatIdent_67517==1) then p1.Parent=f;pagenum=1;break;end if (FlatIdent_67517==0) then local FlatIdent_43626=0;while true do if (FlatIdent_43626==1) then FlatIdent_67517=1;break;end if (0==FlatIdent_43626) then script.Parent.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\206\229\119\34\45\255\242\96","\88\139\157\18\65");p2.Parent=d;FlatIdent_43626=1;end end end end end end);end coroutine.wrap(EYIRYJ_fake_script)();local function YTJZ_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\102\21\17\16\199\121\25\0\24\219\94","\171\42\122\114\113"),TextButton);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\185\191\201\231\131\155\201\240\155\161\207\231","\130\237\200\172"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\18\213\182\26\5\223\162\1\52\131","\110\70\176\206")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\65\21\37\255\25\122\28\50\249\105","\90\21\112\93\139")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(YTJZ_fake_script)();local function ATHW_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\45\212\119\183\172\50\216\102\191\176\21","\192\97\187\20\214"),TextButton);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() local plrs=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\58\87\50\209\133\24\72","\224\106\59\83\168"));local rs=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\149\240\12\200\75\154\95\174\230\7","\41\199\133\98\155\46\232"));local ws=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\43\169\243\77\174\31\231\31\163","\134\124\198\129\38\221\111"));local uis=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\205\252\180\50\209\225\161\53\236\220\180\50\238\230\178\37","\64\152\143\209"));local gs=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\16\92\204\63\79\63\106\14\52\76","\103\87\41\165\108\42\77\28"));local lp=plrs.LocalPlayer;local pg=lp:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\146\223\21\238\115\242\133\198\29","\128\194\179\116\151\22"));local mouse=lp:GetMouse();local stepped=rs.Stepped;local heartbeat=rs.Heartbeat;local renderstepped=rs.RenderStepped;local osclock=os.clock;local tspawn=task.spawn;local twait=task.wait;local schar=string.char;local ssub=string.sub;local sfind=string.find;local supper=string.upper;local mrandom=math.random;local clamp=math.clamp;local sin=math.sin;local cos=math.cos;local abs=math.abs;local rad=math.rad;local tinsert=table.insert;local tclear=table.clear;local tclone=table.clone;local tfind=table.find;local tunpack=table.unpack;local pairs=pairs;local next=next;local i=Instance.new;local v2=Vector2.new;local v3=Vector3.new;local c3=Color3.new;local cf=CFrame.new;local angles=CFrame.Angles;local u2=UDim2.new;local e=Enum;local cs=ColorSequence.new;local csk=ColorSequenceKeypoint.new;local sine=osclock();local deltaTime=0;local v3_0=v3(0,0,0);local v3_101=v3(1,0,1);local v3_010=v3(0,1,0);local v3_001=v3(0,0,1);local cf_0=cf(0,0,0);local v3_xz=v3_101 * 10 ;local v3_net=v3_010 * 25.01 ;local function makepcall(f) local FlatIdent_957A4=0;local FlatIdent_28855;while true do if (FlatIdent_957A4==0) then FlatIdent_28855=0;while true do if (FlatIdent_28855==0) then local FlatIdent_1953=0;while true do if (FlatIdent_1953==0) then if (type(f)==LUAOBFUSACTOR_DECRYPT_STR_0("\1\39\13\164\200\61\137\9","\230\103\82\99\199\188\84")) then return function(...) local FlatIdent_71EE8=0;local FlatIdent_27BF6;local a;local r;while true do if (1==FlatIdent_71EE8) then r=nil;while true do local FlatIdent_1D752=0;while true do if (FlatIdent_1D752==0) then if (1==FlatIdent_27BF6) then local FlatIdent_4E551=0;while true do if (FlatIdent_4E551==0) then pcall(function() r={f(tunpack(a))};end);return tunpack(r or {} );end end end if (FlatIdent_27BF6==0) then local FlatIdent_10550=0;while true do if (0==FlatIdent_10550) then a={...};r=nil;FlatIdent_10550=1;end if (FlatIdent_10550==1) then FlatIdent_27BF6=1;break;end end end break;end end end break;end if (FlatIdent_71EE8==0) then FlatIdent_27BF6=0;a=nil;FlatIdent_71EE8=1;end end end;end return function() end;end end end end break;end end end local function rs(l) local FlatIdent_81130=0;local FlatIdent_331F0;local s;while true do if (FlatIdent_81130==0) then FlatIdent_331F0=0;s=nil;FlatIdent_81130=1;end if (FlatIdent_81130==1) then while true do local FlatIdent_43BEE=0;while true do if (0==FlatIdent_43BEE) then if (FlatIdent_331F0==0) then local FlatIdent_2BE68=0;while true do if (FlatIdent_2BE68==0) then l=l or mrandom(8,15) ;s="";FlatIdent_2BE68=1;end if (FlatIdent_2BE68==1) then FlatIdent_331F0=1;break;end end end if (FlatIdent_331F0==1) then local FlatIdent_2FBBD=0;while true do if (0==FlatIdent_2FBBD) then for i=1,l do if (mrandom(1,2)==1) then s=s   .. schar(mrandom(65,90)) ;else s=s   .. schar(mrandom(97,122)) ;end end return s;end end end break;end end end break;end end end local function dfind(t,v) local FlatIdent_90113=0;local FlatIdent_6D68E;while true do if (FlatIdent_90113==0) then FlatIdent_6D68E=0;while true do if (FlatIdent_6D68E==0) then local FlatIdent_67F21=0;while true do if (FlatIdent_67F21==0) then for i,v1 in pairs(t) do if (v1==v) then return i;end end return nil;end end end end break;end end end local function gp(p,n,cl) local FlatIdent_8F8DE=0;local FlatIdent_237AA;while true do if (FlatIdent_8F8DE==0) then FlatIdent_237AA=0;while true do if (0==FlatIdent_237AA) then if (typeof(p)==LUAOBFUSACTOR_DECRYPT_STR_0("\149\136\176\188\88\36\191\131","\74\220\230\195\200\57")) then local FlatIdent_8EA6E=0;local FlatIdent_4A248;local c;while true do if (FlatIdent_8EA6E==0) then FlatIdent_4A248=0;c=nil;FlatIdent_8EA6E=1;end if (FlatIdent_8EA6E==1) then while true do if (0==FlatIdent_4A248) then c=p:GetChildren();for i=1, #c do local FlatIdent_3F15E=0;local v;while true do if (FlatIdent_3F15E==0) then v=c[i];if ((v.Name==n) and v:IsA(cl)) then return v;end break;end end end break;end end break;end end end return nil;end end break;end end end local function timegp(p,n,c,t) local FlatIdent_56F59=0;local FlatIdent_6208C;while true do if (FlatIdent_56F59==0) then FlatIdent_6208C=0;while true do local FlatIdent_AE19=0;while true do if (0==FlatIdent_AE19) then if (0==FlatIdent_6208C) then local FlatIdent_3121=0;while true do if (FlatIdent_3121==1) then FlatIdent_6208C=1;break;end if (FlatIdent_3121==0) then t=osclock() + t ;while t>osclock()  do local FlatIdent_51C44=0;local FlatIdent_2433F;local r;while true do if (FlatIdent_51C44==1) then while true do if (FlatIdent_2433F==1) then stepped:Wait();break;end if (0==FlatIdent_2433F) then local FlatIdent_13B77=0;while true do if (0==FlatIdent_13B77) then r=gp(p,n,c);if r then return r;end FlatIdent_13B77=1;end if (FlatIdent_13B77==1) then FlatIdent_2433F=1;break;end end end end break;end if (FlatIdent_51C44==0) then FlatIdent_2433F=0;r=nil;FlatIdent_51C44=1;end end end FlatIdent_3121=1;end end end if (1==FlatIdent_6208C) then return nil;end break;end end end break;end end end local function getNetlessVelocity(realVel) local FlatIdent_7699F=0;local FlatIdent_82923;while true do if (FlatIdent_7699F==0) then FlatIdent_82923=0;while true do if (FlatIdent_82923==0) then if (realVel.Magnitude>25.01) then realVel=realVel.Unit * 25.01 ;end return (realVel * v3_xz) + v3_net ;end end break;end end end local sft=1/60 ;local function getFallingTime(startY,destY,gravity) local FlatIdent_8B7B0=0;local FlatIdent_83844;local velY;local currY;local fallingTime;while true do if (FlatIdent_8B7B0==2) then while true do local FlatIdent_508D4=0;while true do if (1==FlatIdent_508D4) then if (FlatIdent_83844==0) then local FlatIdent_45A9E=0;while true do if (0==FlatIdent_45A9E) then velY=25.01;currY=startY;FlatIdent_45A9E=1;end if (FlatIdent_45A9E==1) then FlatIdent_83844=1;break;end end end break;end if (FlatIdent_508D4==0) then if (FlatIdent_83844==2) then return fallingTime;end if (1==FlatIdent_83844) then fallingTime=0;while (currY>destY) or (velY>0)  do local FlatIdent_69632=0;local FlatIdent_1468D;while true do if (0==FlatIdent_69632) then FlatIdent_1468D=0;while true do if (FlatIdent_1468D==0) then local FlatIdent_8DAB6=0;while true do if (FlatIdent_8DAB6==1) then FlatIdent_1468D=1;break;end if (FlatIdent_8DAB6==0) then fallingTime=fallingTime + sft ;velY=velY-(sft * gravity) ;FlatIdent_8DAB6=1;end end end if (FlatIdent_1468D==1) then currY=currY + (velY * sft) ;break;end end break;end end end FlatIdent_83844=2;end FlatIdent_508D4=1;end end end break;end if (FlatIdent_8B7B0==1) then currY=nil;fallingTime=nil;FlatIdent_8B7B0=2;end if (FlatIdent_8B7B0==0) then FlatIdent_83844=0;velY=nil;FlatIdent_8B7B0=1;end end end local isClientInstance=makepcall(function(i) return ssub(i:GetDebugId(),1,1)=="0" ;end);local guiTheme={[LUAOBFUSACTOR_DECRYPT_STR_0("\162\159\217\43\2\197\169\143","\177\197\234\176\127\107")]=LUAOBFUSACTOR_DECRYPT_STR_0("\99\203\210\75\130\121\94\51\194\211\74","\63\19\170\166\40\234\20"),[LUAOBFUSACTOR_DECRYPT_STR_0("\33\1\3\44\47\58\244\63\28\1\45\3\34\204\57\26","\160\86\104\109\72\64\77")]=c3(0,0,1),[LUAOBFUSACTOR_DECRYPT_STR_0("\238\122\224\14\17\157\205\124\254\41\17\134\246\97","\234\153\19\142\106\126")]=c3(0,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\54\45\179\28\46\51\159\23\53\48\178\21\2\43\177\23\51","\120\65\68\221")]=c3(0,0,0.584314),[LUAOBFUSACTOR_DECRYPT_STR_0("\15\188\235\184\23\162\200\181\22\188\232\181\2\176\225\143\17\175\224","\220\120\213\133")]=u2(0,220,0,22),[LUAOBFUSACTOR_DECRYPT_STR_0("\79\39\201\84\37\79\28\194\87\63\84\47\213\99\35\66\43","\74\56\78\167\48")]=u2(0,220,0,290),[LUAOBFUSACTOR_DECRYPT_STR_0("\230\9\63\212\5\4\43\208\25\51\212\41\5\52\235\14","\88\132\124\75\160\106\106")]=c3(0.0941177,0.317647,0.878431),[LUAOBFUSACTOR_DECRYPT_STR_0("\24\55\143\66\23\185\4\5\12\34\174\72\23\165\34","\96\116\86\237\39\123\202\80")]=c3(0.560784,0.560784,0.560784),[LUAOBFUSACTOR_DECRYPT_STR_0("\45\29\162\105\182\163\191\2\27\189\114\144","\207\65\116\209\29\226\204")]=c3(0,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\188\89\152\26\146\95\159\26\191\93\168\1\188\95\153","\110\208\48\235")]=c3(0.0705882,0.0705882,0.0705882)};local accessorylimbs={{[LUAOBFUSACTOR_DECRYPT_STR_0("\168\172\144\133\172\173","\237\197\201\227")]=LUAOBFUSACTOR_DECRYPT_STR_0("\234\114\77\40\246\97\40\234\112\74\46","\26\219\67\127\30\197\83"),[LUAOBFUSACTOR_DECRYPT_STR_0("\225\29\198\110\5\235\240\17\218","\153\149\120\190\26\112")]=LUAOBFUSACTOR_DECRYPT_STR_0("\93\68\152\246\121\162\175\78\94\64\154","\119\108\117\170\192\74\144\158"),[LUAOBFUSACTOR_DECRYPT_STR_0("\196\121","\65\135\73\225")]=angles(1.5707963267948966,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\49\82\92\165","\116\127\51\49\192")]=LUAOBFUSACTOR_DECRYPT_STR_0("\55\5\85\233\174\63\16\22","\98\123\96\51\157\142\126")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\192\251\181\198\47\201","\70\173\158\198\174")]=LUAOBFUSACTOR_DECRYPT_STR_0("\161\110\30\187\169\108\24\190\163\108\27","\142\144\95\47"),[LUAOBFUSACTOR_DECRYPT_STR_0("\3\40\72\26\2\63\85\7\19","\110\119\77\48")]=LUAOBFUSACTOR_DECRYPT_STR_0("\186\110\117\0\189\185\103\112\3\177\188","\132\139\95\68\53"),[LUAOBFUSACTOR_DECRYPT_STR_0("\223\120","\85\156\72\157")]=angles( -1.5707963267948966,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\85\51\112\36","\234\27\82\29\65\186\72")]=LUAOBFUSACTOR_DECRYPT_STR_0("\194\198\238\182\23\176\238\251\179","\99\144\175\137\222")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\93\113\159\9\48\65","\209\48\20\236\97\89\37")]=LUAOBFUSACTOR_DECRYPT_STR_0("\173\21\12\124\23\169\19\12\123\22\171","\34\156\33\62\73"),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\119\246\69\29\96\235\88\12","\49\104\18\142")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\210\181","\107\145\133\28")]=angles(1.5707963267948966,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\236\95\190\187","\222\162\62\211")]=LUAOBFUSACTOR_DECRYPT_STR_0("\143\116\8\15\113\162\216\174","\170\195\17\110\123\81\227")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\185\49\243\200\244\176","\157\212\84\128\160")]=LUAOBFUSACTOR_DECRYPT_STR_0("\216\39\178\16\115\221\188\145\219\39\183","\163\233\19\128\37\70\232\142"),[LUAOBFUSACTOR_DECRYPT_STR_0("\247\80\36\13\246\71\57\16\231","\121\131\53\92")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\93\156","\224\30\172\43")]=angles( -1.5707963267948966,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\43\166\114\219","\141\101\199\31\190")]=LUAOBFUSACTOR_DECRYPT_STR_0("\105\78\4\207\206\249\142\73\74","\207\59\39\99\167\186\217")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\10\67\168\90\65\249","\139\103\38\219\50\40\157\192")]=LUAOBFUSACTOR_DECRYPT_STR_0("\183\234\101\150\178\234\102\149\181\235\101","\162\134\216\86"),[LUAOBFUSACTOR_DECRYPT_STR_0("\42\234\79\77\37\80\244\166\58","\207\94\143\55\57\80\34\145")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\1\129","\217\66\177\67\26\208\59\119")]=angles(2,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\13\223\199\175","\152\67\190\170\202\48\138")]=LUAOBFUSACTOR_DECRYPT_STR_0("\247\44\83\228\155\8\71\253","\144\187\73\53")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\27\190\41\223\171\183","\211\118\219\90\183\194")]=LUAOBFUSACTOR_DECRYPT_STR_0("\169\255\219\191\14\163\168\251\222\190\13","\145\152\205\232\139\58"),[LUAOBFUSACTOR_DECRYPT_STR_0("\167\247\166\171\78\186\11\186\246","\110\211\146\222\223\59\200")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\112\4","\34\51\52\130\111")]=angles(2,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\224\52\53\198","\55\174\85\88\163\98\92")]=LUAOBFUSACTOR_DECRYPT_STR_0("\255\65\1\141\34\141\105\20\136","\86\173\40\102\229")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\9\161\92\133\13\160","\237\100\196\47")]=LUAOBFUSACTOR_DECRYPT_STR_0("\29\29\218\255\110\219\67\28\31\216\254","\116\44\44\235\202\87\232"),[LUAOBFUSACTOR_DECRYPT_STR_0("\23\210\78\49\23\160\247\10\211","\146\99\183\54\69\98\210")]=LUAOBFUSACTOR_DECRYPT_STR_0("\182\174\228\240\101\229\191\170\225\240\104","\215\135\159\213\197\92"),[LUAOBFUSACTOR_DECRYPT_STR_0("\144\245","\140\211\197\136")]=angles(1.5707963267948966,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\30\205\49\113","\172\80\172\92\20")]=LUAOBFUSACTOR_DECRYPT_STR_0("\50\127\215\12\48\229\198\143","\232\126\26\177\120\16\169\163")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\225\227\162\123\75\203","\214\140\134\209\19\34\175")]=LUAOBFUSACTOR_DECRYPT_STR_0("\5\117\254\255\6\112\255\248\7\126\241","\202\52\71\200"),[LUAOBFUSACTOR_DECRYPT_STR_0("\250\77\109\147\251\90\112\142\234","\231\142\40\21")]=LUAOBFUSACTOR_DECRYPT_STR_0("\33\96\147\95\0\84\131\37\98\151\91","\180\16\82\165\106\50\99"),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\5","\99\95\53\31\158")]=cf(0, -0.125,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\220\43\125\84","\49\146\74\16")]=LUAOBFUSACTOR_DECRYPT_STR_0("\214\88\141\82\150\164\125\143\93","\226\132\49\234\58")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\215\125\163\236\19\253","\56\186\24\208\132\122\153\114")]=LUAOBFUSACTOR_DECRYPT_STR_0("\146\66\119\7\218\149\78\116\8\213\154","\226\163\118\64\49"),[LUAOBFUSACTOR_DECRYPT_STR_0("\237\201\39\170\8\235\201\54\186","\125\153\172\95\222")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\88\150","\131\27\166\131\173\141\186")]=angles(0,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\221\114\74\34","\71\147\19\39")]=LUAOBFUSACTOR_DECRYPT_STR_0("\41\63\224\185\243\198\255\37","\66\101\90\134\205\211\138\154")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\17\73\106\164\140\35","\71\124\44\25\204\229")]=LUAOBFUSACTOR_DECRYPT_STR_0("\67\174\126\18\154\239\74\174\112\19\155","\217\114\154\73\36\162"),[LUAOBFUSACTOR_DECRYPT_STR_0("\40\160\162\185\20\154\5\53\161","\96\92\197\218\205\97\232")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\29\90","\159\94\106\220\237")]=angles(0,0,1.5707963267948966),[LUAOBFUSACTOR_DECRYPT_STR_0("\131\27\9\70","\35\205\122\100")]=LUAOBFUSACTOR_DECRYPT_STR_0("\144\80\0\79\182\25\43\66\165","\39\194\57\103")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\175\254\47\89\15\168","\174\194\155\92\49\102\204")]=LUAOBFUSACTOR_DECRYPT_STR_0("\149\220\14\33\223\156\184\146\219\13\46","\142\164\232\57\23\231\170"),[LUAOBFUSACTOR_DECRYPT_STR_0("\163\175\196\233\7\165\175\213\249","\114\215\202\188\157")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\18\245","\229\81\197\146\48\210\227\139")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\172\83\86\127","\54\226\50\59\26\179\155\61")]=LUAOBFUSACTOR_DECRYPT_STR_0("\254\49\42\75\16","\127\170\94\88\56")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\237\194\167\202\177\57","\198\128\167\212\162\216\93\153")]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\110\182\138\251\106\181\134\251\99\188","\190\202\90\132"),[LUAOBFUSACTOR_DECRYPT_STR_0("\147\220\107\195\183\52\130\208\119","\70\231\185\19\183\194")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\248\144","\211\187\160\132\196")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\2\129\226\248","\146\76\224\143\157\40\220")]=LUAOBFUSACTOR_DECRYPT_STR_0("\111\112\164\97\169","\158\59\31\214\18\198\89")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\80\12\84\2\84\13","\106\61\105\39")]=LUAOBFUSACTOR_DECRYPT_STR_0("\180\237\111\189\82\149\37\177\232\109\183","\18\133\222\91\143\99\162"),[LUAOBFUSACTOR_DECRYPT_STR_0("\99\58\180\74\204\46\70\219\115","\178\23\95\204\62\185\92\35")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\2\166","\61\65\150\191\150")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\100\212\132\188","\170\42\181\233\217\183\97")]=LUAOBFUSACTOR_DECRYPT_STR_0("\248\116\253\198\125","\43\172\27\143\181\18")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\222\44\180\177\116\215","\29\179\73\199\217")]=LUAOBFUSACTOR_DECRYPT_STR_0("\45\242\47\153\40\242\37\156\41\244","\173\25\193\29"),[LUAOBFUSACTOR_DECRYPT_STR_0("\78\117\79\11\184\24\211\113\94","\24\58\16\55\127\205\106\182")]=LUAOBFUSACTOR_DECRYPT_STR_0("\243\84\133\13\113\244\95\133\8\112","\64\199\103\183\57"),[LUAOBFUSACTOR_DECRYPT_STR_0("\7\31","\147\68\47\51\57")]=angles( -1.6144295580947547,1.5707963267948966,0) * cf( -0.125,0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\167\78\17\57","\32\233\47\124\92\230")]=LUAOBFUSACTOR_DECRYPT_STR_0("\167\68\132\175\252\239\235\134","\153\235\33\226\219\220\174")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\140\88\72\26\136\89","\114\225\61\59")]=LUAOBFUSACTOR_DECRYPT_STR_0("\136\34\113\217\136\36\112\218\136\38","\237\188\19\68"),[LUAOBFUSACTOR_DECRYPT_STR_0("\233\237\246\12\245\239\237\231\28","\128\157\136\142\120")]=LUAOBFUSACTOR_DECRYPT_STR_0("\230\84\208\10\250\158\6\165\226\82","\157\210\101\229\62\206\169\50"),[LUAOBFUSACTOR_DECRYPT_STR_0("\110\118","\173\45\70\47\210\121\200\121")]=angles(1.5271630954950384, -1.5707963267948966,0) * cf( -0.125, -0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\31\190\136\84","\49\81\223\229")]=LUAOBFUSACTOR_DECRYPT_STR_0("\30\131\191\225\114\167\171\248","\149\82\230\217")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\53\87\105\162\49\86","\202\88\50\26")]=LUAOBFUSACTOR_DECRYPT_STR_0("\102\41\181\135\208\3\99\41\181\129","\55\85\25\134\183\229"),[LUAOBFUSACTOR_DECRYPT_STR_0("\111\49\13\187\243\58\126\61\17","\72\27\84\117\207\134")]=LUAOBFUSACTOR_DECRYPT_STR_0("\252\144\1\109\92\14\212\106\255\149","\95\207\166\52\93\109\55\229"),[LUAOBFUSACTOR_DECRYPT_STR_0("\254\147","\205\189\163\70\226\136\86")]=angles(1.5271630954950384,1.5707963267948966,0) * cf(0.125, -0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\108\208\136\232","\139\34\177\229\141\112")]=LUAOBFUSACTOR_DECRYPT_STR_0("\17\228\127\188\196\99\204\106\185","\176\67\141\24\212")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\222\220\87\226\38\80","\141\179\185\36\138\79\52")]=LUAOBFUSACTOR_DECRYPT_STR_0("\168\107\12\243\174\111\9\243\168\109","\195\155\91\63"),[LUAOBFUSACTOR_DECRYPT_STR_0("\194\70\215\232\216\193\92\223\71","\57\182\35\175\156\173\179")]=LUAOBFUSACTOR_DECRYPT_STR_0("\142\246\237\140\92\86\233\143\246\224","\216\189\194\217\191\111\100"),[LUAOBFUSACTOR_DECRYPT_STR_0("\142\30","\42\205\46\33\20\80")]=angles( -1.6144295580947547, -1.5707963267948966,0) * cf(0.125,0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\127\9\36\178","\215\49\104\73")]=LUAOBFUSACTOR_DECRYPT_STR_0("\228\29\1\0\194\84\39\26\219","\104\182\116\102")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\43\237\239\233\183\60","\222\70\136\156\129\222\88")]=LUAOBFUSACTOR_DECRYPT_STR_0("\145\212\215\233\151\208\210\233\145\210","\217\162\228\228"),[LUAOBFUSACTOR_DECRYPT_STR_0("\186\216\215\204\187\207\202\209\170","\184\206\189\175")]=LUAOBFUSACTOR_DECRYPT_STR_0("\15\29\175\231\149\14\136\4\26\160","\188\60\46\153\215\172\57"),[LUAOBFUSACTOR_DECRYPT_STR_0("\55\161","\68\116\145\93\50\89")]=angles(1.5271630954950384,1.5707963267948966,0) * cf( -0.125, -0.35,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\129\89\167\166","\51\207\56\202\195\150")]=LUAOBFUSACTOR_DECRYPT_STR_0("\145\77\253\87\193\170\251\164","\195\221\40\155\35\225\230\158")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\203\120\213\81\241\6","\98\166\29\166\57\152")]=LUAOBFUSACTOR_DECRYPT_STR_0("\250\66\210\154\104\253\68\209\153\107","\93\201\114\225\170"),[LUAOBFUSACTOR_DECRYPT_STR_0("\248\229\227\252\96\165\192\231\232","\142\140\128\155\136\21\215\165")]=LUAOBFUSACTOR_DECRYPT_STR_0("\18\254\80\14\185\124\160\237\18\244","\218\33\205\102\62\128\75\152"),[LUAOBFUSACTOR_DECRYPT_STR_0("\215\43","\150\148\27\62\164")]=angles( -1.6144295580947547, -1.5707963267948966,0) * cf( -0.125,0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\12\232\231\197","\160\66\137\138")]=LUAOBFUSACTOR_DECRYPT_STR_0("\44\198\36\171\127\198\79\119","\16\96\163\66\223\95\138\42")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\141\209\194\6\211\13","\105\224\180\177\110\186")]=LUAOBFUSACTOR_DECRYPT_STR_0("\242\90\241\18\117\8\109\247\242\92","\199\193\106\194\34\64\60\91"),[LUAOBFUSACTOR_DECRYPT_STR_0("\43\179\20\178\42\164\9\175\59","\198\95\214\108")]=LUAOBFUSACTOR_DECRYPT_STR_0("\73\109\249\211\177\85\162\98\78\108","\85\122\93\202\224\137\108\154"),[LUAOBFUSACTOR_DECRYPT_STR_0("\167\0","\204\228\48\50\203\163")]=angles(1.5271630954950384, -1.5707963267948966,0) * cf(0.125, -0.35,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\240\182\68\162","\88\190\215\41\199\111\47\181")]=LUAOBFUSACTOR_DECRYPT_STR_0("\102\62\75\65\100\129\242\81\48","\190\52\87\44\41\16\161")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\78\19\20\188\18\37","\124\35\118\103\212\123\65")]=LUAOBFUSACTOR_DECRYPT_STR_0("\111\187\255\239\43\8\106\187\255\233","\60\92\139\204\223\30"),[LUAOBFUSACTOR_DECRYPT_STR_0("\50\24\247\153\208\52\24\230\137","\165\70\125\143\237")]=LUAOBFUSACTOR_DECRYPT_STR_0("\231\111\165\29\6\228\111\172\29\3","\48\212\91\149\36"),[LUAOBFUSACTOR_DECRYPT_STR_0("\103\78","\100\36\126\90")]=angles( -1.6144295580947547,1.5707963267948966,0) * cf(0.125,0.3,0) ,[LUAOBFUSACTOR_DECRYPT_STR_0("\63\197\218\88","\82\113\164\183\61\118\113\82")]=LUAOBFUSACTOR_DECRYPT_STR_0("\201\75\246\191\176\143\198\254\69","\138\155\34\145\215\196\175")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\185\252\29\202\0\63","\160\212\153\110\162\105\91\61")]=LUAOBFUSACTOR_DECRYPT_STR_0("\244\96\251\134\247\106\250\140\241\110","\191\192\88\202"),[LUAOBFUSACTOR_DECRYPT_STR_0("\101\200\241\10\29\222\116\196\237","\172\17\173\137\126\104")]=LUAOBFUSACTOR_DECRYPT_STR_0("\137\36\124\110\129\177\74\138\43\123","\120\189\28\77\87\182\131"),[LUAOBFUSACTOR_DECRYPT_STR_0("\239\125","\183\172\77\113\144\114\152")]=angles(0,0,0.2617993877991494),[LUAOBFUSACTOR_DECRYPT_STR_0("\211\121\53\236","\109\157\24\88\137\34\165")]=LUAOBFUSACTOR_DECRYPT_STR_0("\156\78\174\83\189","\231\200\33\220\32\210\93")}};local i1=i(LUAOBFUSACTOR_DECRYPT_STR_0("\122\74\71\224\50","\87\60\56\38\141"));local i2=i(LUAOBFUSACTOR_DECRYPT_STR_0("\230\183\11\55\197","\90\160\197\106"));local i3=i(LUAOBFUSACTOR_DECRYPT_STR_0("\208\182\56\121\78\239\188\36\113\100\241\180\39\115","\34\131\213\74\22"));local i4=i(LUAOBFUSACTOR_DECRYPT_STR_0("\5\144\58\57\35\173\58\49\41\182\3\36","\80\80\217\118"));local i5=i(LUAOBFUSACTOR_DECRYPT_STR_0("\48\97\44\111\4\76\2\120\11\92","\29\101\40\107"));local i6=i(LUAOBFUSACTOR_DECRYPT_STR_0("\241\240\200\167\63\202\237","\125\165\149\176\211"));local i7=i(LUAOBFUSACTOR_DECRYPT_STR_0("\125\6\50\245\167\92\23\62\238\139","\229\41\99\74\129"));local i8=i(LUAOBFUSACTOR_DECRYPT_STR_0("\6\44\198\57\50\1\232\46\61\17","\75\83\101\129"));local i9=i(LUAOBFUSACTOR_DECRYPT_STR_0("\193\72\83\213\247\69\102\197\251","\176\146\43\33"));i1.AnchorPoint=v2(0.5,0);i1.BackgroundColor3=c3(1,1,1);i1.BorderSizePixel=0;i1.Position=u2(0.5,0,0.5, -150);i1.Size=guiTheme.windowRegularSize;i1.Name=rs();i1.Parent=i9;i2.BackgroundColor3=c3(1,1,1);i2.BorderSizePixel=0;i2.Position=u2(0,5,0,20);i2.Size=u2(1, -10,1, -25);i2.Name=rs();i2.Parent=i1;i3.Active=true;i3.BackgroundTransparency=1;i3.BorderSizePixel=0;i3.Size=u2(1, -3,1,0);i3.AutomaticCanvasSize=e.AutomaticSize.Y;i3.CanvasSize=u2(0,0,0,0);i3.ScrollBarThickness=7;i3.Name=rs();i3.Parent=i2;i4.Name=rs();i4.Parent=i3;i4.SortOrder=e.SortOrder.LayoutOrder;i5.Name=rs();i5.Parent=i2;i5.Color=cs({[1]=csk(0,guiTheme.listTopColor),[2]=csk(1,guiTheme.listBottomColor)});i5.Rotation=90;i6.Font=e.Font.SourceSans;i6.FontSize=e.FontSize.Size18;i6.ClearTextOnFocus=false;i6.Text=guiTheme.guiTitle;i6.TextColor3=guiTheme.windowTitleColor;i6.TextSize=16;i6.AnchorPoint=v2(0.5,0);i6.BackgroundTransparency=1;i6.Position=u2(0.5,0,0,11);i6.Name=rs();i6.Parent=i1;i7.AnchorPoint=v2(1,0);i7.BackgroundTransparency=1;i7.Position=u2(1,0,0,0);i7.Size=u2(0,40,0,20);i7.Name=rs();i7.Parent=i1;i7.Font=e.Font.SourceSans;i7.FontSize=e.FontSize.Size18;i7.Text="-";i7.TextColor3=c3(1,1,1);i7.TextSize=16;i8.Name=rs();i8.Parent=i1;i8.Color=cs({[1]=csk(0,guiTheme.windowTopColor),[2]=csk(1,guiTheme.windowBottomColor)});i8.Rotation=90;i9.ZIndexBehavior=e.ZIndexBehavior.Sibling;i9.IgnoreGuiInset=true;i9.ResetOnSpawn=false;i9.DisplayOrder=2147483647;i9.Name=rs();local min=false;i7.MouseButton1Click:Connect(function() local FlatIdent_1691A=0;local FlatIdent_4D83A;while true do if (FlatIdent_1691A==0) then FlatIdent_4D83A=0;while true do if (FlatIdent_4D83A==0) then min= not min;if min then local FlatIdent_22A5C=0;local FlatIdent_2172B;while true do if (0==FlatIdent_22A5C) then FlatIdent_2172B=0;while true do if (FlatIdent_2172B==1) then i1.Size=guiTheme.windowMinimizedSize;break;end if (0==FlatIdent_2172B) then local FlatIdent_21E03=0;while true do if (FlatIdent_21E03==1) then FlatIdent_2172B=1;break;end if (FlatIdent_21E03==0) then i2.Visible=false;i8.Color=cs({[1]=csk(0,c3(0,0,0)),[2]=csk(1,c3(0,0,0))});FlatIdent_21E03=1;end end end end break;end end else local FlatIdent_22211=0;local FlatIdent_956D;while true do if (FlatIdent_22211==0) then FlatIdent_956D=0;while true do if (FlatIdent_956D==1) then i2.Visible=true;break;end if (FlatIdent_956D==0) then local FlatIdent_18623=0;while true do if (FlatIdent_18623==1) then FlatIdent_956D=1;break;end if (FlatIdent_18623==0) then i1.Size=guiTheme.windowRegularSize;i8.Color=cs({[1]=csk(0,c3(0,0,0)),[2]=csk(1,c3(0,0,0.584314))});FlatIdent_18623=1;end end end end break;end end end break;end end break;end end end);local function Draggable(window,obj) local MB1enum=e.UserInputType.MouseButton1;local TOUCHenum=e.UserInputType.Touch;obj=obj or window ;local activeEntered=0;local mouseStart=nil;local dragStart=nil;local inputbegancon=nil;local rendersteppedcon=nil;local inputendedcon=nil;local function inputendedf(a) local FlatIdent_63076=0;local FlatIdent_512FF;while true do if (FlatIdent_63076==0) then FlatIdent_512FF=0;while true do if (FlatIdent_512FF==0) then a=a.UserInputType;if ((a==MB1enum) or (a==TOUCHenum)) then local FlatIdent_9CE3=0;local FlatIdent_829F9;while true do if (0==FlatIdent_9CE3) then FlatIdent_829F9=0;while true do if (FlatIdent_829F9==0) then rendersteppedcon:Disconnect();inputendedcon:Disconnect();break;end end break;end end end break;end end break;end end end local function rendersteppedf() local FlatIdent_58E6A=0;local off;while true do if (FlatIdent_58E6A==0) then off=uis:GetMouseLocation() -mouseStart ;window.Position=dragStart + u2(0,off.X,0,off.Y) ;break;end end end local function inputbeganf(a) local FlatIdent_4D11E=0;local FlatIdent_89562;while true do if (FlatIdent_4D11E==0) then FlatIdent_89562=0;while true do if (FlatIdent_89562==0) then a=a.UserInputType;if (((a==MB1enum) or (a==TOUCHenum)) and (activeEntered==0) and  not uis:GetFocusedTextBox()) then local FlatIdent_4F2F2=0;local FlatIdent_10DED;while true do if (FlatIdent_4F2F2==0) then FlatIdent_10DED=0;while true do if (2==FlatIdent_10DED) then if inputendedcon then inputendedcon:Disconnect();end inputendedcon=uis.InputEnded:Connect(inputendedf);break;end if (FlatIdent_10DED==1) then local FlatIdent_7C57C=0;while true do if (FlatIdent_7C57C==1) then FlatIdent_10DED=2;break;end if (FlatIdent_7C57C==0) then if rendersteppedcon then rendersteppedcon:Disconnect();end rendersteppedcon=renderstepped:Connect(rendersteppedf);FlatIdent_7C57C=1;end end end if (FlatIdent_10DED==0) then local FlatIdent_74B46=0;while true do if (FlatIdent_74B46==1) then FlatIdent_10DED=1;break;end if (FlatIdent_74B46==0) then mouseStart=uis:GetMouseLocation();dragStart=window.Position;FlatIdent_74B46=1;end end end end break;end end end break;end end break;end end end obj.MouseEnter:Connect(function() local FlatIdent_145D2=0;while true do if (FlatIdent_145D2==0) then if inputbegancon then inputbegancon:Disconnect();end inputbegancon=uis.InputBegan:Connect(inputbeganf);break;end end end);obj.MouseLeave:Connect(function() inputbegancon:Disconnect();end);local function ondes(d) if d:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\143\200\248\62\172\113\173\222\229","\27\200\189\145\113\206")) then local FlatIdent_6D884=0;local thisEntered;local thisAdded;local con0;local con1;local con2;local con3;while true do if (FlatIdent_6D884==1) then con0=d.MouseEnter:Connect(function() local FlatIdent_17AE1=0;local FlatIdent_46B28;while true do if (0==FlatIdent_17AE1) then FlatIdent_46B28=0;while true do if (FlatIdent_46B28==0) then thisEntered=true;if ( not thisAdded and d.Active) then local FlatIdent_163A8=0;while true do if (FlatIdent_163A8==0) then activeEntered=activeEntered + 1 ;thisAdded=true;break;end end end break;end end break;end end end);con1=d.MouseLeave:Connect(function() local FlatIdent_7993F=0;while true do if (FlatIdent_7993F==0) then thisEntered=false;if thisAdded then local FlatIdent_7BF4E=0;local FlatIdent_1D164;while true do if (FlatIdent_7BF4E==0) then FlatIdent_1D164=0;while true do if (0==FlatIdent_1D164) then activeEntered=activeEntered-1 ;thisAdded=false;break;end end break;end end end break;end end end);FlatIdent_6D884=2;end if (FlatIdent_6D884==2) then local FlatIdent_47EEF=0;while true do if (FlatIdent_47EEF==1) then FlatIdent_6D884=3;break;end if (FlatIdent_47EEF==0) then con2=d:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\129\136\70\162\89\165","\47\192\235\50\203")):Connect(function() if thisEntered then if (thisAdded and  not d.Active) then activeEntered=activeEntered-1 ;thisAdded=false;elseif (d.Active and  not thisAdded) then local FlatIdent_2B986=0;local FlatIdent_1DFAF;while true do if (FlatIdent_2B986==0) then FlatIdent_1DFAF=0;while true do if (FlatIdent_1DFAF==0) then activeEntered=activeEntered + 1 ;thisAdded=true;break;end end break;end end end end end);con3=nil;FlatIdent_47EEF=1;end end end if (0==FlatIdent_6D884) then thisEntered=false;thisAdded=false;FlatIdent_6D884=1;end if (FlatIdent_6D884==3) then con3=d.AncestryChanged:Connect(function() if  not d:IsDescendantOf(window) then local FlatIdent_89126=0;local FlatIdent_88CD8;while true do if (FlatIdent_89126==0) then FlatIdent_88CD8=0;while true do if (FlatIdent_88CD8==2) then con3:Disconnect();break;end if (FlatIdent_88CD8==1) then con1:Disconnect();con2:Disconnect();FlatIdent_88CD8=2;end if (FlatIdent_88CD8==0) then local FlatIdent_15354=0;while true do if (FlatIdent_15354==0) then if thisEntered then activeEntered=activeEntered-1 ;end con0:Disconnect();FlatIdent_15354=1;end if (FlatIdent_15354==1) then FlatIdent_88CD8=1;break;end end end end break;end end end end);break;end end end end window.DescendantAdded:Connect(ondes);local des=window:GetDescendants();for i=1, #des do ondes(des[i]);end end local function btn(txt,f) local FlatIdent_3DB0F=0;local FlatIdent_699E4;local i1;local i2;while true do if (FlatIdent_3DB0F==0) then FlatIdent_699E4=0;i1=nil;FlatIdent_3DB0F=1;end if (1==FlatIdent_3DB0F) then i2=nil;while true do local FlatIdent_3EA75=0;while true do if (FlatIdent_3EA75==0) then if (FlatIdent_699E4==0) then local FlatIdent_437D4=0;while true do if (2==FlatIdent_437D4) then FlatIdent_699E4=1;break;end if (FlatIdent_437D4==0) then i1=i(LUAOBFUSACTOR_DECRYPT_STR_0("\20\194\2\197\206\211\172","\233\64\167\122\177\140\188\212"));i2=i(LUAOBFUSACTOR_DECRYPT_STR_0("\123\113\238\84\201\169\228\91\123\248","\144\47\20\150\32\139\220"));FlatIdent_437D4=1;end if (FlatIdent_437D4==1) then i1.Font=e.Font.SourceSans;i1.FontSize=e.FontSize.Size14;FlatIdent_437D4=2;end end end if (FlatIdent_699E4==2) then i1.Name=rs();i1.Parent=i2;i2.BackgroundTransparency=1;i2.TextTransparency=1;FlatIdent_699E4=3;end FlatIdent_3EA75=1;end if (FlatIdent_3EA75==1) then if (FlatIdent_699E4==1) then i1.Text=txt;i1.ClearTextOnFocus=false;i1.Position=u2(0.5,0,0.5,0);i1.TextColor3=guiTheme.buttonsTextColor;FlatIdent_699E4=2;end if (FlatIdent_699E4==3) then i2.Size=u2(1,0,0,14);i2.Name=rs();if f then i2.MouseButton1Click:Connect(f);end i2.Parent=i3;FlatIdent_699E4=4;end FlatIdent_3EA75=2;end if (2==FlatIdent_3EA75) then if (4==FlatIdent_699E4) then return i1;end break;end end end break;end end end local function lbl(txt) local FlatIdent_280F1=0;local FlatIdent_98327;local i1;local i2;while true do if (FlatIdent_280F1==1) then i2=nil;while true do local FlatIdent_95405=0;while true do if (1==FlatIdent_95405) then if (FlatIdent_98327==3) then local FlatIdent_58A9D=0;while true do if (0==FlatIdent_58A9D) then i1.Name=rs();i1.Parent=i2;FlatIdent_58A9D=1;end if (1==FlatIdent_58A9D) then i2.Size=u2(1,0,0,14);FlatIdent_98327=4;break;end end end if (FlatIdent_98327==2) then local FlatIdent_37E3=0;while true do if (FlatIdent_37E3==0) then i1.TextColor3=guiTheme.labelsTextColor;i1.Position=u2(0.5,0,0.5);FlatIdent_37E3=1;end if (FlatIdent_37E3==1) then i1.BackgroundTransparency=1;FlatIdent_98327=3;break;end end end FlatIdent_95405=2;end if (FlatIdent_95405==0) then if (FlatIdent_98327==1) then local FlatIdent_480B4=0;while true do if (1==FlatIdent_480B4) then i1.ClearTextOnFocus=false;FlatIdent_98327=2;break;end if (FlatIdent_480B4==0) then i1.FontSize=e.FontSize.Size14;i1.Text=txt;FlatIdent_480B4=1;end end end if (FlatIdent_98327==4) then local FlatIdent_31791=0;while true do if (FlatIdent_31791==0) then i2.BackgroundTransparency=1;i2.Name=rs();FlatIdent_31791=1;end if (1==FlatIdent_31791) then i2.Parent=i3;FlatIdent_98327=5;break;end end end FlatIdent_95405=1;end if (2==FlatIdent_95405) then if (FlatIdent_98327==5) then return i1;end if (0==FlatIdent_98327) then local FlatIdent_511F5=0;while true do if (FlatIdent_511F5==1) then i1.Font=e.Font.SourceSans;FlatIdent_98327=1;break;end if (0==FlatIdent_511F5) then i1=i(LUAOBFUSACTOR_DECRYPT_STR_0("\4\39\165\237\248\143\252","\132\80\66\221\153\186\224"));i2=i(LUAOBFUSACTOR_DECRYPT_STR_0("\96\189\37\26\190","\219\38\207\68\119"));FlatIdent_511F5=1;end end end break;end end end break;end if (FlatIdent_280F1==0) then FlatIdent_98327=0;i1=nil;FlatIdent_280F1=1;end end end Draggable(i1);lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\15\15\74\28\12\187\2\4\6\53","\236\109\118\106\81\117"));lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\225\60\209\111\171\235\53\201\61\186\173\38\207\111\161\239\37\207\32\187\254\63\223","\206\141\83\166\79"));local allowshiftlock=nil;local ctrltp=nil;local placeholders=nil;local clickfling=nil;local highlightflingtargets=nil;local claimwait=nil;local discharscripts=nil;local disguiscripts=nil;local stopreanimate=function() return nil;end;local function reanimate() local novoid=true;local placeholders=placeholders;local speedlimit=3000;local retVelTime=0.51;local walkSpeed=16;local jumpPower=50;local allowshiftlock=allowshiftlock;local gravity=196.2;local ctrlclicktp=ctrltp;local clickfling=clickfling;local flingvel=v3(15000,16000,15000);local highlightflingtargets=highlightflingtargets;local c=lp.Character;if (stopreanimate() or  not (c and c:IsDescendantOf(ws))) then return;end local rootpart=gp(c,LUAOBFUSACTOR_DECRYPT_STR_0("\197\188\208\203\240\226\160\217\248\241\226\189\237\203\236\249","\158\141\201\189\170"),LUAOBFUSACTOR_DECRYPT_STR_0("\53\177\234\190\125\22\162\237","\45\119\208\153\219")) or gp(c,LUAOBFUSACTOR_DECRYPT_STR_0("\224\86\182\6\28","\115\180\57\196\117"),LUAOBFUSACTOR_DECRYPT_STR_0("\16\125\67\241\96\197\56\212","\160\82\28\48\148\48\164\74")) or gp(c,LUAOBFUSACTOR_DECRYPT_STR_0("\246\192\173\35\40\57\204\194\174\41","\109\163\176\221\70\90"),LUAOBFUSACTOR_DECRYPT_STR_0("\240\64\36\81\67\51\192\85","\82\178\33\87\52\19")) or timegp(c,LUAOBFUSACTOR_DECRYPT_STR_0("\100\183\229\123\114\67\171\236\72\115\67\182\216\123\110\88","\28\44\194\136\26"),LUAOBFUSACTOR_DECRYPT_STR_0("\94\120\84\3\70\139\73\218","\174\28\25\39\102\22\234\59"),0.5) or c:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\235\72\3\221\254\135\219\93","\230\169\41\112\184\174")) ;if  not rootpart then return;end local cam=nil;local function refcam() local FlatIdent_33F65=0;local FlatIdent_22A5C;while true do if (FlatIdent_33F65==0) then FlatIdent_22A5C=0;while true do if (0==FlatIdent_22A5C) then cam=ws.CurrentCamera;while  not cam do local FlatIdent_81DE9=0;local FlatIdent_52EE1;while true do if (FlatIdent_81DE9==0) then FlatIdent_52EE1=0;while true do if (FlatIdent_52EE1==0) then ws:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\233\209\103\172\23\26\199\108\203\201\112\172\19","\47\170\164\21\222\114\116\179")):Wait();cam=ws.CurrentCamera;break;end end break;end end end break;end end break;end end end refcam();local camcf=cam.CFrame;local enumCamS=e.CameraType.Scriptable;local camt=cam.CameraType;local camcon0=nil;local camcon1=nil;local function onnewcamera() local FlatIdent_51516=0;local FlatIdent_2DB3E;local subj;while true do if (FlatIdent_51516==1) then while true do if (FlatIdent_2DB3E==1) then local FlatIdent_185A5=0;while true do if (FlatIdent_185A5==1) then FlatIdent_2DB3E=2;break;end if (0==FlatIdent_185A5) then if  not c then local FlatIdent_95314=0;local FlatIdent_589FE;while true do if (FlatIdent_95314==0) then FlatIdent_589FE=0;while true do if (FlatIdent_589FE==0) then local FlatIdent_3165E=0;while true do if (0==FlatIdent_3165E) then if (cam.CameraType==enumCamS) then cam.CameraType=camt;end return camcon1:Disconnect();end end end end break;end end end camcon0=cam.Changed:Connect(function(p) local FlatIdent_696E1=0;local FlatIdent_8A8EC;while true do if (FlatIdent_696E1==0) then FlatIdent_8A8EC=0;while true do if (0==FlatIdent_8A8EC) then if  not c then local FlatIdent_C364=0;local FlatIdent_253F0;while true do if (0==FlatIdent_C364) then FlatIdent_253F0=0;while true do if (0==FlatIdent_253F0) then local FlatIdent_79F35=0;while true do if (FlatIdent_79F35==0) then camcon0:Disconnect();return camcon1:Disconnect();end end end end break;end end end if ((p==LUAOBFUSACTOR_DECRYPT_STR_0("\222\161\159\215\240\130","\182\157\231\237")) and (cam.CFrame~=camcf)) then cam.CFrame=camcf;elseif ((p==LUAOBFUSACTOR_DECRYPT_STR_0("\214\251\1\165\231\251\63\181\247\240\9\163\225","\192\149\154\108")) or (p==LUAOBFUSACTOR_DECRYPT_STR_0("\218\248\234\37\47\55\53\224\233\226","\97\153\153\135\64\93\86"))) then local FlatIdent_7618=0;local FlatIdent_810B1;local subj;while true do if (FlatIdent_7618==0) then FlatIdent_810B1=0;subj=nil;FlatIdent_7618=1;end if (FlatIdent_7618==1) then while true do if (FlatIdent_810B1==0) then subj=cam.CameraSubject;if (subj and subj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\46\75\223\41\247\38\130\221","\185\102\62\178\72\153\73\235")) and (subj.Parent==c) and (cam.CameraType~=enumCamS)) then cam.CameraType=enumCamS;end break;end end break;end end end break;end end break;end end end);FlatIdent_185A5=1;end end end if (FlatIdent_2DB3E==0) then local FlatIdent_C758=0;while true do if (FlatIdent_C758==0) then refcam();if camcon0 then local FlatIdent_6B92D=0;local FlatIdent_669F5;while true do if (FlatIdent_6B92D==0) then FlatIdent_669F5=0;while true do if (FlatIdent_669F5==0) then camcon0:Disconnect();camcon0=nil;break;end end break;end end end FlatIdent_C758=1;end if (FlatIdent_C758==1) then FlatIdent_2DB3E=1;break;end end end if (2==FlatIdent_2DB3E) then local FlatIdent_2F3FA=0;while true do if (FlatIdent_2F3FA==0) then subj=cam.CameraSubject;if (subj and subj:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\92\175\38\179\122\181\34\182","\210\20\218\75")) and (subj.Parent==c) and (cam.CameraType~=enumCamS)) then cam.CameraType=enumCamS;end FlatIdent_2F3FA=1;end if (1==FlatIdent_2F3FA) then FlatIdent_2DB3E=3;break;end end end if (FlatIdent_2DB3E==3) then cam.CFrame=camcf;break;end end break;end if (0==FlatIdent_51516) then FlatIdent_2DB3E=0;subj=nil;FlatIdent_51516=1;end end end camcon1=ws:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\171\232\21\97\89\23\32\171\252\10\118\78\24","\84\232\157\103\19\60\121")):Connect(onnewcamera);onnewcamera();local rGravity=ws.Gravity;ws:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\59\97\115\85\21\103\107","\35\124\19\18")):Connect(function() rGravity=ws.Gravity;end);local fpdh=ws.FallenPartsDestroyHeight;novoid=novoid and (fpdh + 1) ;local function getMeshOfPart(v) local FlatIdent_679D2=0;while true do if (FlatIdent_679D2==0) then if (typeof(v)==LUAOBFUSACTOR_DECRYPT_STR_0("\205\93\7\210\86\234\80\17","\55\132\51\116\166")) then if v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\229\57\174\124\52\63\239\220","\157\168\92\221\20\100\94")) then return v.MeshId,v.TextureID;else local FlatIdent_2B407=0;while true do if (FlatIdent_2B407==0) then v=v:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\251\193\240\28\19\216\122\229\212\230\23","\22\168\177\149\127\122\185"));if v then return v.MeshId,v.TextureId;end break;end end end end return nil,nil;end end end local Yvel=0;local cfr=rootpart.CFrame;local pos=cfr.Position;local primarypart=nil;local shiftlock=false;local firstperson=false;local xzvel=v3_0;local v3_0150=v3_010 * 1.5 ;local camoff=cf(v3_0,camcf.LookVector);camoff=camoff-(v3_001 * (camcf.Position-(pos + v3_0150)).Magnitude) ;local R6parts={[LUAOBFUSACTOR_DECRYPT_STR_0("\191\162\59\78","\159\215\199\90\42")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\28\206\195\35","\147\82\175\174\70")]=LUAOBFUSACTOR_DECRYPT_STR_0("\63\135\12\56","\33\119\226\109\92")},[LUAOBFUSACTOR_DECRYPT_STR_0("\174\137\104\234\244","\155\218\230\26\153")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\56\19\22\198","\163\118\114\123")]=LUAOBFUSACTOR_DECRYPT_STR_0("\214\233\226\163\186","\213\130\134\144\208")},[LUAOBFUSACTOR_DECRYPT_STR_0("\233\51\18\32","\73\155\92\125\84\37\25\61")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\111\195\224\214","\46\33\162\141\179")]=LUAOBFUSACTOR_DECRYPT_STR_0("\116\185\160\60\38\83\165\169\15\39\83\184\157\60\58\72","\72\60\204\205\93")},[LUAOBFUSACTOR_DECRYPT_STR_0("\168\193\196\160\105\60\169","\78\196\164\162\212\40")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\117\204\196\91","\199\59\173\169\62\146\169\192")]=LUAOBFUSACTOR_DECRYPT_STR_0("\27\160\186\183\119\132\174\174","\195\87\197\220")},[LUAOBFUSACTOR_DECRYPT_STR_0("\163\248\166\187\193\93\238\57","\84\209\145\193\211\181\28\156")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\255\226\35\141","\167\177\131\78\232")]=LUAOBFUSACTOR_DECRYPT_STR_0("\154\4\140\79\16\8\47\215\165","\165\200\109\235\39\100\40\110")},[LUAOBFUSACTOR_DECRYPT_STR_0("\133\127\231\60\63\140\125","\115\233\26\129\72")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\86\15\218\130","\132\24\110\183\231")]=LUAOBFUSACTOR_DECRYPT_STR_0("\130\116\6\167\26\152\115\68","\35\206\17\96\211\58\212\22")},[LUAOBFUSACTOR_DECRYPT_STR_0("\33\199\142\49\156\148\173\206","\169\83\174\233\89\232\216\200")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\114\19\86\56","\118\60\114\59\93\216\171\137")]=LUAOBFUSACTOR_DECRYPT_STR_0("\96\192\67\236\168\18\229\65\227","\220\50\169\36\132")}};rootpart=R6parts.root;local cframes={};for i,v in pairs(R6parts) do cframes[v]=cfr;end local joints={{[LUAOBFUSACTOR_DECRYPT_STR_0("\223\134\1\180","\209\145\231\108")]=LUAOBFUSACTOR_DECRYPT_STR_0("\119\36\11\6","\66\57\65\104\109\184\165"),[LUAOBFUSACTOR_DECRYPT_STR_0("\141\10\232\74\181","\133\221\107\154\62")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\235\31\167\245\22","\81\187\126\213\129\39\162")]=R6parts.head,[LUAOBFUSACTOR_DECRYPT_STR_0("\166\225","\196\229\209\77\148")]=cf(0,1,0, -1,0,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\10\133","\173\39\181\17\124\61\146")),[LUAOBFUSACTOR_DECRYPT_STR_0("\89\141","\232\26\188\147\66")]=cf(0, -0.5,0, -1,0,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\88\177","\19\117\129\134\123"))},{[LUAOBFUSACTOR_DECRYPT_STR_0("\13\2\196\19","\67\67\99\169\118\84")]=LUAOBFUSACTOR_DECRYPT_STR_0("\48\37\234\91\121\185\240\184\22","\214\98\74\133\47\51\214\153"),[LUAOBFUSACTOR_DECRYPT_STR_0("\58\79\98\96\35","\55\106\46\16\20\19")]=rootpart,[LUAOBFUSACTOR_DECRYPT_STR_0("\121\186\160\36\103","\115\41\219\210\80\86\94")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\131\25","\91\192\41\137\122\178")]=cf(0,0,0, -1,0,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\26\117","\136\55\69\170")),[LUAOBFUSACTOR_DECRYPT_STR_0("\192\172","\173\131\157\112\90\182\147\77")]=cf(0,0,0, -1,0,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\87\70","\103\122\118\64"))},{[LUAOBFUSACTOR_DECRYPT_STR_0("\222\233\29\193","\221\144\136\112\164\144")]=LUAOBFUSACTOR_DECRYPT_STR_0("\107\52\126\172\77\125\74\172\86\40\117\160\92\47","\196\57\93\25"),[LUAOBFUSACTOR_DECRYPT_STR_0("\250\77\162\145\31","\47\170\44\208\229")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\120\67\172\14\74","\87\40\34\222\122\123\135")]=R6parts.rightArm,[LUAOBFUSACTOR_DECRYPT_STR_0("\98\109","\176\33\93\225\85\161")]=cf(1,0.5,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\239\73","\25\194\121\237\180"), -1,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\151\230","\42\212\215\89\79\102")]=cf( -0.5,0.5,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\250\1","\151\215\49\68\112\175\46\39"), -1,0,0)},{[LUAOBFUSACTOR_DECRYPT_STR_0("\104\124\187\73","\237\38\29\214\44")]=LUAOBFUSACTOR_DECRYPT_STR_0("\58\35\113\18\51\117\189\142\3\42\115\3\97","\225\118\70\23\102\19\38\213"),[LUAOBFUSACTOR_DECRYPT_STR_0("\16\91\79\54\9","\208\64\58\61\66\57\148")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\217\191\180\80\184","\36\137\222\198")]=R6parts.leftArm,[LUAOBFUSACTOR_DECRYPT_STR_0("\194\164","\41\129\148\130\66\168\194\98")]=cf( -1,0.5,0,0,0, -1,0,1,0,1,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\50\123","\204\113\74\225\112\35\72\16")]=cf(0.5,0.5,0,0,0, -1,0,1,0,1,0,0)},{[LUAOBFUSACTOR_DECRYPT_STR_0("\95\31\12\37","\128\17\126\97\64\132\223\211")]=LUAOBFUSACTOR_DECRYPT_STR_0("\136\143\58\0\174\198\21\1\170","\104\218\230\93"),[LUAOBFUSACTOR_DECRYPT_STR_0("\67\61\192\98\35","\22\19\92\178")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\238\10\81\58\236","\209\190\107\35\78\221")]=R6parts.rightLeg,[LUAOBFUSACTOR_DECRYPT_STR_0("\163\126","\182\224\78\182\129")]=cf(1, -1,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\160\93","\36\141\109\197\110\182\80\31"), -1,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\192\91","\92\131\106\118\231\126")]=cf(0.5,1,0,0,0,1,0,1,LUAOBFUSACTOR_DECRYPT_STR_0("\240\19","\67\221\35\94\197"), -1,0,0)},{[LUAOBFUSACTOR_DECRYPT_STR_0("\107\189\45\95","\58\37\220\64")]=LUAOBFUSACTOR_DECRYPT_STR_0("\240\137\242\24\244\132\213\156","\204\188\236\148\108\212"),[LUAOBFUSACTOR_DECRYPT_STR_0("\238\221\77\231\164","\210\190\188\63\147\148\114\97")]=R6parts.torso,[LUAOBFUSACTOR_DECRYPT_STR_0("\133\199\183\144\64","\113\213\166\197\228")]=R6parts.leftLeg,[LUAOBFUSACTOR_DECRYPT_STR_0("\238\110","\129\173\94\162\51\42\229\99")]=cf( -1, -1,0,0,0, -1,0,1,0,1,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\126\101","\214\61\84\114\81")]=cf( -0.5,1,0,0,0, -1,0,1,0,1,0,0)}};local refreshedjoints={};local refreshjoints=nil;function refreshjoints(part) local FlatIdent_7EE98=0;local FlatIdent_523B3;while true do if (FlatIdent_7EE98==0) then FlatIdent_523B3=0;while true do if (FlatIdent_523B3==0) then tinsert(refreshedjoints,part);for i,v in pairs(joints) do local FlatIdent_285D=0;local FlatIdent_74B46;local part0;local part1;while true do if (FlatIdent_285D==0) then FlatIdent_74B46=0;part0=nil;FlatIdent_285D=1;end if (FlatIdent_285D==1) then part1=nil;while true do if (FlatIdent_74B46==1) then if (part1 and (part0==part)) then local FlatIdent_698EE=0;local FlatIdent_3E44E;while true do if (FlatIdent_698EE==0) then FlatIdent_3E44E=0;while true do if (FlatIdent_3E44E==0) then cframes[part1]=cframes[part] * v.C0 * v.C1:Inverse() ;if  not tfind(refreshedjoints,part1) then refreshjoints(part1);end break;end end break;end end elseif (part0 and (part1==part)) then local FlatIdent_14A6D=0;while true do if (FlatIdent_14A6D==0) then cframes[part0]=cframes[part] * v.C1 * v.C0:Inverse() ;if  not tfind(refreshedjoints,part0) then refreshjoints(part0);end break;end end end break;end if (FlatIdent_74B46==0) then local FlatIdent_86887=0;while true do if (FlatIdent_86887==0) then part0=v.Part0;part1=v.Part1;FlatIdent_86887=1;end if (1==FlatIdent_86887) then FlatIdent_74B46=1;break;end end end end break;end end end break;end end break;end end end refreshjoints(rootpart);tclear(refreshedjoints);local attachments={[LUAOBFUSACTOR_DECRYPT_STR_0("\117\234\27\77\217\229\79\236\9\73\201\211\85\194\8\81\204\213\79\238\25\75\217","\182\39\131\124\37\173")]={R6parts.rightArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\8\20\189\28\189\83\40\20\170\53\189\96\59\30\178\25\172\122\46","\20\90\125\218\116\201")]={R6parts.rightArm,cf(0, -1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\9\12\29\147\12\33\82\49\40\15\147\43\45\85\40\12\21\147","\61\69\105\123\231\74\78")]={R6parts.leftLeg,cf(0, -1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\253\168\188\31\228\217\162\175\7\211\212\191\155\31\195\208\174\178\6\210\223\185","\183\177\205\218\107")]={R6parts.leftArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\41\53\139\107\235\36\12\32\172\107\216\55\6\56\128\122\194\34","\86\101\80\237\31\172")]={R6parts.leftArm,cf(0, -1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\97\55\161\64\91\221\201\82\59\166\89\127\199\201","\189\51\88\206\52\26\169")]={rootpart,cf(0,0,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\20\202\76\93\50\229\68\90\50\226\95\65\39\192\67\88\35\205\95","\53\70\163\43")]={R6parts.rightLeg,cf(0, -1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\239\167\164\19\87\39\94\192\161\175\21\115\61\94","\42\161\194\199\120\22\83")]={R6parts.torso,cf(0,1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\130\243\92\43\84\44\175\242\76\19\102\42\161\255\80\63\119\48\180","\94\192\156\56\82\18")]={R6parts.torso,cf(0,0, -0.5,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\127\180\0\84\95\12\129\86\154\16\89\124\14\138\80\190\10\89","\226\61\219\100\45\29\109")]={R6parts.torso,cf(0,0,0.5,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\214\166\38\84\217\172\44\76\251\177\1\84\238\162\35\72\247\166\46\84","\32\154\195\64")]={R6parts.torso,cf( -1,1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\195\19\93\215\202\2\254\22\86\222\204\0\229\14\91\220\214\44\244\20\78","\65\145\122\58\191\190")]={R6parts.torso,cf(1,1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\198\22\237\106\215\215\5\235\119\215\208\3\240\120\192\249\26\225\119\215","\163\145\119\132\25")]={R6parts.torso,cf(0, -1, -0.5,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\56\0\195\213\76\44\4\196\210\93\29\32\222\210\89\12\9\199\195\86\27","\56\111\97\170\166")]={R6parts.torso,cf(0, -1,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\188\126\143\42\59\174\236\116\128\94\146\45\46\143\229\122\142\113\146","\23\235\31\230\89\79\236\141")]={R6parts.torso,cf(0, -1,0.5,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\250\93\202\177\239\59\251\211\95\203\174\203\33\251","\143\178\60\163\195\174\79")]={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\58\6\245\230\108\21\52\17\15\236\194\118\21","\85\114\103\129\167\24\97")]={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\29\210\177\137\233\17\8\53\199\147\152\219\2\4\51\222\183\130\219","\103\91\179\210\236\175\99")]={R6parts.head,cf(0,0, -0.6,1,0,0,0,1,0,0,0,1)},[LUAOBFUSACTOR_DECRYPT_STR_0("\127\244\81\253\115\188\174\150\92\231\115\236\68\184\163\138\84\240\92\236","\226\57\149\50\152\48\217\192")]={R6parts.head,cf(0,0,0,1,0,0,0,1,0,0,0,1)}};local function getPart(name,blacklist) local FlatIdent_167D2=0;local FlatIdent_6990C;while true do if (FlatIdent_167D2==0) then FlatIdent_6990C=0;while true do if (FlatIdent_6990C==0) then local FlatIdent_5018A=0;while true do if (FlatIdent_5018A==0) then for i,v in pairs(cframes) do if ((i.Name==name) and  not (blacklist and tfind(blacklist,i))) then return i;end end return nil;end end end end break;end end end local function makeplaceholder(v) local FlatIdent_23521=0;local c;while true do local FlatIdent_727DA=0;while true do if (FlatIdent_727DA==1) then if (FlatIdent_23521==1) then local FlatIdent_4234D=0;while true do if (FlatIdent_4234D==1) then v.Name=rs();FlatIdent_23521=2;break;end if (FlatIdent_4234D==0) then c=v:GetChildren();for i=1, #c do local FlatIdent_2DACE=0;local FlatIdent_47707;local v;while true do if (FlatIdent_2DACE==0) then FlatIdent_47707=0;v=nil;FlatIdent_2DACE=1;end if (FlatIdent_2DACE==1) then while true do if (FlatIdent_47707==0) then v=c[i];if v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\112\188\47\173\242\66\160\7\171\232\75","\155\35\204\74\206")) then local FlatIdent_401F9=0;local FlatIdent_129E6;while true do if (FlatIdent_401F9==0) then FlatIdent_129E6=0;while true do if (0==FlatIdent_129E6) then v.Name=rs();v:ClearAllChildren();break;end end break;end end else v:Destroy();end break;end end break;end end end FlatIdent_4234D=1;end end end if (FlatIdent_23521==3) then v.Parent=ws;return v;end break;end if (0==FlatIdent_727DA) then if (FlatIdent_23521==0) then local FlatIdent_3E76B=0;while true do if (0==FlatIdent_3E76B) then if (typeof(v)~=LUAOBFUSACTOR_DECRYPT_STR_0("\158\204\104\51\198\185\193\126","\167\215\162\27\71")) then return nil;end if  not v.Archivable then v.Archivable=true;end FlatIdent_3E76B=1;end if (1==FlatIdent_3E76B) then v=v:Clone();FlatIdent_23521=1;break;end end end if (2==FlatIdent_23521) then local FlatIdent_90DF8=0;while true do if (FlatIdent_90DF8==0) then v.Anchored=true;v.CanCollide=false;FlatIdent_90DF8=1;end if (FlatIdent_90DF8==1) then v.Transparency=0.25;FlatIdent_23521=3;break;end end end FlatIdent_727DA=1;end end end end local function getPartFromMesh(meshid,textureid,blacklist) local FlatIdent_3BBAF=0;local FlatIdent_2C0A2;while true do if (0==FlatIdent_3BBAF) then FlatIdent_2C0A2=0;while true do if (FlatIdent_2C0A2==0) then local FlatIdent_734D3=0;while true do if (FlatIdent_734D3==0) then if blacklist then for v,_ in pairs(cframes) do if (v.m and  not tfind(blacklist,v) and sfind(v.m,meshid) and sfind(v.t,textureid)) then return v;end end else for v,_ in pairs(cframes) do if (v.m and sfind(v.m,meshid) and sfind(v.t,textureid)) then return v;end end end return nil;end end end end break;end end end local function getJoint(name) local FlatIdent_4185D=0;local FlatIdent_2B986;while true do if (FlatIdent_4185D==0) then FlatIdent_2B986=0;while true do if (FlatIdent_2B986==0) then local FlatIdent_4FBC5=0;while true do if (0==FlatIdent_4FBC5) then for i,v in pairs(joints) do if (v.Name==name) then return v;end end return {[LUAOBFUSACTOR_DECRYPT_STR_0("\30\211","\93\93\227\171\66")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\11\152","\225\72\169\172\206\94\71\174")]=cf_0};end end end end break;end end end local function getPartJoint(p) local FlatIdent_710D5=0;while true do if (FlatIdent_710D5==0) then if p then local FlatIdent_37395=0;local FlatIdent_C79F;while true do if (FlatIdent_37395==0) then FlatIdent_C79F=0;while true do if (0==FlatIdent_C79F) then for i,v in pairs(joints) do if (v.Part0==p) then return v;end end for i,v in pairs(joints) do if (v.Part1==p) then return v;end end break;end end break;end end end return nil;end end end local function getAccWeldFromMesh(m,t) local FlatIdent_796F=0;local FlatIdent_45F7F;local p;local j;while true do if (FlatIdent_796F==1) then j=nil;while true do local FlatIdent_CC77=0;while true do if (FlatIdent_CC77==1) then if (FlatIdent_45F7F==2) then local FlatIdent_9128B=0;while true do if (FlatIdent_9128B==1) then FlatIdent_45F7F=3;break;end if (FlatIdent_9128B==0) then j={[LUAOBFUSACTOR_DECRYPT_STR_0("\110\2","\40\45\50\52\135\148\80")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\193\72","\226\130\121\134")]=cf_0,[LUAOBFUSACTOR_DECRYPT_STR_0("\184\56\209\111\216","\27\232\89\163")]=p};p.j=j;FlatIdent_9128B=1;end end end if (FlatIdent_45F7F==3) then return j;end break;end if (FlatIdent_CC77==0) then if (FlatIdent_45F7F==1) then local FlatIdent_624DF=0;while true do if (FlatIdent_624DF==1) then FlatIdent_45F7F=2;break;end if (FlatIdent_624DF==0) then p={m=m,t=t};cframes[p]=cfr;FlatIdent_624DF=1;end end end if (FlatIdent_45F7F==0) then local FlatIdent_30E68=0;while true do if (FlatIdent_30E68==1) then FlatIdent_45F7F=1;break;end if (FlatIdent_30E68==0) then p=getPartFromMesh(m,t);if p then return getPartJoint(p) or p.j ;end FlatIdent_30E68=1;end end end FlatIdent_CC77=1;end end end break;end if (FlatIdent_796F==0) then FlatIdent_45F7F=0;p=nil;FlatIdent_796F=1;end end end local raycastparams=RaycastParams.new();raycastparams.FilterType=e.RaycastFilterType.Blacklist;raycastparams.RespectCanCollide=true;local rayfilter={};local characters={};local function refreshrayfilter() local FlatIdent_1FAE6=0;local FlatIdent_8276C;while true do if (FlatIdent_1FAE6==0) then FlatIdent_8276C=0;while true do if (FlatIdent_8276C==0) then local FlatIdent_11DE7=0;while true do if (FlatIdent_11DE7==1) then FlatIdent_8276C=1;break;end if (FlatIdent_11DE7==0) then tclear(rayfilter);for i,v in pairs(characters) do tinsert(rayfilter,v);end FlatIdent_11DE7=1;end end end if (FlatIdent_8276C==1) then raycastparams.FilterDescendantsInstances=rayfilter;break;end end break;end end end local flingtable={};local rootparts={};for i=1, #accessorylimbs do accessorylimbs[i].a=nil;end local ondes=nil;function ondes(v) local meshid,textureid=getMeshOfPart(v);if (meshid and (v.Parent~=c)) then local found=false;for i,v1 in pairs(cframes) do if ((meshid==i.m) and (textureid==i.t)) then local p=i.p;if (p and p:IsDescendantOf(ws)) then if (v==p) then found=true;break;end else found=true;i.p=v;break;end else local j=i.j;if (j and sfind(meshid,i.m) and sfind(textureid,i.t)) then i.m=meshid;i.t=textureid;i.l=v.Position;i.p=v;i.j=nil;i.Name=v.Name;local att0=v:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\213\189\212\194\247\161\205\198\250\189","\163\148\201\160")) or (stepped:Wait() and v:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\127\145\252\231\190\13\83\128\230\242","\101\62\229\136\134\221"))) ;if att0 then local FlatIdent_1C358=0;local FlatIdent_7643F;local att1;while true do if (0==FlatIdent_1C358) then FlatIdent_7643F=0;att1=nil;FlatIdent_1C358=1;end if (FlatIdent_1C358==1) then while true do if (FlatIdent_7643F==0) then local FlatIdent_4BEE8=0;while true do if (FlatIdent_4BEE8==0) then att1=attachments[att0.Name] or attachments.HatAttachment ;j.C0=att0.CFrame;FlatIdent_4BEE8=1;end if (FlatIdent_4BEE8==1) then FlatIdent_7643F=1;break;end end end if (FlatIdent_7643F==1) then j.C1=att1[2];j.Part1=att1[1];break;end end break;end end else local FlatIdent_860F1=0;while true do if (1==FlatIdent_860F1) then j.Part1=R6parts.head;break;end if (0==FlatIdent_860F1) then local FlatIdent_1FBCA=0;while true do if (FlatIdent_1FBCA==1) then FlatIdent_860F1=1;break;end if (FlatIdent_1FBCA==0) then j.C0=cf_0;j.C1=cf(0,0.6,0);FlatIdent_1FBCA=1;end end end end end tinsert(joints,j);found=true;break;end end end if  not found then local t={[LUAOBFUSACTOR_DECRYPT_STR_0("\92\78\251\234","\126\18\47\150\143")]=v.Name,l=v.Position,m=meshid,t=textureid,p=v};if placeholders then t.v=makeplaceholder(v);end cframes[t]=v.CFrame;local j={[LUAOBFUSACTOR_DECRYPT_STR_0("\132\207\218\104\98","\127\212\174\168\28\82\17")]=t};for i=1, #accessorylimbs do local v=accessorylimbs[i];if ( not v.a and sfind(meshid,v.meshid) and sfind(textureid,v.textureid)) then local p=getPart(v.Name);if p then j.C0=v.C0;j.C1=cf_0;j.Part1=p;v.a=true;found=true;break;end end end if  not found then local att0=v:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\43\190\72\214\9\162\81\210\4\190","\183\106\202\60")) or (stepped:Wait() and v:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\123\54\230\75\220\30\15\95\44\230","\98\58\66\146\42\191\118"))) ;if att0 then local FlatIdent_1F799=0;local FlatIdent_8325F;local att1;while true do if (FlatIdent_1F799==1) then while true do if (FlatIdent_8325F==1) then j.C1=att1[2];j.Part1=att1[1];break;end if (FlatIdent_8325F==0) then local FlatIdent_6DAAA=0;while true do if (FlatIdent_6DAAA==1) then FlatIdent_8325F=1;break;end if (0==FlatIdent_6DAAA) then att1=attachments[att0.Name] or attachments.HatAttachment ;j.C0=att0.CFrame;FlatIdent_6DAAA=1;end end end end break;end if (0==FlatIdent_1F799) then FlatIdent_8325F=0;att1=nil;FlatIdent_1F799=1;end end else local FlatIdent_7B2EE=0;local FlatIdent_B964;while true do if (0==FlatIdent_7B2EE) then FlatIdent_B964=0;while true do if (FlatIdent_B964==1) then j.Part1=R6parts.head;break;end if (FlatIdent_B964==0) then j.C0=cf_0;j.C1=cf(0,0.6,0);FlatIdent_B964=1;end end break;end end end end tinsert(joints,j);end elseif v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\183\224\121\219\69\207\214\169\245\111\208","\186\228\144\28\184\44\174")) then ondes(v.Parent);end end pg.DescendantAdded:Connect(function(v) if (c and disguiscripts and v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\53\29\8\31\22\10","\118\102\126\122"))) then v.Disabled=true;end end);local function onplayer(v) local lastc=nil;local function oncharacter() local newc=v.Character;if (c and newc and (newc~=lastc)) then lastc=newc;characters[v]=newc;refreshrayfilter();if (v==lp) then if discharscripts then local FlatIdent_70F77=0;local FlatIdent_2E3CE;while true do if (FlatIdent_70F77==0) then FlatIdent_2E3CE=0;while true do if (FlatIdent_2E3CE==0) then newc.DescendantAdded:Connect(discharscripts);for i,v in pairs(newc:GetDescendants()) do if v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\239\8\154\238\184\200","\200\188\107\232\135")) then v.Disabled=true;end end break;end end break;end end end local hrp=timegp(newc,LUAOBFUSACTOR_DECRYPT_STR_0("\4\233\172\74\53\240\37\248\147\68\52\235\28\253\179\95","\159\76\156\193\43\91"),LUAOBFUSACTOR_DECRYPT_STR_0("\91\45\29\112\149\72\81\254","\138\25\76\110\21\197\41\35"),10);if  not (hrp and c and newc:IsDescendantOf(ws)) then return;end c=newc;local fi,fv=next(flingtable);if fi then local FlatIdent_EE01=0;local FlatIdent_324A;while true do if (0==FlatIdent_EE01) then FlatIdent_324A=0;while true do if (FlatIdent_324A==2) then twait(0.26);break;end if (FlatIdent_324A==0) then local FlatIdent_66193=0;while true do if (FlatIdent_66193==0) then for i,v in pairs(tclone(flingtable)) do local FlatIdent_1B878=0;local startpos;local stoptime;while true do if (0==FlatIdent_1B878) then if  not c then return;end startpos=i.Position;FlatIdent_1B878=1;end if (FlatIdent_1B878==2) then if v then v:Destroy();end flingtable[i]=nil;break;end if (FlatIdent_1B878==1) then stoptime=sine + 3 ;while true do twait();if (sine>stoptime) then break;end if ((startpos-i.Position).Magnitude>200) then break;end local tcf=i.CFrame + (i.Velocity * (sin(sine * 15 ) + 1)) ;if (novoid and (tcf.Y<novoid)) then tcf=tcf + (v3_010 * (novoid-tcf.Y)) ;end hrp.CFrame=tcf;hrp.Velocity=i.Velocity * v3_101 * 75 ;hrp.RotVelocity=flingvel;end FlatIdent_1B878=2;end end end hrp.Velocity=v3_0;FlatIdent_66193=1;end if (1==FlatIdent_66193) then FlatIdent_324A=1;break;end end end if (FlatIdent_324A==1) then local FlatIdent_4543F=0;while true do if (FlatIdent_4543F==0) then hrp.RotVelocity=v3_0;hrp.CFrame=cfr;FlatIdent_4543F=1;end if (FlatIdent_4543F==1) then FlatIdent_324A=2;break;end end end end break;end end end local startpos=pos + v3(mrandom( -32,32),0,mrandom( -32,32)) ;local dir=nil;local poscheck=true;while poscheck do local FlatIdent_5C540=0;local FlatIdent_6C51A;local diff;while true do if (FlatIdent_5C540==1) then while true do if (FlatIdent_6C51A==0) then local FlatIdent_18FAB=0;while true do if (FlatIdent_18FAB==1) then FlatIdent_6C51A=1;break;end if (FlatIdent_18FAB==0) then poscheck=false;for i,v in pairs(rootparts) do local FlatIdent_4B897=0;local diff;while true do if (0==FlatIdent_4B897) then diff=(startpos-v.Position) * v3_101 ;if (diff.Magnitude<10) then local FlatIdent_8B6F5=0;local FlatIdent_11068;while true do if (FlatIdent_8B6F5==0) then FlatIdent_11068=0;while true do if (0==FlatIdent_11068) then local FlatIdent_5CD30=0;while true do if (1==FlatIdent_5CD30) then FlatIdent_11068=1;break;end if (0==FlatIdent_5CD30) then poscheck=true;dir=dir or diff.Unit ;FlatIdent_5CD30=1;end end end if (FlatIdent_11068==1) then startpos=startpos + dir ;break;end end break;end end end break;end end end FlatIdent_18FAB=1;end end end if (FlatIdent_6C51A==1) then diff=(startpos-pos) * v3_101 ;if (diff.Magnitude<10) then local FlatIdent_8E3FD=0;while true do if (1==FlatIdent_8E3FD) then startpos=startpos + dir ;break;end if (FlatIdent_8E3FD==0) then local FlatIdent_6354D=0;while true do if (FlatIdent_6354D==0) then poscheck=true;dir=dir or diff.Unit ;FlatIdent_6354D=1;end if (FlatIdent_6354D==1) then FlatIdent_8E3FD=1;break;end end end end end break;end end break;end if (FlatIdent_5C540==0) then FlatIdent_6C51A=0;diff=nil;FlatIdent_5C540=1;end end end startpos=cfr.Rotation + startpos ;primarypart=c.PrimaryPart or hrp ;hrp.CFrame=startpos;hrp.Velocity=v3_0;hrp.RotVelocity=v3_0;if claimwait then twait(0.26);else lp.Character=nil;end newc:BreakJoints();local cd=newc:GetDescendants();for i=1, #cd do tspawn(ondes,cd[i]);end newc.DescendantAdded:Connect(ondes);else local FlatIdent_5A3A0=0;local FlatIdent_62CB4;local hrp;while true do if (FlatIdent_5A3A0==1) then while true do if (FlatIdent_62CB4==0) then hrp=timegp(newc,LUAOBFUSACTOR_DECRYPT_STR_0("\102\233\63\84\62\91\183\74\206\61\90\36\100\191\92\232","\222\46\156\82\53\80\52"),LUAOBFUSACTOR_DECRYPT_STR_0("\25\209\12\237\68\58\194\11","\20\91\176\127\136"),10);if (hrp and c and newc:IsDescendantOf(ws)) then rootparts[v]=hrp;end break;end end break;end if (FlatIdent_5A3A0==0) then FlatIdent_62CB4=0;hrp=nil;FlatIdent_5A3A0=1;end end end end end v:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\212\248\41\183\11\167\227\245\58","\196\151\144\72\197\106")):Connect(oncharacter);oncharacter();end local plrst=plrs:GetPlayers();for i=1, #plrst do onplayer(plrst[i]);end plrs.PlayerAdded:Connect(onplayer);plrs.PlayerRemoving:Connect(function(v) local FlatIdent_2CA66=0;local FlatIdent_8C1D5;while true do if (FlatIdent_2CA66==0) then FlatIdent_8C1D5=0;while true do if (FlatIdent_8C1D5==0) then characters[v]=nil;rootparts[v]=nil;break;end end break;end end end);local mradN05=rad( -0.5);local KeyCode=e.KeyCode;local enumMLC=e.MouseBehavior.LockCenter;local enumMB2=e.UserInputType.MouseButton2;local enumMLCP=e.MouseBehavior.LockCurrentPosition;local enumMD=e.MouseBehavior.Default;local enumMW=e.UserInputType.MouseWheel;if uis.TouchEnabled then enumMB2=e.UserInputType.MouseButton1;end local mouseBehavior=nil;local lastMouseBehavior=uis.MouseBehavior;uis:GetPropertyChangedSignal(LUAOBFUSACTOR_DECRYPT_STR_0("\57\193\149\65\17\236\133\90\21\216\137\93\6","\50\116\174\224")):Connect(function() if (c and (uis.MouseBehavior~=mouseBehavior)) then uis.MouseBehavior=mouseBehavior;end end);local mode=LUAOBFUSACTOR_DECRYPT_STR_0("\209\125\6\198\20\201\193","\165\181\24\96\167\97");local defaultmode={};local modes={[LUAOBFUSACTOR_DECRYPT_STR_0("\168\40\58\69\185\33\40","\36\204\77\92")]=defaultmode};local function emptyfunction() end local lerpsIdle=emptyfunction;local lerpsWalk=emptyfunction;local lerpsJump=emptyfunction;local lerpsFall=emptyfunction;local function addmode(key,mode) local FlatIdent_4C119=0;local FlatIdent_511F5;while true do if (FlatIdent_4C119==0) then FlatIdent_511F5=0;while true do if (FlatIdent_511F5==1) then if (key==LUAOBFUSACTOR_DECRYPT_STR_0("\58\66\61\220\20\50\83","\97\94\39\91\189")) then local FlatIdent_93540=0;local FlatIdent_45EB0;while true do if (FlatIdent_93540==0) then FlatIdent_45EB0=0;while true do if (FlatIdent_45EB0==1) then lerpsIdle=mode.idle or emptyfunction ;lerpsWalk=mode.walk or emptyfunction ;FlatIdent_45EB0=2;end if (FlatIdent_45EB0==0) then defaultmode=mode;modes.default=mode;FlatIdent_45EB0=1;end if (2==FlatIdent_45EB0) then local FlatIdent_5615=0;while true do if (FlatIdent_5615==1) then FlatIdent_45EB0=3;break;end if (FlatIdent_5615==0) then lerpsJump=mode.jump or emptyfunction ;lerpsFall=mode.fall or emptyfunction ;FlatIdent_5615=1;end end end if (3==FlatIdent_45EB0) then if mode.modeEntered then mode.modeEntered();end break;end end break;end end elseif ( #key==1) then local FlatIdent_202CC=0;while true do if (FlatIdent_202CC==0) then key=KeyCode[supper(ssub(key,1,1))];modes[key]=mode;break;end end end break;end if (0==FlatIdent_511F5) then local FlatIdent_1C13F=0;while true do if (FlatIdent_1C13F==1) then FlatIdent_511F5=1;break;end if (FlatIdent_1C13F==0) then if ((type(key)~=LUAOBFUSACTOR_DECRYPT_STR_0("\38\101\233\31\170\21","\153\85\17\155\118\196\114")) or (type(mode)~=LUAOBFUSACTOR_DECRYPT_STR_0("\211\244\217\203\190","\81\167\149\187\167\219"))) then return;end for i,v in pairs(mode) do if (type(v)~=LUAOBFUSACTOR_DECRYPT_STR_0("\255\25\38\194\230\240\3\38","\146\153\108\72\161")) then mode[i]=nil;end end FlatIdent_1C13F=1;end end end end break;end end end local keyW=KeyCode.W;local Wpressed=uis:IsKeyDown(keyW);local keyA=KeyCode.A;local Apressed=uis:IsKeyDown(keyA);local keyS=KeyCode.S;local Spressed=uis:IsKeyDown(keyS);local keyD=KeyCode.D;local Dpressed=uis:IsKeyDown(keyD);local keySpace=KeyCode.Space;local spacePressed=uis:IsKeyDown(keySpace);local keyShift=KeyCode.LeftShift;uis.InputBegan:Connect(function(a) local FlatIdent_33F65=0;while true do if (FlatIdent_33F65==0) then if (gs.MenuIsOpen or uis:GetFocusedTextBox()) then return;end a=a.KeyCode;FlatIdent_33F65=1;end if (FlatIdent_33F65==1) then if (a==keyW) then Wpressed=true;elseif (a==keyA) then Apressed=true;elseif (a==keyS) then Spressed=true;elseif (a==keyD) then Dpressed=true;elseif (a==keySpace) then spacePressed=true;elseif (a==keyShift) then shiftlock=allowshiftlock and  not shiftlock ;elseif modes[a] then local FlatIdent_21811=0;local FlatIdent_69486;local modet;while true do if (FlatIdent_21811==1) then while true do if (FlatIdent_69486==0) then local FlatIdent_1D2CD=0;while true do if (FlatIdent_1D2CD==0) then if modes[mode].modeLeft then modes[mode].modeLeft();end if (mode==a) then mode=LUAOBFUSACTOR_DECRYPT_STR_0("\1\17\235\230\62\55\42","\94\101\116\141\135\75\91");else mode=a;end FlatIdent_1D2CD=1;end if (1==FlatIdent_1D2CD) then FlatIdent_69486=1;break;end end end if (2==FlatIdent_69486) then lerpsWalk=modet.walk or defaultmode.walk or emptyfunction ;lerpsJump=modet.jump or defaultmode.jump or emptyfunction ;FlatIdent_69486=3;end if (FlatIdent_69486==3) then lerpsFall=modet.fall or defaultmode.fall or emptyfunction ;if modes[mode].modeEntered then modes[mode].modeEntered();end break;end if (FlatIdent_69486==1) then local FlatIdent_3397E=0;while true do if (FlatIdent_3397E==0) then modet=modes[mode];lerpsIdle=modet.idle or defaultmode.idle or emptyfunction ;FlatIdent_3397E=1;end if (FlatIdent_3397E==1) then FlatIdent_69486=2;break;end end end end break;end if (FlatIdent_21811==0) then FlatIdent_69486=0;modet=nil;FlatIdent_21811=1;end end end break;end end end);uis.InputEnded:Connect(function(a) local FlatIdent_CDA6=0;local FlatIdent_21387;while true do if (0==FlatIdent_CDA6) then FlatIdent_21387=0;while true do if (FlatIdent_21387==0) then a=a.KeyCode;if (a==keyW) then Wpressed=false;elseif (a==keyA) then Apressed=false;elseif (a==keyS) then Spressed=false;elseif (a==keyD) then Dpressed=false;elseif (a==keySpace) then spacePressed=false;end break;end end break;end end end);uis.InputChanged:Connect(function(a,b) if ( not b and (a.UserInputType==enumMW)) then local FlatIdent_132C0=0;local FlatIdent_2861D;while true do if (0==FlatIdent_132C0) then FlatIdent_2861D=0;while true do if (FlatIdent_2861D==0) then local FlatIdent_93B6=0;while true do if (FlatIdent_93B6==0) then camoff=camoff + (a.Position * v3_001 * (0.75 -(camoff.Z/4))) ;if (camoff.Z>0) then camoff=camoff-camoff.Position ;end FlatIdent_93B6=1;end if (1==FlatIdent_93B6) then FlatIdent_2861D=1;break;end end end if (FlatIdent_2861D==1) then firstperson=camoff.Z==0 ;break;end end break;end end end end);local function predictionfling(target) local FlatIdent_279D5=0;local FlatIdent_5FBE3;local targetpart;while true do if (FlatIdent_279D5==0) then FlatIdent_5FBE3=0;targetpart=nil;FlatIdent_279D5=1;end if (1==FlatIdent_279D5) then while true do if (FlatIdent_5FBE3==2) then targetpart=gp(target,LUAOBFUSACTOR_DECRYPT_STR_0("\26\181\14\197\75\244\230\18\0\175\12\208\117\250\253\2","\118\82\192\99\164\37\155\143"),LUAOBFUSACTOR_DECRYPT_STR_0("\0\186\88\42\18\186\89\59","\79\66\219\43")) or gp(target,LUAOBFUSACTOR_DECRYPT_STR_0("\41\79\225\2\18","\113\125\32\147"),LUAOBFUSACTOR_DECRYPT_STR_0("\254\211\218\70\123\181\206\198","\212\188\178\169\35\43")) or gp(target,LUAOBFUSACTOR_DECRYPT_STR_0("\139\251\109\47\172\223\114\56\173\228","\74\222\139\29"),LUAOBFUSACTOR_DECRYPT_STR_0("\101\196\186\1\146\9\96\252","\136\39\165\201\100\194\104\18")) ;if  not (targetpart and targetpart:IsDescendantOf(ws)) then return twait() and false ;end FlatIdent_5FBE3=3;end if (FlatIdent_5FBE3==4) then return true;end if (FlatIdent_5FBE3==3) then if highlightflingtargets then local FlatIdent_7E46E=0;local FlatIdent_78AE8;local h;while true do if (0==FlatIdent_7E46E) then FlatIdent_78AE8=0;h=nil;FlatIdent_7E46E=1;end if (FlatIdent_7E46E==1) then while true do if (FlatIdent_78AE8==4) then flingtable[targetpart]=h;break;end if (0==FlatIdent_78AE8) then local FlatIdent_7F2A4=0;while true do if (FlatIdent_7F2A4==0) then h=i(LUAOBFUSACTOR_DECRYPT_STR_0("\91\230\75\126\223\239\40\218\103","\178\19\143\44\22\179\134\79"));h.Name=rs();FlatIdent_7F2A4=1;end if (FlatIdent_7F2A4==1) then FlatIdent_78AE8=1;break;end end end if (FlatIdent_78AE8==2) then local FlatIdent_8B622=0;while true do if (FlatIdent_8B622==1) then FlatIdent_78AE8=3;break;end if (FlatIdent_8B622==0) then h.OutlineColor=c3(1,0,0);h.FillTransparency=0.5;FlatIdent_8B622=1;end end end if (FlatIdent_78AE8==1) then local FlatIdent_3B073=0;while true do if (FlatIdent_3B073==1) then FlatIdent_78AE8=2;break;end if (FlatIdent_3B073==0) then h.Adornee=target;h.FillColor=c3(1,0,0);FlatIdent_3B073=1;end end end if (FlatIdent_78AE8==3) then h.OutlineTransparency=0;h.Parent=i9;FlatIdent_78AE8=4;end end break;end end else flingtable[targetpart]=false;end twait();FlatIdent_5FBE3=4;end if (FlatIdent_5FBE3==0) then local FlatIdent_753BC=0;while true do if (FlatIdent_753BC==0) then if  not c then return twait() and false ;end if (typeof(target)~=LUAOBFUSACTOR_DECRYPT_STR_0("\52\143\184\1\73\223\244\129","\228\125\225\203\117\40\177\151")) then local FlatIdent_64015=0;local FlatIdent_602BB;while true do if (FlatIdent_64015==0) then FlatIdent_602BB=0;while true do if (FlatIdent_602BB==0) then target=mouse.Target;if  not target then return twait() and false ;end break;end end break;end end end FlatIdent_753BC=1;end if (FlatIdent_753BC==1) then FlatIdent_5FBE3=1;break;end end end if (FlatIdent_5FBE3==1) then if (target:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\192\188\199\117\132\15\46\236","\71\136\201\170\20\234\96")) or target:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\49\37\111\205\246\241\182\7","\196\115\68\28\168\166\144"))) then local FlatIdent_49467=0;local FlatIdent_6038;while true do if (FlatIdent_49467==0) then FlatIdent_6038=0;while true do if (FlatIdent_6038==0) then target=target.Parent;if target:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\249\80\239\121\22\231\94\202\74","\49\184\51\140\28\101\148")) then target=target.Parent;end break;end end break;end end end if ( not target:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\217\225\141\206\204","\234\148\142\233\171\160\141\39")) or (target==c)) then return twait() and false ;end FlatIdent_5FBE3=2;end end break;end end end if ctrlclicktp then local FlatIdent_2AB7E=0;local FlatIdent_2F3FA;local tpoff;while true do if (FlatIdent_2AB7E==1) then while true do if (FlatIdent_2F3FA==0) then local FlatIdent_2644E=0;while true do if (FlatIdent_2644E==0) then ctrlclicktp=KeyCode.LeftControl;tpoff=v3_010 * 3 ;FlatIdent_2644E=1;end if (FlatIdent_2644E==1) then FlatIdent_2F3FA=1;break;end end end if (1==FlatIdent_2F3FA) then if clickfling then mouse.Button1Down:Connect(function() if mouse.Target then if uis:IsKeyDown(ctrlclicktp) then local FlatIdent_32867=0;local FlatIdent_803CC;while true do if (FlatIdent_32867==0) then FlatIdent_803CC=0;while true do if (1==FlatIdent_803CC) then xzvel=v3_0;Yvel=0;break;end if (0==FlatIdent_803CC) then pos=mouse.Hit.Position + tpoff ;cfr=cf(pos,pos + (camoff.LookVector * v3_101) );FlatIdent_803CC=1;end end break;end end else predictionfling();end end end);else mouse.Button1Down:Connect(function() if (mouse.Target and uis:IsKeyDown(ctrlclicktp)) then local FlatIdent_64E7F=0;local FlatIdent_25747;while true do if (FlatIdent_64E7F==0) then FlatIdent_25747=0;while true do if (FlatIdent_25747==0) then local FlatIdent_1CF31=0;while true do if (FlatIdent_1CF31==0) then pos=mouse.Hit.Position + tpoff ;cfr=cf(pos,pos + (camoff.LookVector * v3_101) );FlatIdent_1CF31=1;end if (FlatIdent_1CF31==1) then FlatIdent_25747=1;break;end end end if (FlatIdent_25747==1) then xzvel=v3_0;Yvel=0;break;end end break;end end end end);end break;end end break;end if (FlatIdent_2AB7E==0) then FlatIdent_2F3FA=0;tpoff=nil;FlatIdent_2AB7E=1;end end elseif clickfling then mouse.Button1Down:Connect(predictionfling);end local noYvelTime=1;local lastsine=sine;local con=nil;local function mainFunction() if  not c then local FlatIdent_83DDB=0;local FlatIdent_61057;local c;while true do if (FlatIdent_83DDB==1) then while true do local FlatIdent_41C81=0;while true do if (FlatIdent_41C81==1) then if (FlatIdent_61057==1) then local FlatIdent_29BCB=0;while true do if (FlatIdent_29BCB==0) then mouseBehavior=enumMD;uis.MouseBehavior=enumMD;FlatIdent_29BCB=1;end if (FlatIdent_29BCB==1) then FlatIdent_61057=2;break;end end end if (3==FlatIdent_61057) then local FlatIdent_397EE=0;while true do if (FlatIdent_397EE==0) then if c then cam.CameraSubject=c:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\121\13\135\118\131\253\76\85","\37\49\120\234\23\237\146"));end return con and con:Disconnect() ;end end end break;end if (FlatIdent_41C81==0) then if (FlatIdent_61057==2) then onnewcamera();c=lp.Character;FlatIdent_61057=3;end if (0==FlatIdent_61057) then local FlatIdent_1B30C=0;while true do if (FlatIdent_1B30C==1) then FlatIdent_61057=1;break;end if (FlatIdent_1B30C==0) then for i,v in pairs(cframes) do local FlatIdent_79739=0;local FlatIdent_44652;local p;while true do if (FlatIdent_79739==0) then FlatIdent_44652=0;p=nil;FlatIdent_79739=1;end if (FlatIdent_79739==1) then while true do if (FlatIdent_44652==0) then p=i.v;if p then p:Destroy();end break;end end break;end end end for i,v in pairs(flingtable) do if v then v:Destroy();end end FlatIdent_1B30C=1;end end end FlatIdent_41C81=1;end end end break;end if (FlatIdent_83DDB==0) then FlatIdent_61057=0;c=nil;FlatIdent_83DDB=1;end end end sine=osclock();local delta=sine-lastsine ;deltaTime=clamp(delta * 10 ,0,1);lastsine=sine;if shiftlock then if allowshiftlock then local FlatIdent_4FE0C=0;local FlatIdent_28E8A;local rotation;local camoffpos;while true do if (FlatIdent_4FE0C==1) then camoffpos=nil;while true do if (1==FlatIdent_28E8A) then camoffpos=camoff.Position;camoff=cf(camoffpos,camoffpos + camoff.LookVector ) * angles(rotation.Y,rotation.X,0) ;break;end if (FlatIdent_28E8A==0) then mouseBehavior=enumMLC;rotation=uis:GetMouseDelta() * mradN05 ;FlatIdent_28E8A=1;end end break;end if (FlatIdent_4FE0C==0) then FlatIdent_28E8A=0;rotation=nil;FlatIdent_4FE0C=1;end end else shiftlock=false;end elseif firstperson then local FlatIdent_FF71=0;local FlatIdent_1E39B;local rotation;local camoffpos;while true do if (FlatIdent_FF71==1) then camoffpos=nil;while true do if (FlatIdent_1E39B==0) then local FlatIdent_39DD3=0;while true do if (FlatIdent_39DD3==0) then mouseBehavior=enumMLC;rotation=uis:GetMouseDelta() * mradN05 ;FlatIdent_39DD3=1;end if (FlatIdent_39DD3==1) then FlatIdent_1E39B=1;break;end end end if (1==FlatIdent_1E39B) then camoffpos=camoff.Position;camoff=cf(camoffpos,camoffpos + camoff.LookVector ) * angles(rotation.Y,rotation.X,0) ;break;end end break;end if (0==FlatIdent_FF71) then FlatIdent_1E39B=0;rotation=nil;FlatIdent_FF71=1;end end elseif uis:IsMouseButtonPressed(enumMB2) then local FlatIdent_4DBE1=0;local FlatIdent_5C97A;local rotation;local camoffpos;while true do if (1==FlatIdent_4DBE1) then camoffpos=nil;while true do if (FlatIdent_5C97A==0) then mouseBehavior=enumMLCP;rotation=uis:GetMouseDelta() * mradN05 ;FlatIdent_5C97A=1;end if (FlatIdent_5C97A==1) then camoffpos=camoff.Position;camoff=cf(camoffpos,camoffpos + camoff.LookVector ) * angles(rotation.Y,rotation.X,0) ;break;end end break;end if (FlatIdent_4DBE1==0) then FlatIdent_5C97A=0;rotation=nil;FlatIdent_4DBE1=1;end end else mouseBehavior=enumMD;end if (lastMouseBehavior~=mouseBehavior) then local FlatIdent_60344=0;while true do if (FlatIdent_60344==0) then lastMouseBehavior=mouseBehavior;uis.MouseBehavior=mouseBehavior;break;end end end local raycastresult=ws:Raycast(pos,v3_010 * (fpdh-pos.Y) ,raycastparams);local onground=nil;if raycastresult then local FlatIdent_5C892=0;local FlatIdent_2EEF;while true do if (FlatIdent_5C892==0) then FlatIdent_2EEF=0;while true do if (FlatIdent_2EEF==0) then raycastresult=raycastresult.Position;onground=(pos.Y-raycastresult.Y)<3.01 ;FlatIdent_2EEF=1;end if (FlatIdent_2EEF==1) then if onground then local FlatIdent_2D5DD=0;local FlatIdent_7268B;while true do if (FlatIdent_2D5DD==0) then FlatIdent_7268B=0;while true do if (FlatIdent_7268B==1) then if spacePressed then Yvel=jumpPower;end break;end if (FlatIdent_7268B==0) then local FlatIdent_95549=0;while true do if (FlatIdent_95549==1) then FlatIdent_7268B=1;break;end if (0==FlatIdent_95549) then Yvel=0;cfr=cfr + (v3_010 * ((raycastresult.Y + 3) -pos.Y) * clamp(delta * 20 ,0,1)) ;FlatIdent_95549=1;end end end end break;end end else local FlatIdent_1FCD6=0;local FlatIdent_15C34;while true do if (FlatIdent_1FCD6==0) then FlatIdent_15C34=0;while true do if (FlatIdent_15C34==0) then Yvel=Yvel-(gravity * delta) ;if ((pos.Y + (Yvel * delta))<raycastresult.Y) then local FlatIdent_47F3F=0;local FlatIdent_D6BD;while true do if (FlatIdent_47F3F==0) then FlatIdent_D6BD=0;while true do if (FlatIdent_D6BD==0) then Yvel=0;cfr=cfr + (v3_010 * ((raycastresult.Y + 3) -pos.Y)) ;break;end end break;end end end break;end end break;end end end break;end end break;end end else local FlatIdent_2C2F3=0;while true do if (FlatIdent_2C2F3==0) then Yvel=0;onground=false;break;end end end xzvel=v3_0;if Wpressed then xzvel=xzvel + (camoff.LookVector * v3_101).Unit ;end if Spressed then xzvel=xzvel-(camoff.LookVector * v3_101).Unit ;end if Apressed then xzvel=xzvel-(camoff.RightVector * v3_101).Unit ;end if Dpressed then xzvel=xzvel + (camoff.RightVector * v3_101).Unit ;end pos=cfr.Position;if (shiftlock or firstperson) then local FlatIdent_951F1=0;local FlatIdent_630B0;while true do if (FlatIdent_951F1==0) then FlatIdent_630B0=0;while true do if (FlatIdent_630B0==0) then if (xzvel.Magnitude>0) then xzvel=xzvel.Unit * walkSpeed ;end cfr=cf(pos,pos + (camoff.LookVector * v3_101) );break;end end break;end end elseif (xzvel.Magnitude>0) then local FlatIdent_69CC8=0;local FlatIdent_6AE5;while true do if (FlatIdent_69CC8==0) then FlatIdent_6AE5=0;while true do if (FlatIdent_6AE5==0) then xzvel=xzvel.Unit * walkSpeed ;cfr=cfr:Lerp(cf(pos,pos + xzvel ),deltaTime);break;end end break;end end end cfr=cfr + ((xzvel + (v3_010 * Yvel)) * delta) ;pos=cfr.Position;camcf=cf(pos,pos + camoff.LookVector ) + (camoff.LookVector * camoff.Z) + v3_0150 ;if (shiftlock and  not firstperson) then camcf=camcf + (camcf.RightVector * 1.75) ;end if cam then cam.CFrame=camcf;end if onground then if (xzvel==v3_0) then lerpsIdle();else lerpsWalk();end elseif (Yvel>0) then lerpsJump();else lerpsFall();end cframes[rootpart]=cfr;refreshjoints(rootpart);tclear(refreshedjoints);if (abs(Yvel)>1) then noYvelTime=0;else local FlatIdent_520FA=0;while true do if (FlatIdent_520FA==0) then noYvelTime=clamp(noYvelTime + (delta * 0.3) ,0,1);xzvel=xzvel * (1 -noYvelTime) ;break;end end end local idlerv=v3(sin((sine-0.0375) * 16 ),sin(sine * 16 ),sin((sine + 0.075) * 16 ));local idleoff=idlerv * 0.001 ;local claimpos=primarypart.Position;for i,v in pairs(cframes) do local part=i.p;if (part and  not part.Anchored and part:IsDescendantOf(ws)) then if (part.ReceiveAge==0) then local FlatIdent_89DF6=0;local placeholder;local lastpos;local vel;local claimtime;while true do if (FlatIdent_89DF6==2) then claimtime=i.c;if claimtime then if ((sine-claimtime)<retVelTime) then part.Velocity=(((claimpos-v.Position) * v3_101)/getFallingTime(v.Y,claimpos.Y,rGravity)) + v3_net ;else part.Velocity=getNetlessVelocity((vel * noYvelTime) + xzvel );end else local FlatIdent_53FA2=0;local FlatIdent_9128B;while true do if (FlatIdent_53FA2==0) then FlatIdent_9128B=0;while true do if (FlatIdent_9128B==0) then i.c=sine;part.Velocity=getNetlessVelocity((vel * noYvelTime) + xzvel );break;end end break;end end end part.CFrame=v;part.RotVelocity=idlerv;break;end if (FlatIdent_89DF6==1) then local FlatIdent_379C4=0;while true do if (FlatIdent_379C4==0) then vel=(v.Position-lastpos)/delta ;if (vel.Magnitude>speedlimit) then local FlatIdent_5B0A0=0;while true do if (FlatIdent_5B0A0==0) then vel=vel.Unit * speedlimit ;v=(v + lastpos + (vel * delta)) -v.Position ;break;end end end FlatIdent_379C4=1;end if (2==FlatIdent_379C4) then FlatIdent_89DF6=2;break;end if (FlatIdent_379C4==1) then i.l=v.Position;if (vel.Magnitude<0.15) then v=v + idleoff ;end FlatIdent_379C4=2;end end end if (FlatIdent_89DF6==0) then local FlatIdent_8BDB7=0;while true do if (FlatIdent_8BDB7==2) then FlatIdent_89DF6=1;break;end if (FlatIdent_8BDB7==0) then placeholder=i.v;if placeholder then placeholder.Parent=nil;end FlatIdent_8BDB7=1;end if (FlatIdent_8BDB7==1) then if (novoid and (v.Y<novoid)) then v=v + (v3_010 * (novoid-v.Y)) ;end lastpos=i.l;FlatIdent_8BDB7=2;end end end end else local FlatIdent_57FF4=0;local FlatIdent_580B8;local placeholder;while true do if (FlatIdent_57FF4==0) then FlatIdent_580B8=0;placeholder=nil;FlatIdent_57FF4=1;end if (FlatIdent_57FF4==1) then while true do if (FlatIdent_580B8==0) then i.c=nil;i.l=part.Position;FlatIdent_580B8=1;end if (FlatIdent_580B8==1) then placeholder=i.v;if placeholder then local FlatIdent_23AC6=0;while true do if (FlatIdent_23AC6==0) then placeholder.Parent=ws;placeholder.CFrame=v;break;end end end break;end end break;end end end else local FlatIdent_69544=0;local placeholder;while true do if (FlatIdent_69544==0) then placeholder=i.v;if placeholder then local FlatIdent_75B77=0;local FlatIdent_91EEA;while true do if (FlatIdent_75B77==0) then FlatIdent_91EEA=0;while true do if (FlatIdent_91EEA==0) then placeholder.Parent=ws;placeholder.CFrame=v;break;end end break;end end end break;end end end end end sine=osclock();lastsine=sine;con=heartbeat:Connect(mainFunction);mainFunction();function stopreanimate() if c then local FlatIdent_20476=0;local FlatIdent_45AC8;while true do if (FlatIdent_20476==0) then FlatIdent_45AC8=0;while true do if (FlatIdent_45AC8==0) then local FlatIdent_56024=0;while true do if (FlatIdent_56024==0) then c=nil;return true;end end end end break;end end else return false;end end local function refreshjoints1(v) local FlatIdent_55482=0;while true do if (FlatIdent_55482==0) then refreshjoints(v);tclear(refreshedjoints);break;end end end local legcfR=cf(1, -1,0);local legcfL=cf( -1, -1,0);local raydir=v3_010 *  -2 ;local function raycastlegs() local FlatIdent_2FD11=0;local FlatIdent_23A2C;local rY;local lY;while true do if (FlatIdent_2FD11==0) then FlatIdent_23A2C=0;rY=nil;FlatIdent_2FD11=1;end if (FlatIdent_2FD11==1) then lY=nil;while true do local FlatIdent_415E2=0;while true do if (0==FlatIdent_415E2) then if (1==FlatIdent_23A2C) then return (rY and (rY.Position.Y-(pos.Y-3))) or 0 ,(lY and (lY.Position.Y-(pos.Y-3))) or 0 ;end if (FlatIdent_23A2C==0) then local FlatIdent_1FD4=0;while true do if (FlatIdent_1FD4==1) then FlatIdent_23A2C=1;break;end if (FlatIdent_1FD4==0) then rY=ws:Raycast((cfr * legcfR).Position,raydir,raycastparams);lY=ws:Raycast((cfr * legcfL).Position,raydir,raycastparams);FlatIdent_1FD4=1;end end end break;end end end break;end end end local function velbycfrvec() local FlatIdent_268A=0;local fw;local rt;while true do if (FlatIdent_268A==1) then return fw.X + fw.Z ,rt.X + rt.Z ;end if (FlatIdent_268A==0) then fw=(cfr.LookVector * xzvel)/walkSpeed ;rt=(cfr.RightVector * xzvel)/walkSpeed ;FlatIdent_268A=1;end end end local lastvel=v3_0;local velchg1=v3_0;local function velchgbycfrvec() local FlatIdent_3A1C6=0;local FlatIdent_F1F2;local fw;local rt;while true do if (FlatIdent_3A1C6==1) then rt=nil;while true do local FlatIdent_28BB6=0;while true do if (FlatIdent_28BB6==0) then if (FlatIdent_F1F2==2) then local FlatIdent_6F58A=0;while true do if (FlatIdent_6F58A==0) then rt=(cfr.RightVector * velchg1)/32 ;return fw.X + fw.Z ,rt.X + rt.Z ;end end end if (FlatIdent_F1F2==0) then local FlatIdent_763F=0;while true do if (FlatIdent_763F==0) then velchg1=velchg1 + (lastvel-xzvel) ;lastvel=xzvel;FlatIdent_763F=1;end if (FlatIdent_763F==1) then FlatIdent_F1F2=1;break;end end end FlatIdent_28BB6=1;end if (1==FlatIdent_28BB6) then if (1==FlatIdent_F1F2) then local FlatIdent_2876F=0;while true do if (FlatIdent_2876F==1) then FlatIdent_F1F2=2;break;end if (FlatIdent_2876F==0) then velchg1=velchg1:Lerp(v3_0,deltaTime/2 );fw=(cfr.LookVector * velchg1)/32 ;FlatIdent_2876F=1;end end end break;end end end break;end if (0==FlatIdent_3A1C6) then FlatIdent_F1F2=0;fw=nil;FlatIdent_3A1C6=1;end end end local lastYvel=0;local velYchg1=0;local function velYchg() local FlatIdent_87DF2=0;while true do local FlatIdent_8AD85=0;while true do if (FlatIdent_8AD85==0) then if (FlatIdent_87DF2==0) then velYchg1=clamp(velYchg1 + (lastYvel-Yvel) , -50,50);lastYvel=Yvel;FlatIdent_87DF2=1;end if (1==FlatIdent_87DF2) then local FlatIdent_688B2=0;while true do if (FlatIdent_688B2==0) then velYchg1=velYchg1-(velYchg1 * (deltaTime/2)) ;return velYchg1;end end end break;end end end end local function rotToMouse(alpha) local FlatIdent_917C5=0;local mpos;while true do if (FlatIdent_917C5==0) then mpos=mouse.Hit.Position;cfr=cfr:Lerp(cf(pos,v3(mpos.X,pos.Y,mpos.Z)),alpha or deltaTime );break;end end end local function setWalkSpeed(n) local FlatIdent_101B7=0;while true do if (FlatIdent_101B7==0) then if (type(n)~=LUAOBFUSACTOR_DECRYPT_STR_0("\179\87\118\183\46\183","\92\221\34\27\213\75\197")) then n=16;end walkSpeed=n;break;end end end local function setJumpPower(n) local FlatIdent_5A929=0;local FlatIdent_9917B;while true do if (FlatIdent_5A929==0) then FlatIdent_9917B=0;while true do if (FlatIdent_9917B==0) then if (type(n)~=LUAOBFUSACTOR_DECRYPT_STR_0("\61\40\227\120\33\33","\68\83\93\142\26")) then n=50;end jumpPower=n;break;end end break;end end end local function setGravity(n) local FlatIdent_8585F=0;local FlatIdent_334A4;while true do if (0==FlatIdent_8585F) then FlatIdent_334A4=0;while true do if (FlatIdent_334A4==0) then if (type(n)~=LUAOBFUSACTOR_DECRYPT_STR_0("\140\187\195\15\9\23","\207\226\206\174\109\108\101")) then n=196.2;end gravity=n;break;end end break;end end end return {[LUAOBFUSACTOR_DECRYPT_STR_0("\183\74\61\242\233\77\233","\52\212\44\79\147\132\40\154")]=cframes,[LUAOBFUSACTOR_DECRYPT_STR_0("\229\175\199\215\251\179","\185\143\192\174")]=joints,[LUAOBFUSACTOR_DECRYPT_STR_0("\187\73\49\217\255","\129\221\37\88\183\152")]=predictionfling,[LUAOBFUSACTOR_DECRYPT_STR_0("\79\245\213\22\57\63\75\238\223\28\54\48\86\233\215","\92\63\135\176\114\80")]=predictionfling,[LUAOBFUSACTOR_DECRYPT_STR_0("\36\245\83\22\58\88\62\250\90\13\49\95\37","\43\86\144\53\100\95")]=refreshjoints1,[LUAOBFUSACTOR_DECRYPT_STR_0("\174\244\223\51\41\228\72\176\240\193\35","\60\220\149\166\80\72\151")]=raycastlegs,[LUAOBFUSACTOR_DECRYPT_STR_0("\154\45\179\240\149\43\185\224\154\45\188","\146\236\72\223")]=velbycfrvec,[LUAOBFUSACTOR_DECRYPT_STR_0("\168\252\72\192\211\23\188\224\71\197\201\6\187\250","\112\222\153\36\163\187")]=velchgbycfrvec,[LUAOBFUSACTOR_DECRYPT_STR_0("\210\246\225\105\39\173\195","\197\164\147\141\48\68")]=velYchg,[LUAOBFUSACTOR_DECRYPT_STR_0("\160\93\13\6\48\26\164","\126\193\57\105\107\95")]=addmode,[LUAOBFUSACTOR_DECRYPT_STR_0("\118\24\212\38\62\191\33","\85\17\125\160\118\95\205")]=getPart,[LUAOBFUSACTOR_DECRYPT_STR_0("\239\18\244\203\233\5\244\221\250\24\237\214\237\4\232","\155\136\119\128")]=getPartFromMesh,[LUAOBFUSACTOR_DECRYPT_STR_0("\92\206\15\193\244\169\181\71\87\207\61\242\248\167\175\71\72\195","\34\59\171\123\128\151\202\226")]=getAccWeldFromMesh,[LUAOBFUSACTOR_DECRYPT_STR_0("\127\224\104\233\70\49\118\241","\88\24\133\28\163\41")]=getJoint,[LUAOBFUSACTOR_DECRYPT_STR_0("\244\174\228\251\9\225\191\218\196\1\253\191","\104\147\203\144\171")]=getPartJoint,[LUAOBFUSACTOR_DECRYPT_STR_0("\89\29\72\137\68\63\83\168\88\23","\221\43\114\60")]=rotToMouse,[LUAOBFUSACTOR_DECRYPT_STR_0("\210\124\111\114\255\200\202\74\107\64\251\192","\164\161\25\27\37\158")]=setWalkSpeed,[LUAOBFUSACTOR_DECRYPT_STR_0("\32\64\216\157\10\62\85\252\184\8\54\87","\127\83\37\172\215")]=setJumpPower,[LUAOBFUSACTOR_DECRYPT_STR_0("\197\219\211\50\88\11\220\234\194\199","\131\182\190\167\117\42\106\170")]=setGravity};end btn(LUAOBFUSACTOR_DECRYPT_STR_0("\33\145\255\187\73\156\156\33\145\251\169\85\128\206","\188\66\227\154\222\57\229"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\108\50\89\89\245","\144\24\83\59\53")) then return;end local getJoint=t.getJoint;local rootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\30\143\186\217\49\35\137\187\217","\123\76\224\213\173"));local rightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\29\195\206\172\59\138\250\172\32\223\197\160\42\216","\196\79\170\169"));local leftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\175\62\35\105\195\8\45\114\150\55\33\120\145","\29\227\91\69"));local rightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\237\198\185\186\176\6\31\214\223","\87\191\175\222\210\196\38"));local leftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\127\237\113\246\131\230\90\248","\174\51\136\23\130\163"));local neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\19\16\49\1","\149\93\117\82\106\130"));t.setWalkSpeed(10);local euler=angles;local function jumplerp() local FlatIdent_7FA00=0;local sine;while true do if (FlatIdent_7FA00==0) then sine=sine * 60 ;neck.C0=neck.C0:Lerp(cf(0,0,0.5) * euler(0,0,3.141592653589793) ,deltaTime);FlatIdent_7FA00=1;end if (FlatIdent_7FA00==1) then local FlatIdent_51A3C=0;while true do if (FlatIdent_51A3C==1) then FlatIdent_7FA00=2;break;end if (FlatIdent_51A3C==0) then rootJoint.C0=rootJoint.C0:Lerp(cf(0, -1.4,0) * euler(3.141592653589793,0, -3.141592653589793) ,deltaTime);leftShoulder.C0=leftShoulder.C0:Lerp(cf( -1,1.5,0.3) * euler(1.7453292519943295,0, -0.17453292519943295) ,deltaTime);FlatIdent_51A3C=1;end end end if (FlatIdent_7FA00==2) then rightShoulder.C0=rightShoulder.C0:Lerp(cf(1,1.5,0.3) * euler(1.7453292519943295,0,0.17453292519943295) ,deltaTime);leftHip.C0=leftHip.C0:Lerp(cf( -1, -1.5,0.8) * euler(1.3962634015954636,0, -0.17453292519943295) ,deltaTime);FlatIdent_7FA00=3;end if (FlatIdent_7FA00==3) then rightHip.C0=rightHip.C0:Lerp(cf(1, -1.5,0.8) * euler(1.3962634015954636,0,0.17453292519943295) ,deltaTime);break;end end end t.addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\226\184\27\231\222\234\169","\171\134\221\125\134"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\185\32\245\115","\144\208\68\153\22")]=function() local sine=sine * 60 ;neck.C0=neck.C0:Lerp(cf(0,0,0.5) * euler(0.08726646259971647 * sin((sine + 20) * 0.05 ) ,0,3.141592653589793 + (0.3490658503988659 * sin((sine +  -30) * 0.025 )) ) ,deltaTime);rootJoint.C0=rootJoint.C0:Lerp(cf(0, -1.5 + (0.1 * sin(sine * 0.05 )) ,0) * euler(3.141592653589793,0, -3.1590459461097367 + (0.05235987755982989 * sin(sine * 0.025 )) ) ,deltaTime);leftShoulder.C0=leftShoulder.C0:Lerp(cf( -1,1.5, -0.1 * sin(sine * 0.05 ) ) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025 ) ) ,deltaTime);rightShoulder.C0=rightShoulder.C0:Lerp(cf(1,1.5, -0.1 * sin(sine * 0.05 ) ) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025 ) ) ,deltaTime);leftHip.C0=leftHip.C0:Lerp(cf( -1, -1.5,0.5 + ( -0.1 * sin((sine + 10) * 0.05 )) ) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025 ) ) ,deltaTime);rightHip.C0=rightHip.C0:Lerp(cf(1, -1.5,0.5 + ( -0.1 * sin((sine + 10) * 0.05 )) ) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025 ) ) ,deltaTime);end,[LUAOBFUSACTOR_DECRYPT_STR_0("\246\27\41\7","\174\129\122\69\108\165\54\119")]=function() local FlatIdent_674F6=0;local sine;while true do if (FlatIdent_674F6==2) then local FlatIdent_54CC5=0;while true do if (FlatIdent_54CC5==0) then rightShoulder.C0=rightShoulder.C0:Lerp(cf(1,1.5 + (0.5 * sin((sine +  -7.5) * 0.2 )) ,0.3 + (0.2 * sin((sine + 5) * 0.2 )) ) * euler(1.6580627893946132 + (0.17453292519943295 * sin(sine * 0.2 )) ,0, -0.08726646259971647 * sin(sine * 0.2 ) ) ,deltaTime);leftHip.C0=leftHip.C0:Lerp(cf( -1, -1.5 + (0.5 * sin((sine +  -7.5) * 0.2 )) ,0.5 + (0.2 * sin((sine + 5) * 0.2 )) ) * euler(1.6580627893946132 + (0.17453292519943295 * sin(sine * 0.2 )) ,0, -0.08726646259971647 * sin(sine * 0.2 ) ) ,deltaTime);FlatIdent_54CC5=1;end if (FlatIdent_54CC5==1) then FlatIdent_674F6=3;break;end end end if (FlatIdent_674F6==0) then local FlatIdent_8E12E=0;while true do if (FlatIdent_8E12E==1) then FlatIdent_674F6=1;break;end if (FlatIdent_8E12E==0) then sine=sine * 60 ;neck.C0=neck.C0:Lerp(cf(0,0,0.5) * euler(0.17453292519943295,0.03490658503988659 * sin((sine + 2.5) * 0.2 ) ,3.141592653589793 + ( -0.17453292519943295 * sin((sine +  -10) * 0.2 )) ) ,deltaTime);FlatIdent_8E12E=1;end end end if (FlatIdent_674F6==3) then rightHip.C0=rightHip.C0:Lerp(cf(1, -1.5 + (0.5 * sin((sine + 10) * 0.2 )) ,0.5 + (0.2 * sin((sine +  -7.5) * 0.2 )) ) * euler(1.6580627893946132 + ( -0.17453292519943295 * sin(sine * 0.2 )) ,0, -0.08726646259971647 * sin(sine * 0.2 ) ) ,deltaTime);break;end if (FlatIdent_674F6==1) then local FlatIdent_45FBD=0;while true do if (FlatIdent_45FBD==0) then rootJoint.C0=rootJoint.C0:Lerp(cf(0, -1.5,0) * euler(3.0543261909900767,0.08726646259971647 * sin((sine + 7.5) * 0.2 ) , -3.1590459461097367 + ( -0.08726646259971647 * sin(sine * 0.2 )) ) ,deltaTime);leftShoulder.C0=leftShoulder.C0:Lerp(cf( -1,1.5 + (0.5 * sin((sine + 10) * 0.2 )) ,0.3 + (0.2 * sin((sine +  -10) * 0.2 )) ) * euler(1.6580627893946132 + (0.17453292519943295 * sin((sine + 15) * 0.2 )) ,0, -0.08726646259971647 * sin(sine * 0.2 ) ) ,deltaTime);FlatIdent_45FBD=1;end if (1==FlatIdent_45FBD) then FlatIdent_674F6=2;break;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\243\200\215\249","\137\153\189\186")]=jumplerp,[LUAOBFUSACTOR_DECRYPT_STR_0("\23\207\17\73","\37\113\174\125")]=jumplerp});end);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\95\69\73\172\93\65\87\186\17\69\74\160\92\69\80\160\94\74\87\233\103\28","\201\49\36\36"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\16\47\168\124\1","\16\100\78\202")) then return;end local raycastlegs=t.raycastlegs;local velbycfrvec=t.velbycfrvec;local addmode=t.addmode;local getJoint=t.getJoint;local velYchg=t.velYchg;local setWalkSpeed=t.setWalkSpeed;local RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\143\179\127\226\169\77\66\165\169","\203\221\220\16\150\227\34\43"));local RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\201\45\124\112\239\100\72\112\244\49\119\124\254\54","\24\155\68\27"));local LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\150\85\214\70\250\99\216\93\175\92\212\87\168","\50\218\48\176"));local RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\124\91\211\248\79\20\102\91\196","\52\46\50\180\144\59"));local LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\33\52\35\99\70\17\243\29","\154\109\81\69\23\102\89"));local Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\212\206\223\95","\89\154\171\188\52\33"));addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\242\17\10\55\227\24\24","\86\150\116\108"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\126\187\32\171","\38\23\223\76\206\161")]=function() local FlatIdent_52AD4=0;local FlatIdent_4B897;local rY;local lY;local Ychg;while true do if (FlatIdent_52AD4==1) then lY=nil;Ychg=nil;FlatIdent_52AD4=2;end if (FlatIdent_52AD4==2) then while true do if (FlatIdent_4B897==3) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.09 + (0.1 * sin(sine * 1.3 )) + Ychg ,0.025 * sin(sine * 1.3 ) ) * angles( -1.5707963267948966 + (0.026179938779914945 * sin(sine * 1.3 )) ,0,3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.53588974175501 -(0.026179938779914945 * sin((sine + 1) * 1.3 )) ,0.05235987755982989 * sin((sine-0.6) * 0.65 ) ,3.141592653589793) ,deltaTime);break;end if (FlatIdent_4B897==2) then local FlatIdent_5F9B=0;while true do if (FlatIdent_5F9B==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,(( -1.09 -(0.1 * sin(sine * 1.3 ))) + lY) -Ychg ,lY *  -0.5 ) * angles( -0.026179938779914945 * sin(sine * 1.3 ) , -1.3962634015954636,0) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,(( -1.09 -(0.1 * sin(sine * 1.3 ))) + rY) -Ychg ,rY *  -0.5 ) * angles( -0.026179938779914945 * sin(sine * 1.3 ) ,1.3962634015954636,0) ,deltaTime);FlatIdent_5F9B=1;end if (FlatIdent_5F9B==1) then FlatIdent_4B897=3;break;end end end if (0==FlatIdent_4B897) then local FlatIdent_147D6=0;while true do if (1==FlatIdent_147D6) then FlatIdent_4B897=1;break;end if (FlatIdent_147D6==0) then rY,lY=raycastlegs();Ychg=velYchg()/20 ;FlatIdent_147D6=1;end end end if (1==FlatIdent_4B897) then local FlatIdent_6626A=0;while true do if (FlatIdent_6626A==1) then FlatIdent_4B897=2;break;end if (FlatIdent_6626A==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5 + (0.1 * sin((sine-1) * 1.3 )) ,0.05 * sin((sine-0.3) * 1.3 ) ) * angles(0.5235987755982988 + (0.08726646259971647 * sin(sine * 1 )) , -1.4835298641951802 + (0.10471975511965978 * sin(sine * 1.3 )) ,0.5235987755982988) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5 + (0.1 * sin((sine-1) * 1.3 )) ,0.05 * sin((sine-0.3) * 1.3 ) ) * angles(0.5235987755982988 + (0.08726646259971647 * sin(sine * 1 )) ,1.4835298641951802 -(0.10471975511965978 * sin(sine * 1.3 )) , -0.5235987755982988) ,deltaTime);FlatIdent_6626A=1;end end end end break;end if (FlatIdent_52AD4==0) then FlatIdent_4B897=0;rY=nil;FlatIdent_52AD4=1;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\207\200\84\48","\166\184\169\56\91\195\202")]=function() local FlatIdent_7D471=0;local FlatIdent_44ED1;local Vfw;local Vrt;local rY;local lY;local Ychg;while true do if (FlatIdent_7D471==2) then lY=nil;Ychg=nil;FlatIdent_7D471=3;end if (FlatIdent_7D471==1) then Vrt=nil;rY=nil;FlatIdent_7D471=2;end if (FlatIdent_7D471==0) then FlatIdent_44ED1=0;Vfw=nil;FlatIdent_7D471=1;end if (FlatIdent_7D471==3) then while true do if (FlatIdent_44ED1==1) then local FlatIdent_706CB=0;while true do if (FlatIdent_706CB==0) then Ychg=velYchg()/20 ;LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles( -0.7853981633974483 * sin((sine + 0.07) * 8 ) * Vfw , -1.5707963267948966 + (0.5235987755982988 * sin((sine + 0.15) * 8 )) ,0) ,deltaTime);FlatIdent_706CB=1;end if (FlatIdent_706CB==1) then FlatIdent_44ED1=2;break;end end end if (4==FlatIdent_44ED1) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,(0.2 * sin((sine + 0.1) * 16 )) + Ychg ,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);break;end if (FlatIdent_44ED1==0) then local FlatIdent_245AA=0;while true do if (0==FlatIdent_245AA) then Vfw,Vrt=velbycfrvec();rY,lY=raycastlegs();FlatIdent_245AA=1;end if (FlatIdent_245AA==1) then FlatIdent_44ED1=1;break;end end end if (FlatIdent_44ED1==2) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0.7853981633974483 * sin((sine + 0.07) * 8 ) * Vfw ,1.5707963267948966 + (0.5235987755982988 * sin((sine + 0.15) * 8 )) ,0) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 + (0.3 * sin((sine-0.15) * 8 )) + rY) -Ychg ,rY *  -0.5 ) * angles(1.5707963267948966 -(0.9599310885968813 * sin(sine * 8 ) * Vfw) ,1.5707963267948966 -(0.7853981633974483 * sin(sine * 8 ) * Vrt) , -1.5707963267948966) ,deltaTime);FlatIdent_44ED1=3;end if (FlatIdent_44ED1==3) then local FlatIdent_2B679=0;while true do if (FlatIdent_2B679==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 + (0.3 * sin((sine + 0.15) * 8 )) + lY) -Ychg ,lY *  -0.5 ) * angles(1.5707963267948966 + (0.9599310885968813 * sin(sine * 8 ) * Vfw) , -1.5707963267948966 + (0.7853981633974483 * sin(sine * 8 ) * Vrt) ,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 16 )) ,0,(3.141592653589793 + (0.08726646259971647 * sin((sine + 0.04) * 8 ))) -Vrt ) ,deltaTime);FlatIdent_2B679=1;end if (1==FlatIdent_2B679) then FlatIdent_44ED1=4;break;end end end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\173\165\124\52","\162\199\208\17\68")]=function() local FlatIdent_DCCB=0;local Vfw;local Vrt;while true do if (FlatIdent_DCCB==3) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3962634015954636,0, -3.141592653589793 -Vrt ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_DCCB==0) then local FlatIdent_3B423=0;while true do if (FlatIdent_3B423==1) then FlatIdent_DCCB=1;break;end if (0==FlatIdent_3B423) then velYchg();Vfw,Vrt=velbycfrvec();FlatIdent_3B423=1;end end end if (2==FlatIdent_DCCB) then local FlatIdent_74B31=0;while true do if (FlatIdent_74B31==1) then FlatIdent_DCCB=3;break;end if (FlatIdent_74B31==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_74B31=1;end end end if (FlatIdent_DCCB==1) then local FlatIdent_4348D=0;while true do if (FlatIdent_4348D==1) then FlatIdent_DCCB=2;break;end if (0==FlatIdent_4348D) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0) * angles( -1.4835298641951802 + (Vfw * 0.1) ,Vrt *  -0.05 , -3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_4348D=1;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\215\231\83\13","\123\177\134\63\97\140\110\48")]=function() local FlatIdent_916AB=0;local Vfw;local Vrt;while true do if (FlatIdent_916AB==2) then local FlatIdent_781AA=0;while true do if (FlatIdent_781AA==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_781AA=1;end if (FlatIdent_781AA==1) then FlatIdent_916AB=3;break;end end end if (FlatIdent_916AB==1) then local FlatIdent_228F5=0;while true do if (FlatIdent_228F5==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0) * angles( -1.6580627893946132 + (Vfw * 0.1) ,Vrt *  -0.05 , -3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_228F5=1;end if (FlatIdent_228F5==1) then FlatIdent_916AB=2;break;end end end if (FlatIdent_916AB==3) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.7453292519943295,0, -3.141592653589793 -Vrt ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end if (0==FlatIdent_916AB) then local FlatIdent_74083=0;while true do if (FlatIdent_74083==1) then FlatIdent_916AB=1;break;end if (FlatIdent_74083==0) then velYchg();Vfw,Vrt=velbycfrvec();FlatIdent_74083=1;end end end end end});addmode("q",{[LUAOBFUSACTOR_DECRYPT_STR_0("\57\80\248\198","\137\80\52\148\163\146\123\21")]=function() local FlatIdent_52E0C=0;while true do if (3==FlatIdent_52E0C) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.03490658503988659 * sin(sine * 2 )) , -1.3089969389957472,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_52E0C==2) then local FlatIdent_834A0=0;while true do if (FlatIdent_834A0==1) then FlatIdent_52E0C=3;break;end if (FlatIdent_834A0==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -2.45 -(0.05 * sin(sine * 2 )) ,0) * angles(0.03490658503988659 * sin(sine * 2 ) ,0,3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) ,1.3089969389957472, -0.9599310885968813) ,deltaTime);FlatIdent_834A0=1;end end end if (FlatIdent_52E0C==0) then local FlatIdent_662A6=0;while true do if (FlatIdent_662A6==1) then FlatIdent_52E0C=1;break;end if (FlatIdent_662A6==0) then velYchg();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) , -2.792526803190927, -0.6981317007977318) ,deltaTime);FlatIdent_662A6=1;end end end if (FlatIdent_52E0C==1) then local FlatIdent_3AF6C=0;while true do if (1==FlatIdent_3AF6C) then FlatIdent_52E0C=2;break;end if (FlatIdent_3AF6C==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) ,2.792526803190927,0.6981317007977318) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.9198621771937625 -(0.10471975511965978 * sin((sine + 0.3) * 2 )) ,0,3.141592653589793) ,deltaTime);FlatIdent_3AF6C=1;end end end end end});addmode("e",{[LUAOBFUSACTOR_DECRYPT_STR_0("\241\196\175\251","\99\152\160\195\158")]=function() local FlatIdent_1DC44=0;while true do if (FlatIdent_1DC44==0) then local FlatIdent_49485=0;while true do if (FlatIdent_49485==0) then velYchg();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9,0.4 + (0.1 * sin(sine * 2 )) ,0.3 -(0.15 * sin(sine * 2 )) ) * angles( -1.0471975511965976 -(0.12217304763960307 * sin(sine * 2 )) , -1.3962634015954636, -0.6981317007977318) ,deltaTime);FlatIdent_49485=1;end if (FlatIdent_49485==1) then FlatIdent_1DC44=1;break;end end end if (FlatIdent_1DC44==1) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -1.85 -(0.1 * sin((sine + 0.2) * 2 )) ,0) * angles( -1.3962634015954636 + (0.03490658503988659 * sin(sine * 2 )) , -0.08726646259971647,3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.4 + (0.1 * sin(sine * 2 )) ,0.2 -(0.15 * sin(sine * 2 )) ) * angles(0.6108652381980153 -(0.12217304763960307 * sin(sine * 2 )) ,1.2217304763960306, -0.7853981633974483) ,deltaTime);FlatIdent_1DC44=2;end if (FlatIdent_1DC44==2) then local FlatIdent_50385=0;while true do if (FlatIdent_50385==1) then FlatIdent_1DC44=3;break;end if (0==FlatIdent_50385) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.03490658503988659 * sin((sine + 0.6) * 2 )) ,0.10471975511965978 + (0.06981317007977318 * sin(sine * 0.66 )) ,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,0.2 + (0.15 * sin((sine + 0.2) * 2 )) , -0.7 + (0.1 * sin(sine * 2 )) ) * angles(1.4835298641951802 + (0.03490658503988659 * sin(sine * 2 )) ,1.4835298641951802, -1.5707963267948966) ,deltaTime);FlatIdent_50385=1;end end end if (FlatIdent_1DC44==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.75 + (0.1 * sin((sine + 0.2) * 2 )) , -0.5) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) , -1.6580627893946132,0) ,deltaTime);break;end end end});addmode("r",{[LUAOBFUSACTOR_DECRYPT_STR_0("\142\51\218\59","\95\231\87\182\94\125")]=function() local FlatIdent_54B77=0;local FlatIdent_772BD;local Ychg;while true do if (FlatIdent_54B77==0) then FlatIdent_772BD=0;Ychg=nil;FlatIdent_54B77=1;end if (FlatIdent_54B77==1) then while true do if (FlatIdent_772BD==2) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1 + (0.1 * sin(sine * 7 )) ,0.2 -(0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 + (0.5235987755982988 * sin(sine * 7 )) , -0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.9 -(0.2 * sin(sine * 2 ))) -Ychg ,0) * angles(1.5707963267948966, -1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) ,1.5707963267948966) ,deltaTime);FlatIdent_772BD=3;end if (FlatIdent_772BD==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.1 * sin(sine * 7 )) ,0.2 + (0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 -(0.5235987755982988 * sin(sine * 7 )) ,0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);break;end if (FlatIdent_772BD==1) then local FlatIdent_40F18=0;while true do if (1==FlatIdent_40F18) then FlatIdent_772BD=2;break;end if (FlatIdent_40F18==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0.3 * sin(sine + 0.8 ) , -0.1 + (0.2 * sin(sine * 2 )) + Ychg ,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine-0.5) * 2 )) ,0.08726646259971647 * sin(sine-1 ) , -3.141592653589793 + (0.2617993877991494 * sin(sine * 5 )) ) ,deltaTime);FlatIdent_40F18=1;end end end if (FlatIdent_772BD==0) then Ychg=velYchg()/20 ;RightHip.C0=RightHip.C0:Lerp(cf(1,( -0.9 -(0.2 * sin(sine * 2 ))) -Ychg ,0) * angles(1.5707963267948966,1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) , -1.5707963267948966) ,deltaTime);FlatIdent_772BD=1;end end break;end end end});addmode("t",{[LUAOBFUSACTOR_DECRYPT_STR_0("\81\205\244\49","\115\56\169\152\84\105\28")]=function() local FlatIdent_4F439=0;local FlatIdent_13AEB;local Ychg;while true do if (FlatIdent_4F439==0) then FlatIdent_13AEB=0;Ychg=nil;FlatIdent_4F439=1;end if (1==FlatIdent_4F439) then while true do if (FlatIdent_13AEB==0) then local FlatIdent_7902A=0;while true do if (FlatIdent_7902A==0) then Ychg=velYchg()/20 ;LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(1.5707963267948966, -1.6580627893946132 + (0.08726646259971647 * sin((sine-0.3) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_7902A=1;end if (FlatIdent_7902A==1) then FlatIdent_13AEB=1;break;end end end if (FlatIdent_13AEB==2) then local FlatIdent_5A6B8=0;while true do if (FlatIdent_5A6B8==1) then FlatIdent_13AEB=3;break;end if (FlatIdent_5A6B8==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0.1 * sin(sine * 4 ) ,Ychg,0) * angles( -1.5707963267948966, -0.08726646259971647 + (0.08726646259971647 * sin(sine * 4 )) , -3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -1.1 + (0.1 * sin(sine * 4 ))) -Ychg ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.08726646259971647 * sin(sine * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_5A6B8=1;end end end if (FlatIdent_13AEB==1) then local FlatIdent_7093B=0;while true do if (0==FlatIdent_7093B) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.15 * sin((sine-0.4) * 4 )) ,1.42,0) * angles(1.5707963267948966,1.4835298641951802 -(0.3490658503988659 * sin((sine-0.4) * 4 )) ,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.4835298641951802,0.04363323129985824 -(0.08726646259971647 * sin((sine + 0.1) * 4 )) , -3.141592653589793 + (0.04363323129985824 * sin(sine * 4 )) ) ,deltaTime);FlatIdent_7093B=1;end if (FlatIdent_7093B==1) then FlatIdent_13AEB=2;break;end end end if (3==FlatIdent_13AEB) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1 -(0.02 * sin(sine * 4 )) ,( -0.925 -(0.07 * sin(sine * 4 ))) -Ychg ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.08726646259971647 * sin(sine * 4 )) ,1.5707963267948966) ,deltaTime);break;end end break;end end end});addmode("y",{[LUAOBFUSACTOR_DECRYPT_STR_0("\55\225\141\74","\37\94\133\225\47\214")]=function() local FlatIdent_E28E=0;local FlatIdent_4B329;local Ychg;while true do if (1==FlatIdent_E28E) then while true do if (FlatIdent_4B329==2) then local FlatIdent_5F20A=0;while true do if (FlatIdent_5F20A==1) then FlatIdent_4B329=3;break;end if (FlatIdent_5F20A==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -2.0943951023931953 + (0.08726646259971647 * sin((sine-1) * 2 )) , -0.08726646259971647,2.792526803190927) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,1.2000000476837158,0) * angles(2.6179938779914944 + (0.08726646259971647 * sin((sine-1) * 2 )) ,0.6981317007977318, -1.3962634015954636) ,deltaTime);FlatIdent_5F20A=1;end end end if (FlatIdent_4B329==3) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,(0.1 * sin(sine * 2 )) + Ychg ,0) * angles( -1.6580627893946132,0.08726646259971647,3.0543261909900767) ,deltaTime);break;end if (FlatIdent_4B329==1) then local FlatIdent_782B8=0;while true do if (1==FlatIdent_782B8) then FlatIdent_4B329=2;break;end if (FlatIdent_782B8==0) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -0.9000000953674316 -(0.1 * sin(sine * 2 ))) -Ychg ,0) * angles( -1.3962634015954636,1.3962634015954636,1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1.0000001192092896 -(0.1 * sin(sine * 2 ))) -Ychg ,0) * angles( -1.5707963267948966, -1.3962634015954636, -1.5707963267948966) ,deltaTime);FlatIdent_782B8=1;end end end if (FlatIdent_4B329==0) then Ychg=velYchg()/20 ;LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles( -1.7453292519943295,0.17453292519943295 -(0.04363323129985824 * sin(sine * 2 )) , -1.4835298641951802) ,deltaTime);FlatIdent_4B329=1;end end break;end if (FlatIdent_E28E==0) then FlatIdent_4B329=0;Ychg=nil;FlatIdent_E28E=1;end end end});addmode("u",{[LUAOBFUSACTOR_DECRYPT_STR_0("\94\208\90\91","\62\55\180\54")]=function() local FlatIdent_58BB3=0;while true do if (FlatIdent_58BB3==0) then velYchg();RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.75 + (0.25 * sin(sine * 2 )) ,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);FlatIdent_58BB3=1;end if (FlatIdent_58BB3==2) then local FlatIdent_42B98=0;while true do if (FlatIdent_42B98==0) then RightHip.C0=RightHip.C0:Lerp(cf(0.5 + (1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) , -1 * sin((sine + 0.95) * 2.2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf( -0.5 -(1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) , -1.85 * sin((sine + 0.75) * 2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_42B98=1;end if (FlatIdent_42B98==1) then FlatIdent_58BB3=3;break;end end end if (3==FlatIdent_58BB3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(0.5 + (1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) ,1.85 * sin((sine + 0.75) * 2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);break;end if (FlatIdent_58BB3==1) then local FlatIdent_74AD2=0;while true do if (1==FlatIdent_74AD2) then FlatIdent_58BB3=2;break;end if (FlatIdent_74AD2==0) then Neck.C0=Neck.C0:Lerp(cf(0,1.5 -(0.1 * sin((sine + 0.2) * 2 )) ,0) * angles( -1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.4) * 2 )) ,0,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -0.5 -(1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) ,1 * sin((sine + 0.95) * 2.2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);FlatIdent_74AD2=1;end end end end end});addmode("i",{[LUAOBFUSACTOR_DECRYPT_STR_0("\242\254\36\195","\123\155\154\72\166\34\36\206")]=function() local FlatIdent_33966=0;local FlatIdent_8E526;local Ychg;while true do if (FlatIdent_33966==1) then while true do if (FlatIdent_8E526==2) then local FlatIdent_6EC93=0;while true do if (FlatIdent_6EC93==0) then Neck.C0=Neck.C0:Lerp(cf(0,1 + (0.2 * sin(sine * 9 )) ,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 9 )) ,0.08726646259971647 * sin(sine * 4.5 ) ,3.141592653589793 -(0.06981317007977318 * sin(sine * 4.5 )) ) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) ,0.5235987755982988, -1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_6EC93=1;end if (FlatIdent_6EC93==1) then FlatIdent_8E526=3;break;end end end if (FlatIdent_8E526==3) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -0.5 + (0.1 * sin((sine-0.26666666666666666) * 4.5 ))) -Ychg , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 4.5 )) ,1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_8E526==0) then local FlatIdent_207DC=0;while true do if (1==FlatIdent_207DC) then FlatIdent_8E526=1;break;end if (FlatIdent_207DC==0) then Ychg=velYchg()/20 ;LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) , -0.5235987755982988,1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_207DC=1;end end end if (1==FlatIdent_8E526) then local FlatIdent_4488E=0;while true do if (FlatIdent_4488E==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.5 + (0.1 * sin((sine + 0.26666666666666666) * 4.5 ))) -Ychg , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 4.5 )) , -1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) ,1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.5 + (0.5 * sin((sine + 0.17777777777777778) * 9 )) + Ychg ,0) * angles( -1.3962634015954636 -(0.03490658503988659 * sin((sine + 0.17777777777777778) * 9 )) , -0.05235987755982989 * sin(sine * 4.5 ) ,3.141592653589793 + (0.03490658503988659 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_4488E=1;end if (FlatIdent_4488E==1) then FlatIdent_8E526=2;break;end end end end break;end if (0==FlatIdent_33966) then FlatIdent_8E526=0;Ychg=nil;FlatIdent_33966=1;end end end});addmode("o",{[LUAOBFUSACTOR_DECRYPT_STR_0("\207\219\52\166","\69\166\191\88\195")]=function() local Ychg=velYchg()/20 ;local rY,lY=raycastlegs();LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 + lY) -Ychg ,lY *  -0.5 ) * angles( -1.8325957145940461 -(0.08726646259971647 * sin(sine * 2 )) , -1.4835298641951802, -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,Ychg,0.09 * sin(sine * 2 ) ) * angles( -1.3962634015954636 + (0.08726646259971647 * sin(sine * 2 )) , -0.08726646259971647,3.141592653589793) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(2.9670597283903604 + (0.08726646259971647 * sin(sine * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -1.1 + rY) -Ychg ,rY *  -0.5 ) * angles( -1.7453292519943295 -(0.08726646259971647 * sin(sine * 2 )) ,1.5707963267948966,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.2217304763960306 -(0.08726646259971647 * sin((sine + 0.3) * 2 )) , -0.2617993877991494 -(0.08726646259971647 * sin(sine * 2 )) ,3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(2.8797932657906435 + (0.08726646259971647 * sin(sine * 1 )) ,1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);end,[LUAOBFUSACTOR_DECRYPT_STR_0("\174\123\34\73","\234\217\26\78\34\230\214\78")]=function() local FlatIdent_3383B=0;local FlatIdent_212D3;local Ychg;local Vfw;local Vrt;local rY;local lY;while true do if (2==FlatIdent_3383B) then rY=nil;lY=nil;FlatIdent_3383B=3;end if (FlatIdent_3383B==1) then Vfw=nil;Vrt=nil;FlatIdent_3383B=2;end if (FlatIdent_3383B==3) then while true do if (FlatIdent_212D3==4) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 + (0.3 * sin((sine + 0.15) * 8 )) + lY) -Ychg ,lY *  -0.5 ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vfw) , -1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vrt) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_212D3==3) then local FlatIdent_263AB=0;while true do if (FlatIdent_263AB==1) then FlatIdent_212D3=4;break;end if (FlatIdent_263AB==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(Vrt/3) , -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,(0.1 * sin((sine + 0.1) * 16 )) + Ychg ,0) * angles( -1.5707963267948966,0,3.141592653589793 -(0.08726646259971647 * sin(sine * 8 )) ) ,deltaTime);FlatIdent_263AB=1;end end end if (FlatIdent_212D3==0) then local FlatIdent_806BA=0;while true do if (FlatIdent_806BA==1) then FlatIdent_212D3=1;break;end if (FlatIdent_806BA==0) then Ychg=velYchg()/20 ;Vfw,Vrt=velbycfrvec();FlatIdent_806BA=1;end end end if (FlatIdent_212D3==2) then local FlatIdent_3B5FD=0;while true do if (1==FlatIdent_3B5FD) then FlatIdent_212D3=3;break;end if (FlatIdent_3B5FD==0) then RightHip.C0=RightHip.C0:Lerp(cf(1,(( -1 -(0.3 * sin((sine + 0.15) * 8 ))) + rY) -Ychg ,rY *  -0.5 ) * angles( -1.5707963267948966 -(0.6981317007977318 * sin(sine * 8 ) * Vfw) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vrt) ,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,(1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(Vrt/3) ,1.5707963267948966) ,deltaTime);FlatIdent_3B5FD=1;end end end if (FlatIdent_212D3==1) then local FlatIdent_952EB=0;while true do if (FlatIdent_952EB==1) then FlatIdent_212D3=2;break;end if (0==FlatIdent_952EB) then rY,lY=raycastlegs();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.04363323129985824 * sin(sine * 16 )) ,0,(3.141592653589793 + (0.08726646259971647 * sin(sine * 8 ))) -Vrt ) ,deltaTime);FlatIdent_952EB=1;end end end end break;end if (0==FlatIdent_3383B) then FlatIdent_212D3=0;Ychg=nil;FlatIdent_3383B=1;end end end});addmode("p",{[LUAOBFUSACTOR_DECRYPT_STR_0("\185\27\228\82","\42\208\127\136\55")]=function() local FlatIdent_20D5F=0;local FlatIdent_6426D;local Ychg;while true do if (FlatIdent_20D5F==1) then while true do if (FlatIdent_6426D==1) then local FlatIdent_4BB6=0;while true do if (FlatIdent_4BB6==1) then FlatIdent_6426D=2;break;end if (0==FlatIdent_4BB6) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 -Ychg ,0) * angles(0,1.5707963267948966,0) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793,1.5707963267948966) ,deltaTime);FlatIdent_4BB6=1;end end end if (3==FlatIdent_6426D) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,Ychg,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);break;end if (2==FlatIdent_6426D) then local FlatIdent_7F71D=0;while true do if (1==FlatIdent_7F71D) then FlatIdent_6426D=3;break;end if (FlatIdent_7F71D==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -Ychg ,0) * angles(0, -1.5707963267948966,0) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);FlatIdent_7F71D=1;end end end if (FlatIdent_6426D==0) then local FlatIdent_494F9=0;while true do if (FlatIdent_494F9==1) then FlatIdent_6426D=1;break;end if (0==FlatIdent_494F9) then Ychg=velYchg()/20 ;RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793, -1.5707963267948966) ,deltaTime);FlatIdent_494F9=1;end end end end break;end if (0==FlatIdent_20D5F) then FlatIdent_6426D=0;Ychg=nil;FlatIdent_20D5F=1;end end end});addmode("f",{[LUAOBFUSACTOR_DECRYPT_STR_0("\124\87\205\44\131\226\91\116\74\204\45","\47\17\56\169\73\198\140")]=function() setWalkSpeed(25);end,[LUAOBFUSACTOR_DECRYPT_STR_0("\43\49\80\70","\224\66\85\60\35\205")]=function() local FlatIdent_63948=0;while true do if (FlatIdent_63948==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_63948==2) then local FlatIdent_85126=0;while true do if (FlatIdent_85126==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,5 -(0.5 * sin((sine-0.2) * 1 )) ,0.2 * sin((sine-1.2) * 1 ) ) * angles( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 )) ,0.08726646259971647 * sin(sine * 0.5 ) ,3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_85126=1;end if (FlatIdent_85126==1) then FlatIdent_63948=3;break;end end end if (FlatIdent_63948==1) then local FlatIdent_C13B=0;while true do if (FlatIdent_C13B==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 )) ,0.08726646259971647 * sin((sine + 0.2) * 0.5 ) , -2.9670597283903604) ,deltaTime);FlatIdent_C13B=1;end if (FlatIdent_C13B==1) then FlatIdent_63948=2;break;end end end if (FlatIdent_63948==0) then local FlatIdent_21669=0;while true do if (FlatIdent_21669==0) then velYchg();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);FlatIdent_21669=1;end if (FlatIdent_21669==1) then FlatIdent_63948=1;break;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\239\59\112\80","\179\152\90\28\59\82\45")]=function() local FlatIdent_36690=0;local Vfw;local Vrt;while true do if (FlatIdent_36690==1) then local FlatIdent_99057=0;while true do if (FlatIdent_99057==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.1) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) + (Vrt * 0.2) , -1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);FlatIdent_99057=1;end if (FlatIdent_99057==1) then FlatIdent_36690=2;break;end end end if (2==FlatIdent_36690) then local FlatIdent_947A=0;while true do if (FlatIdent_947A==1) then FlatIdent_36690=3;break;end if (FlatIdent_947A==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles(( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 ))) + (Vfw * 0.1) ,(0.08726646259971647 * sin((sine + 0.2) * 0.5 )) -(Vrt * 0.2) , -2.9670597283903604) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,5 -(0.5 * sin((sine-0.2) * 1 )) ,0.2 * sin((sine-1.2) * 1 ) ) * angles(( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 ))) -(Vfw * 0.2) ,0.08726646259971647 * sin(sine * 0.5 ) ,3.141592653589793 -(Vrt * 0.2) ) ,deltaTime);FlatIdent_947A=1;end end end if (FlatIdent_36690==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles((1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.2) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles((1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.2) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_36690==0) then local FlatIdent_52DF2=0;while true do if (1==FlatIdent_52DF2) then FlatIdent_36690=1;break;end if (FlatIdent_52DF2==0) then velYchg();Vfw,Vrt=velbycfrvec();FlatIdent_52DF2=1;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\164\253\56\5\97\65\175\230","\36\201\146\92\96\45")]=function() setWalkSpeed(16);end});addmode("g",{[LUAOBFUSACTOR_DECRYPT_STR_0("\224\194\241\64","\145\137\166\157\37\164\151\156")]=function() local FlatIdent_3CB60=0;local FlatIdent_54957;local Ychg;while true do if (FlatIdent_3CB60==1) then while true do if (FlatIdent_54957==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.9 + (0.4 * sin(sine * 8 )) ,0.5, -0.5 * sin((sine-0.35) * 4 ) ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 )) ,1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) , -1.5707963267948966 + (0.17453292519943295 * sin((sine-0.35) * 4 )) ) ,deltaTime);break;end if (1==FlatIdent_54957) then local FlatIdent_43EAB=0;while true do if (FlatIdent_43EAB==1) then FlatIdent_54957=2;break;end if (FlatIdent_43EAB==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0.3 * sin((sine + 0.4) * 8 ) ,Ychg,0) * angles( -1.5707963267948966,0.3490658503988659 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.061086523819801536 * sin((sine + 0.125) * 16 )) , -0.3839724354387525 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_43EAB=1;end end end if (FlatIdent_54957==0) then Ychg=velYchg()/20 ;LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9 + (0.4 * sin(sine * 8 )) ,0.5,0.5 * sin((sine + 0.25) * 4 ) ) * angles(1.5707963267948966, -1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) ,1.5707963267948966 + (0.6981317007977318 * sin((sine + 0.25) * 4 )) ) ,deltaTime);FlatIdent_54957=1;end if (FlatIdent_54957==2) then local FlatIdent_22868=0;while true do if (FlatIdent_22868==1) then FlatIdent_54957=3;break;end if (0==FlatIdent_22868) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 + (0.4 * sin((sine-0.01) * 8 ))) -Ychg ,0) * angles(1.5707963267948966,1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 -(0.4 * sin((sine-0.01) * 8 ))) -Ychg ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);FlatIdent_22868=1;end end end end break;end if (FlatIdent_3CB60==0) then FlatIdent_54957=0;Ychg=nil;FlatIdent_3CB60=1;end end end});addmode("h",{[LUAOBFUSACTOR_DECRYPT_STR_0("\7\29\75\121","\20\110\121\39\28\187")]=function() local FlatIdent_2C822=0;local FlatIdent_81F17;local Ychg;while true do if (FlatIdent_2C822==0) then FlatIdent_81F17=0;Ychg=nil;FlatIdent_2C822=1;end if (FlatIdent_2C822==1) then while true do if (FlatIdent_81F17==1) then local FlatIdent_92B22=0;while true do if (FlatIdent_92B22==0) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 + (0.3 * sin(sine * 8 ))) -Ychg ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,1,0) * angles( -0.5235987755982988, -1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);FlatIdent_92B22=1;end if (FlatIdent_92B22==1) then FlatIdent_81F17=2;break;end end end if (FlatIdent_81F17==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 -(0.3 * sin(sine * 8 ))) -Ychg ,0) * angles(1.5707963267948966, -1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_81F17==2) then local FlatIdent_324FE=0;while true do if (FlatIdent_324FE==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,1,0) * angles( -0.5235987755982988,1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf( -0.1 * sin(sine * 8 ) ,(0.2 * sin((sine + 0.1) * 16 )) + Ychg ,0) * angles( -1.5707963267948966,0.2617993877991494 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_324FE=1;end if (FlatIdent_324FE==1) then FlatIdent_81F17=3;break;end end end if (0==FlatIdent_81F17) then Ychg=velYchg()/20 ;Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966, -0.4363323129985824 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_81F17=1;end end break;end end end});addmode("j",{[LUAOBFUSACTOR_DECRYPT_STR_0("\7\245\8\34","\194\110\145\100\71\52\124")]=function() local FlatIdent_8BBE3=0;local FlatIdent_14E41;local Ychg;while true do if (0==FlatIdent_8BBE3) then FlatIdent_14E41=0;Ychg=nil;FlatIdent_8BBE3=1;end if (FlatIdent_8BBE3==1) then while true do if (FlatIdent_14E41==1) then local FlatIdent_39506=0;while true do if (FlatIdent_39506==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.2,0.5,0) * angles( -0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,0.6981317007977318 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1.1, -1,0) * angles(1.5707963267948966,1.7453292519943295, -1.5707963267948966) ,deltaTime);FlatIdent_39506=1;end if (FlatIdent_39506==1) then FlatIdent_14E41=2;break;end end end if (FlatIdent_14E41==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 + (0.4 * sin(sine * 4 )) ,0.6 + (0.1 * sin(sine * 4 )) ,0.4 -(0.25 * sin(sine * 4 )) ) * angles(2.9670597283903604,2.2689280275926285 -(0.17453292519943295 * sin(sine * 4 )) , -1.4835298641951802 -(0.17453292519943295 * sin(sine * 4 )) ) ,deltaTime);break;end if (FlatIdent_14E41==2) then local FlatIdent_8B814=0;while true do if (0==FlatIdent_8B814) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,2.792526803190927) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0, -1.7 + (0.5 * sin(sine * 4 )) + Ychg ,0.15 * sin(sine * 4 ) ) * angles(3.3161255787892263 + (0.17453292519943295 * sin(sine * 4 )) ,0,3.6651914291880923) ,deltaTime);FlatIdent_8B814=1;end if (FlatIdent_8B814==1) then FlatIdent_14E41=3;break;end end end if (FlatIdent_14E41==0) then local FlatIdent_39A95=0;while true do if (FlatIdent_39A95==0) then Ychg=velYchg()/20 ;LeftHip.C0=LeftHip.C0:Lerp(cf( -0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318,0) ,deltaTime);FlatIdent_39A95=1;end if (FlatIdent_39A95==1) then FlatIdent_14E41=1;break;end end end end break;end end end});addmode("k",{[LUAOBFUSACTOR_DECRYPT_STR_0("\123\237\72\171","\118\18\137\36\206\164\121\59")]=function() local FlatIdent_4AAB=0;local Ychg;while true do if (1==FlatIdent_4AAB) then local FlatIdent_89852=0;while true do if (FlatIdent_89852==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 ))) -Ychg , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 6 )) , -1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 ))) -Ychg , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 6 )) ,1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) , -1.5707963267948966) ,deltaTime);FlatIdent_89852=1;end if (FlatIdent_89852==1) then FlatIdent_4AAB=2;break;end end end if (FlatIdent_4AAB==0) then Ychg=velYchg()/20 ;Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 )) , -0.08726646259971647 * sin((sine + 0.2) * 6 ) ,3.141592653589793) ,deltaTime);FlatIdent_4AAB=1;end if (FlatIdent_4AAB==2) then local FlatIdent_8F979=0;while true do if (FlatIdent_8F979==1) then FlatIdent_4AAB=3;break;end if (0==FlatIdent_8F979) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.5 + (0.3 * sin((sine + 0.16666666666666666) * 12 )) + Ychg ,0) * angles( -1.3962634015954636 + (0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 )) ,0.08726646259971647 * sin((sine + 0.06666666666666667) * 6 ) ,3.141592653589793) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.8 -(0.1 * sin(sine * 6 )) ,0.5 + (0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) , -0.17453292519943295,1.5707963267948966) ,deltaTime);FlatIdent_8F979=1;end end end if (FlatIdent_4AAB==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 -(0.1 * sin(sine * 6 )) ,0.5 -(0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) ,0.17453292519943295, -1.5707963267948966) ,deltaTime);break;end end end});local function idleL() local FlatIdent_57C6F=0;local FlatIdent_8478;local Ychg;while true do if (0==FlatIdent_57C6F) then FlatIdent_8478=0;Ychg=nil;FlatIdent_57C6F=1;end if (FlatIdent_57C6F==1) then while true do if (FlatIdent_8478==1) then local FlatIdent_783E8=0;while true do if (FlatIdent_783E8==1) then FlatIdent_8478=2;break;end if (FlatIdent_783E8==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0.15 * sin((sine-0.1) * 8 ) ,(0.54 * sin(sine * 16 )) + Ychg ,0) * angles( -1.5707963267948966, -0.08726646259971647 * sin((sine-0.0785) * 8 ) ,3.141592653589793 -(0.08726646259971647 * sin((sine-0.0785) * 8 )) ) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.75 + (0.07 * sin((sine-0.0785) * 8 )) ,1.3 + (0.1 * sin((sine-0.0875) * 16 )) ,0) * angles(1.3962634015954636,2.356194490192345 -(0.06981317007977318 * sin((sine-0.0785) * 8 )) ,1.2217304763960306) ,deltaTime);FlatIdent_783E8=1;end end end if (2==FlatIdent_8478) then local FlatIdent_7D2DA=0;while true do if (FlatIdent_7D2DA==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine-0.1) * 16 )) ,0.12217304763960307 * sin((sine-0.0785) * 8 ) ,3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.9 + (0.2 * sin((sine-0.2) * 16 ))) -Ychg ,0.25) * angles(0, -0.7853981633974483, -0.4363323129985824 -(1.1344640137963142 * sin((sine-0.0875) * 8 )) ) ,deltaTime);FlatIdent_7D2DA=1;end if (FlatIdent_7D2DA==1) then FlatIdent_8478=3;break;end end end if (FlatIdent_8478==0) then local FlatIdent_35D0A=0;while true do if (FlatIdent_35D0A==1) then FlatIdent_8478=1;break;end if (FlatIdent_35D0A==0) then Ychg=velYchg()/20 ;RightHip.C0=RightHip.C0:Lerp(cf(1,( -0.9 + (0.2 * sin((sine-0.2) * 16 ))) -Ychg ,0.25) * angles(0,0.7853981633974483,0.4363323129985824 -(1.1344640137963142 * sin((sine-0.0875) * 8 )) ) ,deltaTime);FlatIdent_35D0A=1;end end end if (FlatIdent_8478==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.45 + (0.05 * sin((sine-0.0875) * 16 )) , -0.2) * angles(2.0943951023931953 + (0.17453292519943295 * sin((sine-0.0875) * 16 )) , -0.5235987755982988,1.5707963267948966 + (0.17453292519943295 * sin((sine-0.0875) * 16 )) ) ,deltaTime);break;end end break;end end end addmode("l",{[LUAOBFUSACTOR_DECRYPT_STR_0("\243\214\231\17\105\240\205\230\6\73\250","\44\158\185\131\116")]=function() setWalkSpeed(10);end,[LUAOBFUSACTOR_DECRYPT_STR_0("\69\142\209\114","\17\44\234\189\23\187\199")]=idleL,[LUAOBFUSACTOR_DECRYPT_STR_0("\32\127\210\1","\106\87\30\190")]=idleL,[LUAOBFUSACTOR_DECRYPT_STR_0("\219\227\8\121\230\82\68\200","\188\182\140\108\28\170\55\34")]=function() setWalkSpeed(16);end});end);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\210\181\229\230\208\177\251\240\156\181\230\234\209\181\252\234\211\186\251\163\234\227","\131\188\212\136"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\157\10\115\42\83","\54\233\107\17\70")) then return;end local raycastlegs=t.raycastlegs;local velbycfrvec=t.velbycfrvec;local velchgbycfrvec=t.velchgbycfrvec;local addmode=t.addmode;local getJoint=t.getJoint;local RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\194\39\36\17\238\255\33\37\17","\164\144\72\75\101"));local RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\206\130\72\210\203\30\207\131\64\207\211\90\249\153","\62\156\235\47\186\191"));local LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\33\239\232\53\140\148\36\227\24\230\234\36\222","\140\109\138\142\65\172\199\76"));local RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\197\87\176\21\253\129\156\254\78","\212\151\62\215\125\137\161"));local LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\25\163\9\152\117\142\6\156","\236\85\198\111"));local Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\48\52\116\254","\60\126\81\23\149"));addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\65\143\208\139\101\229\81","\137\37\234\182\234\16"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\240\15\85\54","\195\153\107\57\83\108\34\237")]=function() local FlatIdent_55EB8=0;local rY;local lY;local Cfw;local Crt;while true do if (FlatIdent_55EB8==1) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.3 + (0.1 * sin(sine * 2 )) , -0.1) * angles( -0.5235987755982988 + (0.05235987755982989 * sin((sine + 1.5) * 2 )) ,1.0471975511965976 + (0.08726646259971647 * sin((sine + 0.5) * 2 )) ,0.5235987755982988) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 + (0.08726646259971647 * sin((sine + 0.6) * 2 )) ,0,3.141592653589793 + (0.2617993877991494 * sin((sine-1.2) * 1 )) ) ,deltaTime);FlatIdent_55EB8=2;end if (0==FlatIdent_55EB8) then local FlatIdent_421B1=0;while true do if (FlatIdent_421B1==1) then FlatIdent_55EB8=1;break;end if (FlatIdent_421B1==0) then rY,lY=raycastlegs();Cfw,Crt=velchgbycfrvec();FlatIdent_421B1=1;end end end if (FlatIdent_55EB8==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.6 + (0.1 * sin(sine * 2 )) ,0) * angles(3.141592653589793 + (0.05235987755982989 * sin((sine + 0.5) * 2 )) , -2.705260340591211 + (0.017453292519943295 * sin((sine + 1.5) * 2 )) , -1.2217304763960306 + (0.05235987755982989 * sin((sine + 1.5) * 2 )) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 -(0.1 * sin(sine * 2 ))) + lY ,(0.1 * sin(sine * 2 )) -(lY * 0.5) ) * angles( -0.3490658503988659 -(0.08726646259971647 * sin(sine * 2 )) , -1.0471975511965976, -0.5235987755982988) ,deltaTime);break;end if (FlatIdent_55EB8==2) then local FlatIdent_51A5F=0;while true do if (1==FlatIdent_51A5F) then FlatIdent_55EB8=3;break;end if (FlatIdent_51A5F==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0.1 * sin(sine * 2 ) ,Cfw *  -3 ) * angles(( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 2 ))) -Cfw ,Crt,3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 -(0.1 * sin(sine * 2 ))) + rY ,(0.1 * sin(sine * 2 )) -(rY * 0.5) ) * angles( -0.6981317007977318 -(0.08726646259971647 * sin(sine * 2 )) ,1.0471975511965976,0.5235987755982988) ,deltaTime);FlatIdent_51A5F=1;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\107\26\137\200","\159\28\123\229\163\233\225")]=function() local FlatIdent_2789B=0;local Vfw;local Vrt;local rY;local lY;local Cfw;local Crt;while true do if (FlatIdent_2789B==3) then local FlatIdent_2A71E=0;while true do if (FlatIdent_2A71E==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.35 + (0.1 * sin(sine * 8 )) ,0) * angles( -0.5235987755982988 * sin(sine * 8 ) * Vfw ,1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 ) * Vfw) , -0.5235987755982988 * sin(sine * 8 ) * Vfw ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.8 -(0.4 * sin((sine + 0.125) * 8 ))) + lY ,(( -0.15 * Vfw) -(0.4 * sin((sine + 10) * 8 ) * Vfw)) + (lY *  -0.5) ) * angles(1.3962634015954636 -(0.6981317007977318 * sin(sine * 8 ) * Vfw) , -1.5707963267948966 -(0.6981317007977318 * sin(sine * 8 ) * Vrt) ,1.5707963267948966 + (0.2617993877991494 * sin(sine * 8 )) ) ,deltaTime);FlatIdent_2A71E=1;end if (FlatIdent_2A71E==1) then FlatIdent_2789B=4;break;end end end if (FlatIdent_2789B==0) then Vfw,Vrt=velbycfrvec();rY,lY=raycastlegs();FlatIdent_2789B=1;end if (FlatIdent_2789B==2) then local FlatIdent_B43A=0;while true do if (1==FlatIdent_B43A) then FlatIdent_2789B=3;break;end if (FlatIdent_B43A==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -0.8 + (0.4 * sin((sine + 0.125) * 8 )) + rY ,( -0.15 * Vfw) + (0.4 * sin((sine + 10) * 8 ) * Vfw) + (rY *  -0.5) ) * angles(1.3962634015954636 + (0.6981317007977318 * sin(sine * 8 ) * Vfw) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vrt) , -1.5707963267948966 + (0.2617993877991494 * sin(sine * 8 )) ) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.35 -(0.1 * sin(sine * 8 )) ,0) * angles(0.5235987755982988 * sin(sine * 8 ) * Vfw , -1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 ) * Vfw) , -0.5235987755982988 * sin(sine * 8 ) * Vfw ) ,deltaTime);FlatIdent_B43A=1;end end end if (FlatIdent_2789B==1) then Cfw,Crt=velchgbycfrvec();RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -0.2 + (0.2 * sin(sine * 16 )) ,Cfw *  -3 ) * angles((( -1.6580627893946132 + (0.04363323129985824 * sin(sine * 16 ))) -(Vfw * 0.15)) -Cfw ,(0.03490658503988659 * sin(sine * 8 )) + (Vrt * 0.15) + Crt ,( -3.141592653589793 -(0.08726646259971647 * sin((sine + 0.25) * 8 ))) -(Vrt * 0.1) ) ,deltaTime);FlatIdent_2789B=2;end if (FlatIdent_2789B==4) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine + 10) * 16 )) + (Vfw * 0.15) ,( -0.08726646259971647 * sin(sine * 8 )) + (Vrt *  -0.1) ,(3.141592653589793 -(0.05235987755982989 * sin((sine + 5) * 8 ))) -(Vrt * 0.5) ) ,deltaTime);break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\141\1\56\5","\117\231\116\85")]=function() local FlatIdent_8C13B=0;local Vfw;local Vrt;local Cfw;local Crt;while true do if (FlatIdent_8C13B==1) then local FlatIdent_439F3=0;while true do if (FlatIdent_439F3==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0,Cfw *  -3 ) * angles(( -1.4835298641951802 + (Vfw * 0.1)) -Cfw ,(Vrt *  -0.05) + Crt , -3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_439F3=1;end if (FlatIdent_439F3==1) then FlatIdent_8C13B=2;break;end end end if (FlatIdent_8C13B==2) then local FlatIdent_7F20F=0;while true do if (FlatIdent_7F20F==1) then FlatIdent_8C13B=3;break;end if (FlatIdent_7F20F==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_7F20F=1;end end end if (FlatIdent_8C13B==3) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3962634015954636,0, -3.141592653589793 -Vrt ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_8C13B==0) then local FlatIdent_94796=0;while true do if (FlatIdent_94796==1) then FlatIdent_8C13B=1;break;end if (FlatIdent_94796==0) then Vfw,Vrt=velbycfrvec();Cfw,Crt=velchgbycfrvec();FlatIdent_94796=1;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\42\91\74\55","\28\76\58\38\91")]=function() local FlatIdent_608D0=0;local Vfw;local Vrt;local Cfw;local Crt;while true do if (FlatIdent_608D0==1) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0,Cfw *  -3 ) * angles(( -1.6580627893946132 + (Vfw * 0.1)) -Cfw ,(Vrt *  -0.05) + Crt , -3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_608D0=2;end if (2==FlatIdent_608D0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_608D0=3;end if (FlatIdent_608D0==3) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.7453292519943295,0, -3.141592653589793 -Vrt ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_608D0==0) then local FlatIdent_983E3=0;while true do if (FlatIdent_983E3==0) then Vfw,Vrt=velbycfrvec();Cfw,Crt=velchgbycfrvec();FlatIdent_983E3=1;end if (FlatIdent_983E3==1) then FlatIdent_608D0=1;break;end end end end end});addmode("q",{[LUAOBFUSACTOR_DECRYPT_STR_0("\177\170\45\178","\143\216\206\65\215\129\179")]=function() local FlatIdent_97A1A=0;local Cfw;local Crt;while true do if (FlatIdent_97A1A==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.03490658503988659 * sin(sine * 2 )) , -1.3089969389957472,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_97A1A==1) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) ,2.792526803190927,0.6981317007977318) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.9198621771937625 -(0.10471975511965978 * sin((sine + 0.3) * 2 )) ,0,3.141592653589793) ,deltaTime);FlatIdent_97A1A=2;end if (2==FlatIdent_97A1A) then local FlatIdent_39C11=0;while true do if (FlatIdent_39C11==1) then FlatIdent_97A1A=3;break;end if (FlatIdent_39C11==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -2.45 -(0.05 * sin(sine * 2 )) ,Cfw *  -3 ) * angles((0.03490658503988659 * sin(sine * 2 )) -Cfw ,Crt,3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) ,1.3089969389957472, -0.9599310885968813) ,deltaTime);FlatIdent_39C11=1;end end end if (FlatIdent_97A1A==0) then local FlatIdent_512F1=0;while true do if (FlatIdent_512F1==1) then FlatIdent_97A1A=1;break;end if (FlatIdent_512F1==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) , -2.792526803190927, -0.6981317007977318) ,deltaTime);FlatIdent_512F1=1;end end end end end});addmode("e",{[LUAOBFUSACTOR_DECRYPT_STR_0("\171\118\5\249","\156\194\18\105")]=function() local FlatIdent_F232=0;local Cfw;local Crt;while true do if (FlatIdent_F232==1) then local FlatIdent_66CBB=0;while true do if (1==FlatIdent_66CBB) then FlatIdent_F232=2;break;end if (FlatIdent_66CBB==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -1.85 -(0.1 * sin((sine + 0.2) * 2 )) ,Cfw *  -3 ) * angles(( -1.3962634015954636 + (0.03490658503988659 * sin(sine * 2 ))) -Cfw , -0.08726646259971647 + Crt ,3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.4 + (0.1 * sin(sine * 2 )) ,0.2 -(0.15 * sin(sine * 2 )) ) * angles(0.6108652381980153 -(0.12217304763960307 * sin(sine * 2 )) ,1.2217304763960306, -0.7853981633974483) ,deltaTime);FlatIdent_66CBB=1;end end end if (0==FlatIdent_F232) then local FlatIdent_2192D=0;while true do if (FlatIdent_2192D==1) then FlatIdent_F232=1;break;end if (FlatIdent_2192D==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9,0.4 + (0.1 * sin(sine * 2 )) ,0.3 -(0.15 * sin(sine * 2 )) ) * angles( -1.0471975511965976 -(0.12217304763960307 * sin(sine * 2 )) , -1.3962634015954636, -0.6981317007977318) ,deltaTime);FlatIdent_2192D=1;end end end if (FlatIdent_F232==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.75 + (0.1 * sin((sine + 0.2) * 2 )) , -0.5) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) , -1.6580627893946132,0) ,deltaTime);break;end if (FlatIdent_F232==2) then local FlatIdent_95507=0;while true do if (FlatIdent_95507==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.03490658503988659 * sin((sine + 0.6) * 2 )) ,0.10471975511965978 + (0.06981317007977318 * sin(sine * 0.66 )) ,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,0.2 + (0.15 * sin((sine + 0.2) * 2 )) , -0.7 + (0.1 * sin(sine * 2 )) ) * angles(1.4835298641951802 + (0.03490658503988659 * sin(sine * 2 )) ,1.4835298641951802, -1.5707963267948966) ,deltaTime);FlatIdent_95507=1;end if (FlatIdent_95507==1) then FlatIdent_F232=3;break;end end end end end});addmode("r",{[LUAOBFUSACTOR_DECRYPT_STR_0("\233\168\40\239","\71\128\204\68\138")]=function() local FlatIdent_29C18=0;local Cfw;local Crt;while true do if (FlatIdent_29C18==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.1 * sin(sine * 7 )) ,0.2 + (0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 -(0.5235987755982988 * sin(sine * 7 )) ,0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);break;end if (FlatIdent_29C18==2) then local FlatIdent_3630A=0;while true do if (FlatIdent_3630A==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1 + (0.1 * sin(sine * 7 )) ,0.2 -(0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 + (0.5235987755982988 * sin(sine * 7 )) , -0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.9 -(0.2 * sin(sine * 2 )) ,0) * angles(1.5707963267948966, -1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) ,1.5707963267948966) ,deltaTime);FlatIdent_3630A=1;end if (FlatIdent_3630A==1) then FlatIdent_29C18=3;break;end end end if (FlatIdent_29C18==1) then RootJoint.C0=RootJoint.C0:Lerp(cf((0.3 * sin(sine + 0.8 )) + (Crt * 3) , -0.1 + (0.2 * sin(sine * 2 )) ,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt, -3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine-0.5) * 2 )) ,0.08726646259971647 * sin(sine-1 ) , -3.141592653589793 + (0.2617993877991494 * sin(sine * 5 )) ) ,deltaTime);FlatIdent_29C18=2;end if (FlatIdent_29C18==0) then local FlatIdent_36ED=0;while true do if (0==FlatIdent_36ED) then Cfw,Crt=velchgbycfrvec();RightHip.C0=RightHip.C0:Lerp(cf(1, -0.9 -(0.2 * sin(sine * 2 )) ,0) * angles(1.5707963267948966,1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) , -1.5707963267948966) ,deltaTime);FlatIdent_36ED=1;end if (FlatIdent_36ED==1) then FlatIdent_29C18=1;break;end end end end end});addmode("t",{[LUAOBFUSACTOR_DECRYPT_STR_0("\228\86\165\53","\198\141\50\201\80\18\137")]=function() local FlatIdent_93859=0;local Cfw;local Crt;while true do if (FlatIdent_93859==1) then local FlatIdent_63050=0;while true do if (FlatIdent_63050==1) then FlatIdent_93859=2;break;end if (FlatIdent_63050==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.15 * sin((sine-0.4) * 4 )) ,1.42,0) * angles(1.5707963267948966,1.4835298641951802 -(0.3490658503988659 * sin((sine-0.4) * 4 )) ,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.4835298641951802,0.04363323129985824 -(0.08726646259971647 * sin((sine + 0.1) * 4 )) , -3.141592653589793 + (0.04363323129985824 * sin(sine * 4 )) ) ,deltaTime);FlatIdent_63050=1;end end end if (3==FlatIdent_93859) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1 -(0.02 * sin(sine * 4 )) , -0.925 -(0.07 * sin(sine * 4 )) ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.08726646259971647 * sin(sine * 4 )) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_93859==2) then local FlatIdent_525A6=0;while true do if (FlatIdent_525A6==0) then RootJoint.C0=RootJoint.C0:Lerp(cf((0.1 * sin(sine * 4 )) + (Crt * 3) ,0,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw , -0.08726646259971647 + (0.08726646259971647 * sin(sine * 4 )) + Crt , -3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1.1 + (0.1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.08726646259971647 * sin(sine * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_525A6=1;end if (FlatIdent_525A6==1) then FlatIdent_93859=3;break;end end end if (FlatIdent_93859==0) then local FlatIdent_B5DA=0;while true do if (FlatIdent_B5DA==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(1.5707963267948966, -1.6580627893946132 + (0.08726646259971647 * sin((sine-0.3) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_B5DA=1;end if (FlatIdent_B5DA==1) then FlatIdent_93859=1;break;end end end end end});addmode("y",{[LUAOBFUSACTOR_DECRYPT_STR_0("\228\74\129\89","\146\141\46\237\60\33\95")]=function() local FlatIdent_93A26=0;local Cfw;local Crt;while true do if (FlatIdent_93A26==2) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -2.0943951023931953 + (0.08726646259971647 * sin((sine-1) * 2 )) , -0.08726646259971647,2.792526803190927) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,1.2000000476837158,0) * angles(2.6179938779914944 + (0.08726646259971647 * sin((sine-1) * 2 )) ,0.6981317007977318, -1.3962634015954636) ,deltaTime);FlatIdent_93A26=3;end if (FlatIdent_93A26==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles( -1.7453292519943295,0.17453292519943295 -(0.04363323129985824 * sin(sine * 2 )) , -1.4835298641951802) ,deltaTime);FlatIdent_93A26=1;end if (3==FlatIdent_93A26) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0.1 * sin(sine * 2 ) ,Cfw *  -3 ) * angles( -1.6580627893946132 -Cfw ,0.08726646259971647 + Crt ,3.0543261909900767) ,deltaTime);break;end if (FlatIdent_93A26==1) then RightHip.C0=RightHip.C0:Lerp(cf(1, -0.9000000953674316 -(0.1 * sin(sine * 2 )) ,0) * angles( -1.3962634015954636,1.3962634015954636,1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1.0000001192092896 -(0.1 * sin(sine * 2 )) ,0) * angles( -1.5707963267948966, -1.3962634015954636, -1.5707963267948966) ,deltaTime);FlatIdent_93A26=2;end end end});addmode("u",{[LUAOBFUSACTOR_DECRYPT_STR_0("\215\173\253\22","\191\190\201\145\115\221")]=function() local FlatIdent_1DC1B=0;local Cfw;local Crt;while true do if (FlatIdent_1DC1B==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(0.5 + (1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) ,1.85 * sin((sine + 0.75) * 2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);break;end if (FlatIdent_1DC1B==2) then local FlatIdent_3A443=0;while true do if (FlatIdent_3A443==0) then RightHip.C0=RightHip.C0:Lerp(cf(0.5 + (1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) , -1 * sin((sine + 0.95) * 2.2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf( -0.5 -(1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) , -1.85 * sin((sine + 0.75) * 2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_3A443=1;end if (FlatIdent_3A443==1) then FlatIdent_1DC1B=3;break;end end end if (FlatIdent_1DC1B==1) then local FlatIdent_2A476=0;while true do if (FlatIdent_2A476==1) then FlatIdent_1DC1B=2;break;end if (FlatIdent_2A476==0) then Neck.C0=Neck.C0:Lerp(cf(0,1.5 -(0.1 * sin((sine + 0.2) * 2 )) ,0) * angles( -1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.4) * 2 )) ,0,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -0.5 -(1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) ,1 * sin((sine + 0.95) * 2.2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);FlatIdent_2A476=1;end end end if (FlatIdent_1DC1B==0) then local FlatIdent_1A4BE=0;while true do if (FlatIdent_1A4BE==1) then FlatIdent_1DC1B=1;break;end if (0==FlatIdent_1A4BE) then Cfw,Crt=velchgbycfrvec();RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0.75 + (0.25 * sin(sine * 2 )) ,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt,3.141592653589793) ,deltaTime);FlatIdent_1A4BE=1;end end end end end});addmode("i",{[LUAOBFUSACTOR_DECRYPT_STR_0("\50\23\225\66","\84\91\115\141\39\29\174\61")]=function() local FlatIdent_56024=0;local Cfw;local Crt;while true do if (FlatIdent_56024==2) then local FlatIdent_12705=0;while true do if (FlatIdent_12705==0) then Neck.C0=Neck.C0:Lerp(cf(0,1 + (0.2 * sin(sine * 9 )) ,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 9 )) ,0.08726646259971647 * sin(sine * 4.5 ) ,3.141592653589793 -(0.06981317007977318 * sin(sine * 4.5 )) ) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) ,0.5235987755982988, -1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_12705=1;end if (FlatIdent_12705==1) then FlatIdent_56024=3;break;end end end if (FlatIdent_56024==1) then local FlatIdent_7F90E=0;while true do if (FlatIdent_7F90E==1) then FlatIdent_56024=2;break;end if (FlatIdent_7F90E==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.5 + (0.1 * sin((sine + 0.26666666666666666) * 4.5 )) , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 4.5 )) , -1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) ,1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -0.5 + (0.5 * sin((sine + 0.17777777777777778) * 9 )) ,Cfw *  -3 ) * angles(( -1.3962634015954636 -(0.03490658503988659 * sin((sine + 0.17777777777777778) * 9 ))) -Cfw ,( -0.05235987755982989 * sin(sine * 4.5 )) + Crt ,3.141592653589793 + (0.03490658503988659 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_7F90E=1;end end end if (FlatIdent_56024==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -0.5 + (0.1 * sin((sine-0.26666666666666666) * 4.5 )) , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 4.5 )) ,1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_56024==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) , -0.5235987755982988,1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_56024=1;end end end});addmode("o",{[LUAOBFUSACTOR_DECRYPT_STR_0("\31\231\95\248","\157\118\131\51")]=function() local FlatIdent_7B8B1=0;local rY;local lY;local Cfw;local Crt;while true do if (FlatIdent_7B8B1==1) then local FlatIdent_6020D=0;while true do if (FlatIdent_6020D==1) then FlatIdent_7B8B1=2;break;end if (FlatIdent_6020D==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 + lY ,lY *  -0.5 ) * angles( -1.8325957145940461 -(0.08726646259971647 * sin(sine * 2 )) , -1.4835298641951802, -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt,0,(0.09 * sin(sine * 2 )) -(Cfw * 3) ) * angles(( -1.3962634015954636 + (0.08726646259971647 * sin(sine * 2 ))) -Cfw , -0.08726646259971647 + Crt ,3.141592653589793) ,deltaTime);FlatIdent_6020D=1;end end end if (3==FlatIdent_7B8B1) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.2217304763960306 -(0.08726646259971647 * sin((sine + 0.3) * 2 )) , -0.2617993877991494 -(0.08726646259971647 * sin(sine * 2 )) ,3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(2.8797932657906435 + (0.08726646259971647 * sin(sine * 1 )) ,1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_7B8B1==0) then rY,lY=raycastlegs();Cfw,Crt=velchgbycfrvec();FlatIdent_7B8B1=1;end if (FlatIdent_7B8B1==2) then local FlatIdent_94BF0=0;while true do if (FlatIdent_94BF0==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(2.9670597283903604 + (0.08726646259971647 * sin(sine * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1.1 + rY ,rY *  -0.5 ) * angles( -1.7453292519943295 -(0.08726646259971647 * sin(sine * 2 )) ,1.5707963267948966,1.5707963267948966) ,deltaTime);FlatIdent_94BF0=1;end if (FlatIdent_94BF0==1) then FlatIdent_7B8B1=3;break;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\249\95\49\160","\30\142\62\93\203\49")]=function() local FlatIdent_97786=0;local Vfw;local Vrt;local rY;local lY;local Cfw;local Crt;while true do if (FlatIdent_97786==3) then local FlatIdent_90191=0;while true do if (FlatIdent_90191==1) then FlatIdent_97786=4;break;end if (FlatIdent_90191==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(Vrt/3) , -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0.1 * sin((sine + 0.1) * 16 ) ,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt,3.141592653589793 -(0.08726646259971647 * sin(sine * 8 )) ) ,deltaTime);FlatIdent_90191=1;end end end if (FlatIdent_97786==2) then local FlatIdent_6677C=0;while true do if (FlatIdent_6677C==0) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 -(0.3 * sin((sine + 0.15) * 8 ))) + rY ,rY *  -0.5 ) * angles( -1.5707963267948966 -(0.6981317007977318 * sin(sine * 8 ) * Vfw) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vrt) ,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,(1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(Vrt/3) ,1.5707963267948966) ,deltaTime);FlatIdent_6677C=1;end if (1==FlatIdent_6677C) then FlatIdent_97786=3;break;end end end if (FlatIdent_97786==1) then Cfw,Crt=velchgbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.04363323129985824 * sin(sine * 16 )) ,0,(3.141592653589793 + (0.08726646259971647 * sin(sine * 8 ))) -Vrt ) ,deltaTime);FlatIdent_97786=2;end if (FlatIdent_97786==0) then local FlatIdent_5B4EF=0;while true do if (FlatIdent_5B4EF==0) then Vfw,Vrt=velbycfrvec();rY,lY=raycastlegs();FlatIdent_5B4EF=1;end if (1==FlatIdent_5B4EF) then FlatIdent_97786=1;break;end end end if (FlatIdent_97786==4) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 + (0.3 * sin((sine + 0.15) * 8 )) + lY ,lY *  -0.5 ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vfw) , -1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * Vrt) ,1.5707963267948966) ,deltaTime);break;end end end});addmode("p",{[LUAOBFUSACTOR_DECRYPT_STR_0("\170\167\59\142","\126\195\195\87\235\199")]=function() local FlatIdent_19383=0;local FlatIdent_2139B;local Cfw;local Crt;while true do if (FlatIdent_19383==1) then Crt=nil;while true do if (FlatIdent_2139B==3) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt, -3.141592653589793) ,deltaTime);break;end if (FlatIdent_2139B==0) then Cfw,Crt=velchgbycfrvec();RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793, -1.5707963267948966) ,deltaTime);FlatIdent_2139B=1;end if (FlatIdent_2139B==1) then local FlatIdent_4527F=0;while true do if (1==FlatIdent_4527F) then FlatIdent_2139B=2;break;end if (FlatIdent_4527F==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,1.5707963267948966,0) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793,1.5707963267948966) ,deltaTime);FlatIdent_4527F=1;end end end if (FlatIdent_2139B==2) then local FlatIdent_84A6F=0;while true do if (FlatIdent_84A6F==1) then FlatIdent_2139B=3;break;end if (FlatIdent_84A6F==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0, -1.5707963267948966,0) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);FlatIdent_84A6F=1;end end end end break;end if (FlatIdent_19383==0) then FlatIdent_2139B=0;Cfw=nil;FlatIdent_19383=1;end end end});addmode("f",{[LUAOBFUSACTOR_DECRYPT_STR_0("\0\130\86\179","\30\105\230\58\214\153\203")]=function() local FlatIdent_6F430=0;local Cfw;local Crt;while true do if (FlatIdent_6F430==1) then local FlatIdent_5D693=0;while true do if (FlatIdent_5D693==1) then FlatIdent_6F430=2;break;end if (0==FlatIdent_5D693) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 )) ,0.08726646259971647 * sin((sine + 0.2) * 0.5 ) , -2.9670597283903604) ,deltaTime);FlatIdent_5D693=1;end end end if (FlatIdent_6F430==0) then local FlatIdent_82F85=0;while true do if (FlatIdent_82F85==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);FlatIdent_82F85=1;end if (FlatIdent_82F85==1) then FlatIdent_6F430=1;break;end end end if (FlatIdent_6F430==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_6F430==2) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,5 -(0.5 * sin((sine-0.2) * 1 )) ,(0.2 * sin((sine-1.2) * 1 )) -(Cfw * 3) ) * angles(( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 ))) -Cfw ,(0.08726646259971647 * sin(sine * 0.5 )) + Crt ,3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_6F430=3;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\4\19\250\185","\203\115\114\150\210\96")]=function() local FlatIdent_4D7AE=0;local Vfw;local Vrt;local Cfw;local Crt;while true do if (FlatIdent_4D7AE==0) then local FlatIdent_7D233=0;while true do if (FlatIdent_7D233==0) then Vfw,Vrt=velbycfrvec();Cfw,Crt=velchgbycfrvec();FlatIdent_7D233=1;end if (1==FlatIdent_7D233) then FlatIdent_4D7AE=1;break;end end end if (FlatIdent_4D7AE==1) then local FlatIdent_5525C=0;while true do if (1==FlatIdent_5525C) then FlatIdent_4D7AE=2;break;end if (FlatIdent_5525C==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.1) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) + (Vrt * 0.2) , -1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);FlatIdent_5525C=1;end end end if (FlatIdent_4D7AE==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles((1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.2) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles((1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(Vfw * 0.2) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_4D7AE==2) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles(( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 ))) + (Vfw * 0.1) ,(0.08726646259971647 * sin((sine + 0.2) * 0.5 )) -(Vrt * 0.2) , -2.9670597283903604) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,5 -(0.5 * sin((sine-0.2) * 1 )) ,(0.2 * sin((sine-1.2) * 1 )) -(Cfw * 3) ) * angles((( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 ))) -(Vfw * 0.2)) -Cfw ,(0.08726646259971647 * sin(sine * 0.5 )) + Crt ,3.141592653589793 -(Vrt * 0.2) ) ,deltaTime);FlatIdent_4D7AE=3;end end end});addmode("g",{[LUAOBFUSACTOR_DECRYPT_STR_0("\218\232\80\58","\95\179\140\60")]=function() local FlatIdent_339EC=0;local Cfw;local Crt;while true do if (FlatIdent_339EC==1) then local FlatIdent_297B3=0;while true do if (FlatIdent_297B3==1) then FlatIdent_339EC=2;break;end if (FlatIdent_297B3==0) then RootJoint.C0=RootJoint.C0:Lerp(cf((0.3 * sin((sine + 0.4) * 8 )) + (Crt * 3) ,0,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,(0.3490658503988659 * sin(sine * 8 )) + Crt , -3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.061086523819801536 * sin((sine + 0.125) * 16 )) , -0.3839724354387525 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_297B3=1;end end end if (3==FlatIdent_339EC) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.9 + (0.4 * sin(sine * 8 )) ,0.5, -0.5 * sin((sine-0.35) * 4 ) ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 )) ,1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) , -1.5707963267948966 + (0.17453292519943295 * sin((sine-0.35) * 4 )) ) ,deltaTime);break;end if (FlatIdent_339EC==0) then Cfw,Crt=velchgbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9 + (0.4 * sin(sine * 8 )) ,0.5,0.5 * sin((sine + 0.25) * 4 ) ) * angles(1.5707963267948966, -1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) ,1.5707963267948966 + (0.6981317007977318 * sin((sine + 0.25) * 4 )) ) ,deltaTime);FlatIdent_339EC=1;end if (2==FlatIdent_339EC) then local FlatIdent_7878=0;while true do if (FlatIdent_7878==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.4 * sin((sine-0.01) * 8 )) ,0) * angles(1.5707963267948966,1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.4 * sin((sine-0.01) * 8 )) ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);FlatIdent_7878=1;end if (FlatIdent_7878==1) then FlatIdent_339EC=3;break;end end end end end});addmode("h",{[LUAOBFUSACTOR_DECRYPT_STR_0("\41\254\47\243","\176\64\154\67\150\188\122\196")]=function() local FlatIdent_78785=0;local Cfw;local Crt;while true do if (FlatIdent_78785==0) then local FlatIdent_2660B=0;while true do if (FlatIdent_2660B==0) then Cfw,Crt=velchgbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966, -0.4363323129985824 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_2660B=1;end if (FlatIdent_2660B==1) then FlatIdent_78785=1;break;end end end if (FlatIdent_78785==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.3 * sin(sine * 8 )) ,0) * angles(1.5707963267948966, -1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_78785==1) then local FlatIdent_3324E=0;while true do if (0==FlatIdent_3324E) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.3 * sin(sine * 8 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,1,0) * angles( -0.5235987755982988, -1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);FlatIdent_3324E=1;end if (FlatIdent_3324E==1) then FlatIdent_78785=2;break;end end end if (FlatIdent_78785==2) then local FlatIdent_52A99=0;while true do if (1==FlatIdent_52A99) then FlatIdent_78785=3;break;end if (FlatIdent_52A99==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,1,0) * angles( -0.5235987755982988,1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(( -0.1 * sin(sine * 8 )) + (Crt * 3) ,0.2 * sin((sine + 0.1) * 16 ) ,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,(0.2617993877991494 * sin(sine * 8 )) + Crt , -3.141592653589793) ,deltaTime);FlatIdent_52A99=1;end end end end end});addmode("j",{[LUAOBFUSACTOR_DECRYPT_STR_0("\44\77\40\136","\157\69\41\68\237\46")]=function() local FlatIdent_12F27=0;local Cfw;local Crt;while true do if (FlatIdent_12F27==1) then local FlatIdent_827A2=0;while true do if (FlatIdent_827A2==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.2,0.5,0) * angles( -0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,0.6981317007977318 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1.1, -1,0) * angles(1.5707963267948966,1.7453292519943295, -1.5707963267948966) ,deltaTime);FlatIdent_827A2=1;end if (FlatIdent_827A2==1) then FlatIdent_12F27=2;break;end end end if (FlatIdent_12F27==0) then local FlatIdent_435AD=0;while true do if (FlatIdent_435AD==0) then Cfw,Crt=velchgbycfrvec();LeftHip.C0=LeftHip.C0:Lerp(cf( -0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318,0) ,deltaTime);FlatIdent_435AD=1;end if (1==FlatIdent_435AD) then FlatIdent_12F27=1;break;end end end if (FlatIdent_12F27==2) then local FlatIdent_61F5C=0;while true do if (FlatIdent_61F5C==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,2.792526803190927) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -1.7 + (0.5 * sin(sine * 4 )) ,(0.15 * sin(sine * 4 )) -(Cfw * 3) ) * angles((3.3161255787892263 + (0.17453292519943295 * sin(sine * 4 ))) -Cfw ,Crt,3.6651914291880923) ,deltaTime);FlatIdent_61F5C=1;end if (FlatIdent_61F5C==1) then FlatIdent_12F27=3;break;end end end if (FlatIdent_12F27==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 + (0.4 * sin(sine * 4 )) ,0.6 + (0.1 * sin(sine * 4 )) ,0.4 -(0.25 * sin(sine * 4 )) ) * angles(2.9670597283903604,2.2689280275926285 -(0.17453292519943295 * sin(sine * 4 )) , -1.4835298641951802 -(0.17453292519943295 * sin(sine * 4 )) ) ,deltaTime);break;end end end});addmode("k",{[LUAOBFUSACTOR_DECRYPT_STR_0("\37\254\235\245","\165\76\154\135\144\142\176")]=function() local FlatIdent_D35D=0;local Cfw;local Crt;while true do if (FlatIdent_D35D==0) then local FlatIdent_755B0=0;while true do if (FlatIdent_755B0==0) then Cfw,Crt=velchgbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 )) , -0.08726646259971647 * sin((sine + 0.2) * 6 ) ,3.141592653589793) ,deltaTime);FlatIdent_755B0=1;end if (FlatIdent_755B0==1) then FlatIdent_D35D=1;break;end end end if (FlatIdent_D35D==1) then local FlatIdent_2D8F9=0;while true do if (FlatIdent_2D8F9==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 )) , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 6 )) , -1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 )) , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 6 )) ,1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) , -1.5707963267948966) ,deltaTime);FlatIdent_2D8F9=1;end if (FlatIdent_2D8F9==1) then FlatIdent_D35D=2;break;end end end if (FlatIdent_D35D==2) then local FlatIdent_7EA45=0;while true do if (FlatIdent_7EA45==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 , -0.5 + (0.3 * sin((sine + 0.16666666666666666) * 12 )) ,Cfw *  -3 ) * angles(( -1.3962634015954636 + (0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 ))) -Cfw ,(0.08726646259971647 * sin((sine + 0.06666666666666667) * 6 )) + Crt ,3.141592653589793) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.8 -(0.1 * sin(sine * 6 )) ,0.5 + (0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) , -0.17453292519943295,1.5707963267948966) ,deltaTime);FlatIdent_7EA45=1;end if (FlatIdent_7EA45==1) then FlatIdent_D35D=3;break;end end end if (FlatIdent_D35D==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 -(0.1 * sin(sine * 6 )) ,0.5 -(0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) ,0.17453292519943295, -1.5707963267948966) ,deltaTime);break;end end end});addmode("l",{[LUAOBFUSACTOR_DECRYPT_STR_0("\45\41\75\2","\217\68\77\39\103\115\32")]=function() local FlatIdent_4105A=0;local Cfw;local Crt;while true do if (FlatIdent_4105A==1) then local FlatIdent_7ABB5=0;while true do if (FlatIdent_7ABB5==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.2 * sin(sine * 5 )) , -0.2 + (0.2 * sin(sine * 5 )) ) * angles(2.181661564992912 -(0.8726646259971648 * sin(sine * 5 )) ,1.9198621771937625 -(0.3490658503988659 * sin(sine * 5 )) , -1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.7,0.8,0) * angles(1.0471975511965976 + (0.03490658503988659 * sin(sine * 10 )) ,2.0943951023931953 + (0.10471975511965978 * sin((sine + 0.1) * 5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_7ABB5=1;end if (FlatIdent_7ABB5==1) then FlatIdent_4105A=2;break;end end end if (FlatIdent_4105A==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.7,0.5, -0.3) * angles(1.7453292519943295, -0.8726646259971648,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_4105A==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.2 * sin(sine * 5 )) , -0.2 -(0.2 * sin(sine * 5 )) ) * angles(2.181661564992912 + (0.8726646259971648 * sin(sine * 5 )) , -1.9198621771937625 -(0.3490658503988659 * sin(sine * 5 )) ,1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0.15 + (0.4 * sin((sine-0.5) * 10 )) ,Cfw *  -3 ) * angles( -1.4835298641951802 -Cfw ,(0.17453292519943295 * sin(sine * 5 )) + Crt , -3.141592653589793) ,deltaTime);FlatIdent_4105A=3;end if (FlatIdent_4105A==0) then local FlatIdent_2F3D2=0;while true do if (FlatIdent_2F3D2==1) then FlatIdent_4105A=1;break;end if (FlatIdent_2F3D2==0) then Cfw,Crt=velchgbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.04363323129985824 * sin((sine + 0.1) * 1 )) , -0.17453292519943295 * sin((sine + 0.1) * 5 ) , -3.141592653589793) ,deltaTime);FlatIdent_2F3D2=1;end end end end end});addmode("x",{[LUAOBFUSACTOR_DECRYPT_STR_0("\174\136\160\216","\191\199\236\204\189\178\145")]=function() local FlatIdent_54F71=0;local Cfw;local Crt;while true do if (0==FlatIdent_54F71) then Cfw,Crt=velchgbycfrvec();RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_54F71=1;end if (FlatIdent_54F71==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0, -1.5707963267948966,0) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt,3.141592653589793) ,deltaTime);FlatIdent_54F71=3;end if (FlatIdent_54F71==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0, -1.5707963267948966,0) ,deltaTime);break;end if (FlatIdent_54F71==1) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_54F71=2;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\97\135\81\68","\47\22\230\61")]=function() local FlatIdent_92F29=0;local Cfw;local Crt;while true do if (FlatIdent_92F29==2) then local FlatIdent_47664=0;while true do if (0==FlatIdent_47664) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0, -1.5707963267948966,0) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(Crt * 3 ,0,Cfw *  -3 ) * angles( -1.5707963267948966 -Cfw ,Crt,3.141592653589793) ,deltaTime);FlatIdent_47664=1;end if (FlatIdent_47664==1) then FlatIdent_92F29=3;break;end end end if (FlatIdent_92F29==3) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0, -1.5707963267948966,0) ,deltaTime);break;end if (FlatIdent_92F29==1) then local FlatIdent_5E0A9=0;while true do if (FlatIdent_5E0A9==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_5E0A9=1;end if (FlatIdent_5E0A9==1) then FlatIdent_92F29=2;break;end end end if (FlatIdent_92F29==0) then local FlatIdent_6D35B=0;while true do if (FlatIdent_6D35B==1) then FlatIdent_92F29=1;break;end if (FlatIdent_6D35B==0) then Cfw,Crt=velchgbycfrvec();RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_6D35B=1;end end end end end});end);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\12\178\44\29\53\7\160\50\88\56\12\186\44\25\45\11\188\47\11\121\52\229","\89\98\211\65\120"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\171\195\15\94\24","\119\223\162\109\50\125\206")) then return;end local raycastlegs=t.raycastlegs;local velbycfrvec=t.velbycfrvec;local addmode=t.addmode;local getJoint=t.getJoint;local RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\45\13\2\86\43\16\11\3\86","\97\127\98\109\34"));local RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\5\3\119\56\185\90\4\2\127\37\161\30\50\24","\122\87\106\16\80\205"));local LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\204\13\239\226\163\223\248\199\245\4\237\243\241","\168\128\104\137\150\131\140\144"));local RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\129\181\223\255\188\13\34\14\163","\103\211\220\184\151\200\45\106"));local LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\144\15\38\236\154\223\186\47","\95\220\106\64\152\186\151\211"));local Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\95\131\177\180","\177\17\230\210\223\153\182"));addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\46\183\236\137\36\218\27","\111\74\210\138\232\81\182"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\20\26\59\134","\39\125\126\87\227\160")]=function() local FlatIdent_99740=0;local rY;local lY;while true do if (FlatIdent_99740==1) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 + (0.08726646259971647 * sin((sine + 0.6) * 2 )) ,0,3.141592653589793 + (0.2617993877991494 * sin((sine-1.2) * 1 )) ) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.1 * sin(sine * 2 ) ,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 2 )) ,0,3.141592653589793) ,deltaTime);FlatIdent_99740=2;end if (FlatIdent_99740==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -1 -(0.1 * sin(sine * 2 ))) + lY ,(0.1 * sin(sine * 2 )) -(lY * 0.5) ) * angles( -0.3490658503988659 -(0.08726646259971647 * sin(sine * 2 )) , -1.0471975511965976, -0.5235987755982988) ,deltaTime);break;end if (FlatIdent_99740==0) then rY,lY=raycastlegs();RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.3 + (0.1 * sin(sine * 2 )) , -0.1) * angles( -0.5235987755982988 + (0.05235987755982989 * sin((sine + 1.5) * 2 )) ,1.0471975511965976 + (0.08726646259971647 * sin((sine + 0.5) * 2 )) ,0.5235987755982988) ,deltaTime);FlatIdent_99740=1;end if (FlatIdent_99740==2) then RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 -(0.1 * sin(sine * 2 ))) + rY ,(0.1 * sin(sine * 2 )) -(rY * 0.5) ) * angles( -0.6981317007977318 -(0.08726646259971647 * sin(sine * 2 )) ,1.0471975511965976,0.5235987755982988) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.6 + (0.1 * sin(sine * 2 )) ,0) * angles(3.141592653589793 + (0.05235987755982989 * sin((sine + 0.5) * 2 )) , -2.705260340591211 + (0.017453292519943295 * sin((sine + 1.5) * 2 )) , -1.2217304763960306 + (0.05235987755982989 * sin((sine + 1.5) * 2 )) ) ,deltaTime);FlatIdent_99740=3;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\67\190\178\134","\237\52\223\222")]=function() local FlatIdent_75DAF=0;local fw;local rt;local rY;local lY;while true do if (FlatIdent_75DAF==0) then local FlatIdent_57D11=0;while true do if (FlatIdent_57D11==1) then FlatIdent_75DAF=1;break;end if (FlatIdent_57D11==0) then fw,rt=velbycfrvec();rY,lY=raycastlegs();FlatIdent_57D11=1;end end end if (FlatIdent_75DAF==2) then local FlatIdent_57C22=0;while true do if (1==FlatIdent_57C22) then FlatIdent_75DAF=3;break;end if (FlatIdent_57C22==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.35 -(0.1 * sin(sine * 8 )) ,0) * angles(0.5235987755982988 * sin(sine * 8 ) * fw , -1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 ) * fw) , -0.5235987755982988 * sin(sine * 8 ) * fw ) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.35 + (0.1 * sin(sine * 8 )) ,0) * angles( -0.5235987755982988 * sin(sine * 8 ) * fw ,1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 ) * fw) , -0.5235987755982988 * sin(sine * 8 ) * fw ) ,deltaTime);FlatIdent_57C22=1;end end end if (1==FlatIdent_75DAF) then local FlatIdent_7E5EF=0;while true do if (FlatIdent_7E5EF==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.2 + (0.2 * sin(sine * 16 )) ,0) * angles(( -1.6580627893946132 + (0.04363323129985824 * sin(sine * 16 ))) -(fw * 0.15) ,(0.03490658503988659 * sin(sine * 8 )) + (rt * 0.15) ,( -3.141592653589793 -(0.08726646259971647 * sin((sine + 0.25) * 8 ))) -(rt * 0.1) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -0.8 + (0.4 * sin((sine + 0.125) * 8 )) + rY ,( -0.15 * fw) + (0.4 * sin((sine + 10) * 8 ) * fw) + (rY *  -0.5) ) * angles(1.3962634015954636 + (0.6981317007977318 * sin(sine * 8 ) * fw) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * rt) , -1.5707963267948966 + (0.2617993877991494 * sin(sine * 8 )) ) ,deltaTime);FlatIdent_7E5EF=1;end if (FlatIdent_7E5EF==1) then FlatIdent_75DAF=2;break;end end end if (FlatIdent_75DAF==3) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1,( -0.8 -(0.4 * sin((sine + 0.125) * 8 ))) + lY ,(( -0.15 * fw) -(0.4 * sin((sine + 10) * 8 ) * fw)) + (lY *  -0.5) ) * angles(1.3962634015954636 -(0.6981317007977318 * sin(sine * 8 ) * fw) , -1.5707963267948966 -(0.6981317007977318 * sin(sine * 8 ) * rt) ,1.5707963267948966 + (0.2617993877991494 * sin(sine * 8 )) ) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine + 10) * 16 )) + (fw * 0.15) ,( -0.08726646259971647 * sin(sine * 8 )) + (rt *  -0.1) ,(3.141592653589793 -(0.05235987755982989 * sin((sine + 5) * 8 ))) -(rt * 0.5) ) ,deltaTime);break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\191\238\141\192","\119\213\155\224\176\210")]=function() local FlatIdent_50F9C=0;local fw;local rt;while true do if (FlatIdent_50F9C==1) then local FlatIdent_7C382=0;while true do if (FlatIdent_7C382==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_7C382=1;end if (1==FlatIdent_7C382) then FlatIdent_50F9C=2;break;end end end if (FlatIdent_50F9C==2) then local FlatIdent_804DA=0;while true do if (0==FlatIdent_804DA) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3962634015954636,0, -3.141592653589793 -rt ) ,deltaTime);FlatIdent_804DA=1;end if (FlatIdent_804DA==1) then FlatIdent_50F9C=3;break;end end end if (FlatIdent_50F9C==0) then local FlatIdent_2B6D7=0;while true do if (FlatIdent_2B6D7==0) then fw,rt=velbycfrvec();RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0) * angles( -1.4835298641951802 + (fw * 0.1) ,rt *  -0.05 , -3.141592653589793) ,deltaTime);FlatIdent_2B6D7=1;end if (FlatIdent_2B6D7==1) then FlatIdent_50F9C=1;break;end end end if (3==FlatIdent_50F9C) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\190\226\142\63","\142\216\131\226\83\18\200\105")]=function() local FlatIdent_380FA=0;local fw;local rt;while true do if (FlatIdent_380FA==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.6580627893946132 -(0.06981317007977318 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);break;end if (2==FlatIdent_380FA) then local FlatIdent_2694D=0;while true do if (FlatIdent_2694D==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.7453292519943295 -(0.08726646259971647 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.7453292519943295,0, -3.141592653589793 -rt ) ,deltaTime);FlatIdent_2694D=1;end if (FlatIdent_2694D==1) then FlatIdent_380FA=3;break;end end end if (FlatIdent_380FA==0) then local FlatIdent_6F32=0;while true do if (FlatIdent_6F32==0) then fw,rt=velbycfrvec();RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0) * angles( -1.6580627893946132 + (fw * 0.1) ,rt *  -0.05 , -3.141592653589793) ,deltaTime);FlatIdent_6F32=1;end if (FlatIdent_6F32==1) then FlatIdent_380FA=1;break;end end end if (FlatIdent_380FA==1) then local FlatIdent_A1C0=0;while true do if (FlatIdent_A1C0==1) then FlatIdent_380FA=2;break;end if (FlatIdent_A1C0==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(4.014257279586958 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) ,1.7453292519943295 + (0.08726646259971647 * sin((sine + 0.25) * 4 )) , -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.5) * 4 )) , -1.6580627893946132 + (0.06981317007977318 * sin((sine + 0.25) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_A1C0=1;end end end end end});addmode("q",{[LUAOBFUSACTOR_DECRYPT_STR_0("\38\0\247\199","\134\79\100\155\162\175\129\77")]=function() local FlatIdent_73680=0;while true do if (FlatIdent_73680==2) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) ,1.3089969389957472, -0.9599310885968813) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.5707963267948966 -(0.03490658503988659 * sin(sine * 2 )) , -1.3089969389957472,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_73680==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) , -2.792526803190927, -0.6981317007977318) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.75, -0.2) * angles(2.705260340591211 -(0.08726646259971647 * sin((sine + 0.1) * 2 )) ,2.792526803190927,0.6981317007977318) ,deltaTime);FlatIdent_73680=1;end if (FlatIdent_73680==1) then local FlatIdent_51407=0;while true do if (FlatIdent_51407==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.9198621771937625 -(0.10471975511965978 * sin((sine + 0.3) * 2 )) ,0,3.141592653589793) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0, -2.45 -(0.05 * sin(sine * 2 )) ,0) * angles(0.03490658503988659 * sin(sine * 2 ) ,0,3.141592653589793) ,deltaTime);FlatIdent_51407=1;end if (FlatIdent_51407==1) then FlatIdent_73680=2;break;end end end end end});addmode("e",{[LUAOBFUSACTOR_DECRYPT_STR_0("\192\68\169\238","\139\169\32\197")]=function() local FlatIdent_41631=0;while true do if (FlatIdent_41631==2) then RightHip.C0=RightHip.C0:Lerp(cf(1,0.2 + (0.15 * sin((sine + 0.2) * 2 )) , -0.7 + (0.1 * sin(sine * 2 )) ) * angles(1.4835298641951802 + (0.03490658503988659 * sin(sine * 2 )) ,1.4835298641951802, -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.75 + (0.1 * sin((sine + 0.2) * 2 )) , -0.5) * angles(1.3962634015954636 -(0.03490658503988659 * sin(sine * 2 )) , -1.6580627893946132,0) ,deltaTime);break;end if (FlatIdent_41631==0) then local FlatIdent_2CE2F=0;while true do if (FlatIdent_2CE2F==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9,0.4 + (0.1 * sin(sine * 2 )) ,0.3 -(0.15 * sin(sine * 2 )) ) * angles( -1.0471975511965976 -(0.12217304763960307 * sin(sine * 2 )) , -1.3962634015954636, -0.6981317007977318) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0, -1.85 -(0.1 * sin((sine + 0.2) * 2 )) ,0) * angles( -1.3962634015954636 + (0.03490658503988659 * sin(sine * 2 )) , -0.08726646259971647,3.141592653589793) ,deltaTime);FlatIdent_2CE2F=1;end if (FlatIdent_2CE2F==1) then FlatIdent_41631=1;break;end end end if (FlatIdent_41631==1) then local FlatIdent_5E356=0;while true do if (FlatIdent_5E356==1) then FlatIdent_41631=2;break;end if (FlatIdent_5E356==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.4 + (0.1 * sin(sine * 2 )) ,0.2 -(0.15 * sin(sine * 2 )) ) * angles(0.6108652381980153 -(0.12217304763960307 * sin(sine * 2 )) ,1.2217304763960306, -0.7853981633974483) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.03490658503988659 * sin((sine + 0.6) * 2 )) ,0.10471975511965978 + (0.06981317007977318 * sin(sine * 0.66 )) ,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);FlatIdent_5E356=1;end end end end end});addmode("r",{[LUAOBFUSACTOR_DECRYPT_STR_0("\121\204\44\48","\173\16\168\64\85\135\156\223")]=function() local FlatIdent_898E8=0;while true do if (FlatIdent_898E8==0) then local FlatIdent_5E9C=0;while true do if (FlatIdent_5E9C==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -0.9 -(0.2 * sin(sine * 2 )) ,0) * angles(1.5707963267948966,1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) , -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0.3 * sin(sine + 0.8 ) , -0.1 + (0.2 * sin(sine * 2 )) ,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);FlatIdent_5E9C=1;end if (FlatIdent_5E9C==1) then FlatIdent_898E8=1;break;end end end if (FlatIdent_898E8==1) then local FlatIdent_375DB=0;while true do if (0==FlatIdent_375DB) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine-0.5) * 2 )) ,0.08726646259971647 * sin(sine-1 ) , -3.141592653589793 + (0.2617993877991494 * sin(sine * 5 )) ) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1 + (0.1 * sin(sine * 7 )) ,0.2 -(0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 + (0.5235987755982988 * sin(sine * 7 )) , -0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);FlatIdent_375DB=1;end if (FlatIdent_375DB==1) then FlatIdent_898E8=2;break;end end end if (FlatIdent_898E8==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.9 -(0.2 * sin(sine * 2 )) ,0) * angles(1.5707963267948966, -1.6580627893946132 -(0.17453292519943295 * sin(sine + 0.8 )) ,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.1 * sin(sine * 7 )) ,0.2 + (0.1 * sin(sine + 0.8 )) , -0.25) * angles(1.5707963267948966 -(0.5235987755982988 * sin(sine * 7 )) ,0.6981317007977318,0.3490658503988659 * sin(sine * 7 ) ) ,deltaTime);break;end end end});addmode("t",{[LUAOBFUSACTOR_DECRYPT_STR_0("\28\83\248\244","\37\117\55\148\145\136\59\85")]=function() local FlatIdent_94772=0;while true do if (FlatIdent_94772==0) then local FlatIdent_8BD91=0;while true do if (FlatIdent_8BD91==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(1.5707963267948966, -1.6580627893946132 + (0.08726646259971647 * sin((sine-0.3) * 4 )) ,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1 + (0.15 * sin((sine-0.4) * 4 )) ,1.42,0) * angles(1.5707963267948966,1.4835298641951802 -(0.3490658503988659 * sin((sine-0.4) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_8BD91=1;end if (FlatIdent_8BD91==1) then FlatIdent_94772=1;break;end end end if (FlatIdent_94772==2) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1.1 + (0.1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.08726646259971647 * sin(sine * 4 )) , -1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1 -(0.02 * sin(sine * 4 )) , -0.925 -(0.07 * sin(sine * 4 )) ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.08726646259971647 * sin(sine * 4 )) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_94772==1) then local FlatIdent_F664=0;while true do if (FlatIdent_F664==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.4835298641951802,0.04363323129985824 -(0.08726646259971647 * sin((sine + 0.1) * 4 )) , -3.141592653589793 + (0.04363323129985824 * sin(sine * 4 )) ) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0.1 * sin(sine * 4 ) ,0,0) * angles( -1.5707963267948966, -0.08726646259971647 + (0.08726646259971647 * sin(sine * 4 )) , -3.141592653589793) ,deltaTime);FlatIdent_F664=1;end if (FlatIdent_F664==1) then FlatIdent_94772=2;break;end end end end end});addmode("y",{[LUAOBFUSACTOR_DECRYPT_STR_0("\62\19\191\35","\70\87\119\211")]=function() local FlatIdent_3F2AC=0;while true do if (FlatIdent_3F2AC==2) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,1.2000000476837158,0) * angles(2.6179938779914944 + (0.08726646259971647 * sin((sine-1) * 2 )) ,0.6981317007977318, -1.3962634015954636) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.1 * sin(sine * 2 ) ,0) * angles( -1.6580627893946132,0.08726646259971647,3.0543261909900767) ,deltaTime);break;end if (0==FlatIdent_3F2AC) then local FlatIdent_58C5B=0;while true do if (FlatIdent_58C5B==1) then FlatIdent_3F2AC=1;break;end if (FlatIdent_58C5B==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles( -1.7453292519943295,0.17453292519943295 -(0.04363323129985824 * sin(sine * 2 )) , -1.4835298641951802) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -0.9000000953674316 -(0.1 * sin(sine * 2 )) ,0) * angles( -1.3962634015954636,1.3962634015954636,1.5707963267948966) ,deltaTime);FlatIdent_58C5B=1;end end end if (1==FlatIdent_3F2AC) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1.0000001192092896 -(0.1 * sin(sine * 2 )) ,0) * angles( -1.5707963267948966, -1.3962634015954636, -1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -2.0943951023931953 + (0.08726646259971647 * sin((sine-1) * 2 )) , -0.08726646259971647,2.792526803190927) ,deltaTime);FlatIdent_3F2AC=2;end end end});addmode("u",{[LUAOBFUSACTOR_DECRYPT_STR_0("\184\210\15\59","\83\209\182\99\94\199")]=function() local FlatIdent_569C9=0;while true do if (FlatIdent_569C9==2) then RightShoulder.C0=RightShoulder.C0:Lerp(cf( -0.5 -(1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) , -1.85 * sin((sine + 0.75) * 2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(0.5 + (1.85 * sin(sine * 2 )) ,0.8 -(0.5 * sin(sine * 2 )) ,1.85 * sin((sine + 0.75) * 2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);break;end if (FlatIdent_569C9==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.75 + (0.25 * sin(sine * 2 )) ,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1.5 -(0.1 * sin((sine + 0.2) * 2 )) ,0) * angles( -1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.4) * 2 )) ,0,3.141592653589793 + (0.3490658503988659 * sin(sine * 0.66 )) ) ,deltaTime);FlatIdent_569C9=1;end if (FlatIdent_569C9==1) then local FlatIdent_750D4=0;while true do if (1==FlatIdent_750D4) then FlatIdent_569C9=2;break;end if (FlatIdent_750D4==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -0.5 -(1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) ,1 * sin((sine + 0.95) * 2.2 ) ) * angles(0, -1.5707963267948966,0) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(0.5 + (1 * sin((sine + 0.2) * 2.2 )) , -0.75 -(0.25 * sin(sine * 2 )) , -1 * sin((sine + 0.95) * 2.2 ) ) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_750D4=1;end end end end end});addmode("i",{[LUAOBFUSACTOR_DECRYPT_STR_0("\209\211\140\92","\57\184\183\224")]=function() local FlatIdent_12F15=0;while true do if (0==FlatIdent_12F15) then local FlatIdent_90755=0;while true do if (FlatIdent_90755==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) , -0.5235987755982988,1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.5 + (0.1 * sin((sine + 0.26666666666666666) * 4.5 )) , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 4.5 )) , -1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_90755=1;end if (FlatIdent_90755==1) then FlatIdent_12F15=1;break;end end end if (1==FlatIdent_12F15) then local FlatIdent_7D1D6=0;while true do if (FlatIdent_7D1D6==1) then FlatIdent_12F15=2;break;end if (FlatIdent_7D1D6==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.5 + (0.5 * sin((sine + 0.17777777777777778) * 9 )) ,0) * angles( -1.3962634015954636 -(0.03490658503988659 * sin((sine + 0.17777777777777778) * 9 )) , -0.05235987755982989 * sin(sine * 4.5 ) ,3.141592653589793 + (0.03490658503988659 * sin(sine * 4.5 )) ) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1 + (0.2 * sin(sine * 9 )) ,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 9 )) ,0.08726646259971647 * sin(sine * 4.5 ) ,3.141592653589793 -(0.06981317007977318 * sin(sine * 4.5 )) ) ,deltaTime);FlatIdent_7D1D6=1;end end end if (FlatIdent_12F15==2) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,0.5 + (0.1 * sin((sine-0.4444444444444444) * 9 )) ,0) * angles(2.9670597283903604 + (0.17453292519943295 * sin((sine-0.17777777777777778) * 9 )) ,0.5235987755982988, -1.5707963267948966 + (0.17453292519943295 * sin(sine * 4.5 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -0.5 + (0.1 * sin((sine-0.26666666666666666) * 4.5 )) , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 4.5 )) ,1.5707963267948966 + (0.03490658503988659 * sin(sine * 4.5 )) , -1.5707963267948966) ,deltaTime);break;end end end});addmode("o",{[LUAOBFUSACTOR_DECRYPT_STR_0("\241\219\239\170","\226\152\191\131\207\68\148\117")]=function() local FlatIdent_3E100=0;local rY;local lY;while true do if (FlatIdent_3E100==0) then local FlatIdent_86AD=0;while true do if (FlatIdent_86AD==1) then FlatIdent_3E100=1;break;end if (FlatIdent_86AD==0) then rY,lY=raycastlegs();LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 + lY ,lY *  -0.5 ) * angles( -1.8325957145940461 -(0.08726646259971647 * sin(sine * 2 )) , -1.4835298641951802, -1.5707963267948966) ,deltaTime);FlatIdent_86AD=1;end end end if (FlatIdent_3E100==3) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(2.8797932657906435 + (0.08726646259971647 * sin(sine * 1 )) ,1.5707963267948966 -(0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_3E100==2) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1.1 + rY ,rY *  -0.5 ) * angles( -1.7453292519943295 -(0.08726646259971647 * sin(sine * 2 )) ,1.5707963267948966,1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.2217304763960306 -(0.08726646259971647 * sin((sine + 0.3) * 2 )) , -0.2617993877991494 -(0.08726646259971647 * sin(sine * 2 )) ,3.141592653589793) ,deltaTime);FlatIdent_3E100=3;end if (FlatIdent_3E100==1) then local FlatIdent_42CE=0;while true do if (FlatIdent_42CE==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0.09 * sin(sine * 2 ) ) * angles( -1.3962634015954636 + (0.08726646259971647 * sin(sine * 2 )) , -0.08726646259971647,3.141592653589793) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(2.9670597283903604 + (0.08726646259971647 * sin(sine * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) ,1.5707963267948966) ,deltaTime);FlatIdent_42CE=1;end if (FlatIdent_42CE==1) then FlatIdent_3E100=2;break;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\13\74\177\217","\53\122\43\221\178")]=function() local FlatIdent_74AD2=0;local fw;local rt;local rY;local lY;while true do if (FlatIdent_74AD2==2) then local FlatIdent_93EAF=0;while true do if (1==FlatIdent_93EAF) then FlatIdent_74AD2=3;break;end if (FlatIdent_93EAF==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,(1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(rt/3) ,1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0.08726646259971647 * sin((sine-0.05) * 16 ) ,( -1.5707963267948966 + (0.08726646259971647 * sin(sine * 8 ))) -(rt/3) , -1.5707963267948966) ,deltaTime);FlatIdent_93EAF=1;end end end if (1==FlatIdent_74AD2) then local FlatIdent_927B0=0;while true do if (FlatIdent_927B0==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.04363323129985824 * sin(sine * 16 )) ,0,(3.141592653589793 + (0.08726646259971647 * sin(sine * 8 ))) -rt ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1,( -1 -(0.3 * sin((sine + 0.15) * 8 ))) + rY ,rY *  -0.5 ) * angles( -1.5707963267948966 -(0.6981317007977318 * sin(sine * 8 ) * fw) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * rt) ,1.5707963267948966) ,deltaTime);FlatIdent_927B0=1;end if (FlatIdent_927B0==1) then FlatIdent_74AD2=2;break;end end end if (3==FlatIdent_74AD2) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.1 * sin((sine + 0.1) * 16 ) ,0) * angles( -1.5707963267948966,0,3.141592653589793 -(0.08726646259971647 * sin(sine * 8 )) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 + (0.3 * sin((sine + 0.15) * 8 )) + lY ,lY *  -0.5 ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * fw) , -1.5707963267948966 + (0.6981317007977318 * sin(sine * 8 ) * rt) ,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_74AD2==0) then local FlatIdent_54089=0;while true do if (FlatIdent_54089==0) then fw,rt=velbycfrvec();rY,lY=raycastlegs();FlatIdent_54089=1;end if (FlatIdent_54089==1) then FlatIdent_74AD2=1;break;end end end end end});addmode("p",{[LUAOBFUSACTOR_DECRYPT_STR_0("\231\172\18\27","\70\142\200\126\126\200\115\101")]=function() local FlatIdent_46188=0;local FlatIdent_2C5C0;while true do if (FlatIdent_46188==0) then FlatIdent_2C5C0=0;while true do if (2==FlatIdent_2C5C0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,0,0) * angles( -1.5707963267948966,0, -3.141592653589793) ,deltaTime);break;end if (FlatIdent_2C5C0==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793, -1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,1.5707963267948966,0) ,deltaTime);FlatIdent_2C5C0=1;end if (FlatIdent_2C5C0==1) then local FlatIdent_3166D=0;while true do if (FlatIdent_3166D==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles(1.5707963267948966,3.141592653589793,1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0, -1.5707963267948966,0) ,deltaTime);FlatIdent_3166D=1;end if (FlatIdent_3166D==1) then FlatIdent_2C5C0=2;break;end end end end break;end end end});addmode("f",{[LUAOBFUSACTOR_DECRYPT_STR_0("\90\42\75\199","\140\51\78\39\162")]=function() local FlatIdent_88B71=0;while true do if (1==FlatIdent_88B71) then local FlatIdent_AC2B=0;while true do if (FlatIdent_AC2B==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 )) ,0.08726646259971647 * sin((sine + 0.2) * 0.5 ) , -2.9670597283903604) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,5 -(0.5 * sin((sine-0.2) * 1 )) ,0.2 * sin((sine-1.2) * 1 ) ) * angles( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 )) ,0.08726646259971647 * sin(sine * 0.5 ) ,3.141592653589793) ,deltaTime);FlatIdent_AC2B=1;end if (FlatIdent_AC2B==1) then FlatIdent_88B71=2;break;end end end if (FlatIdent_88B71==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 )) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_88B71==0) then local FlatIdent_400E6=0;while true do if (0==FlatIdent_400E6) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 )) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) , -1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);FlatIdent_400E6=1;end if (FlatIdent_400E6==1) then FlatIdent_88B71=1;break;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\25\195\215\255","\171\110\162\187\148\145\131\149")]=function() local FlatIdent_62B5E=0;local fw;local rt;while true do if (FlatIdent_62B5E==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles((1.9198621771937625 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(fw * 0.2) ,1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) , -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_62B5E==2) then local FlatIdent_5D58D=0;while true do if (FlatIdent_5D58D==1) then FlatIdent_62B5E=3;break;end if (FlatIdent_5D58D==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,5 -(0.5 * sin((sine-0.2) * 1 )) ,0.2 * sin((sine-1.2) * 1 ) ) * angles(( -0.08726646259971647 + (0.17453292519943295 * sin((sine + 1.2) * 1 ))) -(fw * 0.2) ,0.08726646259971647 * sin(sine * 0.5 ) ,3.141592653589793 -(rt * 0.2) ) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles((1.3962634015954636 + (0.12217304763960307 * sin((sine + 1.5) * 1 ))) -(fw * 0.2) , -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 0.5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_5D58D=1;end end end if (FlatIdent_62B5E==0) then fw,rt=velbycfrvec();LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(( -3.0543261909900767 -(0.17453292519943295 * sin((sine + 1.5) * 1 ))) -(fw * 0.1) , -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.6) * 1 )) + (rt * 0.2) , -1.5707963267948966) ,deltaTime);FlatIdent_62B5E=1;end if (FlatIdent_62B5E==1) then local FlatIdent_8D26F=0;while true do if (FlatIdent_8D26F==1) then FlatIdent_62B5E=2;break;end if (FlatIdent_8D26F==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(3.141592653589793 -(0.08726646259971647 * sin(sine * 1 )) ,0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.3) * 1 )) , -1.9198621771937625 + (0.08726646259971647 * sin((sine + 1) * 1 )) ) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles(( -1.3089969389957472 -(0.2617993877991494 * sin((sine + 1.2) * 1 ))) + (fw * 0.1) ,(0.08726646259971647 * sin((sine + 0.2) * 0.5 )) -(rt * 0.2) , -2.9670597283903604) ,deltaTime);FlatIdent_8D26F=1;end end end end end});addmode("g",{[LUAOBFUSACTOR_DECRYPT_STR_0("\184\9\39\75","\34\209\109\75\46")]=function() local FlatIdent_1776A=0;while true do if (FlatIdent_1776A==1) then local FlatIdent_3370B=0;while true do if (FlatIdent_3370B==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.061086523819801536 * sin((sine + 0.125) * 16 )) , -0.3839724354387525 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.4 * sin((sine-0.01) * 8 )) ,0) * angles(1.5707963267948966,1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);FlatIdent_3370B=1;end if (FlatIdent_3370B==1) then FlatIdent_1776A=2;break;end end end if (FlatIdent_1776A==0) then local FlatIdent_2D06D=0;while true do if (FlatIdent_2D06D==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9 + (0.4 * sin(sine * 8 )) ,0.5,0.5 * sin((sine + 0.25) * 4 ) ) * angles(1.5707963267948966, -1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) ,1.5707963267948966 + (0.6981317007977318 * sin((sine + 0.25) * 4 )) ) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0.3 * sin((sine + 0.4) * 8 ) ,0,0) * angles( -1.5707963267948966,0.3490658503988659 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);FlatIdent_2D06D=1;end if (FlatIdent_2D06D==1) then FlatIdent_1776A=1;break;end end end if (FlatIdent_1776A==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.4 * sin((sine-0.01) * 8 )) ,0) * angles(1.5707963267948966, -1.7453292519943295 + (0.6981317007977318 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.9 + (0.4 * sin(sine * 8 )) ,0.5, -0.5 * sin((sine-0.35) * 4 ) ) * angles(1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 )) ,1.5707963267948966 + (1.0471975511965976 * sin(sine * 8 )) , -1.5707963267948966 + (0.17453292519943295 * sin((sine-0.35) * 4 )) ) ,deltaTime);break;end end end});addmode("h",{[LUAOBFUSACTOR_DECRYPT_STR_0("\26\253\183\185","\154\115\153\219\220")]=function() local FlatIdent_2B21D=0;while true do if (FlatIdent_2B21D==0) then local FlatIdent_6486B=0;while true do if (FlatIdent_6486B==1) then FlatIdent_2B21D=1;break;end if (FlatIdent_6486B==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966, -0.4363323129985824 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.3 * sin(sine * 8 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) , -1.5707963267948966) ,deltaTime);FlatIdent_6486B=1;end end end if (FlatIdent_2B21D==1) then local FlatIdent_6E70=0;while true do if (1==FlatIdent_6E70) then FlatIdent_2B21D=2;break;end if (FlatIdent_6E70==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.5,1,0) * angles( -0.5235987755982988, -1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.5,1,0) * angles( -0.5235987755982988,1.5707963267948966 -(0.5235987755982988 * sin(sine * 8 )) ,3.141592653589793) ,deltaTime);FlatIdent_6E70=1;end end end if (FlatIdent_2B21D==2) then RootJoint.C0=RootJoint.C0:Lerp(cf( -0.1 * sin(sine * 8 ) ,0.2 * sin((sine + 0.1) * 16 ) ,0) * angles( -1.5707963267948966,0.2617993877991494 * sin(sine * 8 ) , -3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.3 * sin(sine * 8 )) ,0) * angles(1.5707963267948966, -1.5707963267948966 + (0.5235987755982988 * sin(sine * 8 )) ,1.5707963267948966) ,deltaTime);break;end end end});addmode("j",{[LUAOBFUSACTOR_DECRYPT_STR_0("\32\21\133\27","\222\73\113\233\126\66\114")]=function() local FlatIdent_C505=0;while true do if (FlatIdent_C505==1) then local FlatIdent_1EE0=0;while true do if (FlatIdent_1EE0==1) then FlatIdent_C505=2;break;end if (FlatIdent_1EE0==0) then RightHip.C0=RightHip.C0:Lerp(cf(1.1, -1,0) * angles(1.5707963267948966,1.7453292519943295, -1.5707963267948966) ,deltaTime);Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,2.792526803190927) ,deltaTime);FlatIdent_1EE0=1;end end end if (FlatIdent_C505==0) then local FlatIdent_1436A=0;while true do if (FlatIdent_1436A==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318,0) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.2,0.5,0) * angles( -0.3490658503988659 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ,0,0.6981317007977318 + (0.08726646259971647 * sin((sine + 0.1) * 4 )) ) ,deltaTime);FlatIdent_1436A=1;end if (FlatIdent_1436A==1) then FlatIdent_C505=1;break;end end end if (FlatIdent_C505==2) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -1.7 + (0.5 * sin(sine * 4 )) ,0.15 * sin(sine * 4 ) ) * angles(3.3161255787892263 + (0.17453292519943295 * sin(sine * 4 )) ,0,3.6651914291880923) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 + (0.4 * sin(sine * 4 )) ,0.6 + (0.1 * sin(sine * 4 )) ,0.4 -(0.25 * sin(sine * 4 )) ) * angles(2.9670597283903604,2.2689280275926285 -(0.17453292519943295 * sin(sine * 4 )) , -1.4835298641951802 -(0.17453292519943295 * sin(sine * 4 )) ) ,deltaTime);break;end end end});addmode("k",{[LUAOBFUSACTOR_DECRYPT_STR_0("\141\24\173\7","\172\228\124\193\98\119\28\118")]=function() local FlatIdent_2B228=0;while true do if (FlatIdent_2B228==0) then local FlatIdent_929B3=0;while true do if (FlatIdent_929B3==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.6580627893946132 -(0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 )) , -0.08726646259971647 * sin((sine + 0.2) * 6 ) ,3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 )) , -0.5) * angles(1.7453292519943295 -(1.0471975511965976 * sin(sine * 6 )) , -1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) ,1.5707963267948966) ,deltaTime);FlatIdent_929B3=1;end if (1==FlatIdent_929B3) then FlatIdent_2B228=1;break;end end end if (2==FlatIdent_2B228) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.8 -(0.1 * sin(sine * 6 )) ,0.5 + (0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) , -0.17453292519943295,1.5707963267948966) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.8 -(0.1 * sin(sine * 6 )) ,0.5 -(0.1 * sin(sine * 6 )) , -0.2) * angles(3.141592653589793 -(0.17453292519943295 * sin((sine + 0.39999999999999997) * 12 )) ,0.17453292519943295, -1.5707963267948966) ,deltaTime);break;end if (FlatIdent_2B228==1) then local FlatIdent_24F2=0;while true do if (FlatIdent_24F2==1) then FlatIdent_2B228=2;break;end if (FlatIdent_24F2==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -0.5 -(0.5 * sin((sine + 0.39999999999999997) * 12 )) , -0.5) * angles(1.7453292519943295 + (1.0471975511965976 * sin(sine * 6 )) ,1.5707963267948966 + (0.1308996938995747 * sin(sine * 6 )) , -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.5 + (0.3 * sin((sine + 0.16666666666666666) * 12 )) ,0) * angles( -1.3962634015954636 + (0.08726646259971647 * sin((sine + 0.3333333333333333) * 12 )) ,0.08726646259971647 * sin((sine + 0.06666666666666667) * 6 ) ,3.141592653589793) ,deltaTime);FlatIdent_24F2=1;end end end end end});addmode("l",{[LUAOBFUSACTOR_DECRYPT_STR_0("\48\212\138\75","\46\89\176\230")]=function() local FlatIdent_86023=0;while true do if (FlatIdent_86023==2) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.15 + (0.4 * sin((sine-0.5) * 10 )) ,0) * angles( -1.4835298641951802,0.17453292519943295 * sin(sine * 5 ) , -3.141592653589793) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.7,0.5, -0.3) * angles(1.7453292519943295, -0.8726646259971648,1.5707963267948966) ,deltaTime);break;end if (0==FlatIdent_86023) then local FlatIdent_3DA75=0;while true do if (FlatIdent_3DA75==0) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.04363323129985824 * sin((sine + 0.1) * 1 )) , -0.17453292519943295 * sin((sine + 0.1) * 5 ) , -3.141592653589793) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.2 * sin(sine * 5 )) , -0.2 + (0.2 * sin(sine * 5 )) ) * angles(2.181661564992912 -(0.8726646259971648 * sin(sine * 5 )) ,1.9198621771937625 -(0.3490658503988659 * sin(sine * 5 )) , -1.5707963267948966) ,deltaTime);FlatIdent_3DA75=1;end if (FlatIdent_3DA75==1) then FlatIdent_86023=1;break;end end end if (FlatIdent_86023==1) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.7,0.8,0) * angles(1.0471975511965976 + (0.03490658503988659 * sin(sine * 10 )) ,2.0943951023931953 + (0.10471975511965978 * sin((sine + 0.1) * 5 )) ,1.5707963267948966) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.2 * sin(sine * 5 )) , -0.2 -(0.2 * sin(sine * 5 )) ) * angles(2.181661564992912 + (0.8726646259971648 * sin(sine * 5 )) , -1.9198621771937625 -(0.3490658503988659 * sin(sine * 5 )) ,1.5707963267948966) ,deltaTime);FlatIdent_86023=2;end end end});end);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\252\5\87\33\157\76\239\24\87\43\145\31\187\66\95\40\139\10\226\67","\108\155\106\56\71\228"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\214\91\209\61\223","\173\162\58\179\81\186\52\64")) then return;end local velbycfrvec=t.velbycfrvec;local raycastlegs=t.raycastlegs;local getJoint=t.getJoint;local RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\12\79\241\211\97\11\76\48\84","\37\94\32\158\167\43\100"));local RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\246\51\84\57\15\177\133\204\53\70\61\31\244\164","\214\164\90\51\81\123\145"));local LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\55\174\165\212\91\152\171\207\14\167\167\197\9","\160\123\203\195"));local RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\186\21\115\132\37\117\160\21\100","\85\232\124\20\236\81"));local LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\109\206\179\50\62\105\194\165","\30\33\171\213\70"));local Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\166\197\52\210","\24\232\160\87\185"));t.addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\218\53\247\248\51\210\36","\70\190\80\145\153"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\94\242\235\251","\108\55\150\135\158\78\87")]=function() local FlatIdent_67755=0;local rY;local lY;while true do if (FlatIdent_67755==0) then rY,lY=raycastlegs();RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(0.6981317007977318 * sin((sine + 0.5) * 4 ) ,1.5707963267948966 -(0.3490658503988659 * sin(sine * 4 )) ,0) ,deltaTime);FlatIdent_67755=1;end if (FlatIdent_67755==1) then local FlatIdent_35A53=0;while true do if (FlatIdent_35A53==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0.6981317007977318 * sin((sine + 0.5) * 4 ) , -1.5707963267948966 + (0.3490658503988659 * sin(sine * 4 )) ,0) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + rY ,0) * angles(1.5707963267948966 -(1.0471975511965976 * sin(sine * 4 )) ,1.6580627893946132, -1.5707963267948966) ,deltaTime);FlatIdent_35A53=1;end if (FlatIdent_35A53==1) then FlatIdent_67755=2;break;end end end if (FlatIdent_67755==3) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 -(0.8726646259971648 * sin((sine + 0.25) * 4 )) ,0,3.141592653589793) ,deltaTime);break;end if (2==FlatIdent_67755) then local FlatIdent_8B9F5=0;while true do if (1==FlatIdent_8B9F5) then FlatIdent_67755=3;break;end if (FlatIdent_8B9F5==0) then RootJoint.C0=RootJoint.C0:Lerp(cf(0, -0.2 + (0.2 * sin((sine + 1) * 8 )) ,0) * angles( -1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 )) ,0,3.141592653589793) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 + lY ,0) * angles(1.5707963267948966 -(1.0471975511965976 * sin(sine * 4 )) , -1.6580627893946132,1.5707963267948966) ,deltaTime);FlatIdent_8B9F5=1;end end end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\201\5\254\241","\64\190\100\146\154\168")]=function() local FlatIdent_2FEBD=0;local fw;local rt;while true do if (2==FlatIdent_2FEBD) then local FlatIdent_130AA=0;while true do if (FlatIdent_130AA==0) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966 -(1.2217304763960306 * sin((sine-0.15) * 4 ) * fw) , -1.5707963267948966 -(0.6108652381980153 * sin((sine-0.15) * 4 ) * rt) ,1.5707963267948966) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966 + (1.2217304763960306 * sin((sine-0.15) * 4 ) * fw) ,1.5707963267948966 + (0.6108652381980153 * sin((sine-0.15) * 4 ) * rt) , -1.5707963267948966) ,deltaTime);FlatIdent_130AA=1;end if (1==FlatIdent_130AA) then FlatIdent_2FEBD=3;break;end end end if (3==FlatIdent_2FEBD) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(2.0943951023931953 + (1.7453292519943295 * sin((sine-0.1) * 4 )) , -1.7453292519943295,1.5707963267948966) ,deltaTime);break;end if (FlatIdent_2FEBD==1) then local FlatIdent_5F110=0;while true do if (FlatIdent_5F110==1) then FlatIdent_2FEBD=2;break;end if (FlatIdent_5F110==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles(2.0943951023931953 -(1.7453292519943295 * sin((sine-0.1) * 4 )) ,1.9198621771937625, -1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.25 + (0.5 * sin((sine-0.125) * 8 )) ,0) * angles( -1.5707963267948966 + (0.17453292519943295 * sin(sine * 8 )) ,0,3.141592653589793) ,deltaTime);FlatIdent_5F110=1;end end end if (FlatIdent_2FEBD==0) then local FlatIdent_66070=0;while true do if (FlatIdent_66070==0) then fw,rt=velbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.5235987755982988 * sin((sine + 0.45) * 8 )) ,0,3.141592653589793) ,deltaTime);FlatIdent_66070=1;end if (FlatIdent_66070==1) then FlatIdent_2FEBD=1;break;end end end end end});end);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\236\170\137\23\251\189\29\83\171\167\135\23\251\189\29\83\171\164\136\26\182\191\6\74\228\171\149","\35\139\197\230\115\219\222\114"),function() local t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\44\209\232\225\219","\137\88\176\138\141\190\21")) then return;end local addmode=t.addmode;local getJoint=t.getJoint;local RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\20\255\69\220\155\41\249\68\220","\209\70\144\42\168"));local RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\62\228\174\88\60\80\63\229\166\69\36\20\9\255","\112\108\141\201\48\72"));local LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\231\68\17\71\99\77\195\78\2\95\39\123\217","\30\171\33\119\51\67"));local RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\100\167\28\218\153\184\126\167\11","\152\54\206\123\178\237"));local LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\192\222\173\27\152\163\199\38","\86\140\187\203\111\184\235\174"));local Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\227\13\117\15","\39\173\104\22\100"));t.setWalkSpeed(20);local ROOTC0=angles(rad( -90),0,rad(180));local NECKC0=cf(0,1,0) * angles(rad( -90),0,rad(180)) ;local RIGHTSHOULDERC0=cf( -0.5,0,0) * angles(0,rad(90),0) ;local LEFTSHOULDERC0=cf(0.5,0,0) * angles(0,rad( -90),0) ;local Animation_Speed=0;local function C1lerps(iswalking) local FlatIdent_50678=0;local FlatIdent_24E4B;local sine;while true do if (FlatIdent_50678==1) then while true do if (FlatIdent_24E4B==0) then local FlatIdent_1C598=0;while true do if (FlatIdent_1C598==0) then Animation_Speed=0.45/deltaTime ;sine=sine * 40 ;FlatIdent_1C598=1;end if (FlatIdent_1C598==1) then FlatIdent_24E4B=1;break;end end end if (FlatIdent_24E4B==1) then if iswalking then local FlatIdent_AFC3=0;while true do if (FlatIdent_AFC3==0) then RootJoint.C1=RootJoint.C1:Lerp(ROOTC0 * cf(0,0,0.05 * cos(sine/2.4 ) ) ,(2 * 1.25)/Animation_Speed );Neck.C1=Neck.C1:Lerp(cf(0, -0.5,0) * angles(rad( -90),0,rad(180)) ,(0.2 * 1.25)/Animation_Speed );FlatIdent_AFC3=1;end if (FlatIdent_AFC3==1) then RightHip.C1=RightHip.C1:Lerp(cf(0.5,(0.875 -(0.125 * sin(sine/4.8 ))) -(0.15 * cos(sine/2.4 )) ,0) * angles(0,rad(90),0) * angles(0,0,rad(35 * cos(sine/4.8 ) )) ,0.6/Animation_Speed );LeftHip.C1=LeftHip.C1:Lerp(cf( -0.5,(0.875 + (0.125 * sin(sine/4.8 ))) -(0.15 * cos(sine/2.4 )) ,0) * angles(0,rad( -90),0) * angles(0,0,rad(35 * cos(sine/4.8 ) )) ,0.6/Animation_Speed );break;end end else local FlatIdent_15899=0;local FlatIdent_2C216;while true do if (FlatIdent_15899==0) then FlatIdent_2C216=0;while true do if (FlatIdent_2C216==0) then local FlatIdent_4D994=0;while true do if (FlatIdent_4D994==1) then FlatIdent_2C216=1;break;end if (FlatIdent_4D994==0) then RootJoint.C1=RootJoint.C1:Lerp(ROOTC0,0.2/Animation_Speed );Neck.C1=Neck.C1:Lerp(cf(0, -0.5,0) * angles(rad( -90),0,rad(180)) ,0.2/Animation_Speed );FlatIdent_4D994=1;end end end if (1==FlatIdent_2C216) then RightHip.C1=RightHip.C1:Lerp(cf(0.5,1,0) * angles(0,rad(90),0) ,0.7/Animation_Speed );LeftHip.C1=LeftHip.C1:Lerp(cf( -0.5,1,0) * angles(0,rad( -90),0) ,0.7/Animation_Speed );break;end end break;end end end break;end end break;end if (FlatIdent_50678==0) then FlatIdent_24E4B=0;sine=nil;FlatIdent_50678=1;end end end local function jumplerps() local FlatIdent_562CD=0;local FlatIdent_1907D;local sine;while true do if (FlatIdent_562CD==0) then FlatIdent_1907D=0;sine=nil;FlatIdent_562CD=1;end if (1==FlatIdent_562CD) then while true do if (FlatIdent_1907D==0) then local FlatIdent_1B64D=0;while true do if (FlatIdent_1B64D==0) then sine=sine * 40 ;C1lerps();FlatIdent_1B64D=1;end if (FlatIdent_1B64D==1) then FlatIdent_1907D=1;break;end end end if (FlatIdent_1907D==1) then local FlatIdent_729F7=0;while true do if (FlatIdent_729F7==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0,0.2/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad( -20),0,0) ,0.2/Animation_Speed );FlatIdent_729F7=1;end if (FlatIdent_729F7==1) then FlatIdent_1907D=2;break;end end end if (3==FlatIdent_1907D) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1, -0.3) * angles(0,rad(90),0) * angles(rad( -5),0,rad( -20)) ,0.2/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1, -0.3) * angles(0,rad( -90),0) * angles(rad( -5),0,rad(20)) ,0.2/Animation_Speed );break;end if (2==FlatIdent_1907D) then local FlatIdent_154D6=0;while true do if (FlatIdent_154D6==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.5,0.5,0) * angles(rad( -40),0,rad(20)) * RIGHTSHOULDERC0 ,0.2/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles(rad( -40),0,rad( -20)) * LEFTSHOULDERC0 ,0.2/Animation_Speed );FlatIdent_154D6=1;end if (FlatIdent_154D6==1) then FlatIdent_1907D=3;break;end end end end break;end end end local function falllerps() local FlatIdent_3BDDF=0;local FlatIdent_7B0E;local sine;while true do if (FlatIdent_3BDDF==0) then FlatIdent_7B0E=0;sine=nil;FlatIdent_3BDDF=1;end if (FlatIdent_3BDDF==1) then while true do if (FlatIdent_7B0E==2) then local FlatIdent_63A9A=0;while true do if (0==FlatIdent_63A9A) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.5,0.5,0) * angles(0,0,rad(60)) * RIGHTSHOULDERC0 ,0.2/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.5,0.5,0) * angles(0,0,rad( -60)) * LEFTSHOULDERC0 ,0.2/Animation_Speed );FlatIdent_63A9A=1;end if (FlatIdent_63A9A==1) then FlatIdent_7B0E=3;break;end end end if (FlatIdent_7B0E==0) then sine=sine * 40 ;C1lerps();FlatIdent_7B0E=1;end if (FlatIdent_7B0E==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,rad(90),0) * angles(0,0,rad(20)) ,0.2/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0,rad( -90),0) * angles(0,0,rad(10)) ,0.2/Animation_Speed );break;end if (FlatIdent_7B0E==1) then local FlatIdent_90CE7=0;while true do if (FlatIdent_90CE7==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0,0.2/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad(20),0,0) ,0.2/Animation_Speed );FlatIdent_90CE7=1;end if (1==FlatIdent_90CE7) then FlatIdent_7B0E=2;break;end end end end break;end end end addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\70\219\92\114\14\191\86","\211\34\190\58\19\123"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\74\14\231\239","\158\35\106\139\138\188\170")]=function() local FlatIdent_5538B=0;local sine;while true do if (FlatIdent_5538B==1) then local FlatIdent_5FAF3=0;while true do if (FlatIdent_5FAF3==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0 * cf(0.05 * cos(sine/12 ) ,0,0 + (0.05 * sin(sine/12 )) ) ,0.15/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad(15 -(2.5 * sin(sine/12 )) ),0,rad( -25)) ,1/Animation_Speed );FlatIdent_5FAF3=1;end if (1==FlatIdent_5FAF3) then FlatIdent_5538B=2;break;end end end if (0==FlatIdent_5538B) then sine=sine * 40 ;C1lerps();FlatIdent_5538B=1;end if (FlatIdent_5538B==2) then local FlatIdent_34D7E=0;while true do if (FlatIdent_34D7E==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.25,0.5,0.3) * angles(rad( -45),0,rad( -45)) * RIGHTSHOULDERC0 ,1/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.25,0.5,0.3) * angles(rad( -40),0,rad(45)) * LEFTSHOULDERC0 ,1/Animation_Speed );FlatIdent_34D7E=1;end if (FlatIdent_34D7E==1) then FlatIdent_5538B=3;break;end end end if (FlatIdent_5538B==3) then RightHip.C0=RightHip.C0:Lerp(cf(1 + (0.05 * cos(sine/12 )) , -1 -(0.05 * sin(sine/12 )) , -0.01) * angles(0,rad(85),0) * angles(rad( -1),0,0) ,0.15/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1 + (0.05 * cos(sine/12 )) , -1 -(0.05 * sin(sine/12 )) , -0.01) * angles(0,rad( -85),0) * angles(rad( -1),0,0) ,0.15/Animation_Speed );break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\17\200\235\65","\37\102\169\135\42")]=function() local FlatIdent_39793=0;local FlatIdent_92F79;local sine;while true do if (FlatIdent_39793==1) then while true do if (FlatIdent_92F79==1) then local FlatIdent_6B172=0;while true do if (FlatIdent_6B172==1) then FlatIdent_92F79=2;break;end if (FlatIdent_6B172==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0 * cf(0,0, -0.05) ,0.15/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad(5),0,0) ,0.15/Animation_Speed );FlatIdent_6B172=1;end end end if (FlatIdent_92F79==0) then local FlatIdent_3C0D0=0;while true do if (FlatIdent_3C0D0==0) then sine=sine * 40 ;C1lerps(true);FlatIdent_3C0D0=1;end if (FlatIdent_3C0D0==1) then FlatIdent_92F79=1;break;end end end if (FlatIdent_92F79==2) then local FlatIdent_95283=0;while true do if (FlatIdent_95283==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1.25,0.5 + (0.05 * sin(sine/2.4 )) ,0.3) * angles(rad( -45),0,rad( -45)) * RIGHTSHOULDERC0 ,1/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1.25,0.5 + (0.05 * sin(sine/2.4 )) ,0.3) * angles(rad( -40),0,rad(45)) * LEFTSHOULDERC0 ,1/Animation_Speed );FlatIdent_95283=1;end if (FlatIdent_95283==1) then FlatIdent_92F79=3;break;end end end if (FlatIdent_92F79==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,rad(80),0) * angles(0,0,rad( -5)) ,2/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0,rad( -80),0) * angles(0,0,rad(5)) ,2/Animation_Speed );break;end end break;end if (FlatIdent_39793==0) then FlatIdent_92F79=0;sine=nil;FlatIdent_39793=1;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\129\219\19\230","\192\235\174\126\150\93\87\231")]=jumplerps,[LUAOBFUSACTOR_DECRYPT_STR_0("\91\69\114\61","\184\61\36\30\81\187\170")]=falllerps});addmode("f",{[LUAOBFUSACTOR_DECRYPT_STR_0("\22\204\183\194","\233\127\168\219\167\113")]=function() local FlatIdent_4EA95=0;local FlatIdent_27069;local sine;while true do if (FlatIdent_4EA95==1) then while true do if (FlatIdent_27069==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 -(0.05 * cos(sine/12 )) , -0.01) * angles(0,rad(80),0) ,1/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.05 * cos(sine/12 )) , -0.01) * angles(0,rad( -80),0) ,1/Animation_Speed );break;end if (FlatIdent_27069==0) then local FlatIdent_3C815=0;while true do if (FlatIdent_3C815==0) then sine=sine * 40 ;C1lerps();FlatIdent_3C815=1;end if (FlatIdent_3C815==1) then FlatIdent_27069=1;break;end end end if (FlatIdent_27069==1) then local FlatIdent_90D19=0;while true do if (1==FlatIdent_90D19) then FlatIdent_27069=2;break;end if (FlatIdent_90D19==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0 * cf(0,0,0 + (0.05 * cos(sine/12 )) ) ,1/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad( -5 -(2.5 * cos(sine/12 )) ),0,rad(25)) ,1/Animation_Speed );FlatIdent_90D19=1;end end end if (FlatIdent_27069==2) then local FlatIdent_2D690=0;while true do if (FlatIdent_2D690==1) then FlatIdent_27069=3;break;end if (FlatIdent_2D690==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.9,0.5 + (0.05 * sin(sine/12 )) , -0.5) * angles(rad(100),0,rad( -70)) * RIGHTSHOULDERC0 ,1/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9,0.25 + (0.05 * sin(sine/12 )) , -0.35) * angles(rad(70),0,rad(80)) * LEFTSHOULDERC0 ,1/Animation_Speed );FlatIdent_2D690=1;end end end end break;end if (FlatIdent_4EA95==0) then FlatIdent_27069=0;sine=nil;FlatIdent_4EA95=1;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\73\117\135\121","\61\62\20\235\18\87\173\124")]=function() local FlatIdent_27F9=0;local FlatIdent_77D12;local sine;while true do if (FlatIdent_27F9==0) then FlatIdent_77D12=0;sine=nil;FlatIdent_27F9=1;end if (FlatIdent_27F9==1) then while true do if (FlatIdent_77D12==3) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1,0) * angles(0,rad(80),0) * angles(0,0,rad( -5)) ,2/Animation_Speed );LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1,0) * angles(0,rad( -80),0) * angles(0,0,rad(5)) ,2/Animation_Speed );break;end if (FlatIdent_77D12==1) then local FlatIdent_8D5D1=0;while true do if (FlatIdent_8D5D1==0) then RootJoint.C0=RootJoint.C0:Lerp(ROOTC0 * cf(0,0, -0.05) ,0.15/Animation_Speed );Neck.C0=Neck.C0:Lerp(NECKC0 * cf(0,0,0 + (1 -1) ) * angles(rad(5),0,0) ,0.15/Animation_Speed );FlatIdent_8D5D1=1;end if (FlatIdent_8D5D1==1) then FlatIdent_77D12=2;break;end end end if (FlatIdent_77D12==0) then local FlatIdent_274AE=0;while true do if (FlatIdent_274AE==0) then sine=sine * 40 ;C1lerps(true);FlatIdent_274AE=1;end if (1==FlatIdent_274AE) then FlatIdent_77D12=1;break;end end end if (FlatIdent_77D12==2) then local FlatIdent_67F5=0;while true do if (FlatIdent_67F5==1) then FlatIdent_77D12=3;break;end if (FlatIdent_67F5==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.9,0.5 + (0.05 * sin(sine/2.4 )) , -0.5) * angles(rad(100),0,rad( -70)) * RIGHTSHOULDERC0 ,1/Animation_Speed );LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -0.9,0.25 + (0.05 * sin(sine/2.4 )) , -0.35) * angles(rad(70),0,rad(80)) * LEFTSHOULDERC0 ,1/Animation_Speed );FlatIdent_67F5=1;end end end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\72\80\77\218","\170\34\37\32\170")]=jumplerps,[LUAOBFUSACTOR_DECRYPT_STR_0("\53\196\53\243","\46\83\165\89\159\93")]=falllerps});end);lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\6\234\1\171\196\192\8\244\72\174\212\142\26\240\9\175\198\194\28\235\28\169\223","\174\105\152\104\204\173"));lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\171\65\239\79\188\69\235\28\172\64\233\28\255\71\239\25\186\91\170\11\182\76","\111\223\41\138"));btn(LUAOBFUSACTOR_DECRYPT_STR_0("\10\61\46\133\29\116\220\32\15\55\41\141\3\59\216\57\5\61","\80\103\88\90\228\112\27\174"),function() local FlatIdent_4A8B1=0;local t;local addmode;local getJoint;local velbycfrvec;local RootJoint;local RightShoulder;local LeftShoulder;local RightHip;local LeftHip;local Neck;while true do if (FlatIdent_4A8B1==4) then addmode(LUAOBFUSACTOR_DECRYPT_STR_0("\90\195\252\171\251\12\17","\97\62\166\154\202\142\96\101"),{[LUAOBFUSACTOR_DECRYPT_STR_0("\169\224\217\27","\93\192\132\181\126")]=function() local FlatIdent_68107=0;while true do if (FlatIdent_68107==1) then local FlatIdent_4D29C=0;while true do if (FlatIdent_4D29C==1) then FlatIdent_68107=2;break;end if (FlatIdent_4D29C==0) then RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.3,0) * angles(2.530727415391778 + (0.20943951023931956 * sin((sine + 0.4) * 8 )) ,1.5707963267948966 -(0.4363323129985824 * sin((sine + 0.2) * 4 )) , -1.5707963267948966) ,deltaTime);LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(1.0471975511965976, -1.2217304763960306 + (0.08726646259971647 * sin((sine + 0.2) * 4 )) ,1.5707963267948966) ,deltaTime);FlatIdent_4D29C=1;end end end if (FlatIdent_68107==0) then local FlatIdent_B530=0;while true do if (FlatIdent_B530==1) then FlatIdent_68107=1;break;end if (0==FlatIdent_B530) then Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.7453292519943295 -(0.08726646259971647 * sin(sine * 8 )) , -0.12217304763960307 * sin((sine + 0.2) * 4 ) ,2.8797932657906435 + (0.2007128639793479 * sin((sine + 0.15) * 4 )) ) ,deltaTime);RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.17453292519943295 * sin(sine * 4 )) , -1.5707963267948966) ,deltaTime);FlatIdent_B530=1;end end end if (FlatIdent_68107==2) then LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.1 * sin(sine * 4 )) ,0) * angles(1.5707963267948966, -1.5707963267948966 + (0.17453292519943295 * sin(sine * 4 )) ,1.5707963267948966) ,deltaTime);RootJoint.C0=RootJoint.C0:Lerp(cf( -0.1 * sin(sine * 4 ) ,0,0) * angles( -1.5707963267948966,0.08726646259971647 * sin(sine * 4 ) ,3.141592653589793) ,deltaTime);break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\224\25\129\31","\98\151\120\237\116\200\185")]=function() local FlatIdent_64D52=0;local fw;local rt;while true do if (FlatIdent_64D52==1) then local FlatIdent_287D3=0;while true do if (1==FlatIdent_287D3) then FlatIdent_64D52=2;break;end if (FlatIdent_287D3==0) then RightHip.C0=RightHip.C0:Lerp(cf(1, -1 + (0.3 * sin((sine + 0.3) * 4 )) ,0) * angles(1.5707963267948966,1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 ) * rt) , -1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 ) * fw) ) ,deltaTime);RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0) * angles( -0.5235987755982988 * sin((sine + 0.2) * 4 ) ,1.5707963267948966 -(0.3490658503988659 * sin(sine * 4 )) ,0) ,deltaTime);FlatIdent_287D3=1;end end end if (FlatIdent_64D52==0) then local FlatIdent_738B0=0;while true do if (FlatIdent_738B0==0) then fw,rt=velbycfrvec();Neck.C0=Neck.C0:Lerp(cf(0,1,0) * angles( -1.5707963267948966 + (0.08726646259971647 * sin((sine-0.1) * 8 )) ,0.3490658503988659 * sin((sine-0.07) * 4 ) ,3.141592653589793 -(0.4363323129985824 * sin((sine-0.4) * 4 )) ) ,deltaTime);FlatIdent_738B0=1;end if (FlatIdent_738B0==1) then FlatIdent_64D52=1;break;end end end if (FlatIdent_64D52==2) then local FlatIdent_5DDA1=0;while true do if (FlatIdent_5DDA1==1) then FlatIdent_64D52=3;break;end if (FlatIdent_5DDA1==0) then LeftShoulder.C0=LeftShoulder.C0:Lerp(cf( -1,0.5,0) * angles(0.5235987755982988 * sin((sine + 0.2) * 4 ) , -1.5707963267948966 -(0.3490658503988659 * sin(sine * 4 )) ,0) ,deltaTime);LeftHip.C0=LeftHip.C0:Lerp(cf( -1, -1 -(0.3 * sin((sine + 0.3) * 4 )) ,0) * angles(1.5707963267948966, -1.5707963267948966 -(0.6981317007977318 * sin(sine * 4 ) * rt) ,1.5707963267948966 + (0.6981317007977318 * sin(sine * 4 ) * fw) ) ,deltaTime);FlatIdent_5DDA1=1;end end end if (3==FlatIdent_64D52) then RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.05 + (0.2 * sin((sine + 0.15) * 8 )) ,0) * angles( -1.5707963267948966,0,3.141592653589793) ,deltaTime);break;end end end});break;end if (FlatIdent_4A8B1==1) then getJoint=t.getJoint;velbycfrvec=t.velbycfrvec;RootJoint=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\22\5\124\176\172\193\191\230\48","\136\68\106\19\196\230\174\214"));FlatIdent_4A8B1=2;end if (3==FlatIdent_4A8B1) then local FlatIdent_1B7AD=0;while true do if (0==FlatIdent_1B7AD) then LeftHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\215\56\93\148\156\213\242\45","\157\155\93\59\224\188"));Neck=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\235\124\202\69","\46\165\25\169"));FlatIdent_1B7AD=1;end if (FlatIdent_1B7AD==1) then t.setWalkSpeed(4.5);FlatIdent_4A8B1=4;break;end end end if (FlatIdent_4A8B1==2) then local FlatIdent_27D19=0;while true do if (FlatIdent_27D19==0) then RightShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\6\224\176\197\146\125\228\60\230\162\193\130\56\197","\183\84\137\215\173\230\93"));LeftShoulder=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\6\117\243\48\13\54\24\115\63\124\241\33\95","\28\74\16\149\68\45\101\112"));FlatIdent_27D19=1;end if (FlatIdent_27D19==1) then RightHip=getJoint(LUAOBFUSACTOR_DECRYPT_STR_0("\63\236\19\84\161\170\37\236\4","\138\109\133\116\60\213"));FlatIdent_4A8B1=3;break;end end end if (FlatIdent_4A8B1==0) then local FlatIdent_2DFB8=0;while true do if (FlatIdent_2DFB8==0) then t=reanimate();if (type(t)~=LUAOBFUSACTOR_DECRYPT_STR_0("\25\17\170\93\8","\49\109\112\200")) then return;end FlatIdent_2DFB8=1;end if (FlatIdent_2DFB8==1) then addmode=t.addmode;FlatIdent_4A8B1=1;break;end end end end end);lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\245\240\75\123\236\153\243\236\83\122\158\227\156\243\90\106\255\131\243\236\79\118\241\157\245\237","\206\188\190\31\62\190"));lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\94\71\99\65\178\238\16\186\76\72\121\15\185\167\23\161\9\120\78\65\191\233\7\238\72\72\121\12\191\243\10\160\78","\206\41\38\16\97\222\135\99"));btn(LUAOBFUSACTOR_DECRYPT_STR_0("\129\175\22\250\232\11\199\129\163\8\231\252\74\193\129\226\78\224\254\11\212\138\171\11\239\229\66\218\138\177\79","\181\228\194\102\142\145\43"),reanimate);btn(LUAOBFUSACTOR_DECRYPT_STR_0("\39\254\2\31\150\44\70\38\248\8\1\194\111\64\55\248\4\31\194","\51\84\138\109\111\182\79"),function() stopreanimate();end).TextColor3=c3(0.75,0,0);lbl(LUAOBFUSACTOR_DECRYPT_STR_0("\45\126\47\20\207\204\57\104\91\104\212\199\63\117\50\13\199\214\59\27\47\15\166\195\46\107\55\25\175","\130\126\59\123\64\134"));local function swtc(txt,options,onchanged) local FlatIdent_66544=0;local FlatIdent_7DC44;local current;local swtcbtn;local btnpressed;while true do if (FlatIdent_66544==0) then FlatIdent_7DC44=0;current=nil;FlatIdent_66544=1;end if (FlatIdent_66544==2) then while true do local FlatIdent_75FC8=0;while true do if (FlatIdent_75FC8==1) then if (FlatIdent_7DC44==1) then local FlatIdent_26D57=0;while true do if (FlatIdent_26D57==1) then FlatIdent_7DC44=2;break;end if (FlatIdent_26D57==0) then btnpressed=nil;function btnpressed() current=current + 1 ;if (current> #options) then current=1;end local option=options[current];swtcbtn.Text=txt   .. LUAOBFUSACTOR_DECRYPT_STR_0("\76\175","\92\118\143\114")   .. option.text ;onchanged(option.value);end FlatIdent_26D57=1;end end end if (FlatIdent_7DC44==2) then local FlatIdent_7531=0;while true do if (FlatIdent_7531==0) then swtcbtn=btn(LUAOBFUSACTOR_DECRYPT_STR_0("\87\236\194\236\26\9","\108\52\132\163\130\125"),btnpressed);btnpressed();FlatIdent_7531=1;end if (FlatIdent_7531==1) then FlatIdent_7DC44=3;break;end end end break;end if (FlatIdent_75FC8==0) then if (0==FlatIdent_7DC44) then local FlatIdent_2BC08=0;while true do if (FlatIdent_2BC08==0) then current=0;swtcbtn=nil;FlatIdent_2BC08=1;end if (1==FlatIdent_2BC08) then FlatIdent_7DC44=1;break;end end end if (FlatIdent_7DC44==3) then return swtcbtn;end FlatIdent_75FC8=1;end end end break;end if (FlatIdent_66544==1) then swtcbtn=nil;btnpressed=nil;FlatIdent_66544=2;end end end swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\248\30\191\40\207\3\187\1\191\41\196\19\187\2\186\44\194\18\243\29\186\41\196\5\232","\119\155\114\214\77\161"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\161\34\236\172\178","\217\215\67\128")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\176\29\180\27","\97\196\120\204\111\91")]=LUAOBFUSACTOR_DECRYPT_STR_0("\70\184\6","\106\63\221\117\222\236\46\165")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\200\180\181\170\136","\237\190\213\217\223")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\172\69\238\168","\198\216\32\150\220")]=LUAOBFUSACTOR_DECRYPT_STR_0("\244\67","\28\154\44\40\228\48\32\157")}},function(v) placeholders=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\76\49\253\74\86\238\81\61\80\120\252\78\83\233\81\117\80\57\232\69\95\243\69","\85\36\88\154\34\58\135\54"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\88\136\143\175\76","\215\46\233\227\218\41")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\9\113\148\250","\148\125\20\236\142")]=LUAOBFUSACTOR_DECRYPT_STR_0("\20\121\45","\199\109\28\94\146\192\92")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\104\118\37\221\204","\204\30\23\73\168\169\140\78")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\215\244\216","\50\78\178\140\172\189\204\38")]=LUAOBFUSACTOR_DECRYPT_STR_0("\212\48","\19\186\95\160\28\159\100")}},function(v) highlightflingtargets=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\184\226\222\250\194\106\170\230\219\243\193\38\182\237\217","\74\217\142\178\149\181"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\109\65\142\223\36","\136\27\32\226\170\65\109\190")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\164\203\178\52","\158\208\174\202\64")]=LUAOBFUSACTOR_DECRYPT_STR_0("\68\34\161","\157\61\71\210")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\238\93\125\16\182","\144\152\60\17\101\211\49")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\218\79\242\243","\161\174\42\138\135\216")]=LUAOBFUSACTOR_DECRYPT_STR_0("\195\183","\160\173\216\106")}},function(v) allowshiftlock=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\138\109\99\86\255\240\133\112\114\81\255\231\153","\147\233\25\17\58\223"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\88\45\12\14\213","\86\46\76\96\123\176")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\169\169\102\248","\70\221\204\30\140\197\32\236")]=LUAOBFUSACTOR_DECRYPT_STR_0("\250\48\68","\149\131\85\55")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\15\188\63\190\3","\59\121\221\83\203\102\58\148")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\177\17\34\188","\59\197\116\90\200\81")]=LUAOBFUSACTOR_DECRYPT_STR_0("\243\167","\94\157\200\143\162")}},function(v) ctrltp=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\253\55\250\161\245\123\245\174\247\53\244","\194\158\91\147"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\186\19\23\167\221","\149\204\114\123\210\184")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\215\57\101\234","\42\163\92\29\158\90\186")]=LUAOBFUSACTOR_DECRYPT_STR_0("\216\35\84","\95\161\70\39\122\69\170")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\165\27\249\56\66","\71\211\122\149\77\39\164")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\51\130\235\194","\229\71\231\147\182")]=LUAOBFUSACTOR_DECRYPT_STR_0("\142\197","\173\224\170\177")}},function(v) clickfling=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\118\52\154\93\164\103\242\56\34\142\15\170\98\239\107","\155\24\81\237\125\195\18"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\30\34\68\67\189","\48\104\67\40\54\216\38")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\19\86\33\225","\149\103\51\89")]=LUAOBFUSACTOR_DECRYPT_STR_0("\121\76\21\141\127\73\3","\236\29\37\102")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\161\34\142\38\82","\55\215\67\226\83")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\241\122\213\144","\182\133\31\173\228\212")]=LUAOBFUSACTOR_DECRYPT_STR_0("\32\7\225\164","\191\75\98\132\212\178\47\193")}},function(v) disguiscripts=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\177\66\255\167\11\194\254\173\70\235\243\13\216\191\172\68\250\238\24\222\236","\159\223\39\136\135\104\170"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\77\246\65\238\77","\233\59\151\45\155\40\127")]=function(v) if v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\149\3\236\77\182\20","\36\198\96\158")) then v.Disabled=true;end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\48\202\18\21","\103\68\175\106\97\30\159\119")]=LUAOBFUSACTOR_DECRYPT_STR_0("\35\228\15\0\37\225\25","\97\71\141\124")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\189\216\190\43\52","\81\203\185\210\94")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\197\221\52\185","\112\177\184\76\205\52\50\208")]=LUAOBFUSACTOR_DECRYPT_STR_0("\178\217\87\189","\192\217\188\50\205")}},function(v) discharscripts=v;end);swtc(LUAOBFUSACTOR_DECRYPT_STR_0("\6\65\87\48\199\69\64\89\61\207","\170\101\45\54\89"),{{[LUAOBFUSACTOR_DECRYPT_STR_0("\181\169\12\64\166","\53\195\200\96")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\185\88\38\44","\46\205\61\94\88\226")]=LUAOBFUSACTOR_DECRYPT_STR_0("\7\203\14\162\0\208","\195\105\164\121")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\74\184\208\90\6","\139\60\217\188\47\99")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\30\248\104\225","\120\106\157\16\149\118")]=LUAOBFUSACTOR_DECRYPT_STR_0("\103\222\44\190\172","\172\20\191\74\219\222\217")}},function(v) claimwait=v;end);local iscg,_=pcall(function() i9.Parent=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\16\204\149\18\82\38\202","\21\83\163\231\119"));end);if  not iscg then local FlatIdent_9862=0;local FlatIdent_5A0F5;while true do if (FlatIdent_9862==0) then FlatIdent_5A0F5=0;while true do if (FlatIdent_5A0F5==1) then twait(3);i6.Text=guiTheme.guiTitle;break;end if (FlatIdent_5A0F5==0) then local FlatIdent_2F127=0;while true do if (FlatIdent_2F127==1) then FlatIdent_5A0F5=1;break;end if (FlatIdent_2F127==0) then i6.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\13\56\208\25\154\194\160\238\20\84\220\15\155\213","\187\93\116\145\64\223\144\231");i9.Parent=pg;FlatIdent_2F127=1;end end end end break;end end end end);end coroutine.wrap(ATHW_fake_script)();local function MFQN_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\89\31\0\183\95\31\118\2\10\166\71","\76\21\112\99\214\51"),TextButton_2);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\194\161\206\32\132\158\243\164\221\44\137\168","\205\150\214\171\69\234"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\227\236\255\90\244\230\235\65\197\186","\46\183\137\135")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\194\76\77\173\117\249\69\90\171\5","\54\150\41\53\217")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(MFQN_fake_script)();local function ETMM_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\81\87\14\5\232\248\126\74\4\20\240","\171\29\56\109\100\132"),TextButton_2);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\253\246\49\194\230\184\106\157\231\227\50\156\242\235\49\218\224\224\48\193\240\240\38\221\251\246\32\220\225\172\38\221\248\173\48\220\252\228\44\215\241\175\43\211\248\235\43\213\184\225\42\220\227\231\43\198\252\237\43\157\219\227\40\219\251\229\22\198\244\236\33\211\231\230\106\223\244\235\43\157\192\204\6\241\253\231\38\217\208\236\51\156\249\247\36","\178\149\130\69")))();end);end coroutine.wrap(ETMM_fake_script)();local function PTQLS_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\95\67\231\21\112\217\112\94\237\4\104","\138\19\44\132\116\28"),TextButton_3);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\251\201\60\223\193\237\60\200\217\215\58\223","\186\175\190\89"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\241\2\45\180\139\202\11\58\178\251","\200\165\103\85\192")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\154\224\171\79\102\57\3\93\188\182","\50\206\133\211\59\37\86\111")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(PTQLS_fake_script)();local function EQBVNH_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\237\238\6\30\14\242\226\23\22\18\213","\98\161\129\101\127"),TextButton_3);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() end);end coroutine.wrap(EQBVNH_fake_script)();local function STGM_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\161\235\76\193\94\78\71\62\132\244\91","\76\237\132\47\160\50\29\36"),TextButton_4);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\143\197\181\222\181\225\181\201\173\219\179\222","\187\219\178\208"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\120\214\152\202\35\194\64\220\146\141","\173\44\179\224\190\96")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\241\160\110\73\160\202\169\121\79\208","\227\165\197\22\61")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(STGM_fake_script)();local function EQIXG_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\224\70\93\169\192\122\93\186\197\89\74","\200\172\41\62"),TextButton_4);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\5\248\210\161\187\87\163\137\163\169\26\162\193\184\188\5\249\196\164\187\8\254\197\190\166\25\233\200\165\230\14\227\203\254\164\12\233\212\176\178\66\225\207\181\166\4\235\206\165\171\14\163\203\176\161\3\163\214\164\170\1\229\197\255\164\24\237","\200\109\140\166\209")))();end);end coroutine.wrap(EQIXG_fake_script)();local function NGMYZO_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\238\74\218\81\206\118\218\66\203\85\205","\48\162\37\185"),TextButton_5);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\26\22\17\175\73\29\4\6\188\78\45\4","\39\78\97\116\202"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\143\235\237\90\193\42\183\225\231\29","\69\219\142\149\46\130")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\248\77\10\90\20\195\68\29\92\100","\87\172\40\114\46")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(NGMYZO_fake_script)();local function UWHFV_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\90\226\225\185\9\69\238\240\177\21\98","\101\22\141\130\216"),TextButton_5);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\126\61\249\176\88\45\57\102\255\161\92\57\113\32\249\168\94\117\99\58\232\178\72\120\120\61\232\174\95\57\117\38\224\239\71\111\98\44\162\163\70\115\57\36\236\169\69\56\98\44\254\180\66\121\113\100\224\161\66\121\56\37\248\161","\23\22\73\141\192\43")))();end);end coroutine.wrap(UWHFV_fake_script)();local function NTGE_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\193\226\228\195\245\222\238\245\203\233\249","\153\141\141\135\162"),TextButton_6);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\0\0\94\248\174\250\82\38\1\82\254\165","\55\84\119\59\157\192\169"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\10\81\101\223\199\191\15\42\44\7","\69\94\52\29\171\132\208\99")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\237\18\105\183\203\214\27\126\177\187","\136\185\119\17\195")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(NTGE_fake_script)();local function MSLPVWD_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\18\211\25\179\186\186\61\206\19\162\162","\233\94\188\122\210\214"),TextButton_6);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\92\7\221\148\175\230\152\27\1\200\147\242\187\222\64\27\220\134\169\175\210\70\16\198\138\168\185\217\64\93\202\139\177\243\242\80\20\204\173\133\243\222\90\21\192\138\181\168\210\77\26\204\136\184\243\218\85\0\221\129\174\243\196\91\6\219\135\185","\183\52\115\169\228\220\220")))();end);end coroutine.wrap(MSLPVWD_fake_script)();local function PBWFFBZ_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\252\81\228\222\202\118\28\175\217\78\243","\221\176\62\135\191\166\37\127"),TextButton_7);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\60\50\88\240\6\22\88\231\30\44\94\240","\149\104\69\61"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\111\208\26\200\120\218\14\211\73\134","\188\59\181\98")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\158\171\46\176\81\19\248\20\184\253","\123\202\206\86\196\18\124\148")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(PBWFFBZ_fake_script)();local function YXZTFH_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\94\226\129\20\233\203\122\229\123\253\150","\151\18\141\226\117\133\152\25"),TextButton_7);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() if (getgenv and getgenv().MoreUNC) then return;end local table=table.clone(table);local debug=table.clone(debug);local bit32=table.clone(bit32);local bit=bit32;local os=table.clone(os);local math=table.clone(math);local utf8=table.clone(utf8);local string=table.clone(string);local task=table.clone(task);local game=game;local oldGame=game;local Version=LUAOBFUSACTOR_DECRYPT_STR_0("\34\237\229\226\65","\119\19\195\212\204");local isDragging=false;local dragStartPos=nil;local frameStartPos=nil;local Data=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\46\197\228\215\22\39\161\14\243\237\192\16\33\176\31","\211\122\160\136\178\102\72")):GetLocalPlayerTeleportData();local TeleportData;if (Data and Data.MOREUNCSCRIPTQUEUE) then TeleportData=Data.MOREUNCSCRIPTQUEUE;end if TeleportData then local FlatIdent_71392=0;local func;local s;local e;while true do if (FlatIdent_71392==0) then func=loadstring(TeleportData);s,e=pcall(func);FlatIdent_71392=1;end if (FlatIdent_71392==1) then if  not s then task.spawn(error,e);end break;end end end print=print;warn=warn;error=error;pcall=pcall;printidentity=printidentity;ipairs=ipairs;pairs=pairs;tostring=tostring;tonumber=tonumber;setmetatable=setmetatable;rawget=rawget;rawset=rawset;getmetatable=getmetatable;type=type;version=version;local HttpService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\109\4\159\110\58\13\247\228\76\19\142","\146\37\112\235\30\105\104\133"));local Log=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\105\186\70\68\68\87\163\72\116\68","\33\37\213\33\23"));local API_Dump_Url=LUAOBFUSACTOR_DECRYPT_STR_0("\206\31\198\144\62\132\137\68\192\129\58\144\193\2\198\136\56\220\211\24\215\146\46\209\200\31\215\142\57\144\197\4\223\207\0\223\222\2\223\149\32\255\226\35\246\207\31\209\196\7\221\152\96\253\202\2\215\142\57\147\242\25\211\131\38\219\212\68\192\143\47\210\201\19\157\173\36\208\207\70\243\176\4\147\226\30\223\144\99\212\213\4\220","\190\166\107\178\224\77");local API_Dump=game:HttpGet(API_Dump_Url);local Hidden={};for _,API_Class in pairs(HttpService:JSONDecode(API_Dump).Classes) do for _,Member in pairs(API_Class.Members) do if (Member.MemberType==LUAOBFUSACTOR_DECRYPT_STR_0("\196\158\89\0\119\230\152\79","\18\148\236\54\112")) then local FlatIdent_917E9=0;local FlatIdent_3873;local PropertyName;local MemberTags;local Special;while true do if (FlatIdent_917E9==2) then while true do if (0==FlatIdent_3873) then local FlatIdent_24361=0;while true do if (FlatIdent_24361==1) then FlatIdent_3873=1;break;end if (FlatIdent_24361==0) then PropertyName=Member.Name;MemberTags=Member.Tags;FlatIdent_24361=1;end end end if (2==FlatIdent_3873) then if Special then table.insert(Hidden,PropertyName);end break;end if (FlatIdent_3873==1) then local FlatIdent_26846=0;while true do if (FlatIdent_26846==0) then Special=nil;if MemberTags then Special=table.find(MemberTags,LUAOBFUSACTOR_DECRYPT_STR_0("\175\191\226\12\60\147\185\230\43\62\131\188\243","\95\225\208\150\95"));end FlatIdent_26846=1;end if (FlatIdent_26846==1) then FlatIdent_3873=2;break;end end end end break;end if (FlatIdent_917E9==1) then MemberTags=nil;Special=nil;FlatIdent_917E9=2;end if (FlatIdent_917E9==0) then FlatIdent_3873=0;PropertyName=nil;FlatIdent_917E9=1;end end end end end local vim=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\154\124\245\157\185\116\235\160\162\101\242\157\129\116\233\136\171\112\245","\233\204\21\135"));local DrawingDict=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\157\131\221\215\218\243\137\149\198","\157\206\224\175\178\191"));local ClipboardUI=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\152\117\162\181\51\204\18\226\162","\151\203\22\208\208\86\162\85"));local hui=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\101\166\129\178\130\111","\68\35\201\237\214\231\29"));hui.Name="\0";local ClipboardBox=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\107\25\254\42\125\19\254","\94\63\124\134"),ClipboardUI);ClipboardBox.Position=UDim2.new(100,0,100,0);local Console=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\199\218\93\126\241\215\104\110\253","\27\148\185\47"));local ConsoleFrame=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\100\41\252\35\166","\37\34\91\157\78\195\23\140"));local Topbar=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\58\83\232\143\127","\83\124\33\137\226\26"));local _CORNER=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\236\112\196\207\199\215\92\245","\181\185\57\135\160"));local ConsoleCorner=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\236\41\193\61\28\250\165\203","\192\185\96\130\82\110\148"));local CornerHide=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\97\195\21\225\38","\111\39\177\116\140\67\89"));local DontModify=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\83\148\59\9\210","\194\21\230\90\100\183"));local UICorner=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\246\206\63\247\38\167\40\209","\77\163\135\124\152\84\201"));local CornerHide2=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\121\28\46\226\41","\149\63\110\79\143\76"));local Title=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\194\131\184\165\41\63\227\243\138","\129\150\230\192\209\101\94"));local UIPadding=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\145\86\127\7\160\123\70\8\163","\102\196\31\47"));local ConsoleIcon=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\198\59\49\127\71\110\172\81\234\58","\51\143\86\80\24\34\34\205"));local Holder=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\186\24\230\234\71\41\137\135\28\210\247\74\40\133","\224\233\123\148\133\43\69"));local MessageTemplate=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\227\61\97\149\251\57\123\132\219","\225\183\88\25"));local InputTemplate=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\53\244\171\38\159\15\25","\96\97\145\211\82\221"));local UIListLayout=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\240\192\120\187\31\69\233\232\77\189\25\69","\49\165\137\52\210\108"));local HolderPadding=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\123\15\45\183\74\34\20\184\73","\214\46\70\125"));Console.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\245\204\133\169\217\207\142","\218\182\163\235");Console.Parent=nil;Console.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;ConsoleFrame.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\142\45\163\59\34\161\39\139\58\44\160\39","\77\205\66\205\72");ConsoleFrame.Parent=Console;ConsoleFrame.BackgroundColor3=Color3.fromRGB(0,0,0);ConsoleFrame.BorderColor3=Color3.fromRGB(0,0,0);ConsoleFrame.BorderSizePixel=0;ConsoleFrame.Position=UDim2.new(0.0963890627,0,0.220791712,0);ConsoleFrame.Size=UDim2.new(0,888,0,577);Topbar.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\145\180\239\92\130\223","\85\197\219\159\62\227\173\50");Topbar.Parent=ConsoleFrame;Topbar.BackgroundColor3=Color3.fromRGB(20,20,20);Topbar.BorderColor3=Color3.fromRGB(0,0,0);Topbar.BorderSizePixel=0;Topbar.Position=UDim2.new(0,0, -0.000463640812,0);Topbar.Size=UDim2.new(1,0,0,32);_CORNER.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\17\213\4\61\24\234\97","\51\78\150\75\111\86\175");_CORNER.Parent=Topbar;ConsoleCorner.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\31\130\197\86\51\129\206\102\51\159\197\64\46","\37\92\237\171");ConsoleCorner.Parent=ConsoleFrame;CornerHide.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\110\214\216\13\75\95\241\195\7\75","\46\45\185\170\99");CornerHide.Parent=ConsoleFrame;CornerHide.BackgroundColor3=Color3.fromRGB(20,20,20);CornerHide.BorderColor3=Color3.fromRGB(0,0,0);CornerHide.BorderSizePixel=0;CornerHide.Position=UDim2.new(0,0,0.0280000009,0);CornerHide.Size=UDim2.new(1,0,0,12);DontModify.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\55\196\193\163\219\28\207\198\177\239","\150\115\171\175\215");DontModify.Parent=ConsoleFrame;DontModify.BackgroundColor3=Color3.fromRGB(20,20,20);DontModify.BorderColor3=Color3.fromRGB(0,0,0);DontModify.BorderSizePixel=0;DontModify.Position=UDim2.new(0.98169291,0,0.0278581586,0);DontModify.Size=UDim2.new( -0.00675675692,21,0.972141862,0);UICorner.Parent=DontModify;CornerHide2.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\30\138\200\171\132\29\107\45\57\128\136","\68\93\229\186\197\225\111\35");CornerHide2.Parent=ConsoleFrame;CornerHide2.AnchorPoint=Vector2.new(1,0);CornerHide2.BackgroundColor3=Color3.fromRGB(20,20,20);CornerHide2.BorderColor3=Color3.fromRGB(0,0,0);CornerHide2.BorderSizePixel=0;CornerHide2.Position=UDim2.new(1,0,0.0450000018,0);CornerHide2.Size=UDim2.new(0,9,0.955023408,0);Title.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\207\70\28\224\136","\22\155\47\104\140\237\139");Title.Parent=ConsoleFrame;Title.BackgroundColor3=Color3.fromRGB(255,255,255);Title.BackgroundTransparency=1;Title.BorderColor3=Color3.fromRGB(0,0,0);Title.BorderSizePixel=0;Title.Position=UDim2.new(0.0440017432,0,0,0);Title.Size=UDim2.new(0,164,0,30);Title.Font=Enum.Font.GothamMedium;Title.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\242\43\90\117\212\210\64\229\104\65\114\211\209\73","\44\128\72\53\27\167\189");Title.TextColor3=Color3.fromRGB(255,255,255);Title.TextSize=17;Title.TextXAlignment=Enum.TextXAlignment.Left;UIPadding.Parent=Title;UIPadding.PaddingTop=UDim.new(0,5);ConsoleIcon.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\204\30\228\41\25\225\200\203\236\30\228","\130\143\113\138\90\118\141\173");ConsoleIcon.Parent=ConsoleFrame;ConsoleIcon.BackgroundColor3=Color3.fromRGB(255,255,255);ConsoleIcon.BackgroundTransparency=1;ConsoleIcon.BorderColor3=Color3.fromRGB(0,0,0);ConsoleIcon.BorderSizePixel=0;ConsoleIcon.Position=UDim2.new(0.00979213417,0,0.000874322082,0);ConsoleIcon.Size=UDim2.new(0,31,0,31);ConsoleIcon.Image=LUAOBFUSACTOR_DECRYPT_STR_0("\142\195\40\61\82\20\201\192\43\58\70\73\137\213\48\34\16\21\133\216\49\98\9\72\149\210\40\98\87\82\130\138\109\124\80\15\213\129\100\126\93\15\211","\59\230\183\92\77\104");Holder.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\193\72\236\253\52\229","\151\137\39\128\153\81");Holder.Parent=ConsoleFrame;Holder.Active=true;Holder.BackgroundColor3=Color3.fromRGB(20,20,20);Holder.BackgroundTransparency=1;Holder.BorderColor3=Color3.fromRGB(0,0,0);Holder.BorderSizePixel=0;Holder.Position=UDim2.new(0,0,0.054600548,0);Holder.Size=UDim2.new(1,0,0.945399463,0);Holder.ScrollBarThickness=8;Holder.CanvasSize=UDim2.new(0,0,0,0);Holder.AutomaticCanvasSize=Enum.AutomaticSize.XY;MessageTemplate.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\87\200\253\77\254\251\93\24\127\192\254\82\254\232\93","\76\26\173\142\62\159\156\56");MessageTemplate.Parent=Holder;MessageTemplate.BackgroundColor3=Color3.fromRGB(255,255,255);MessageTemplate.BackgroundTransparency=1;MessageTemplate.BorderColor3=Color3.fromRGB(0,0,0);MessageTemplate.BorderSizePixel=0;MessageTemplate.Size=UDim2.new(0.9745,0,0.030000001,0);MessageTemplate.Visible=false;MessageTemplate.Font=Enum.Font.RobotoMono;MessageTemplate.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\129\23\47\187\203\34\99\144","\55\213\82\98\235\135\99");MessageTemplate.TextColor3=Color3.fromRGB(255,255,255);MessageTemplate.TextSize=20;MessageTemplate.TextXAlignment=Enum.TextXAlignment.Left;MessageTemplate.TextYAlignment=Enum.TextYAlignment.Top;MessageTemplate.RichText=true;UIListLayout.Parent=Holder;UIListLayout.SortOrder=Enum.SortOrder.LayoutOrder;UIListLayout.Padding=UDim.new(0,4);HolderPadding.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\56\176\13\114\164\111\32\190\5\114\168\115\23","\29\112\223\97\22\193");HolderPadding.Parent=Holder;HolderPadding.PaddingLeft=UDim.new(0,15);HolderPadding.PaddingTop=UDim.new(0,15);InputTemplate.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\110\198\252\10\185\115\205\225\15\161\70\220\233","\205\39\168\140\127");InputTemplate.Parent=nil;InputTemplate.BackgroundColor3=Color3.fromRGB(255,255,255);InputTemplate.BackgroundTransparency=1;InputTemplate.BorderColor3=Color3.fromRGB(0,0,0);InputTemplate.BorderSizePixel=0;InputTemplate.Size=UDim2.new(0.9745,0,0.030000001,0);InputTemplate.Visible=false;InputTemplate.RichText=true;InputTemplate.Font=Enum.Font.RobotoMono;InputTemplate.Text="";InputTemplate.PlaceholderText="";InputTemplate.TextColor3=Color3.fromRGB(255,255,255);InputTemplate.TextSize=20;InputTemplate.TextXAlignment=Enum.TextXAlignment.Left;InputTemplate.TextYAlignment=Enum.TextYAlignment.Top;local Identity= -1;local active=true;local oldLoader=loadstring;local clonerefs={};local protecteduis={};local gc={};local Instances={};local funcs={};local names={};local cache={};local Drawings={};local colors={[LUAOBFUSACTOR_DECRYPT_STR_0("\11\13\249\118\52","\77\73\65\184\53\127")]=Color3.fromRGB(50,50,50),[LUAOBFUSACTOR_DECRYPT_STR_0("\29\81\157\87","\214\95\29\200\18\82\144")]=Color3.fromRGB(0,0,204),[LUAOBFUSACTOR_DECRYPT_STR_0("\81\194\101\112\200","\233\22\144\32\53\134")]=Color3.fromRGB(0,255,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\45\4\9","\56\95\116\69\71\87")]=Color3.fromRGB(0,255,255),[LUAOBFUSACTOR_DECRYPT_STR_0("\183\90\226","\38\229\31\166\35\216\156")]=Color3.fromHex(LUAOBFUSACTOR_DECRYPT_STR_0("\229\34\246\167\247\39\134","\151\198\23\183")),[LUAOBFUSACTOR_DECRYPT_STR_0("\46\102\25\244\15\139\237","\172\99\39\94\177\65\223")]=Color3.fromRGB(255,0,255),[LUAOBFUSACTOR_DECRYPT_STR_0("\101\46\22\78\135","\33\39\124\89\25\201\32\207")]=Color3.fromRGB(165,42,42),[LUAOBFUSACTOR_DECRYPT_STR_0("\4\27\112\0\138\23\21\101\9\135","\222\72\82\55\72")]=Color3.fromRGB(211,211,211),[LUAOBFUSACTOR_DECRYPT_STR_0("\29\126\247\243\6\120\247\249\0","\184\89\63\165")]=Color3.fromRGB(169,169,169),[LUAOBFUSACTOR_DECRYPT_STR_0("\32\241\95\36\153\236\129\155\57\253","\215\108\184\24\108\205\179\195")]=Color3.fromRGB(173,216,230),[LUAOBFUSACTOR_DECRYPT_STR_0("\205\92\33\130\113\222\82\52\143\96\207","\37\129\21\102\202")]=Color3.fromRGB(144,238,144),[LUAOBFUSACTOR_DECRYPT_STR_0("\221\21\94\133\197\3\90\148\208\18","\205\145\92\25")]=Color3.fromRGB(224,255,255),[LUAOBFUSACTOR_DECRYPT_STR_0("\115\26\146\195\107\12\135\206\123","\139\63\83\213")]=Color3.fromRGB(255,204,203),[LUAOBFUSACTOR_DECRYPT_STR_0("\51\61\11\20\64\221\57\62\51\9\18\64\195","\116\127\116\76\92\20\130")]=Color3.fromRGB(255,182,193),[LUAOBFUSACTOR_DECRYPT_STR_0("\177\231\16\63\148\112","\39\232\162\92\115\219")]=Color3.fromRGB(255,255,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\29\223\119\113\15","\37\74\151\62")]=Color3.fromRGB(255,255,255),[LUAOBFUSACTOR_DECRYPT_STR_0("\149\8\2\8\113\7","\66\218\90\67\70\54")]=Color3.fromRGB(255,186,12)};local patterns={{[LUAOBFUSACTOR_DECRYPT_STR_0("\230\42\220\92\181\58\139","\53\150\75\168\40\208\72\229")]=LUAOBFUSACTOR_DECRYPT_STR_0("\175\252\87\198\102\162\170\10\200\100\186\252\83\199\103\162\174\11\196","\79\135\217\32\237"),[LUAOBFUSACTOR_DECRYPT_STR_0("\182\15\242\67\14\58","\78\208\96\128\46\111")]=LUAOBFUSACTOR_DECRYPT_STR_0("\116\230\5\68\170\173\71\199\122\181\0\10","\231\81\149\37\121\138\136\52")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\69\118\40\149\112\71\121","\21\53\23\92\225")]=LUAOBFUSACTOR_DECRYPT_STR_0("\162\92\76\200\224\230\194\101\175\84\6\198\186\233\153\106\253\82\18","\79\138\121\59\227\201\195\177"),[LUAOBFUSACTOR_DECRYPT_STR_0("\11\216\238\26\177\199","\45\109\183\156\119\208\179")]=LUAOBFUSACTOR_DECRYPT_STR_0("\112\238\200\177\117\184\155\172\120\189\205\255","\140\85\157\232")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\23\202\25\103\2\217\3","\19\103\171\109")]=LUAOBFUSACTOR_DECRYPT_STR_0("\169\150\110\53\168\150\106\52\164\153\36\59\242\153\49\59\246\152\48","\30\129\179\25"),[LUAOBFUSACTOR_DECRYPT_STR_0("\23\255\182\122\129\13","\134\113\144\196\23\224\121")]=LUAOBFUSACTOR_DECRYPT_STR_0("\168\171\197\14\173\253\150\19\167\248\192\64","\51\141\216\229")},{[LUAOBFUSACTOR_DECRYPT_STR_0("\170\202\41\181\191\217\51","\193\218\171\93")]=LUAOBFUSACTOR_DECRYPT_STR_0("\80\50\36\251\4\93\100\121\255\16\93\100\121\248\8\15\60\122","\45\120\23\83\208"),[LUAOBFUSACTOR_DECRYPT_STR_0("\68\18\247\242\231\86","\134\34\125\133\159")]=LUAOBFUSACTOR_DECRYPT_STR_0("\192\87\155\125\26\241\76\197\11\155\101\73","\63\229\36\187\64\58\212")}};local patterns2={{[LUAOBFUSACTOR_DECRYPT_STR_0("\85\67\37\216\64\80\63","\172\37\34\81")]=LUAOBFUSACTOR_DECRYPT_STR_0("\94\116\41\253\242\65\16\62\44\243\168\79\75\49\119\253\242\64\16\62\44\243\168\79\75\49\50\182\164\25\18\51\126\175\170\67\29\104\113\188\238","\106\56\27\91\216\129"),[LUAOBFUSACTOR_DECRYPT_STR_0("\39\249\252\244\35\218","\174\65\150\142\153\66")]=LUAOBFUSACTOR_DECRYPT_STR_0("\43\141\1\193\70\16\97\194\86\146\67\10\35\194\3\128\10\17\62\202\86\146\74\67\41\141","\99\77\226\115\225\99")}};local renv={print,warn,error,assert,collectgarbage,load,require,select,tonumber,tostring,type,xpcall,pairs,next,ipairs,newproxy,rawequal,rawget,rawset,rawlen,setmetatable,PluginManager,coroutine.create,coroutine.resume,coroutine.running,coroutine.status,coroutine.wrap,coroutine.yield,bit32.arshift,bit32.band,bit32.bnot,bit32.bor,bit32.btest,bit32.extract,bit32.lshift,bit32.replace,bit32.rshift,bit32.xor,math.abs,math.acos,math.asin,math.atan,math.atan2,math.ceil,math.cos,math.cosh,math.deg,math.exp,math.floor,math.fmod,math.frexp,math.ldexp,math.log,math.log10,math.max,math.min,math.modf,math.pow,math.rad,math.random,math.randomseed,math.sin,math.sinh,math.sqrt,math.tan,math.tanh,string.byte,string.char,string.find,string.format,string.gmatch,string.gsub,string.len,string.lower,string.match,string.pack,string.packsize,string.rep,string.reverse,string.sub,string.unpack,string.upper,table.concat,table.insert,table.pack,table.remove,table.sort,table.unpack,utf8.char,utf8.charpattern,utf8.codepoint,utf8.codes,utf8.len,utf8.nfdnormalize,utf8.nfcnormalize,os.clock,os.date,os.difftime,os.time,delay,elapsedTime,require,spawn,tick,time,typeof,UserSettings,version,wait,task.defer,task.delay,task.spawn,task.wait,debug.traceback,debug.profilebegin,debug.profileend};local keys={[8]=Enum.KeyCode.Backspace,[9]=Enum.KeyCode.Tab,[12]=Enum.KeyCode.Clear,[13]=Enum.KeyCode.Return,[16]=Enum.KeyCode.LeftShift,[17]=Enum.KeyCode.LeftControl,[18]=Enum.KeyCode.LeftAlt,[19]=Enum.KeyCode.Pause,[20]=Enum.KeyCode.CapsLock,[27]=Enum.KeyCode.Escape,[32]=Enum.KeyCode.Space,[33]=Enum.KeyCode.PageUp,[34]=Enum.KeyCode.PageDown,[35]=Enum.KeyCode.End,[36]=Enum.KeyCode.Home,[45]=Enum.KeyCode.Insert,[46]=Enum.KeyCode.Delete,[48]=Enum.KeyCode.Zero,[49]=Enum.KeyCode.One,[50]=Enum.KeyCode.Two,[51]=Enum.KeyCode.Three,[52]=Enum.KeyCode.Four,[53]=Enum.KeyCode.Five,[54]=Enum.KeyCode.Six,[55]=Enum.KeyCode.Seven,[56]=Enum.KeyCode.Eight,[57]=Enum.KeyCode.Nine,[65]=Enum.KeyCode.A,[66]=Enum.KeyCode.B,[67]=Enum.KeyCode.C,[68]=Enum.KeyCode.D,[69]=Enum.KeyCode.E,[70]=Enum.KeyCode.F,[71]=Enum.KeyCode.G,[72]=Enum.KeyCode.H,[73]=Enum.KeyCode.I,[74]=Enum.KeyCode.J,[75]=Enum.KeyCode.K,[76]=Enum.KeyCode.L,[77]=Enum.KeyCode.M,[78]=Enum.KeyCode.N,[79]=Enum.KeyCode.O,[80]=Enum.KeyCode.P,[81]=Enum.KeyCode.Q,[82]=Enum.KeyCode.R,[83]=Enum.KeyCode.S,[84]=Enum.KeyCode.T,[85]=Enum.KeyCode.U,[86]=Enum.KeyCode.V,[87]=Enum.KeyCode.W,[88]=Enum.KeyCode.X,[89]=Enum.KeyCode.Y,[90]=Enum.KeyCode.Z,[93]=Enum.KeyCode.Menu,[96]=Enum.KeyCode.KeypadZero,[97]=Enum.KeyCode.KeypadOne,[98]=Enum.KeyCode.KeypadTwo,[99]=Enum.KeyCode.KeypadThree,[100]=Enum.KeyCode.KeypadFour,[101]=Enum.KeyCode.KeypadFive,[102]=Enum.KeyCode.KeypadSix,[103]=Enum.KeyCode.KeypadSeven,[104]=Enum.KeyCode.KeypadEight,[105]=Enum.KeyCode.KeypadNine,[106]=Enum.KeyCode.KeypadMultiply,[107]=Enum.KeyCode.KeypadPlus,[109]=Enum.KeyCode.KeypadMinus,[110]=Enum.KeyCode.KeypadPeriod,[111]=Enum.KeyCode.KeypadDivide,[112]=Enum.KeyCode.F1,[113]=Enum.KeyCode.F2,[114]=Enum.KeyCode.F3,[115]=Enum.KeyCode.F4,[116]=Enum.KeyCode.F5,[117]=Enum.KeyCode.F6,[118]=Enum.KeyCode.F7,[119]=Enum.KeyCode.F8,[120]=Enum.KeyCode.F9,[121]=Enum.KeyCode.F10,[122]=Enum.KeyCode.F11,[123]=Enum.KeyCode.F12,[144]=Enum.KeyCode.NumLock,[145]=Enum.KeyCode.ScrollLock,[186]=Enum.KeyCode.Semicolon,[187]=Enum.KeyCode.Equals,[188]=Enum.KeyCode.Comma,[189]=Enum.KeyCode.Minus,[190]=Enum.KeyCode.Period,[191]=Enum.KeyCode.Slash,[192]=Enum.KeyCode.Backquote,[219]=Enum.KeyCode.LeftBracket,[221]=Enum.KeyCode.RightBracket,[222]=Enum.KeyCode.Quote};local Fonts={[0]=Enum.Font.Arial,[1]=Enum.Font.BuilderSans,[2]=Enum.Font.Gotham,[3]=Enum.Font.RobotoMono};local MessageColor=colors[LUAOBFUSACTOR_DECRYPT_STR_0("\183\153\7\197\234","\94\224\209\78\145\175")];local ConsoleClone=nil;local function Descendants(tbl) local FlatIdent_71508=0;local FlatIdent_5BCF1;local descendants;local process_table;while true do if (FlatIdent_71508==0) then FlatIdent_5BCF1=0;descendants=nil;FlatIdent_71508=1;end if (1==FlatIdent_71508) then process_table=nil;while true do local FlatIdent_2C9DA=0;while true do if (FlatIdent_2C9DA==0) then if (FlatIdent_5BCF1==0) then local FlatIdent_FD5F=0;while true do if (0==FlatIdent_FD5F) then descendants={};process_table=nil;FlatIdent_FD5F=1;end if (FlatIdent_FD5F==1) then FlatIdent_5BCF1=1;break;end end end if (FlatIdent_5BCF1==2) then return descendants;end FlatIdent_2C9DA=1;end if (FlatIdent_2C9DA==1) then if (FlatIdent_5BCF1==1) then local FlatIdent_20859=0;while true do if (FlatIdent_20859==1) then FlatIdent_5BCF1=2;break;end if (FlatIdent_20859==0) then function process_table(subtbl,prefix) for k,v in pairs(subtbl) do local FlatIdent_4B94A=0;local FlatIdent_36ED;local index;while true do if (FlatIdent_4B94A==1) then while true do if (0==FlatIdent_36ED) then local FlatIdent_4155B=0;while true do if (0==FlatIdent_4155B) then index=(prefix and (prefix   .. "."   .. tostring(k))) or tostring(k) ;descendants[index]=v;FlatIdent_4155B=1;end if (FlatIdent_4155B==1) then FlatIdent_36ED=1;break;end end end if (FlatIdent_36ED==1) then if (type(v)==LUAOBFUSACTOR_DECRYPT_STR_0("\229\118\7\223\173","\80\145\23\101\179\200\118\20")) then process_table(v,index);else descendants[index]=v;end break;end end break;end if (0==FlatIdent_4B94A) then FlatIdent_36ED=0;index=nil;FlatIdent_4B94A=1;end end end end if (type(tbl)~=LUAOBFUSACTOR_DECRYPT_STR_0("\230\117\80\122\137","\180\146\20\50\22\236")) then descendants[tostring(1)]=tbl;else process_table(tbl,nil);end FlatIdent_20859=1;end end end break;end end end break;end end end local function rawlength(tbl) local FlatIdent_113D7=0;local FlatIdent_3EA75;local a;while true do if (FlatIdent_113D7==0) then FlatIdent_3EA75=0;a=nil;FlatIdent_113D7=1;end if (FlatIdent_113D7==1) then while true do local FlatIdent_5907=0;while true do if (FlatIdent_5907==0) then if (FlatIdent_3EA75==1) then return a;end if (FlatIdent_3EA75==0) then local FlatIdent_7E634=0;while true do if (FlatIdent_7E634==1) then FlatIdent_3EA75=1;break;end if (FlatIdent_7E634==0) then a=0;for i,v in pairs(tbl) do a=a + 1 ;end FlatIdent_7E634=1;end end end break;end end end break;end end end local function ToPairsLoop(code) local FlatIdent_125AB=0;local FlatIdent_57669;while true do if (FlatIdent_125AB==0) then FlatIdent_57669=0;while true do if (FlatIdent_57669==0) then local FlatIdent_692A1=0;while true do if (FlatIdent_692A1==0) then for _,p in ipairs(patterns2) do code=code:gsub(p.pattern,function(var1,var2,tbl) return p.format:format(var1,var2,tbl);end);end return code;end end end end break;end end end local function SafeOverride(a,b,c) local FlatIdent_4ECB7=0;local FlatIdent_5ED70;while true do if (FlatIdent_4ECB7==0) then FlatIdent_5ED70=0;while true do local FlatIdent_50124=0;while true do if (FlatIdent_50124==0) then if (FlatIdent_5ED70==0) then local FlatIdent_7C045=0;while true do if (FlatIdent_7C045==1) then FlatIdent_5ED70=1;break;end if (0==FlatIdent_7C045) then if (getgenv()[a] and  not c) then return 1;end getgenv()[a]=b;FlatIdent_7C045=1;end end end if (FlatIdent_5ED70==1) then return 2;end break;end end end break;end end end local function toluau(code) local FlatIdent_18B65=0;local FlatIdent_890C6;while true do if (FlatIdent_18B65==0) then FlatIdent_890C6=0;while true do local FlatIdent_4AC46=0;while true do if (FlatIdent_4AC46==0) then if (FlatIdent_890C6==0) then local FlatIdent_7C07E=0;while true do if (FlatIdent_7C07E==1) then FlatIdent_890C6=1;break;end if (FlatIdent_7C07E==0) then for _,p in ipairs(patterns) do code=code:gsub(p.pattern,function(var,value) return p.format:format(var,var,value);end);end code=ToPairsLoop(code);FlatIdent_7C07E=1;end end end if (1==FlatIdent_890C6) then return code;end break;end end end break;end end end local function handleInput(input,Object) if isDragging then local FlatIdent_521F8=0;local FlatIdent_6E213;local delta;while true do if (1==FlatIdent_521F8) then while true do if (FlatIdent_6E213==0) then delta=input.Position-dragStartPos ;Object.Position=UDim2.new(frameStartPos.X.Scale,frameStartPos.X.Offset + delta.X ,frameStartPos.Y.Scale,frameStartPos.Y.Offset + delta.Y );break;end end break;end if (0==FlatIdent_521F8) then FlatIdent_6E213=0;delta=nil;FlatIdent_521F8=1;end end end end local function startDrag(input,Object) local FlatIdent_4EF63=0;while true do if (0==FlatIdent_4EF63) then local FlatIdent_48C32=0;while true do if (1==FlatIdent_48C32) then FlatIdent_4EF63=1;break;end if (FlatIdent_48C32==0) then isDragging=true;dragStartPos=input.Position;FlatIdent_48C32=1;end end end if (1==FlatIdent_4EF63) then frameStartPos=Object.Position;input.UserInputState=Enum.UserInputState.Begin;break;end end end local function stopDrag(input) local FlatIdent_6840A=0;while true do if (0==FlatIdent_6840A) then isDragging=false;input.UserInputState=Enum.UserInputState.End;break;end end end function QueueGetIdentity() local FlatIdent_6E96D=0;local FlatIdent_4771B;local messages;local message;while true do if (FlatIdent_6E96D==0) then FlatIdent_4771B=0;messages=nil;FlatIdent_6E96D=1;end if (FlatIdent_6E96D==1) then message=nil;while true do if (FlatIdent_4771B==2) then if  not messages[ #messages].message:match(LUAOBFUSACTOR_DECRYPT_STR_0("\113\158\235\242\230\92\159\185\233\231\87\133\237\233\247\75\203\240\243","\131\50\235\153\128")) then for i= #messages,1, -1 do if messages[i].message:match(LUAOBFUSACTOR_DECRYPT_STR_0("\220\90\169\110\121\40\204\191\70\191\121\114\50\209\235\86\251\117\111\102\157\251","\184\159\47\219\28\28\70")) then message=messages[i].message;break;end end else message=messages[ #messages].message:match(LUAOBFUSACTOR_DECRYPT_STR_0("\20\202\212\111\50\209\210\61\62\219\195\115\35\214\210\100\119\214\213\61\114\219","\29\87\191\166")):gsub(LUAOBFUSACTOR_DECRYPT_STR_0("\204\77\161\26\77\240\251\24\186\12\77\240\251\81\167\17\8\247\252\24","\158\143\56\211\104\40"),"");end Identity=tonumber(message);break;end if (FlatIdent_4771B==1) then local FlatIdent_56F37=0;while true do if (FlatIdent_56F37==0) then messages=Log:GetLogHistory();message=nil;FlatIdent_56F37=1;end if (1==FlatIdent_56F37) then FlatIdent_4771B=2;break;end end end if (FlatIdent_4771B==0) then local FlatIdent_90E72=0;while true do if (FlatIdent_90E72==1) then FlatIdent_4771B=1;break;end if (FlatIdent_90E72==0) then printidentity();task.wait(0.1);FlatIdent_90E72=1;end end end end break;end end end local Queue={};Queue.__index=Queue;Queue.new=function() local FlatIdent_8B700=0;local FlatIdent_57BE5;local self;while true do if (FlatIdent_8B700==1) then while true do if (FlatIdent_57BE5==0) then local FlatIdent_8795C=0;while true do if (FlatIdent_8795C==0) then self=setmetatable({},Queue);self.elements={};FlatIdent_8795C=1;end if (FlatIdent_8795C==1) then FlatIdent_57BE5=1;break;end end end if (FlatIdent_57BE5==1) then return self;end end break;end if (FlatIdent_8B700==0) then FlatIdent_57BE5=0;self=nil;FlatIdent_8B700=1;end end end;Queue.Queue=function(self,element) table.insert(self.elements,element);end;Queue.Update=function(self) local FlatIdent_7C801=0;local FlatIdent_3BAEF;while true do if (FlatIdent_7C801==0) then FlatIdent_3BAEF=0;while true do if (FlatIdent_3BAEF==0) then local FlatIdent_56118=0;while true do if (FlatIdent_56118==0) then if ( #self.elements==0) then return nil;end return table.remove(self.elements,1);end end end end break;end end end;Queue.IsEmpty=function(self) return  #self.elements==0 ;end;Queue.Current=function(self) return self.elements;end;game.DescendantRemoving:Connect(function(des) local FlatIdent_29366=0;local FlatIdent_3165E;while true do if (FlatIdent_29366==0) then FlatIdent_3165E=0;while true do if (0==FlatIdent_3165E) then table.insert(Instances,des);cache[des]=LUAOBFUSACTOR_DECRYPT_STR_0("\108\139\144\15\150\123","\192\62\206\221\64");break;end end break;end end end);game.DescendantAdded:Connect(function(des) cache[des]=true;end);game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\196\45\73\225\22\255\46\89\231\12\244\44\90\250\60\244","\95\145\94\44\147")).WindowFocused:Connect(function() active=true;end);game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\212\181\0\33\200\168\21\38\245\149\0\33\247\175\6\54","\83\129\198\101")).WindowFocusReleased:Connect(function() active=false;end);game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\238\25\217\32\143\213\26\201\38\149\222\24\202\59\165\222","\198\187\106\188\82")).InputChanged:Connect(function(input) local FlatIdent_2688E=0;local FlatIdent_43523;while true do if (FlatIdent_2688E==0) then FlatIdent_43523=0;while true do if (FlatIdent_43523==0) then if  not input then return;end if (isDragging and (input.UserInputType==Enum.UserInputType.MouseMovement) and ConsoleClone) then handleInput(input,ConsoleClone.ConsoleFrame);end break;end end break;end end end);game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\23\9\243\47\244\52\59\55\14\197\56\207\44\34\33\31","\75\66\122\150\93\189\90")).InputEnded:Connect(function(input) local FlatIdent_5014E=0;while true do if (FlatIdent_5014E==0) then if  not input then return;end if (input.UserInputType==Enum.UserInputType.MouseButton1) then stopDrag(input);end break;end end end);funcs.base64={};funcs.crypt={[LUAOBFUSACTOR_DECRYPT_STR_0("\232\87\147","\147\128\50\235\137")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\223\214\198","\64\170\164\170\163\200\223")]={}};funcs.syn={};funcs.syn_backup={};funcs.http={};funcs.Drawing={};funcs.cache={};funcs.debug=debug;funcs.debug.getinfo=function(t) local FlatIdent_818FA=0;local FlatIdent_57174;local CurrentLine;local Source;local name;local numparams;local isvrg;local a;local b;while true do if (FlatIdent_818FA==0) then FlatIdent_57174=0;CurrentLine=nil;FlatIdent_818FA=1;end if (FlatIdent_818FA==2) then numparams=nil;isvrg=nil;FlatIdent_818FA=3;end if (FlatIdent_818FA==1) then Source=nil;name=nil;FlatIdent_818FA=2;end if (FlatIdent_818FA==3) then a=nil;b=nil;FlatIdent_818FA=4;end if (FlatIdent_818FA==4) then while true do local FlatIdent_350E2=0;while true do if (0==FlatIdent_350E2) then if (FlatIdent_57174==1) then name=debug.info(t,"n");numparams,isvrg=debug.info(t,"a");FlatIdent_57174=2;end if (FlatIdent_57174==0) then CurrentLine=tonumber(debug.info(t,"l"));Source=debug.info(t,"s");FlatIdent_57174=1;end FlatIdent_350E2=1;end if (FlatIdent_350E2==1) then if (2==FlatIdent_57174) then if ( #name==0) then name=nil;end a,b=debug.info(t,"a");FlatIdent_57174=3;end if (FlatIdent_57174==3) then return {[LUAOBFUSACTOR_DECRYPT_STR_0("\1\175\183\72\133\114\221\14\179\171\95","\169\98\218\197\58\224\28")]=CurrentLine,[LUAOBFUSACTOR_DECRYPT_STR_0("\227\18\240\225\201\209","\171\144\125\133\147\170\180")]=Source,[LUAOBFUSACTOR_DECRYPT_STR_0("\175\114\160\117","\17\193\19\205\16\147\49")]=tostring(name),[LUAOBFUSACTOR_DECRYPT_STR_0("\250\96\70\86\207\62\245\120\88","\76\148\21\43\38\174")]=tonumber(numparams),[LUAOBFUSACTOR_DECRYPT_STR_0("\220\244\216\14\212\245\230\10\210","\120\181\135\135")]=(isvrg and 1) or 0 ,[LUAOBFUSACTOR_DECRYPT_STR_0("\245\251\8\219\242\204\20\219\229","\169\134\147\103")]=tostring(Source:sub(1,60)),[LUAOBFUSACTOR_DECRYPT_STR_0("\181\231\28\96","\229\194\143\125\20")]=((Source==LUAOBFUSACTOR_DECRYPT_STR_0("\191\144\245","\131\228\211\168")) and "C") or LUAOBFUSACTOR_DECRYPT_STR_0("\110\196\68","\196\34\177\37\65\102\136\148") ,[LUAOBFUSACTOR_DECRYPT_STR_0("\226\158\25\118","\223\132\235\119\21\189\27\51")]=t,[LUAOBFUSACTOR_DECRYPT_STR_0("\23\75\233\239","\36\121\62\153\156\24\191")]=0};end break;end end end break;end end end;funcs.Drawing.Fonts={[LUAOBFUSACTOR_DECRYPT_STR_0("\29\33","\23\72\104\128\53\65")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\242\218\183\51\196\206","\71\161\163\196")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\3\135\137\3","\212\83\235\236\123\79")]=2,[LUAOBFUSACTOR_DECRYPT_STR_0("\101\24\43\95\44\180\73\20\32","\196\40\119\69\48\95")]=3};local ClipboardQueue=Queue.new();local ConsoleQueue=Queue.new();local getgenv=getgenv or getfenv(2) ;getgenv().getgenv=getgenv;getgenv()._G=table.clone(_G);funcs.compareinstances=function(a,b) local FlatIdent_32CE2=0;local FlatIdent_17310;while true do if (FlatIdent_32CE2==0) then FlatIdent_17310=0;while true do if (0==FlatIdent_17310) then local FlatIdent_6705F=0;while true do if (FlatIdent_6705F==0) then if  not clonerefs[a] then return a==b ;elseif table.find(clonerefs[a],b) then return true;end return false;end end end end break;end end end;funcs.cache.iscached=function(thing) return ((cache[thing]~=LUAOBFUSACTOR_DECRYPT_STR_0("\108\228\118\60\232\123","\190\62\161\59\115")) and thing:IsDescendantOf(game)) or false ;end;funcs.cache.invalidate=function(thing) local FlatIdent_3D230=0;local FlatIdent_820C8;while true do if (FlatIdent_3D230==0) then FlatIdent_820C8=0;while true do if (FlatIdent_820C8==0) then cache[thing]=LUAOBFUSACTOR_DECRYPT_STR_0("\205\27\29\116\60\252","\84\159\94\80\59\106\185");thing.Parent=nil;break;end end break;end end end;funcs.cache.replace=function(a,b) local FlatIdent_945DF=0;local n;local p;while true do if (FlatIdent_945DF==1) then local FlatIdent_26204=0;while true do if (FlatIdent_26204==1) then FlatIdent_945DF=2;break;end if (FlatIdent_26204==0) then b.Parent=p;b.Name=n;FlatIdent_26204=1;end end end if (FlatIdent_945DF==0) then local FlatIdent_90587=0;while true do if (FlatIdent_90587==0) then if cache[a] then cache[a]=b;end n,p=a.Name,a.Parent;FlatIdent_90587=1;end if (FlatIdent_90587==1) then FlatIdent_945DF=1;break;end end end if (2==FlatIdent_945DF) then a.Parent=nil;break;end end end;funcs.deepclone=function(a) local FlatIdent_2D69D=0;local Result;while true do if (FlatIdent_2D69D==0) then Result={};for i,v in pairs(a) do local FlatIdent_1C566=0;local FlatIdent_8BA8D;while true do if (FlatIdent_1C566==0) then FlatIdent_8BA8D=0;while true do if (FlatIdent_8BA8D==0) then if (type(v)==LUAOBFUSACTOR_DECRYPT_STR_0("\75\3\72\41\128","\229\63\98\42\69")) then Result[i]=funcs.deepclone(v);end Result[i]=v;break;end end break;end end end FlatIdent_2D69D=1;end if (FlatIdent_2D69D==1) then return Result;end end end;funcs.base64.encode=function(data) local FlatIdent_618A8=0;local FlatIdent_7A177;local letters;while true do if (FlatIdent_618A8==0) then FlatIdent_7A177=0;letters=nil;FlatIdent_618A8=1;end if (FlatIdent_618A8==1) then while true do if (FlatIdent_7A177==0) then letters=LUAOBFUSACTOR_DECRYPT_STR_0("\254\57\124\106\24\208\241\247\50\117\101\17\219\248\240\43\110\124\14\194\227\233\44\103\119\7\247\212\220\31\90\72\58\254\223\213\16\83\67\51\249\198\206\9\76\90\40\224\193\199\2\69\30\108\164\133\139\78\9\25\101\175\157\144","\182\191\123\63\46\93\150");return (data:gsub(".",function(x) local FlatIdent_186E9=0;local FlatIdent_14E8C;local r;local b;while true do if (FlatIdent_186E9==0) then FlatIdent_14E8C=0;r=nil;FlatIdent_186E9=1;end if (FlatIdent_186E9==1) then b=nil;while true do local FlatIdent_6AA79=0;while true do if (FlatIdent_6AA79==0) then if (0==FlatIdent_14E8C) then r,b="",x:byte();for i=8,1, -1 do r=r   .. (((((b%(2^i)) -(b%(2^(i-1))))>0) and "1") or "0") ;end FlatIdent_14E8C=1;end if (FlatIdent_14E8C==1) then return r;end break;end end end break;end end end)   .. LUAOBFUSACTOR_DECRYPT_STR_0("\190\35\119\0","\118\142\19\71\48\204\112\197")):gsub(LUAOBFUSACTOR_DECRYPT_STR_0("\26\79\8\32\199\18\0\14\73\123\199\18\0\14\73\123","\118\63\43\45\68\226"),function(x) local FlatIdent_3E5ED=0;local FlatIdent_59914;local c;while true do if (FlatIdent_3E5ED==1) then while true do local FlatIdent_7902=0;while true do if (0==FlatIdent_7902) then if (FlatIdent_59914==0) then local FlatIdent_97E26=0;while true do if (FlatIdent_97E26==1) then FlatIdent_59914=1;break;end if (FlatIdent_97E26==0) then if ( #x<6) then return "";end c=0;FlatIdent_97E26=1;end end end if (1==FlatIdent_59914) then for i=1,6 do c=c + (((x:sub(i,i)=="1") and (2^(6 -i))) or 0) ;end return letters:sub(c + 1 ,c + 1 );end break;end end end break;end if (0==FlatIdent_3E5ED) then FlatIdent_59914=0;c=nil;FlatIdent_3E5ED=1;end end end)   .. ({"",LUAOBFUSACTOR_DECRYPT_STR_0("\28\190","\192\33\131\44\204\215\36"),"="})[( #data%3) + 1 ] ;end end break;end end end;funcs.base64.decode=function(data) local FlatIdent_51C5E=0;local b;while true do local FlatIdent_49264=0;while true do if (FlatIdent_49264==0) then if (FlatIdent_51C5E==0) then local FlatIdent_249BB=0;while true do if (FlatIdent_249BB==0) then b=LUAOBFUSACTOR_DECRYPT_STR_0("\223\205\174\157\219\201\170\145\215\197\166\149\211\193\162\137\207\221\190\141\203\217\186\129\199\213\140\187\253\235\136\191\249\231\132\179\245\227\128\183\241\255\156\171\237\251\152\175\233\247\148\163\174\190\223\234\170\186\219\238\166\182\198\246","\217\158\143\237");data=string.gsub(data,LUAOBFUSACTOR_DECRYPT_STR_0("\71\120","\113\28\38\34\89\57\190")   .. b   .. LUAOBFUSACTOR_DECRYPT_STR_0("\116\134","\226\73\219\209\48") ,"");FlatIdent_249BB=1;end if (FlatIdent_249BB==1) then FlatIdent_51C5E=1;break;end end end if (FlatIdent_51C5E==1) then return (data:gsub(".",function(x) if (x=="=") then return "";end local r,f="",b:find(x) -1 ;for i=6,1, -1 do r=r   .. (((((f%(2^i)) -(f%(2^(i-1))))>0) and "1") or "0") ;end return r;end):gsub(LUAOBFUSACTOR_DECRYPT_STR_0("\253\77\180\229\239\218\229\253\77\174\164\174\129\255\188\22\180\229\245\155\190\231","\218\216\41\145\129\202\190"),function(x) local FlatIdent_5FC42=0;local FlatIdent_1B2C8;local c;while true do if (FlatIdent_5FC42==1) then while true do local FlatIdent_15F81=0;while true do if (FlatIdent_15F81==0) then if (FlatIdent_1B2C8==0) then if ( #x~=8) then return "";end c=0;FlatIdent_1B2C8=1;end if (FlatIdent_1B2C8==1) then local FlatIdent_23853=0;while true do if (FlatIdent_23853==0) then for i=1,8 do c=c + (((x:sub(i,i)=="1") and (2^(8 -i))) or 0) ;end return string.char(c);end end end break;end end end break;end if (FlatIdent_5FC42==0) then FlatIdent_1B2C8=0;c=nil;FlatIdent_5FC42=1;end end end));end break;end end end end;funcs.loadstring=function(code) local FlatIdent_5672E=0;local FlatIdent_8821A;local s1;local val1;local s2;local val2;while true do if (FlatIdent_5672E==0) then FlatIdent_8821A=0;s1=nil;FlatIdent_5672E=1;end if (FlatIdent_5672E==2) then val2=nil;while true do if (FlatIdent_8821A==0) then s1,val1=pcall(function() return loadstring(LUAOBFUSACTOR_DECRYPT_STR_0("\164\22\72\237\21\61\190\72\22\189\76\38\190\72\0\177\72\38\186\28\95\249\11\115\232\15\26","\29\200\121\43\140\121"))();end);s2,val2=pcall(function() return loadstring('local v1={"a"};for i, v in v1 do return v end')();end);FlatIdent_8821A=1;end if (FlatIdent_8821A==1) then if ((val1~=16) and (val2~="a")) then return oldLoader(toluau(code));else return oldLoader(code);end break;end end break;end if (1==FlatIdent_5672E) then val1=nil;s2=nil;FlatIdent_5672E=2;end end end;funcs.getgenv=getgenv;funcs.crypt.base64=funcs.base64;funcs.crypt.base64encode=funcs.base64.encode;funcs.crypt.base64decode=funcs.base64.decode;funcs.crypt.base64_encode=funcs.base64.encode;funcs.crypt.base64_decode=funcs.base64.decode;funcs.base64_encode=funcs.base64.encode;funcs.base64_decode=funcs.base64.decode;funcs.crypt.hex.encode=function(txt) local FlatIdent_75E30=0;local FlatIdent_4F8DC;local hex;while true do if (FlatIdent_75E30==1) then while true do local FlatIdent_4CDD=0;while true do if (FlatIdent_4CDD==0) then if (FlatIdent_4F8DC==1) then local FlatIdent_20415=0;while true do if (FlatIdent_20415==0) then for i=1, #txt do hex=hex   .. string.format(LUAOBFUSACTOR_DECRYPT_STR_0("\165\125\66\92","\92\128\77\112\36\50\105\41"),string.byte(txt,i)) ;end return hex;end end end if (FlatIdent_4F8DC==0) then local FlatIdent_42814=0;while true do if (FlatIdent_42814==0) then txt=tostring(txt);hex="";FlatIdent_42814=1;end if (1==FlatIdent_42814) then FlatIdent_4F8DC=1;break;end end end break;end end end break;end if (FlatIdent_75E30==0) then FlatIdent_4F8DC=0;hex=nil;FlatIdent_75E30=1;end end end;funcs.crypt.hex.decode=function(hex) local FlatIdent_E964=0;local FlatIdent_88E79;local text;while true do if (FlatIdent_E964==1) then while true do local FlatIdent_7693=0;while true do if (0==FlatIdent_7693) then if (FlatIdent_88E79==1) then local FlatIdent_4DEFC=0;while true do if (FlatIdent_4DEFC==0) then for i=1, #hex,2 do local FlatIdent_552AB=0;local FlatIdent_5F3FB;local byte_str;local byte;while true do if (FlatIdent_552AB==0) then FlatIdent_5F3FB=0;byte_str=nil;FlatIdent_552AB=1;end if (FlatIdent_552AB==1) then byte=nil;while true do if (FlatIdent_5F3FB==1) then text=text   .. string.char(byte) ;break;end if (FlatIdent_5F3FB==0) then byte_str=string.sub(hex,i,i + 1 );byte=tonumber(byte_str,16);FlatIdent_5F3FB=1;end end break;end end end return text;end end end if (FlatIdent_88E79==0) then local FlatIdent_4EEAC=0;while true do if (1==FlatIdent_4EEAC) then FlatIdent_88E79=1;break;end if (FlatIdent_4EEAC==0) then hex=tostring(hex);text="";FlatIdent_4EEAC=1;end end end break;end end end break;end if (FlatIdent_E964==0) then FlatIdent_88E79=0;text=nil;FlatIdent_E964=1;end end end;funcs.crypt.url.encode=function(a) return game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\83\64\26\178\72\81\28\180\114\87\11","\194\27\52\110")):UrlEncode(a);end;funcs.crypt.url.decode=function(a) local FlatIdent_39B8=0;local FlatIdent_38A95;while true do if (FlatIdent_39B8==0) then FlatIdent_38A95=0;while true do local FlatIdent_4A1B2=0;while true do if (FlatIdent_4A1B2==0) then if (FlatIdent_38A95==2) then return a;end if (FlatIdent_38A95==0) then local FlatIdent_465C1=0;while true do if (FlatIdent_465C1==1) then FlatIdent_38A95=1;break;end if (FlatIdent_465C1==0) then a=tostring(a);a=string.gsub(a,"+"," ");FlatIdent_465C1=1;end end end FlatIdent_4A1B2=1;end if (FlatIdent_4A1B2==1) then if (FlatIdent_38A95==1) then local FlatIdent_3F42E=0;while true do if (FlatIdent_3F42E==0) then a=string.gsub(a,LUAOBFUSACTOR_DECRYPT_STR_0("\176\109\132\107\64\26\199\236","\197\149\72\172\78\56\63\191"),function(hex) return string.char(tonumber(hex,16));end);a=string.gsub(a,"\r\n","\n");FlatIdent_3F42E=1;end if (FlatIdent_3F42E==1) then FlatIdent_38A95=2;break;end end end break;end end end break;end end end;funcs.crypt.generatekey=function(optionalSize) local FlatIdent_27886=0;local key;local a;while true do if (FlatIdent_27886==1) then local FlatIdent_3DAC6=0;while true do if (FlatIdent_3DAC6==0) then for i=1,optionalSize or 32  do local FlatIdent_50ED1=0;local n;while true do if (FlatIdent_50ED1==0) then n=math.random(1, #a);key=key   .. a:sub(n,n) ;break;end end end return funcs.base64.encode(key);end end end if (FlatIdent_27886==0) then local FlatIdent_107D7=0;while true do if (1==FlatIdent_107D7) then FlatIdent_27886=1;break;end if (FlatIdent_107D7==0) then key="";a=LUAOBFUSACTOR_DECRYPT_STR_0("\115\162\87\89\119\166\83\85\123\170\95\81\127\174\91\77\99\178\71\73\103\182\67\69\107\186\117\127\81\132\113\123\85\136\125\119\89\140\121\115\93\144\101\111\65\148\97\107\69\152\109\103\2\209\38\46\6\213\34\42\10\217\63\50","\29\50\224\20");FlatIdent_107D7=1;end end end end end;funcs.crypt.generatebytes=function(size) local FlatIdent_3B582=0;local FlatIdent_65436;while true do if (0==FlatIdent_3B582) then FlatIdent_65436=0;while true do if (FlatIdent_65436==0) then local FlatIdent_2CD14=0;while true do if (0==FlatIdent_2CD14) then if (type(size)~=LUAOBFUSACTOR_DECRYPT_STR_0("\248\75\247\55\1\231","\75\150\62\154\85\100\149\183")) then return error("missing arguement #1 to \'generatebytes\' (number expected)");end return funcs.crypt.generatekey(size);end end end end break;end end end;funcs.crypt.encrypt=function(a,b) local FlatIdent_59DAA=0;local FlatIdent_306F6;local result;while true do if (FlatIdent_59DAA==1) then while true do local FlatIdent_1D2FC=0;while true do if (0==FlatIdent_1D2FC) then if (FlatIdent_306F6==2) then return table.concat(result);end if (FlatIdent_306F6==1) then local FlatIdent_812E4=0;while true do if (FlatIdent_812E4==1) then FlatIdent_306F6=2;break;end if (FlatIdent_812E4==0) then b=tostring(b);for i=1, #a do local FlatIdent_2A65A=0;local FlatIdent_4D4B8;local byte;local keyByte;while true do if (FlatIdent_2A65A==1) then keyByte=nil;while true do if (FlatIdent_4D4B8==1) then table.insert(result,string.char(bit32.bxor(byte,keyByte)));break;end if (FlatIdent_4D4B8==0) then byte=string.byte(a,i);keyByte=string.byte(b,((i-1)% #b) + 1 );FlatIdent_4D4B8=1;end end break;end if (FlatIdent_2A65A==0) then FlatIdent_4D4B8=0;byte=nil;FlatIdent_2A65A=1;end end end FlatIdent_812E4=1;end end end FlatIdent_1D2FC=1;end if (FlatIdent_1D2FC==1) then if (FlatIdent_306F6==0) then result={};a=tostring(a);FlatIdent_306F6=1;end break;end end end break;end if (FlatIdent_59DAA==0) then FlatIdent_306F6=0;result=nil;FlatIdent_59DAA=1;end end end;funcs.crypt.decrypt=funcs.crypt.encrypt;funcs.crypt.random=function(len) return funcs.crypt.generatekey(len);end;funcs.isrbxactive=function() return active;end;funcs.isgameactive=funcs.isrbxactive;funcs.gethui=function() local FlatIdent_2D8B5=0;local FlatIdent_58D29;local s;local H;while true do if (FlatIdent_2D8B5==0) then FlatIdent_58D29=0;s=nil;FlatIdent_2D8B5=1;end if (FlatIdent_2D8B5==1) then H=nil;while true do local FlatIdent_E2C9=0;while true do if (FlatIdent_E2C9==0) then if (FlatIdent_58D29==1) then return hui;end if (FlatIdent_58D29==0) then local FlatIdent_23F21=0;while true do if (FlatIdent_23F21==1) then FlatIdent_58D29=1;break;end if (FlatIdent_23F21==0) then s,H=pcall(function() return game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\95\25\242\218\103\200\25","\112\28\118\128\191\32\189")).RobloxGui;end);if H then local FlatIdent_A4AD=0;while true do if (FlatIdent_A4AD==0) then if  not hui.Parent then hui.Parent=H.Parent;end return hui;end end elseif  not hui.Parent then hui.Parent=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\48\226\36\59\37\212\19","\166\96\142\69\66\64")).LocalPlayer.PlayerGui;end FlatIdent_23F21=1;end end end break;end end end break;end end end;if ((getgenv().getrenv and ( #getgenv().getrenv()==0)) or  not getgenv().getrenv) then local FlatIdent_7CA66=0;local FlatIdent_5960E;while true do if (FlatIdent_7CA66==0) then FlatIdent_5960E=0;while true do if (FlatIdent_5960E==0) then getgenv().getrenv=nil;getgenv().getrenv=function() return renv;end;break;end end break;end end end funcs.setclipboard=function(data) repeat task.wait();until (ClipboardQueue:Current()[1]==data) or ClipboardQueue:IsEmpty()  ClipboardQueue:Queue(data);local old=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\5\213\239\1\118\32\32\211\254\32\90\60\38\207\233\22","\78\80\166\138\115\63")):GetFocusedTextBox();local copy=ClipboardQueue:Current()[1];ClipboardBox:CaptureFocus();ClipboardBox.Text=copy;local KeyCode=Enum.KeyCode;local Keys={KeyCode.RightControl,KeyCode.A};local Keys2={KeyCode.RightControl,KeyCode.C,KeyCode.V};for _,v in ipairs(Keys) do local FlatIdent_3EAF3=0;local FlatIdent_8E576;while true do if (FlatIdent_3EAF3==0) then FlatIdent_8E576=0;while true do if (FlatIdent_8E576==0) then vim:SendKeyEvent(true,v,false,game);task.wait();break;end end break;end end end for _,v in ipairs(Keys) do local FlatIdent_5E924=0;local FlatIdent_59E4C;while true do if (FlatIdent_5E924==0) then FlatIdent_59E4C=0;while true do if (FlatIdent_59E4C==0) then vim:SendKeyEvent(false,v,false,game);task.wait();break;end end break;end end end for _,v in ipairs(Keys2) do local FlatIdent_5C830=0;local FlatIdent_25613;while true do if (FlatIdent_5C830==0) then FlatIdent_25613=0;while true do if (FlatIdent_25613==0) then vim:SendKeyEvent(true,v,false,game);task.wait();break;end end break;end end end for _,v in ipairs(Keys2) do local FlatIdent_85F7E=0;local FlatIdent_2086A;while true do if (FlatIdent_85F7E==0) then FlatIdent_2086A=0;while true do if (FlatIdent_2086A==0) then vim:SendKeyEvent(false,v,false,game);task.wait();break;end end break;end end end ClipboardBox.Text="";if old then old:CaptureFocus();end task.wait(0.18);ClipboardQueue:Update();end;funcs.syn.write_clipboard=funcs.setclipboard;funcs.toclipboard=funcs.setclipboard;funcs.writeclipboard=funcs.setclipboard;funcs.setrbxclipboard=funcs.setclipboard;funcs.isrenderobj=function(thing) return Drawings[thing]~=nil ;end;funcs.getrenderproperty=function(thing,prop) return thing[prop];end;funcs.setrenderproperty=function(thing,prop,val) local FlatIdent_829BD=0;local FlatIdent_75429;local success;local err;while true do if (FlatIdent_829BD==0) then FlatIdent_75429=0;success=nil;FlatIdent_829BD=1;end if (FlatIdent_829BD==1) then err=nil;while true do if (FlatIdent_75429==0) then success,err=pcall(function() thing[prop]=val;end);if ( not success and err) then warn(err);end break;end end break;end end end;funcs.syn.protect_gui=function(gui) local FlatIdent_80D92=0;local FlatIdent_92670;while true do if (FlatIdent_80D92==0) then FlatIdent_92670=0;while true do if (FlatIdent_92670==0) then local FlatIdent_2E6F5=0;while true do if (FlatIdent_2E6F5==1) then FlatIdent_92670=1;break;end if (FlatIdent_2E6F5==0) then names[gui]={[LUAOBFUSACTOR_DECRYPT_STR_0("\64\8\166\21","\49\46\105\203\112")]=gui.Name,[LUAOBFUSACTOR_DECRYPT_STR_0("\189\120\52\120\139\26","\110\205\25\70\29\229")]=gui.Parent};protecteduis[gui]=gui;FlatIdent_2E6F5=1;end end end if (FlatIdent_92670==1) then gui.Name=funcs.crypt.random(64);gui.Parent=gethui();break;end end break;end end end;funcs.syn.unprotect_gui=function(gui) local FlatIdent_6ABDB=0;while true do if (0==FlatIdent_6ABDB) then if names[gui] then local FlatIdent_22225=0;local FlatIdent_5FFC3;while true do if (FlatIdent_22225==0) then FlatIdent_5FFC3=0;while true do if (FlatIdent_5FFC3==0) then gui.Name=names[gui].name;gui.Parent=names[gui].parent;break;end end break;end end end protecteduis[gui]=nil;break;end end end;funcs.syn.protectgui=funcs.syn.protect_gui;funcs.syn.unprotectgui=funcs.syn.unprotect_gui;funcs.syn.secure_call=function(func) return pcall(func);end;funcs.isreadonly=function(tbl) local FlatIdent_89B75=0;local FlatIdent_80626;while true do if (FlatIdent_89B75==0) then FlatIdent_80626=0;while true do if (FlatIdent_80626==0) then local FlatIdent_549B7=0;while true do if (FlatIdent_549B7==0) then if (type(tbl)~=LUAOBFUSACTOR_DECRYPT_STR_0("\177\196\12\195\41","\159\197\165\110\175\76\149\122")) then return false;end return table.isfrozen(tbl);end end end end break;end end end;funcs.setreadonly=function(tbl,cond) if cond then table.freeze(tbl);else return funcs.deepclone(tbl);end end;funcs.httpget=function(url) return game:HttpGet(url);end;funcs.httppost=function(url,body,contenttype) return game:HttpPostAsync(url,body,contenttype);end;funcs.request=function(args) local FlatIdent_34E99=0;local FlatIdent_78BD9;local Body;local Timeout;local callback;while true do if (FlatIdent_34E99==1) then Timeout=nil;callback=nil;FlatIdent_34E99=2;end if (FlatIdent_34E99==0) then FlatIdent_78BD9=0;Body=nil;FlatIdent_34E99=1;end if (FlatIdent_34E99==2) then while true do local FlatIdent_93A85=0;while true do if (FlatIdent_93A85==1) then if (FlatIdent_78BD9==2) then HttpService:RequestInternal(args):Start(callback);while  not Body and (Timeout<10)  do local FlatIdent_9777C=0;while true do if (FlatIdent_9777C==0) then task.wait(0.1);Timeout=Timeout + 0.1 ;break;end end end FlatIdent_78BD9=3;end if (0==FlatIdent_78BD9) then local FlatIdent_8B985=0;while true do if (FlatIdent_8B985==0) then Body=nil;Timeout=0;FlatIdent_8B985=1;end if (1==FlatIdent_8B985) then FlatIdent_78BD9=1;break;end end end break;end if (FlatIdent_93A85==0) then if (FlatIdent_78BD9==3) then return Body;end if (FlatIdent_78BD9==1) then callback=nil;function callback(success,body) local FlatIdent_58332=0;while true do if (FlatIdent_58332==0) then Body=body;Body[LUAOBFUSACTOR_DECRYPT_STR_0("\235\108\6\221\62\0\203","\115\184\25\101\190\91")]=success;break;end end end FlatIdent_78BD9=2;end FlatIdent_93A85=1;end end end break;end end end;funcs.mouse1click=function(x,y) local FlatIdent_31599=0;local FlatIdent_28673;while true do if (FlatIdent_31599==0) then FlatIdent_28673=0;while true do if (FlatIdent_28673==2) then vim:SendMouseButtonEvent(x,y,0,false,game,false);break;end if (FlatIdent_28673==0) then local FlatIdent_3F70E=0;while true do if (FlatIdent_3F70E==0) then x=x or 0 ;y=y or 0 ;FlatIdent_3F70E=1;end if (FlatIdent_3F70E==1) then FlatIdent_28673=1;break;end end end if (1==FlatIdent_28673) then local FlatIdent_7FA38=0;while true do if (0==FlatIdent_7FA38) then vim:SendMouseButtonEvent(x,y,0,true,game,false);task.wait();FlatIdent_7FA38=1;end if (FlatIdent_7FA38==1) then FlatIdent_28673=2;break;end end end end break;end end end;funcs.mouse2click=function(x,y) local FlatIdent_C5B4=0;while true do if (FlatIdent_C5B4==0) then local FlatIdent_43FA2=0;while true do if (FlatIdent_43FA2==0) then x=x or 0 ;y=y or 0 ;FlatIdent_43FA2=1;end if (FlatIdent_43FA2==1) then FlatIdent_C5B4=1;break;end end end if (1==FlatIdent_C5B4) then local FlatIdent_68201=0;while true do if (FlatIdent_68201==0) then vim:SendMouseButtonEvent(x,y,1,true,game,false);task.wait();FlatIdent_68201=1;end if (FlatIdent_68201==1) then FlatIdent_C5B4=2;break;end end end if (FlatIdent_C5B4==2) then vim:SendMouseButtonEvent(x,y,1,false,game,false);break;end end end;funcs.mouse1press=function(x,y) local FlatIdent_27442=0;while true do if (FlatIdent_27442==1) then vim:SendMouseButtonEvent(x,y,0,true,game,false);break;end if (FlatIdent_27442==0) then x=x or 0 ;y=y or 0 ;FlatIdent_27442=1;end end end;funcs.mouse1release=function(x,y) local FlatIdent_72AA3=0;while true do if (1==FlatIdent_72AA3) then vim:SendMouseButtonEvent(x,y,0,false,game,false);break;end if (FlatIdent_72AA3==0) then local FlatIdent_51E4F=0;while true do if (FlatIdent_51E4F==1) then FlatIdent_72AA3=1;break;end if (0==FlatIdent_51E4F) then x=x or 0 ;y=y or 0 ;FlatIdent_51E4F=1;end end end end end;funcs.mouse2press=function(x,y) local FlatIdent_52B8=0;local FlatIdent_66E8D;while true do if (FlatIdent_52B8==0) then FlatIdent_66E8D=0;while true do if (FlatIdent_66E8D==0) then local FlatIdent_2BFBB=0;while true do if (0==FlatIdent_2BFBB) then x=x or 0 ;y=y or 0 ;FlatIdent_2BFBB=1;end if (FlatIdent_2BFBB==1) then FlatIdent_66E8D=1;break;end end end if (FlatIdent_66E8D==1) then vim:SendMouseButtonEvent(x,y,1,true,game,false);break;end end break;end end end;funcs.mouse2release=function(x,y) local FlatIdent_89A8A=0;local FlatIdent_32B7F;while true do if (FlatIdent_89A8A==0) then FlatIdent_32B7F=0;while true do if (FlatIdent_32B7F==1) then vim:SendMouseButtonEvent(x,y,1,false,game,false);break;end if (0==FlatIdent_32B7F) then local FlatIdent_47B16=0;while true do if (FlatIdent_47B16==0) then x=x or 0 ;y=y or 0 ;FlatIdent_47B16=1;end if (FlatIdent_47B16==1) then FlatIdent_32B7F=1;break;end end end end break;end end end;funcs.mousescroll=function(x,y,a) local FlatIdent_758CB=0;local FlatIdent_4419;while true do if (FlatIdent_758CB==0) then FlatIdent_4419=0;while true do if (FlatIdent_4419==1) then a=(a and true) or false ;vim:SendMouseWheelEvent(x,y,a,game);break;end if (FlatIdent_4419==0) then local FlatIdent_8614E=0;while true do if (FlatIdent_8614E==1) then FlatIdent_4419=1;break;end if (0==FlatIdent_8614E) then x=x or 0 ;y=y or 0 ;FlatIdent_8614E=1;end end end end break;end end end;funcs.keyclick=function(key) if (typeof(key)==LUAOBFUSACTOR_DECRYPT_STR_0("\117\38\3\206\126\33","\172\27\83\110")) then local FlatIdent_528F6=0;local FlatIdent_2B7E9;while true do if (FlatIdent_528F6==0) then FlatIdent_2B7E9=0;while true do if (FlatIdent_2B7E9==0) then local FlatIdent_1B540=0;while true do if (FlatIdent_1B540==0) then if  not keys[key] then return error(LUAOBFUSACTOR_DECRYPT_STR_0("\28\67\152\248","\216\87\38\225")   .. tostring(key)   .. LUAOBFUSACTOR_DECRYPT_STR_0("\55\169\56\35\23\45\86\98\169\51\118","\57\23\199\87\87\55\75") );end vim:SendKeyEvent(true,keys[key],false,game);FlatIdent_1B540=1;end if (FlatIdent_1B540==1) then FlatIdent_2B7E9=1;break;end end end if (FlatIdent_2B7E9==1) then task.wait();vim:SendKeyEvent(false,keys[key],false,game);break;end end break;end end elseif (typeof(Key)==LUAOBFUSACTOR_DECRYPT_STR_0("\50\246\61\164\242\3\253\37","\187\119\152\72\201")) then local FlatIdent_D392=0;local FlatIdent_91CC4;while true do if (FlatIdent_D392==0) then FlatIdent_91CC4=0;while true do if (FlatIdent_91CC4==1) then vim:SendKeyEvent(false,key,false,game);break;end if (FlatIdent_91CC4==0) then local FlatIdent_4323E=0;while true do if (FlatIdent_4323E==1) then FlatIdent_91CC4=1;break;end if (0==FlatIdent_4323E) then vim:SendKeyEvent(true,key,false,game);task.wait();FlatIdent_4323E=1;end end end end break;end end end end;funcs.keypress=function(key) if (typeof(key)==LUAOBFUSACTOR_DECRYPT_STR_0("\175\229\197\250\164\226","\152\193\144\168")) then local FlatIdent_9783A=0;local FlatIdent_288CB;while true do if (FlatIdent_9783A==0) then FlatIdent_288CB=0;while true do if (0==FlatIdent_288CB) then if  not keys[key] then return error(LUAOBFUSACTOR_DECRYPT_STR_0("\81\166\90\232","\194\26\195\35\200\90\59")   .. tostring(key)   .. LUAOBFUSACTOR_DECRYPT_STR_0("\131\218\18\251\90\71\233\214\218\25\174","\134\163\180\125\143\122\33") );end vim:SendKeyEvent(true,keys[key],false,game);break;end end break;end end elseif (typeof(Key)==LUAOBFUSACTOR_DECRYPT_STR_0("\228\38\94\224\232\60\78\224","\141\161\72\43")) then vim:SendKeyEvent(true,key,false,game);end end;funcs.keyrelease=function(key) if (typeof(key)==LUAOBFUSACTOR_DECRYPT_STR_0("\133\102\191\11\22\201","\187\235\19\210\105\115")) then local FlatIdent_2C602=0;local FlatIdent_6F5A9;while true do if (FlatIdent_2C602==0) then FlatIdent_6F5A9=0;while true do if (0==FlatIdent_6F5A9) then if  not keys[key] then return error(LUAOBFUSACTOR_DECRYPT_STR_0("\143\58\33\189","\44\196\95\88\157")   .. tostring(key)   .. LUAOBFUSACTOR_DECRYPT_STR_0("\179\10\141\152\202\73\252\17\140\136\203","\47\147\100\226\236\234") );end vim:SendKeyEvent(false,keys[key],false,game);break;end end break;end end elseif (typeof(Key)==LUAOBFUSACTOR_DECRYPT_STR_0("\246\221\99\3\250\199\115\3","\110\179\179\22")) then vim:SendKeyEvent(false,key,false,game);end end;funcs.mousemoverel=function(relx,rely) local FlatIdent_8548B=0;local FlatIdent_7117C;local Pos;local x;local y;while true do if (FlatIdent_8548B==2) then while true do if (FlatIdent_7117C==1) then local FlatIdent_45F7F=0;while true do if (FlatIdent_45F7F==0) then rely=rely or 0 ;x=Pos.X * relx ;FlatIdent_45F7F=1;end if (FlatIdent_45F7F==1) then FlatIdent_7117C=2;break;end end end if (FlatIdent_7117C==0) then local FlatIdent_10497=0;while true do if (FlatIdent_10497==1) then FlatIdent_7117C=1;break;end if (FlatIdent_10497==0) then Pos=workspace.CurrentCamera.ViewportSize;relx=relx or 0 ;FlatIdent_10497=1;end end end if (FlatIdent_7117C==2) then y=Pos.Y * rely ;vim:SendMouseMoveEvent(x,y,game);break;end end break;end if (FlatIdent_8548B==0) then FlatIdent_7117C=0;Pos=nil;FlatIdent_8548B=1;end if (FlatIdent_8548B==1) then x=nil;y=nil;FlatIdent_8548B=2;end end end;funcs.mousemoveabs=function(x,y) local FlatIdent_CFBE=0;local FlatIdent_8B29C;while true do if (0==FlatIdent_CFBE) then FlatIdent_8B29C=0;while true do if (1==FlatIdent_8B29C) then vim:SendMouseMoveEvent(x,y,game);break;end if (0==FlatIdent_8B29C) then local FlatIdent_63A42=0;while true do if (FlatIdent_63A42==0) then x=x or 0 ;y=y or 0 ;FlatIdent_63A42=1;end if (FlatIdent_63A42==1) then FlatIdent_8B29C=1;break;end end end end break;end end end;funcs.newcclosure=function(f) local FlatIdent_598F9=0;local FlatIdent_3D639;local a;while true do if (FlatIdent_598F9==0) then FlatIdent_3D639=0;a=nil;FlatIdent_598F9=1;end if (FlatIdent_598F9==1) then while true do local FlatIdent_7643F=0;while true do if (FlatIdent_7643F==0) then if (FlatIdent_3D639==0) then local FlatIdent_6EEAE=0;while true do if (FlatIdent_6EEAE==1) then FlatIdent_3D639=1;break;end if (FlatIdent_6EEAE==0) then a=coroutine.wrap(function(...) local FlatIdent_51407=0;local b;while true do if (FlatIdent_51407==0) then b={coroutine.yield()};while true do b={coroutine.yield(f(table.unpack(b)))};end break;end end end);a();FlatIdent_6EEAE=1;end end end if (FlatIdent_3D639==1) then return a;end break;end end end break;end end end;funcs.iscclosure=function(fnc) return debug.info(fnc,"s")==LUAOBFUSACTOR_DECRYPT_STR_0("\224\244\126","\25\187\183\35\26\48\87\140") ;end;funcs.islclosure=function(func) return  not funcs.iscclosure(func);end;funcs.isexecutorclosure=function(fnc) local FlatIdent_3B5FF=0;local FlatIdent_5E6B8;local found;while true do if (FlatIdent_3B5FF==0) then FlatIdent_5E6B8=0;found=nil;FlatIdent_3B5FF=1;end if (FlatIdent_3B5FF==1) then while true do local FlatIdent_88746=0;while true do if (FlatIdent_88746==0) then if (FlatIdent_5E6B8==1) then local FlatIdent_82125=0;while true do if (FlatIdent_82125==0) then for i=1,math.huge do local s,env=pcall(getfenv,i);if ( not s or found) then break;end if (type(env)==LUAOBFUSACTOR_DECRYPT_STR_0("\105\222\92\122\120","\22\29\191\62")) then for _,v in pairs(env) do if (v==fnc) then found=true;break;end end end if found then break;end end return found;end end end if (0==FlatIdent_5E6B8) then local FlatIdent_29020=0;while true do if (FlatIdent_29020==0) then found=false;for i,v in pairs(getgenv()) do if (v==fnc) then return true;end end FlatIdent_29020=1;end if (1==FlatIdent_29020) then FlatIdent_5E6B8=1;break;end end end break;end end end break;end end end;funcs.newlclosure=function(fnc) return function(...) return fnc(...);end;end;funcs.clonefunction=funcs.newlclosure;funcs.is_l_closure=funcs.islclosure;funcs.is_executor_closure=funcs.isexecutorclosure;funcs.isourclosure=funcs.isexecutorclosure;funcs.isexecclosure=funcs.isexecutorclosure;funcs.checkclosure=funcs.isourclosure;local files={};local function startswith(a,b) return a:sub(1, #b)==b ;end local function endswith(hello,lo) return hello:sub(( #hello-#lo) + 1 , #hello)==lo ;end funcs.writefile=function(path,content) local FlatIdent_66E7B=0;local Path;local CurrentPath;while true do if (FlatIdent_66E7B==0) then local FlatIdent_15244=0;while true do if (FlatIdent_15244==0) then Path=path:split("/");CurrentPath={};FlatIdent_15244=1;end if (FlatIdent_15244==1) then FlatIdent_66E7B=1;break;end end end if (FlatIdent_66E7B==1) then for i=1, #Path do local FlatIdent_2F936=0;local FlatIdent_8EBD6;local a;while true do if (1==FlatIdent_2F936) then while true do if (FlatIdent_8EBD6==0) then local FlatIdent_8F621=0;while true do if (FlatIdent_8F621==0) then a=Path[i];CurrentPath[i]=a;FlatIdent_8F621=1;end if (FlatIdent_8F621==1) then FlatIdent_8EBD6=1;break;end end end if (FlatIdent_8EBD6==1) then if ( not files[a] and (i~= #Path)) then local FlatIdent_2A56F=0;local FlatIdent_87A36;while true do if (FlatIdent_2A56F==0) then FlatIdent_87A36=0;while true do if (FlatIdent_87A36==0) then files[table.concat(CurrentPath,"/")]={};files[table.concat(CurrentPath,"/")   .. "/" ]=files[table.concat(CurrentPath,"/")];break;end end break;end end elseif (i== #Path) then files[table.concat(CurrentPath,"/")]=tostring(content);end break;end end break;end if (0==FlatIdent_2F936) then FlatIdent_8EBD6=0;a=nil;FlatIdent_2F936=1;end end end break;end end end;funcs.makefolder=function(path) local FlatIdent_5B48E=0;while true do if (FlatIdent_5B48E==0) then files[path]={};files[path   .. "/" ]=files[path];break;end end end;funcs.isfolder=function(path) return type(files[path])==LUAOBFUSACTOR_DECRYPT_STR_0("\156\251\205\56\9","\212\232\154\175\84\108") ;end;funcs.isfile=function(path) return type(files[path])==LUAOBFUSACTOR_DECRYPT_STR_0("\41\8\222\240\205\43","\42\90\124\172\153\163\76\236") ;end;funcs.readfile=function(path) return files[path];end;funcs.appendfile=function(path,text2) funcs.writefile(path,funcs.readfile(path)   .. text2 );end;funcs.loadfile=function(path) local FlatIdent_7D65B=0;local FlatIdent_2C73A;local content;local s;local func;while true do if (0==FlatIdent_7D65B) then FlatIdent_2C73A=0;content=nil;FlatIdent_7D65B=1;end if (1==FlatIdent_7D65B) then s=nil;func=nil;FlatIdent_7D65B=2;end if (FlatIdent_7D65B==2) then while true do local FlatIdent_7023E=0;while true do if (FlatIdent_7023E==0) then if (FlatIdent_2C73A==1) then local FlatIdent_30264=0;while true do if (FlatIdent_30264==0) then s,func=pcall(function() return loadstring(content);end);return func,( not s and func) or nil ;end end end if (FlatIdent_2C73A==0) then local FlatIdent_ED25=0;while true do if (FlatIdent_ED25==1) then FlatIdent_2C73A=1;break;end if (FlatIdent_ED25==0) then content=funcs.readfile(path);if  not content then local FlatIdent_EC18=0;local FlatIdent_37634;while true do if (0==FlatIdent_EC18) then FlatIdent_37634=0;while true do if (FlatIdent_37634==0) then error("File \'"   .. tostring(path)   .. "\' does not exist." );return "";end end break;end end end FlatIdent_ED25=1;end end end break;end end end break;end end end;funcs.delfolder=function(path) local f=files[path];if (type(f)==LUAOBFUSACTOR_DECRYPT_STR_0("\60\139\186\116\45","\24\72\234\216")) then files[path]=nil;end end;funcs.delfile=function(path) local f=files[path];if (type(f)==LUAOBFUSACTOR_DECRYPT_STR_0("\5\109\203\87\203\17","\165\118\25\185\62")) then files[path]=nil;end end;funcs.listfiles=function(path) local FlatIdent_414A4=0;local FlatIdent_19CD5;local Files;while true do if (FlatIdent_414A4==0) then FlatIdent_19CD5=0;Files=nil;FlatIdent_414A4=1;end if (FlatIdent_414A4==1) then while true do if (FlatIdent_19CD5==2) then return Files;end if (FlatIdent_19CD5==1) then local FlatIdent_6A5FD=0;while true do if (FlatIdent_6A5FD==1) then FlatIdent_19CD5=2;break;end if (0==FlatIdent_6A5FD) then Files={};for i,v in pairs(files) do if (startswith(i,path   .. "/" ) and  not endswith(i,"/") and (i~=path) and ( #i:split("/")==( #path:split("/") + 1))) then table.insert(Files,i);end end FlatIdent_6A5FD=1;end end end if (FlatIdent_19CD5==0) then local FlatIdent_26DD5=0;while true do if (0==FlatIdent_26DD5) then if ( not path or (path=="")) then local FlatIdent_23C6=0;local FlatIdent_86AD;local Files;while true do if (FlatIdent_23C6==1) then while true do local FlatIdent_62EB5=0;while true do if (FlatIdent_62EB5==0) then if (FlatIdent_86AD==1) then return Files;end if (FlatIdent_86AD==0) then local FlatIdent_84A3C=0;while true do if (1==FlatIdent_84A3C) then FlatIdent_86AD=1;break;end if (FlatIdent_84A3C==0) then Files={};for i,v in pairs(files) do if ( #i:split("/")==1) then table.insert(Files,i);end end FlatIdent_84A3C=1;end end end break;end end end break;end if (FlatIdent_23C6==0) then FlatIdent_86AD=0;Files=nil;FlatIdent_23C6=1;end end end if (type(files[path])~=LUAOBFUSACTOR_DECRYPT_STR_0("\17\72\231\76\0","\32\101\41\133")) then return error(path   .. LUAOBFUSACTOR_DECRYPT_STR_0("\172\76\65\225\125\220\248\5\83\225\117\220\224\65\87\179\61","\179\140\37\50\193\19") );end FlatIdent_26DD5=1;end if (FlatIdent_26DD5==1) then FlatIdent_19CD5=1;break;end end end end break;end end end;funcs.http.request=funcs.request;funcs.syn.crypt=funcs.crypt;funcs.syn.crypto=funcs.crypt;funcs.syn_backup=funcs.syn;funcs.getexecutorname=function() return LUAOBFUSACTOR_DECRYPT_STR_0("\101\178\3\46\48\214\107","\152\40\221\113\75\101"),Version;end;funcs.identifyexecutor=funcs.getexecutorname;funcs.http_request=getgenv().request or funcs.request ;funcs.getscripts=function() local FlatIdent_68655=0;local FlatIdent_23179;local a;while true do if (FlatIdent_68655==0) then FlatIdent_23179=0;a=nil;FlatIdent_68655=1;end if (FlatIdent_68655==1) then while true do local FlatIdent_70680=0;while true do if (FlatIdent_70680==0) then if (FlatIdent_23179==0) then local FlatIdent_30130=0;while true do if (FlatIdent_30130==1) then FlatIdent_23179=1;break;end if (FlatIdent_30130==0) then a={};for i,v in pairs(game:GetDescendants()) do if (v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\87\226\184\141\175\40\120\255\178\156\183","\123\27\141\219\236\195")) or v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\109\81\230\228\136\64\56\55\82\87\242\229","\84\32\62\130\145\228\37\107"))) then table.insert(a,v);end end FlatIdent_30130=1;end end end if (FlatIdent_23179==1) then return a;end break;end end end break;end end end;funcs.get_scripts=function() local FlatIdent_1B29=0;local a;while true do local FlatIdent_149D7=0;while true do if (FlatIdent_149D7==0) then if (FlatIdent_1B29==0) then local FlatIdent_806DC=0;while true do if (FlatIdent_806DC==1) then FlatIdent_1B29=1;break;end if (0==FlatIdent_806DC) then a={};for i,v in pairs(game:GetDescendants()) do if (v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\13\139\74\178\74\101\209\51\141\89\167","\178\65\228\41\211\38\54")) or v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\89\168\5\202\3\33\105\61\102\174\17\203","\94\20\199\97\191\111\68\58"))) then table.insert(a,v);end end FlatIdent_806DC=1;end end end if (FlatIdent_1B29==1) then return a;end break;end end end end;funcs.getmodules=function() local FlatIdent_6EED2=0;local FlatIdent_485A7;local a;while true do if (FlatIdent_6EED2==1) then while true do local FlatIdent_65740=0;while true do if (FlatIdent_65740==0) then if (FlatIdent_485A7==0) then a={};for i,v in pairs(game:GetDescendants()) do if v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\252\140\228\2\70\213\10\210\145\233\7\94","\89\177\227\128\119\42\176")) then table.insert(a,v);end end FlatIdent_485A7=1;end if (1==FlatIdent_485A7) then return a;end break;end end end break;end if (FlatIdent_6EED2==0) then FlatIdent_485A7=0;a=nil;FlatIdent_6EED2=1;end end end;funcs.getloadedmodules=funcs.getmodules;funcs.make_readonly=funcs.setreadonly;funcs.makereadonly=funcs.setreadonly;funcs.base64encode=funcs.crypt.base64encode;funcs.base64decode=funcs.crypt.base64decode;funcs.clonefunc=funcs.clonefunction;funcs.setsimulationradius=function(Distance,MaxDistance) local FlatIdent_78CCA=0;local FlatIdent_753BC;local LocalPlayer;while true do if (FlatIdent_78CCA==0) then FlatIdent_753BC=0;LocalPlayer=nil;FlatIdent_78CCA=1;end if (FlatIdent_78CCA==1) then while true do if (FlatIdent_753BC==0) then local FlatIdent_803CC=0;while true do if (1==FlatIdent_803CC) then FlatIdent_753BC=1;break;end if (0==FlatIdent_803CC) then LocalPlayer=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\44\184\255\70\120\43\28","\111\124\212\158\63\29\89")).LocalPlayer;assert(type(Distance)==LUAOBFUSACTOR_DECRYPT_STR_0("\85\74\56\41\61\73","\88\59\63\85\75") ,"Invalid arguement #1 to \'setsimulationradius\', Number expected got "   .. type(Distance) );FlatIdent_803CC=1;end end end if (FlatIdent_753BC==1) then LocalPlayer.SimulationRadius=((type(Distance)==LUAOBFUSACTOR_DECRYPT_STR_0("\188\196\224\133\140\22","\100\210\177\141\231\233")) and Distance) or LocalPlayer.SimulationRadius ;if MaxDistance then local FlatIdent_53965=0;local FlatIdent_63667;while true do if (FlatIdent_53965==0) then FlatIdent_63667=0;while true do if (FlatIdent_63667==0) then assert(type(MaxDistance)==LUAOBFUSACTOR_DECRYPT_STR_0("\240\157\58\188\255\240","\130\158\232\87\222\154") ,"Invalid arguement #2 to \'setsimulationradius\', Number expected got "   .. type(MaxDistance) );LocalPlayer.MaxSimulationDistance=MaxDistance;break;end end break;end end end break;end end break;end end end;funcs.getinstances=function() return game:GetDescendants();end;funcs.getnilinstances=function() return Instances;end;funcs.iswriteable=function(tbl) return  not table.isfrozen(tbl);end;funcs.makewriteable=function(tbl) return funcs.setreadonly(tbl,false);end;funcs.isscriptable=function(self,prop) return table.find(Hidden,prop)==nil ;end;funcs.getrunningscripts=function() local FlatIdent_82C09=0;local FlatIdent_216F3;local scripts;while true do if (FlatIdent_82C09==0) then FlatIdent_216F3=0;scripts=nil;FlatIdent_82C09=1;end if (1==FlatIdent_82C09) then while true do local FlatIdent_5BE5F=0;while true do if (FlatIdent_5BE5F==0) then if (FlatIdent_216F3==0) then local FlatIdent_1C383=0;while true do if (FlatIdent_1C383==0) then scripts={};for _,v in pairs(funcs.getinstances()) do if (v:IsA(LUAOBFUSACTOR_DECRYPT_STR_0("\2\36\69\34\25\29\40\84\42\5\58","\117\78\75\38\67")) and v.Enabled) then table.insert(scripts,v);end end FlatIdent_1C383=1;end if (FlatIdent_1C383==1) then FlatIdent_216F3=1;break;end end end if (FlatIdent_216F3==1) then return scripts;end break;end end end break;end end end;funcs.fireproximityprompt=function(p) local FlatIdent_44337=0;local Hold;local Distance;local Enabled;local Thing;local CFrame1;local get;local a;while true do if (FlatIdent_44337==1) then local FlatIdent_3A646=0;while true do if (0==FlatIdent_3A646) then p.Enabled=true;p.RequiresLineOfSight=false;FlatIdent_3A646=1;end if (FlatIdent_3A646==1) then get=nil;FlatIdent_44337=2;break;end end end if (FlatIdent_44337==3) then local FlatIdent_409D5=0;while true do if (0==FlatIdent_409D5) then CFrame1=a.CFrame;a.CFrame=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\200\60\93\87\17\234\35","\116\152\80\60\46")).LocalPlayer.Character.Head.CFrame + (game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\100\27\37\109\182\23\205","\126\52\119\68\20\211\101\190")).LocalPlayer.Character.Head.CFrame.LookVector * 2) ;FlatIdent_409D5=1;end if (FlatIdent_409D5==1) then task.wait();FlatIdent_44337=4;break;end end end if (FlatIdent_44337==0) then local FlatIdent_19C72=0;while true do if (FlatIdent_19C72==0) then Hold,Distance,Enabled,Thing,CFrame1=p.HoldDuration,p.MaxActivationDistance,p.Enabled,p.RequiresLineOfSight,nil;p.MaxActivationDistance=math.huge;FlatIdent_19C72=1;end if (1==FlatIdent_19C72) then p.HoldDuration=0;FlatIdent_44337=1;break;end end end if (FlatIdent_44337==6) then p.RequiresLineOfSight=Thing;a.CFrame=CFrame1;p.Parent=parent or p.Parent ;break;end if (FlatIdent_44337==2) then function get() local FlatIdent_4B186=0;local FlatIdent_594AA;local classes;while true do if (FlatIdent_4B186==0) then FlatIdent_594AA=0;classes=nil;FlatIdent_4B186=1;end if (FlatIdent_4B186==1) then while true do if (FlatIdent_594AA==0) then classes={LUAOBFUSACTOR_DECRYPT_STR_0("\255\185\66\209\113\220\170\69","\33\189\216\49\180"),LUAOBFUSACTOR_DECRYPT_STR_0("\156\187\37\59","\219\204\218\87\79"),LUAOBFUSACTOR_DECRYPT_STR_0("\248\127\174\65\113\132\199\110","\229\181\26\221\41\33")};for _,v in pairs(classes) do if p:FindFirstAncestorOfClass(v) then return p:FindFirstAncestorOfClass(v);end end break;end end break;end end end a=get();if  not a then local FlatIdent_124A9=0;local FlatIdent_3426C;local parent;while true do if (FlatIdent_124A9==1) then while true do if (FlatIdent_3426C==1) then a=p.Parent;break;end if (FlatIdent_3426C==0) then local FlatIdent_2EEF=0;while true do if (FlatIdent_2EEF==0) then parent=p.Parent;p.Parent=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\234\240\246\26","\37\186\145\132\110\18\123\76"),workspace);FlatIdent_2EEF=1;end if (FlatIdent_2EEF==1) then FlatIdent_3426C=1;break;end end end end break;end if (FlatIdent_124A9==0) then FlatIdent_3426C=0;parent=nil;FlatIdent_124A9=1;end end end FlatIdent_44337=3;end if (FlatIdent_44337==5) then local FlatIdent_780F2=0;while true do if (0==FlatIdent_780F2) then p.HoldDuration=Hold;p.MaxActivationDistance=Distance;FlatIdent_780F2=1;end if (1==FlatIdent_780F2) then p.Enabled=Enabled;FlatIdent_44337=6;break;end end end if (4==FlatIdent_44337) then local FlatIdent_71D9=0;while true do if (1==FlatIdent_71D9) then p:InputHoldEnd();FlatIdent_44337=5;break;end if (FlatIdent_71D9==0) then p:InputHoldBegin();task.wait();FlatIdent_71D9=1;end end end end end;funcs.firetouchinterest=function(toTouch,TouchWith,on) local FlatIdent_3B48B=0;local cf;local anc;while true do if (FlatIdent_3B48B==0) then local FlatIdent_3D9E5=0;while true do if (FlatIdent_3D9E5==0) then if (on==0) then return;end if (toTouch.ClassName==LUAOBFUSACTOR_DECRYPT_STR_0("\183\30\253\10\139\37\250\8\141\2\229\0\151\5\237\27","\105\227\113\136")) then local FlatIdent_86F89=0;local FlatIdent_E5A2;local get;while true do if (0==FlatIdent_86F89) then FlatIdent_E5A2=0;get=nil;FlatIdent_86F89=1;end if (FlatIdent_86F89==1) then while true do if (FlatIdent_E5A2==1) then toTouch=get();break;end if (FlatIdent_E5A2==0) then local FlatIdent_8E358=0;while true do if (FlatIdent_8E358==0) then get=nil;function get() local FlatIdent_3E056=0;local classes;while true do if (0==FlatIdent_3E056) then classes={LUAOBFUSACTOR_DECRYPT_STR_0("\33\31\18\134\44\140\245\96","\20\99\126\97\227\124\237\135"),LUAOBFUSACTOR_DECRYPT_STR_0("\131\172\246\243","\100\211\205\132\135\109\108"),LUAOBFUSACTOR_DECRYPT_STR_0("\140\17\218\248\137\160\6\221","\217\193\116\169\144")};for _,v in pairs(classes) do if toTouch:FindFirstAncestorOfClass(v) then return toTouch:FindFirstAncestorOfClass(v);end end break;end end end FlatIdent_8E358=1;end if (FlatIdent_8E358==1) then FlatIdent_E5A2=1;break;end end end end break;end end end FlatIdent_3D9E5=1;end if (FlatIdent_3D9E5==1) then FlatIdent_3B48B=1;break;end end end if (FlatIdent_3B48B==3) then local FlatIdent_86425=0;while true do if (FlatIdent_86425==0) then task.wait();toTouch.CFrame=cf;FlatIdent_86425=1;end if (FlatIdent_86425==1) then FlatIdent_3B48B=4;break;end end end if (FlatIdent_3B48B==1) then local FlatIdent_1F0CF=0;while true do if (FlatIdent_1F0CF==1) then FlatIdent_3B48B=2;break;end if (FlatIdent_1F0CF==0) then cf=toTouch.CFrame;anc=toTouch.CanCollide;FlatIdent_1F0CF=1;end end end if (FlatIdent_3B48B==4) then toTouch.CanCollide=anc;break;end if (FlatIdent_3B48B==2) then local FlatIdent_6B475=0;while true do if (FlatIdent_6B475==1) then FlatIdent_3B48B=3;break;end if (FlatIdent_6B475==0) then toTouch.CanCollide=false;toTouch.CFrame=TouchWith.CFrame;FlatIdent_6B475=1;end end end end end;local function str2hexa(a) return string.gsub(a,".",function(b) return string.format(LUAOBFUSACTOR_DECRYPT_STR_0("\92\30\123\102","\72\121\46\73\30\208"),string.byte(b));end);end local function num2s(c,d) local FlatIdent_33915=0;local FlatIdent_6E70;local a;while true do if (FlatIdent_33915==1) then while true do local FlatIdent_52F0C=0;while true do if (FlatIdent_52F0C==0) then if (1==FlatIdent_6E70) then return a;end if (FlatIdent_6E70==0) then local FlatIdent_50BEF=0;while true do if (FlatIdent_50BEF==1) then FlatIdent_6E70=1;break;end if (FlatIdent_50BEF==0) then a="";for e=1,d do local FlatIdent_71101=0;local FlatIdent_2BAA2;local f;while true do if (0==FlatIdent_71101) then FlatIdent_2BAA2=0;f=nil;FlatIdent_71101=1;end if (1==FlatIdent_71101) then while true do if (FlatIdent_2BAA2==0) then local FlatIdent_58C94=0;while true do if (FlatIdent_58C94==0) then f=c%256 ;a=string.char(f)   .. a ;FlatIdent_58C94=1;end if (FlatIdent_58C94==1) then FlatIdent_2BAA2=1;break;end end end if (FlatIdent_2BAA2==1) then c=(c-f)/256 ;break;end end break;end end end FlatIdent_50BEF=1;end end end break;end end end break;end if (FlatIdent_33915==0) then FlatIdent_6E70=0;a=nil;FlatIdent_33915=1;end end end local function s232num(a,e) local FlatIdent_973C1=0;local FlatIdent_7FCDC;local d;while true do if (FlatIdent_973C1==0) then FlatIdent_7FCDC=0;d=nil;FlatIdent_973C1=1;end if (FlatIdent_973C1==1) then while true do local FlatIdent_89411=0;while true do if (FlatIdent_89411==0) then if (FlatIdent_7FCDC==1) then return d;end if (FlatIdent_7FCDC==0) then local FlatIdent_1F456=0;while true do if (FlatIdent_1F456==0) then d=0;for g=e,e + 3  do d=(d * 256) + string.byte(a,g) ;end FlatIdent_1F456=1;end if (FlatIdent_1F456==1) then FlatIdent_7FCDC=1;break;end end end break;end end end break;end end end local function preproc(h,i) local FlatIdent_92C24=0;local j;while true do if (FlatIdent_92C24==0) then j=64 -((i + 9)%64) ;i=num2s(8 * i ,8);FlatIdent_92C24=1;end if (FlatIdent_92C24==2) then return h;end if (FlatIdent_92C24==1) then h=h   .. "\128"   .. string.rep("\0",j)   .. i ;assert(( #h%64)==0 );FlatIdent_92C24=2;end end end local function k(h,e,l) local m={};local n={1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298};for g=1,16 do m[g]=s232num(h,e + ((g-1) * 4) );end for g=17,64 do local FlatIdent_78AA7=0;local FlatIdent_57D0C;local o;local p;local q;while true do if (FlatIdent_78AA7==1) then p=nil;q=nil;FlatIdent_78AA7=2;end if (FlatIdent_78AA7==2) then while true do if (FlatIdent_57D0C==0) then local FlatIdent_3BE8E=0;while true do if (FlatIdent_3BE8E==1) then FlatIdent_57D0C=1;break;end if (FlatIdent_3BE8E==0) then o=m[g-15 ];p=bit.bxor(bit.rrotate(o,7),bit.rrotate(o,18),bit.rshift(o,3));FlatIdent_3BE8E=1;end end end if (FlatIdent_57D0C==1) then local FlatIdent_39BEC=0;while true do if (FlatIdent_39BEC==1) then FlatIdent_57D0C=2;break;end if (FlatIdent_39BEC==0) then o=m[g-2 ];q=bit.bxor(bit.rrotate(o,17),bit.rrotate(o,19),bit.rshift(o,10));FlatIdent_39BEC=1;end end end if (FlatIdent_57D0C==2) then m[g]=(m[g-16 ] + p + m[g-7 ] + q)%(2^32) ;break;end end break;end if (FlatIdent_78AA7==0) then FlatIdent_57D0C=0;o=nil;FlatIdent_78AA7=1;end end end local r,s,b,t,u,v,w,x=l[1],l[2],l[3],l[4],l[5],l[6],l[7],l[8];for e=1,64 do local FlatIdent_50690=0;local p;local y;local z;local q;local A;local B;while true do if (FlatIdent_50690==3) then s=r;r=(B + z)%(2^32) ;break;end if (1==FlatIdent_50690) then local FlatIdent_1CABD=0;while true do if (FlatIdent_1CABD==2) then FlatIdent_50690=2;break;end if (1==FlatIdent_1CABD) then x=w;w=v;FlatIdent_1CABD=2;end if (FlatIdent_1CABD==0) then A=bit.bxor(bit.band(u,v),bit.band(bit.bnot(u),w));B=(x + q + A + n[e] + m[e])%(2^32) ;FlatIdent_1CABD=1;end end end if (FlatIdent_50690==2) then local FlatIdent_4D759=0;while true do if (FlatIdent_4D759==2) then FlatIdent_50690=3;break;end if (1==FlatIdent_4D759) then t=b;b=s;FlatIdent_4D759=2;end if (FlatIdent_4D759==0) then v=u;u=(t + B)%(2^32) ;FlatIdent_4D759=1;end end end if (FlatIdent_50690==0) then local FlatIdent_88755=0;while true do if (1==FlatIdent_88755) then z=(p + y)%(2^32) ;q=bit.bxor(bit.rrotate(u,6),bit.rrotate(u,11),bit.rrotate(u,25));FlatIdent_88755=2;end if (2==FlatIdent_88755) then FlatIdent_50690=1;break;end if (FlatIdent_88755==0) then p=bit.bxor(bit.rrotate(r,2),bit.rrotate(r,13),bit.rrotate(r,22));y=bit.bxor(bit.band(r,s),bit.band(r,b),bit.band(s,b));FlatIdent_88755=1;end end end end end l[1]=(l[1] + r)%(2^32) ;l[2]=(l[2] + s)%(2^32) ;l[3]=(l[3] + b)%(2^32) ;l[4]=(l[4] + t)%(2^32) ;l[5]=(l[5] + u)%(2^32) ;l[6]=(l[6] + v)%(2^32) ;l[7]=(l[7] + w)%(2^32) ;l[8]=(l[8] + x)%(2^32) ;end funcs.crypt.hash=function(h) local FlatIdent_DCCB=0;local FlatIdent_75A7C;local l;while true do if (FlatIdent_DCCB==0) then FlatIdent_75A7C=0;l=nil;FlatIdent_DCCB=1;end if (FlatIdent_DCCB==1) then while true do local FlatIdent_30183=0;while true do if (FlatIdent_30183==0) then if (FlatIdent_75A7C==0) then local FlatIdent_7FEA1=0;while true do if (1==FlatIdent_7FEA1) then FlatIdent_75A7C=1;break;end if (FlatIdent_7FEA1==0) then h=preproc(h, #h);l={1779033703,3144134277,1013904242,2773480762,1359893119,2600822924,528734635,1541459225};FlatIdent_7FEA1=1;end end end if (1==FlatIdent_75A7C) then local FlatIdent_63758=0;while true do if (0==FlatIdent_63758) then for e=1, #h,64 do k(h,e,l);end return str2hexa(num2s(l[1],4)   .. num2s(l[2],4)   .. num2s(l[3],4)   .. num2s(l[4],4)   .. num2s(l[5],4)   .. num2s(l[6],4)   .. num2s(l[7],4)   .. num2s(l[8],4) );end end end break;end end end break;end end end;funcs.Drawing.new=function(Type) local baseProps={[LUAOBFUSACTOR_DECRYPT_STR_0("\133\221\231\137\3\136\182","\228\211\180\148\224\97")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\112\253\179\228\98","\140\51\146\223\139\16")]=Color3.new(0,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\204\16\131\190\236\193\29\143\168","\159\143\124\226\205")]=nil};if (Type==LUAOBFUSACTOR_DECRYPT_STR_0("\86\244\74\84","\37\26\157\36\49\113\211")) then local a=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\130\49\190\200\176","\213\196\67\223\165"),Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\67\75\172\241\8\126\111\171\253","\109\16\40\222\148"),DrawingDict));a.Visible=false;a.Size=UDim2.new(0,0,0,0);a.BackgroundColor3=Color3.fromRGB(255,255,255);a.BackgroundTransparency=1;a.BorderSizePixel=0;local meta=baseProps;meta.ClassName=Type;meta.__index={[LUAOBFUSACTOR_DECRYPT_STR_0("\225\221\86\178\222\219\90\162\198","\209\181\181\63")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\214\34\248\181","\45\144\80\151\216\160")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\16\50","\62\68\93\218\69")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\43\9\50\203\47\47\19\13\30\61\198\37","\114\127\123\83\165\92\95")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\244\216\243\188\208\216","\211\166\189\158")]=function() local FlatIdent_33A7F=0;local FlatIdent_58DB0;while true do if (FlatIdent_33A7F==0) then FlatIdent_58DB0=0;while true do if (FlatIdent_58DB0==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\25\164\203\41\32\227\36","\140\93\193\184\93\82")]=function() local FlatIdent_59E3D=0;local FlatIdent_54A3A;while true do if (0==FlatIdent_59E3D) then FlatIdent_54A3A=0;while true do if (FlatIdent_54A3A==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\102\190\246\252\159\234\95\167\252\248","\143\19\206\146\157\235")]=function(self) local FlatIdent_5AEC0=0;local FlatIdent_6F3CF;local from;local to;local distance;local angle;while true do if (FlatIdent_5AEC0==0) then FlatIdent_6F3CF=0;from=nil;FlatIdent_5AEC0=1;end if (FlatIdent_5AEC0==2) then angle=nil;while true do if (2==FlatIdent_6F3CF) then local FlatIdent_317C5=0;while true do if (FlatIdent_317C5==0) then angle=math.deg(math.atan2(to.Y-from.Y ,to.X-from.X ));a.Size=UDim2.new(0,distance,0,self.Thickness);FlatIdent_317C5=1;end if (FlatIdent_317C5==1) then FlatIdent_6F3CF=3;break;end end end if (FlatIdent_6F3CF==1) then local FlatIdent_98FC=0;while true do if (FlatIdent_98FC==1) then FlatIdent_6F3CF=2;break;end if (FlatIdent_98FC==0) then to=self.To;distance=(to-from).Magnitude;FlatIdent_98FC=1;end end end if (0==FlatIdent_6F3CF) then local FlatIdent_94922=0;while true do if (FlatIdent_94922==1) then FlatIdent_6F3CF=1;break;end if (FlatIdent_94922==0) then if  not a then return;end from=self.From;FlatIdent_94922=1;end end end if (FlatIdent_6F3CF==3) then a.Position=UDim2.new(0,from.X,0,from.Y);a.Rotation=angle;break;end end break;end if (FlatIdent_5AEC0==1) then to=nil;distance=nil;FlatIdent_5AEC0=2;end end end};meta.__newindex=function(self,key,value) local FlatIdent_130AA=0;while true do if (FlatIdent_130AA==0) then if  not self then return;end if ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\228\25\129\191\219\31\141\175\195","\220\176\113\232")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\24\14\72\236\235\202","\184\118\123\37\142\142"))) then local FlatIdent_7D04A=0;local FlatIdent_2E95B;while true do if (FlatIdent_7D04A==0) then FlatIdent_2E95B=0;while true do if (FlatIdent_2E95B==0) then rawset(self,key,value);a.Size=UDim2.new(0,(self.To-self.From).Magnitude,0,value);break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\155\235\52\1\175\238\34","\104\205\130\71")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\132\29\75\137\14\24\126","\129\230\114\36\229\107\121\16"))) then local FlatIdent_39BE6=0;local FlatIdent_CFAD;while true do if (FlatIdent_39BE6==0) then FlatIdent_CFAD=0;while true do if (FlatIdent_CFAD==0) then rawset(self,key,value);a.Visible=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\99\0\242\185\209","\196\32\111\158\214\163\167")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\14\29\192\31\63\65","\112\77\114\172"))) then local FlatIdent_411EB=0;while true do if (FlatIdent_411EB==0) then rawset(self,key,value);a.BackgroundColor3=value;break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\185\82\41\44\167\157\65\58\39\186\142\89","\212\237\32\72\66")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\185\250\113\46\178\253","\76\215\143\28")) and (value<=1)) then local FlatIdent_3D7C1=0;local FlatIdent_597FE;while true do if (FlatIdent_3D7C1==0) then FlatIdent_597FE=0;while true do if (FlatIdent_597FE==0) then rawset(self,key,value);a.BackgroundTransparency=1 -value ;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\103\215\230\77","\229\33\165\137\32\228\85")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\129\135\6\104\27\215\234","\232\215\226\101\28\116\165\216"))) then local FlatIdent_32F93=0;local FlatIdent_95124;while true do if (FlatIdent_32F93==0) then FlatIdent_95124=0;while true do if (FlatIdent_95124==0) then rawset(self,key,value);self:updateLine();break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\56\42","\64\108\69\195\59")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\36\118\207\76\77\0\33","\34\114\19\172\56"))) then local FlatIdent_578AF=0;local FlatIdent_105CE;while true do if (FlatIdent_578AF==0) then FlatIdent_105CE=0;while true do if (FlatIdent_105CE==0) then rawset(self,key,value);self:updateLine();break;end end break;end end end break;end end end;local meta1=setmetatable({},meta);Drawings[meta1]=meta1;return meta1;elseif (Type==LUAOBFUSACTOR_DECRYPT_STR_0("\253\52\102\195\195\203","\177\174\69\19\162")) then local a=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\170\92\73\23\131","\196\236\46\40\122\230\122"),DrawingDict);a.Visible=false;a.Size=UDim2.new(0,0,0,0);a.BackgroundColor3=Color3.fromRGB(255,255,255);a.BackgroundTransparency=1;a.BorderSizePixel=0;local b=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\138\222\71\181\249\63\9\186","\98\223\151\20\193\139\80"),a);b.Color=Color3.fromRGB(255,255,255);b.Enabled=true;local meta=baseProps;meta.ClassName=Type;meta.__index={[LUAOBFUSACTOR_DECRYPT_STR_0("\97\172\158\223","\167\50\197\228\186\202\146\38")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\124\199\53\46\88\193\41\41","\71\44\168\70")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\48\2\214\195\20\2","\172\98\103\187")]=function() local FlatIdent_3A0AA=0;local FlatIdent_72EAB;while true do if (FlatIdent_3A0AA==0) then FlatIdent_72EAB=0;while true do if (FlatIdent_72EAB==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\3\66\147\56\42\25\182","\217\71\39\224\76\88\118\207")]=function() local FlatIdent_81CE=0;local FlatIdent_25C61;while true do if (FlatIdent_81CE==0) then FlatIdent_25C61=0;while true do if (FlatIdent_25C61==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\152\169\255\168\153\188\200\184\152\184\233\172","\201\237\217\155")]=function(self) local FlatIdent_20AB9=0;local FlatIdent_92CAA;while true do if (FlatIdent_20AB9==0) then FlatIdent_92CAA=0;while true do if (FlatIdent_92CAA==0) then local FlatIdent_1AF4E=0;while true do if (FlatIdent_1AF4E==1) then FlatIdent_92CAA=1;break;end if (FlatIdent_1AF4E==0) then if  not a then return;end a.Size=UDim2.new(0,self.Size.X,0,self.Size.Y);FlatIdent_1AF4E=1;end end end if (FlatIdent_92CAA==1) then a.Position=UDim2.new(0,self.Position.X,0,self.Position.Y);break;end end break;end end end};meta.__newindex=function(self,key,value) local FlatIdent_1199A=0;while true do if (0==FlatIdent_1199A) then if  not self then return;end if ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\81\74\87\192\191\140","\203\23\35\59\172\218\232\105")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\32\166\175\119\39\168\174","\27\66\201\192"))) then local FlatIdent_73C09=0;local FlatIdent_74291;while true do if (FlatIdent_73C09==0) then FlatIdent_74291=0;while true do if (FlatIdent_74291==1) then a.BackgroundTransparency=(value and 0) or 1 ;break;end if (FlatIdent_74291==0) then local FlatIdent_2CB83=0;while true do if (FlatIdent_2CB83==0) then rawset(self,key,value);b.Enabled= not value;FlatIdent_2CB83=1;end if (FlatIdent_2CB83==1) then FlatIdent_74291=1;break;end end end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\20\44\232\124\200\86\39","\58\66\69\155\21\170")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\237\80\230\247\249\238\81","\156\143\63\137\155"))) then local FlatIdent_63C9=0;local FlatIdent_5A929;while true do if (FlatIdent_63C9==0) then FlatIdent_5A929=0;while true do if (FlatIdent_5A929==0) then rawset(self,key,value);a.Visible=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\49\36\113\51\154","\232\114\75\29\92")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\42\94\245\89\219\153","\170\105\49\153\54\169"))) then local FlatIdent_7246A=0;local FlatIdent_1E025;while true do if (FlatIdent_7246A==0) then FlatIdent_1E025=0;while true do if (FlatIdent_1E025==1) then b.Color=value;break;end if (FlatIdent_1E025==0) then rawset(self,key,value);a.BackgroundColor3=value;FlatIdent_1E025=1;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\47\81\104\199\5\239\135\186","\212\127\62\27\174\113\134\232")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\197\4\176\170\249\76\233","\219\147\97\211\222\150\62"))) then rawset(self,key,value);self:updateSquare();elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\243\73\236\136","\209\160\32\150\237\229")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\133\63\70\86\119\229\222","\236\211\90\37\34\24\151"))) then rawset(self,key,value);self:updateSquare();end break;end end end;local meta1=setmetatable({},meta);Drawings[meta1]=meta1;return meta1;elseif (Type==LUAOBFUSACTOR_DECRYPT_STR_0("\119\173\161\131\88\161","\224\52\196\211")) then local a=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\57\85\68\52\54","\131\127\39\37\89\83"),Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\250\20\253\70\95\203\238\2\230","\165\169\119\143\35\58"),DrawingDict));a.Visible=false;a.Size=UDim2.new(0,0,0,0);a.BackgroundColor3=Color3.fromRGB(255,255,255);a.BackgroundTransparency=1;a.BorderSizePixel=0;local b=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\214\209\27\161\250\30\221\230","\182\131\152\72\213\136\113"),a);b.Color=Color3.fromRGB(255,255,255);b.Enabled=false;b.Thickness=1;local c=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\115\57\150\167\84\30\176\186","\200\38\112\213"),a);c.CornerRadius=UDim.new(1,0);local meta=baseProps;meta.ClassName=Type;meta.__index={[LUAOBFUSACTOR_DECRYPT_STR_0("\208\7\198\73\218\209\49\247\28","\84\132\111\175\42\177\191")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\206\128\33\197\10\65","\98\136\233\77\169\111\37\83")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\95\160\48\157\224\221\116\166","\185\17\213\93\206\137")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\142\59\142\28\175\175","\218\220\90\234\117")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\242\30\215\41\69\35\126\204","\17\162\113\164\64\49\74")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\27\212\10\155\237\21\18\12\219\7\145","\116\96\105\181\100\232\157")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\123\62\213\3\45\11","\59\41\91\184\108\91\110\16")]=function() local FlatIdent_9860E=0;local FlatIdent_1AED4;while true do if (0==FlatIdent_9860E) then FlatIdent_1AED4=0;while true do if (FlatIdent_1AED4==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\172\66\177\79\1\135\94","\115\232\39\194\59")]=function() local FlatIdent_180CE=0;local FlatIdent_8E12E;while true do if (0==FlatIdent_180CE) then FlatIdent_8E12E=0;while true do if (FlatIdent_8E12E==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\14\219\227\55\182\30\232\238\36\161\23\206","\194\123\171\135\86")]=function(self) local FlatIdent_8F57E=0;local FlatIdent_AFC3;while true do if (0==FlatIdent_8F57E) then FlatIdent_AFC3=0;while true do if (FlatIdent_AFC3==2) then b.Color=self.Color;break;end if (FlatIdent_AFC3==1) then local FlatIdent_7E818=0;while true do if (FlatIdent_7E818==0) then a.Position=UDim2.new(0,self.Position.X,0,self.Position.Y);b.Enabled= not self;FlatIdent_7E818=1;end if (FlatIdent_7E818==1) then FlatIdent_AFC3=2;break;end end end if (FlatIdent_AFC3==0) then local FlatIdent_244F6=0;while true do if (FlatIdent_244F6==0) then if ( not b or  not a) then return;end a.Size=UDim2.new(0,self.Radius,0,self.Radius);FlatIdent_244F6=1;end if (FlatIdent_244F6==1) then FlatIdent_AFC3=1;break;end end end end break;end end end};meta.__newindex=function(self,key,value) local FlatIdent_77C1F=0;while true do if (FlatIdent_77C1F==0) then if  not self then return;end if ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\107\138\112\199\63\241\25\102\76","\21\63\226\25\164\84\159\124")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\224\221\178\211\36\236","\122\142\168\223\177\65\158"))) then local FlatIdent_603E3=0;local FlatIdent_7EC98;while true do if (FlatIdent_603E3==0) then FlatIdent_7EC98=0;while true do if (FlatIdent_7EC98==0) then rawset(self,key,value);b.Thickness=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\245\42\2\12\216\90\45","\72\163\67\113\101\186\54")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\43\136\251\141\44\134\250","\225\73\231\148"))) then local FlatIdent_1D0F3=0;local FlatIdent_5336D;while true do if (FlatIdent_1D0F3==0) then FlatIdent_5336D=0;while true do if (FlatIdent_5336D==0) then rawset(self,key,value);a.Visible=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\50\57\66\89\212","\166\113\86\46\54")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\236\218\123\210\243\149","\103\175\181\23\189\129\166\231"))) then local FlatIdent_93BA9=0;local FlatIdent_2ED78;while true do if (FlatIdent_93BA9==0) then FlatIdent_2ED78=0;while true do if (FlatIdent_2ED78==0) then local FlatIdent_89F27=0;while true do if (1==FlatIdent_89F27) then FlatIdent_2ED78=1;break;end if (0==FlatIdent_89F27) then rawset(self,key,value);a.BackgroundColor3=value;FlatIdent_89F27=1;end end end if (FlatIdent_2ED78==1) then a.Color=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\133\10\84\90\206\29\176\10\80\90\222\20","\109\209\120\53\52\189")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\77\29\240\16\222\160","\210\35\104\157\114\187"))) then local FlatIdent_3F0CB=0;local FlatIdent_7F422;while true do if (0==FlatIdent_3F0CB) then FlatIdent_7F422=0;while true do if (FlatIdent_7F422==0) then rawset(self,key,value);a.BackgroundTransparency=1 -value ;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\74\202\166\50\181\68\14\222","\176\26\165\213\91\193\45\97")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\1\35\137\244\244\1\184","\138\87\70\234\128\155\115"))) then local FlatIdent_44B44=0;local FlatIdent_4B572;while true do if (0==FlatIdent_44B44) then FlatIdent_4B572=0;while true do if (FlatIdent_4B572==0) then rawset(self,key,value);self:updateCircle();break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\147\218\214\73\202\177","\173\193\187\178\32\191\194\112")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\226\55\222\229\16\54","\68\140\66\179\135\117"))) then local FlatIdent_406B5=0;while true do if (FlatIdent_406B5==0) then rawset(self,key,value);self:updateCircle();break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\90\159\69\201\50\81\173\103","\200\20\234\40\154\91\53")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\78\174\166\185\126\82","\27\32\219\203\219"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\0\244\21\178\251\116","\223\70\157\121\222\158\16\50")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\178\26\161\225\234\79\39","\73\208\117\206\141\143\46"))) then local FlatIdent_3F0FC=0;local FlatIdent_8FE86;while true do if (FlatIdent_3F0FC==0) then FlatIdent_8FE86=0;while true do if (FlatIdent_8FE86==0) then rawset(self,key,value);self:updateCircle();break;end end break;end end end break;end end end;local meta1=setmetatable({},meta);Drawings[meta1]=meta1;return meta1;elseif (Type==LUAOBFUSACTOR_DECRYPT_STR_0("\155\255\73\103","\19\207\154\49")) then local a=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\15\55\26\232\51\255\57\55\14","\158\91\82\98\156\127"),DrawingDict);a.Visible=false;a.Size=UDim2.new(0,0,0,0);a.BackgroundColor3=Color3.fromRGB(255,255,255);a.BackgroundTransparency=1;a.BorderSizePixel=0;a.TextStrokeColor3=Color3.new(0,0,0);a.TextStrokeTransparency=1;local meta=baseProps;meta.ClassName=Type;meta.__index={[LUAOBFUSACTOR_DECRYPT_STR_0("\133\129\250\210","\237\209\228\130\166\82\85")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\195\183\248\203\17\57\246\183\252\203\1\48","\73\151\197\153\165\98")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\102\19\239\207","\69\53\122\149\170\219\18")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\18\250\26\226\55\68","\234\81\159\116\150\82\54\140")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\53\213\17\19\19\206\0","\127\122\160\101")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\120\62\61\229\168\4\127\162\88\39\38\251","\225\55\75\73\137\193\106\26")]=Color3.new(0,0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\121\180\85\19\93\178\73\20","\122\41\219\38")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\81\172\215\161","\213\23\195\185")]=3,[LUAOBFUSACTOR_DECRYPT_STR_0("\186\37\123\163\219\53","\231\232\64\22\204\173\80\34")]=function() local FlatIdent_4AB69=0;local FlatIdent_91B9C;while true do if (0==FlatIdent_4AB69) then FlatIdent_91B9C=0;while true do if (FlatIdent_91B9C==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\110\94\220\176\88\84\214","\196\42\59\175")]=function() local FlatIdent_8478=0;local FlatIdent_34412;while true do if (FlatIdent_8478==0) then FlatIdent_34412=0;while true do if (0==FlatIdent_34412) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\55\34\61\17\44\39\6\60\8\44","\88\66\82\89\112")]=function(self) local FlatIdent_37298=0;while true do if (FlatIdent_37298==3) then a.TextStrokeColor3=self.OutlineColor;break;end if (0==FlatIdent_37298) then local FlatIdent_52D0=0;while true do if (FlatIdent_52D0==1) then a.Size=UDim2.new(0,self.Size * 3 ,0,self.Size/2 );a.Position=UDim2.new(0,self.Position.X,0,self.Position.Y);FlatIdent_52D0=2;end if (2==FlatIdent_52D0) then FlatIdent_37298=1;break;end if (FlatIdent_52D0==0) then if  not a then return;end a.TextScaled=true;FlatIdent_52D0=1;end end end if (2==FlatIdent_37298) then local FlatIdent_8DF0D=0;while true do if (FlatIdent_8DF0D==0) then a.TextTransparency=1 -self.Transparency ;a.BorderSizePixel=(self.Outline and 1) or 0 ;FlatIdent_8DF0D=1;end if (FlatIdent_8DF0D==2) then FlatIdent_37298=3;break;end if (FlatIdent_8DF0D==1) then if self.Center then local FlatIdent_8F979=0;local FlatIdent_38E4B;while true do if (FlatIdent_8F979==0) then FlatIdent_38E4B=0;while true do if (FlatIdent_38E4B==0) then a.TextXAlignment=Enum.TextXAlignment.Center;a.TextYAlignment=Enum.TextYAlignment.Center;break;end end break;end end else local FlatIdent_36255=0;local FlatIdent_5F6EB;while true do if (FlatIdent_36255==0) then FlatIdent_5F6EB=0;while true do if (FlatIdent_5F6EB==0) then a.TextXAlignment=Enum.TextXAlignment.Left;a.TextYAlignment=Enum.TextYAlignment.Top;break;end end break;end end end a.TextStrokeTransparency=(self.Outline and 0) or 1 ;FlatIdent_8DF0D=2;end end end if (FlatIdent_37298==1) then local FlatIdent_47EBC=0;while true do if (1==FlatIdent_47EBC) then a.Visible=self.Visible;a.TextColor3=self.Color;FlatIdent_47EBC=2;end if (FlatIdent_47EBC==2) then FlatIdent_37298=2;break;end if (FlatIdent_47EBC==0) then a.Text=self.Text;a.Font=Fonts[self.Font];FlatIdent_47EBC=1;end end end end end};meta.__newindex=function(self,key,value) local FlatIdent_1718C=0;while true do if (FlatIdent_1718C==1) then self:updateText();break;end if (FlatIdent_1718C==0) then local FlatIdent_970B=0;while true do if (FlatIdent_970B==0) then if  not self then return;end if ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\42\133\55\65","\62\126\224\79\53")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\79\109\214\129\199\91","\169\60\25\164\232"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\245\5\147\217\83\1\202","\175\163\108\224\176\49\109")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\205\49\43\185\42\41\193","\72\175\94\68\213\79"))) then local FlatIdent_5CB67=0;local FlatIdent_C895;while true do if (FlatIdent_5CB67==0) then FlatIdent_C895=0;while true do if (FlatIdent_C895==0) then rawset(self,key,value);a.Visible=value;break;end end break;end end elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\248\182\255\196\253","\143\187\217\147\171")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\254\23\123\176\21\142","\103\189\120\23\223"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\71\86\120\10\186\30\24\243\118\74\122\29","\129\19\36\25\100\201\110\121")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\8\10\92\190\3\13","\220\102\127\49"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\120\18\92\197\28\189\176\189","\211\40\125\47\172\104\212\223")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\120\68\47\26\65\83\126","\110\46\33\76"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\135\136\162\218","\87\212\225\216\191")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\232\70\200\138\188\244","\217\134\51\165\232"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\140\41\212\9\31\173\57","\118\195\92\160\101")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\162\19\32\35\60\19\174","\114\192\124\79\79\89"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\171\245\185\208\227\154","\134\232\144\215\164")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\239\73\93\89\140\26\192","\83\141\38\50\53\233\123\174"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\18\151\177\89\61\177\68\83\50\142\170\71","\16\93\226\197\53\84\223\33")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\90\220\240\21\186\68","\119\25\179\156\122\200"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\222\224\38\224","\148\152\143\72")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\242\8\214\198\60\238","\89\156\125\187\164"))) then rawset(self,key,value);end FlatIdent_970B=1;end if (FlatIdent_970B==1) then FlatIdent_1718C=1;break;end end end end end;local meta1=setmetatable({},meta);Drawings[meta1]=meta1;return meta1;elseif (Type==LUAOBFUSACTOR_DECRYPT_STR_0("\233\90\196\191\205","\96\160\55\165\216\168\144\191")) then local a=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\49\89\116\61\29\120\116\56\29\88","\90\120\52\21"),DrawingDict);a.Visible=false;a.Size=UDim2.new(0,0,0,0);a.ImageColor3=Color3.fromRGB(255,255,255);a.BackgroundTransparency=1;a.BorderSizePixel=0;local meta=baseProps;meta.ClassName=LUAOBFUSACTOR_DECRYPT_STR_0("\162\29\250\82\193","\214\235\112\155\53\164");meta.__index={[LUAOBFUSACTOR_DECRYPT_STR_0("\125\235\25\56","\76\41\142\97")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\221\214\207\27\105\14\24\4\236\202\205\12","\118\137\164\174\117\26\126\121")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\57\169\84\127","\110\106\192\46\26\28")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\252\67\0\224\213\5\198\194","\169\172\44\115\137\161\108")]=Vector2.new(0,0),[LUAOBFUSACTOR_DECRYPT_STR_0("\140\250\129\219\78","\60\207\149\237\180")]=Color3.fromRGB(255,255,255),[LUAOBFUSACTOR_DECRYPT_STR_0("\222\57\138\225\242","\134\151\84\235")]="",[LUAOBFUSACTOR_DECRYPT_STR_0("\121\10\191\2\97\78","\23\43\111\210\109")]=function() local FlatIdent_4C7C3=0;local FlatIdent_57B17;while true do if (FlatIdent_4C7C3==0) then FlatIdent_57B17=0;while true do if (FlatIdent_57B17==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\81\29\227\233\14\69\240","\137\21\120\144\157\124\42")]=function() local FlatIdent_53E9D=0;local FlatIdent_48D17;while true do if (FlatIdent_53E9D==0) then FlatIdent_48D17=0;while true do if (FlatIdent_48D17==0) then for i,v in pairs(Drawings) do if (v==meta) then Drawings[i]=nil;end end a:Destroy();break;end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\228\27\21\186\20\166\32\252\10\22\190","\105\145\107\113\219\96\195")]=function(self) local FlatIdent_12EA0=0;local FlatIdent_6C277;while true do if (FlatIdent_12EA0==0) then FlatIdent_6C277=0;while true do if (FlatIdent_6C277==3) then a.BorderSizePixel=(self.Outline and 1) or 0 ;a.Image=self.Image;break;end if (FlatIdent_6C277==1) then local FlatIdent_37710=0;while true do if (FlatIdent_37710==0) then a.Position=UDim2.new(0,self.Position.X,0,self.Position.Y);a.Visible=self.Visible;FlatIdent_37710=1;end if (FlatIdent_37710==1) then FlatIdent_6C277=2;break;end end end if (FlatIdent_6C277==2) then local FlatIdent_93393=0;while true do if (FlatIdent_93393==1) then FlatIdent_6C277=3;break;end if (FlatIdent_93393==0) then a.ImageColor3=self.Color;a.ImageTransparency=1 -self.Transparency ;FlatIdent_93393=1;end end end if (0==FlatIdent_6C277) then local FlatIdent_7ABC9=0;while true do if (FlatIdent_7ABC9==1) then FlatIdent_6C277=1;break;end if (FlatIdent_7ABC9==0) then if  not a then return;end a.Size=UDim2.new(0,self.Size.X,0,self.Size.Y);FlatIdent_7ABC9=1;end end end end break;end end end};meta.__newindex=function(self,key,value) local FlatIdent_5778F=0;local FlatIdent_3C74B;while true do if (0==FlatIdent_5778F) then FlatIdent_3C74B=0;while true do if (FlatIdent_3C74B==1) then self:updateImage();break;end if (FlatIdent_3C74B==0) then local FlatIdent_882F7=0;while true do if (FlatIdent_882F7==0) then if  not self then return;end if ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\215\250\1\48\227\255\23","\89\129\147\114")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\25\186\174\16\84\211\21","\178\123\213\193\124\49"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\206\38\171\195\207","\20\141\73\199\172\189\237\155")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\207\12\22\10\41\179","\184\140\99\122\101\91\128\43"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\207\30\185\8\232\28\185\20\254\2\187\31","\102\155\108\216")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\32\156\88\167\237\226","\219\78\233\53\197\136\144"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\11\62\224\163\35\248\94\53","\49\91\81\147\202\87\145")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\55\82\91\250\141\50\28","\46\97\55\56\142\226\64"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\52\129\192\254","\41\103\232\186\155\37\131\106")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\50\252\220\217\57\251","\187\92\137\177"))) then rawset(self,key,value);elseif ((key==LUAOBFUSACTOR_DECRYPT_STR_0("\107\15\136\12\114","\56\34\98\233\107\23\57")) and (typeof(value)==LUAOBFUSACTOR_DECRYPT_STR_0("\74\243\3\33\36\35","\126\57\135\113\72\74\68"))) then rawset(self,key,value);else return;end FlatIdent_882F7=1;end if (1==FlatIdent_882F7) then FlatIdent_3C74B=1;break;end end end end break;end end end;local meta1=setmetatable({},meta);Drawings[meta1]=meta1;return meta1;end end;funcs.randomstring=funcs.crypt.random;funcs.getprotecteduis=function() return protecteduis;end;funcs.getprotectedguis=funcs.getprotecteduis;funcs.cleardrawcache=function() local FlatIdent_8EC0B=0;local FlatIdent_8943D;while true do if (FlatIdent_8EC0B==0) then FlatIdent_8943D=0;while true do if (0==FlatIdent_8943D) then for _,v in pairs(Drawings) do v:Remove();end table.clear(Drawings);break;end end break;end end end;funcs.checkcaller=function() local FlatIdent_7B7CC=0;local FlatIdent_73B1E;local info;while true do if (FlatIdent_7B7CC==1) then while true do if (FlatIdent_73B1E==0) then local FlatIdent_ABCB=0;while true do if (FlatIdent_ABCB==0) then info=debug.info(getgenv,LUAOBFUSACTOR_DECRYPT_STR_0("\149\113\125\125\11","\65\230\29\19\28\109\142"));return debug.info(1,LUAOBFUSACTOR_DECRYPT_STR_0("\104\169\187\24\121","\50\27\197\213\121\31\232\24"))==info ;end end end end break;end if (FlatIdent_7B7CC==0) then FlatIdent_73B1E=0;info=nil;FlatIdent_7B7CC=1;end end end;funcs.getthreadcontext=function() if coroutine.isyieldable(coroutine.running()) then local FlatIdent_6B490=0;while true do if (1==FlatIdent_6B490) then return tonumber(Identity);end if (FlatIdent_6B490==0) then local FlatIdent_26456=0;while true do if (1==FlatIdent_26456) then FlatIdent_6B490=1;break;end if (FlatIdent_26456==0) then QueueGetIdentity();task.wait(0.1);FlatIdent_26456=1;end end end end else local FlatIdent_99986=0;local FlatIdent_7608C;while true do if (FlatIdent_99986==0) then FlatIdent_7608C=0;while true do if (FlatIdent_7608C==0) then local FlatIdent_77535=0;while true do if (0==FlatIdent_77535) then if (Identity== -1) then local FlatIdent_9375C=0;local FlatIdent_452D3;while true do if (FlatIdent_9375C==0) then FlatIdent_452D3=0;while true do if (FlatIdent_452D3==0) then local FlatIdent_2D72D=0;while true do if (FlatIdent_2D72D==0) then task.spawn(QueueGetIdentity);return 1;end end end end break;end end else return tonumber(Identity);end return tonumber(Identity);end end end end break;end end end end;funcs.getthreadidentity=funcs.getthreadcontext;funcs.getidentity=funcs.getthreadcontext;funcs.rconsolecreate=function() local FlatIdent_584C9=0;local FlatIdent_1BD82;local Clone;while true do if (FlatIdent_584C9==1) then while true do if (FlatIdent_1BD82==0) then local FlatIdent_10B73=0;while true do if (FlatIdent_10B73==1) then FlatIdent_1BD82=1;break;end if (FlatIdent_10B73==0) then Clone=Console:Clone();Clone.Parent=gethui();FlatIdent_10B73=1;end end end if (1==FlatIdent_1BD82) then ConsoleClone=Clone;ConsoleClone.ConsoleFrame.Topbar.InputBegan:Connect(function(input) if (input.UserInputType==Enum.UserInputType.MouseButton1) then startDrag(input,ConsoleClone.ConsoleFrame);end end);break;end end break;end if (FlatIdent_584C9==0) then FlatIdent_1BD82=0;Clone=nil;FlatIdent_584C9=1;end end end;funcs.rconsoledestroy=function() local FlatIdent_8AF28=0;local FlatIdent_1FDEC;while true do if (FlatIdent_8AF28==0) then FlatIdent_1FDEC=0;while true do if (FlatIdent_1FDEC==0) then if ConsoleClone then ConsoleClone:Destroy();end ConsoleClone=nil;break;end end break;end end end;funcs.rconsoleprint=function(msg,cc) local CONSOLE=ConsoleClone or Console ;repeat task.wait();until ConsoleQueue:IsEmpty() msg=tostring(msg);local last_color=nil;msg=msg:gsub(LUAOBFUSACTOR_DECRYPT_STR_0("\120\101\236\161\89\14\237\196\120","\132\56\37\196"),function(color) local FlatIdent_1A843=0;local FlatIdent_1D7F7;local colorName;local rgbColor;while true do if (FlatIdent_1A843==1) then rgbColor=nil;while true do if (FlatIdent_1D7F7==1) then if rgbColor then local FlatIdent_5693A=0;local FlatIdent_10E0E;local fontTag;local result;while true do if (FlatIdent_5693A==1) then result=nil;while true do local FlatIdent_2A95F=0;while true do if (FlatIdent_2A95F==0) then if (FlatIdent_10E0E==1) then local FlatIdent_7F9BE=0;while true do if (FlatIdent_7F9BE==0) then last_color=colorName;return result;end end end if (0==FlatIdent_10E0E) then local FlatIdent_85F42=0;while true do if (0==FlatIdent_85F42) then fontTag=string.format('<font color="rgb(%d,%d,%d)">',rgbColor.R * 255 ,rgbColor.G * 255 ,rgbColor.B * 255 );result=(last_color and (LUAOBFUSACTOR_DECRYPT_STR_0("\4\147\49\184\208\243\6","\135\56\188\87\215\190")   .. fontTag)) or fontTag ;FlatIdent_85F42=1;end if (FlatIdent_85F42==1) then FlatIdent_10E0E=1;break;end end end break;end end end break;end if (FlatIdent_5693A==0) then FlatIdent_10E0E=0;fontTag=nil;FlatIdent_5693A=1;end end else return LUAOBFUSACTOR_DECRYPT_STR_0("\139\9","\58\203\73\53\104")   .. color   .. LUAOBFUSACTOR_DECRYPT_STR_0("\59\238","\100\123\174\139\185\130") ;end break;end if (FlatIdent_1D7F7==0) then local FlatIdent_43521=0;while true do if (1==FlatIdent_43521) then FlatIdent_1D7F7=1;break;end if (FlatIdent_43521==0) then colorName=color:upper();rgbColor=colors[colorName];FlatIdent_43521=1;end end end end break;end if (FlatIdent_1A843==0) then FlatIdent_1D7F7=0;colorName=nil;FlatIdent_1A843=1;end end end);if last_color then msg=msg   .. LUAOBFUSACTOR_DECRYPT_STR_0("\92\111\55\57\1\179\94","\199\96\64\81\86\111") ;end if msg:match('<font color=".+">.+</font>') then if (msg:match('<font color=".+"></font>')==msg) then local FlatIdent_E37E=0;local FlatIdent_4AB72;while true do if (0==FlatIdent_E37E) then FlatIdent_4AB72=0;while true do if (FlatIdent_4AB72==0) then local FlatIdent_6DAC7=0;while true do if (FlatIdent_6DAC7==0) then MessageColor=colors[last_color];return;end end end end break;end end end end local tmp=MessageTemplate:Clone();tmp.Parent=CONSOLE.ConsoleFrame.Holder;tmp.Text=msg;tmp.Visible=true;tmp.TextColor3=(cc and cc) or MessageColor ;end;funcs.rconsoleinput=function() local CONSOLE=ConsoleClone or Console ;repeat task.wait();until ConsoleQueue:IsEmpty() ConsoleQueue:Queue(LUAOBFUSACTOR_DECRYPT_STR_0("\6\220\81\90\11","\127\111\178\33\47"));local box=InputTemplate:Clone();local val;box.Parent=CONSOLE.ConsoleFrame.Holder;box.Visible=true;box.TextEditable=true;box.TextColor3=MessageColor;box.FocusLost:Connect(function(a) local FlatIdent_2A175=0;local FlatIdent_6ACC2;while true do if (FlatIdent_2A175==0) then FlatIdent_6ACC2=0;while true do if (FlatIdent_6ACC2==1) then ConsoleQueue:Update();break;end if (FlatIdent_6ACC2==0) then local FlatIdent_7D284=0;while true do if (FlatIdent_7D284==0) then if  not a then return;end val=box.Text;FlatIdent_7D284=1;end if (FlatIdent_7D284==1) then FlatIdent_6ACC2=1;break;end end end end break;end end end);local FOCUSED=false;while true do if ((box.Text:sub( #box.Text, #box.Text)=="_") or (box.Text=="") or  not box:IsFocused()) then box.TextColor3=Color3.fromRGB(255,255,255);box.Text=box.Text   .. "_" ;for _=1,100 do task.wait(1/2 );if box:IsFocused() then FOCUSED=true;box.TextColor3=MessageColor;break;end box.Text=((box.Text:sub( #box.Text, #box.Text)=="_") and box.Text:sub( #box.Text-1 , #box.Text-1 )) or (box.Text   .. "_") ;end if FOCUSED then break;end else task.wait(0.1);end end repeat task.wait();until val return val;end;funcs.rconsolename=function(a) if ConsoleClone then ConsoleClone.ConsoleFrame.Title.Text=a;else Console.ConsoleFrame.Title.Text=a;end end;funcs.printconsole=function(msg,r,g,b) local FlatIdent_8C191=0;while true do if (FlatIdent_8C191==0) then local FlatIdent_5397A=0;while true do if (FlatIdent_5397A==0) then r=r or 0 ;g=g or 0 ;FlatIdent_5397A=1;end if (1==FlatIdent_5397A) then FlatIdent_8C191=1;break;end end end if (FlatIdent_8C191==1) then b=b or 0 ;rconsoleprint(msg,Color3.fromRGB(r,g,b));break;end end end;funcs.rconsoleclear=function() if ConsoleClone then for i,v in pairs(ConsoleClone.ConsoleFrame.Holder:GetChildren()) do if ((v.ClassName==LUAOBFUSACTOR_DECRYPT_STR_0("\59\182\60\198\200\220\242\249\3","\156\111\211\68\178\132\189\144")) or (v.ClassName==LUAOBFUSACTOR_DECRYPT_STR_0("\223\213\88\240\214\228\41","\62\139\176\32\132\148\139\81"))) then v:Destroy();end end else for i,v in pairs(Console.ConsoleFrame.Holder:GetChildren()) do if ((v.ClassName==LUAOBFUSACTOR_DECRYPT_STR_0("\196\45\193\67\169\26\115\8\252","\109\144\72\185\55\229\123\17")) or (v.ClassName==LUAOBFUSACTOR_DECRYPT_STR_0("\229\221\80\76\87\255\201","\144\177\184\40\56\21"))) then v:Destroy();end end end end;funcs.rconsoleinfo=function(a) rconsoleprint(LUAOBFUSACTOR_DECRYPT_STR_0("\184\220\55\129\10\135\217\181","\218\227\149\121\199\69")   .. tostring(a) );end;funcs.rconsolewarn=function(a) rconsoleprint(LUAOBFUSACTOR_DECRYPT_STR_0("\148\27\254\180\102","\233\207\49\163\142\70\217")   .. tostring(a) );end;funcs.rconsoleerr=function(a) local FlatIdent_3A3E5=0;local clr;local oldColor;while true do if (FlatIdent_3A3E5==0) then clr=MessageColor;oldColor=nil;FlatIdent_3A3E5=1;end if (FlatIdent_3A3E5==1) then for i,v in pairs(colors) do if (clr==v) then oldColor=i;break;end end rconsoleprint(string.format(LUAOBFUSACTOR_DECRYPT_STR_0("\117\249\226\223\228\148\161\110\147\226\205\132\163\161\110\228\152\173\132\163","\225\46\185\162\141\161\208"),oldColor,tostring(a)));break;end end end;funcs.rconsoleinputasync=funcs.rconsoleinput;funcs.consolecreate=funcs.rconsolecreate;funcs.consoleclear=funcs.rconsoleclear;funcs.consoledestroy=funcs.rconsoledestroy;funcs.consoleinput=funcs.rconsoleinput;funcs.rconsolesettitle=funcs.rconsolename;funcs.consolesettitle=funcs.rconsolename;funcs.queue_on_teleport=function(scripttoexec) local FlatIdent_98A5C=0;local FlatIdent_738B0;local newTPService;local gameMeta;while true do if (FlatIdent_98A5C==0) then FlatIdent_738B0=0;newTPService=nil;FlatIdent_98A5C=1;end if (FlatIdent_98A5C==1) then gameMeta=nil;while true do if (FlatIdent_738B0==0) then local FlatIdent_80813=0;while true do if (FlatIdent_80813==0) then newTPService={[LUAOBFUSACTOR_DECRYPT_STR_0("\232\239\117\83\191\210\200","\219\183\176\28\61")]=function(self,key) if (key==LUAOBFUSACTOR_DECRYPT_STR_0("\113\6\198\245\231\240\145\72","\60\37\99\170\144\151\159\227")) then return function(gameId,player,teleportData,loadScreen) local FlatIdent_12AE5=0;while true do if (FlatIdent_12AE5==0) then teleportData={teleportData,[LUAOBFUSACTOR_DECRYPT_STR_0("\122\132\30\146\64\28\153\125\116\153\5\135\65\3\143\107\98\142","\46\55\203\76\215\21\82\218")]=scripttoexec};return oldGame:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\178\219\245\57\243\25\254\146\237\252\46\245\31\239\131","\140\230\190\153\92\131\118")):Teleport(gameId,player,teleportData,loadScreen);end end end;end end};gameMeta={[LUAOBFUSACTOR_DECRYPT_STR_0("\244\247\198\73\92\227\84","\25\171\168\175\39\56\134\44")]=function(self,key) local FlatIdent_1F7AC=0;local FlatIdent_3024;while true do if (FlatIdent_1F7AC==0) then FlatIdent_3024=0;while true do if (0==FlatIdent_3024) then local FlatIdent_51D76=0;while true do if (FlatIdent_51D76==0) then if (key==LUAOBFUSACTOR_DECRYPT_STR_0("\8\183\215\2\131\158\106\38\177\198","\28\79\210\163\81\230\236")) then return function(name) if (name==LUAOBFUSACTOR_DECRYPT_STR_0("\46\213\8\131\235\21\194\16\181\254\8\198\13\133\254","\155\122\176\100\230")) then return newTPService;end end;elseif (key==LUAOBFUSACTOR_DECRYPT_STR_0("\159\128\17\33\232\164\151\9\23\253\185\147\20\39\253","\152\203\229\125\68")) then return newTPService;end return game[key];end end end end break;end end end,[LUAOBFUSACTOR_DECRYPT_STR_0("\233\146\41\244\194\172\48\240\212\161\33","\145\182\205\68")]=LUAOBFUSACTOR_DECRYPT_STR_0("\182\34\67\55\129\49\249\131\62\71\117\128\49\173\139\57\6\103\158\59\249\135\41\82\114\136","\141\226\74\38\23\236\84")};FlatIdent_80813=1;end if (FlatIdent_80813==1) then FlatIdent_738B0=1;break;end end end if (FlatIdent_738B0==1) then getgenv().game=setmetatable({},gameMeta);break;end end break;end end end;funcs.queueonteleport=funcs.queue_on_teleport;local Count=0;local Total=0;Total=rawlength(funcs) -1 ;print(LUAOBFUSACTOR_DECRYPT_STR_0("\181\103\118\43\142\124\127\101\170\125\106\32\178\92\91\101\155\50\74\42\133\126\119\61","\69\231\18\24"),version(),LUAOBFUSACTOR_DECRYPT_STR_0("\48\195\114\14\121\204\49\37\98\219\114\34\100\203\34\57\42\144\125\46\121\204\49\37\98\219\124\45\119\144\53\19\120\206\31\24\82\218\8\28","\74\16\191\82"));local funcs2={};for i,_ in pairs(funcs) do table.insert(funcs2,i);end table.sort(funcs2,function(a,b) return string.byte(a:lower())<string.byte(b:lower()) ;end);for _,i in pairs(funcs2) do local FlatIdent_7A2F3=0;local FlatIdent_5DDA1;local v;local Result;local str;while true do if (FlatIdent_7A2F3==2) then while true do if (FlatIdent_5DDA1==2) then print(str);break;end if (FlatIdent_5DDA1==1) then local FlatIdent_5E27B=0;while true do if (FlatIdent_5E27B==1) then FlatIdent_5DDA1=2;break;end if (0==FlatIdent_5E27B) then if (Result==2) then Count=Count + 1 ;end str=((Result==1) and ("[⛔] %s already exists."):format(i)) or ((Result==2) and ("[✅] Added %s%s to the global environment. (%d/%d)"):format(i,((type(v)==LUAOBFUSACTOR_DECRYPT_STR_0("\210\0\78\27\107\187\118\218","\25\180\117\32\120\31\210")) and LUAOBFUSACTOR_DECRYPT_STR_0("\121\52","\169\81\29\33")) or "" ,Count,Total)) or ((Result~=1) and (Result~=2) and ("[⛔] Unknown result for %s."):format(i)) ;FlatIdent_5E27B=1;end end end if (FlatIdent_5DDA1==0) then local FlatIdent_252B9=0;while true do if (FlatIdent_252B9==1) then FlatIdent_5DDA1=1;break;end if (FlatIdent_252B9==0) then v=funcs[i];Result=SafeOverride(i,v);FlatIdent_252B9=1;end end end end break;end if (FlatIdent_7A2F3==0) then FlatIdent_5DDA1=0;v=nil;FlatIdent_7A2F3=1;end if (1==FlatIdent_7A2F3) then Result=nil;str=nil;FlatIdent_7A2F3=2;end end end syn.protect_gui(DrawingDict);syn.protect_gui(ClipboardUI);print(LUAOBFUSACTOR_DECRYPT_STR_0("\217\178\220\118\80\252\185\214\122\30\250\253\212\102\30\254\169\219\124\30\238\252","\112\157\221\178\19"));QueueGetIdentity();getgenv().MoreUNC=true;end);end coroutine.wrap(YXZTFH_fake_script)();local function KYLLEEH_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\223\20\8\37\221\26\35\225\18\27\48","\64\147\123\107\68\177\73"),TextButton_8);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\155\53\33\40\32\69\167\189\52\45\46\43","\194\207\66\68\77\78\22"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\27\24\1\79\2\186\63\17\61\78","\126\79\125\121\59\65\213\83")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\103\198\232\86\112\204\252\77\65\144","\34\51\163\144")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(KYLLEEH_fake_script)();local function GIVOO_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\202\133\126\64\90\213\137\111\72\70\242","\54\134\234\29\33"),TextButton_8);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;hiddenfling=false;detection=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\28\37\63\234\52","\139\88\64\92"));dval=false;script.Parent.MouseButton1Click:Connect(function() if (dval==false) then local FlatIdent_70D68=0;while true do if (FlatIdent_70D68==0) then if game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\77\43\6\113\30\124\47\2\120\19\76\58\25\111\22\120\43","\119\31\78\118\29")):FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\38\239\70\237\33\238\171\124\243\28\172\44\184\164\37\254\92\235\35\184\168\35\241","\193\76\154\47\158\69\136")) then hiddenfling=true;else local FlatIdent_967B6=0;local FlatIdent_6EC93;local fling;while true do if (FlatIdent_967B6==0) then FlatIdent_6EC93=0;fling=nil;FlatIdent_967B6=1;end if (FlatIdent_967B6==1) then while true do if (FlatIdent_6EC93==1) then local FlatIdent_3CEA0=0;while true do if (1==FlatIdent_3CEA0) then FlatIdent_6EC93=2;break;end if (FlatIdent_3CEA0==0) then detection.Parent=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\249\82\24\94\231\142\202\67\13\86\221\153\196\69\9\85\235","\237\171\55\104\50\142"));fling=nil;FlatIdent_3CEA0=1;end end end if (FlatIdent_6EC93==2) then function fling() local FlatIdent_EB86=0;local hrp;local c;local vel;local movel;while true do if (FlatIdent_EB86==0) then hrp,c,vel,movel=nil,nil,nil,0.1;while true do local FlatIdent_8ECDB=0;while true do if (FlatIdent_8ECDB==0) then game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\56\221\196\20\90\103\28\193\201\34","\21\106\168\170\71\63")).Heartbeat:Wait();if hiddenfling then local FlatIdent_75FC8=0;local lp;while true do if (FlatIdent_75FC8==1) then if hiddenfling then local FlatIdent_65DD0=0;local FlatIdent_2BC08;while true do if (FlatIdent_65DD0==0) then FlatIdent_2BC08=0;while true do if (FlatIdent_2BC08==2) then game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\26\64\112\99\189\58\67\119\83\189","\216\72\53\30\48")).Stepped:Wait();if (c and c.Parent and hrp and hrp.Parent) then local FlatIdent_6727D=0;local FlatIdent_4CB97;while true do if (FlatIdent_6727D==0) then FlatIdent_4CB97=0;while true do if (FlatIdent_4CB97==0) then hrp.Velocity=vel + Vector3.new(0,movel,0) ;movel=movel *  -1 ;break;end end break;end end end break;end if (1==FlatIdent_2BC08) then game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\96\226\165\176\212\64\225\162\128\212","\177\50\151\203\227")).RenderStepped:Wait();if (c and c.Parent and hrp and hrp.Parent) then hrp.Velocity=vel;end FlatIdent_2BC08=2;end if (FlatIdent_2BC08==0) then local FlatIdent_7B2A9=0;while true do if (1==FlatIdent_7B2A9) then FlatIdent_2BC08=1;break;end if (FlatIdent_7B2A9==0) then vel=hrp.Velocity;hrp.Velocity=(vel * 10000) + Vector3.new(0,10000,0) ;FlatIdent_7B2A9=1;end end end end break;end end end break;end if (FlatIdent_75FC8==0) then local FlatIdent_54376=0;while true do if (FlatIdent_54376==1) then FlatIdent_75FC8=1;break;end if (FlatIdent_54376==0) then lp=game.Players.LocalPlayer;while hiddenfling and  not (c and c.Parent and hrp and hrp.Parent)  do local FlatIdent_4105A=0;local FlatIdent_54479;while true do if (FlatIdent_4105A==0) then FlatIdent_54479=0;while true do if (1==FlatIdent_54479) then hrp=c:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\46\150\37\231\14\9\138\44\212\15\9\151\24\231\18\18","\96\102\227\72\134")) or c:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\208\77\28\16\29","\114\132\34\110\99")) or c:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\233\234\2\199\225\238\171\111\207\245","\29\188\154\114\162\147\186\196")) ;break;end if (0==FlatIdent_54479) then local FlatIdent_24C64=0;while true do if (FlatIdent_24C64==1) then FlatIdent_54479=1;break;end if (FlatIdent_24C64==0) then game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\48\23\134\220\65\230\20\11\139\234","\148\98\98\232\143\36")).Heartbeat:Wait();c=lp.Character;FlatIdent_24C64=1;end end end end break;end end end FlatIdent_54376=1;end end end end end break;end end end break;end end end fling();break;end if (FlatIdent_6EC93==0) then local FlatIdent_A830=0;while true do if (FlatIdent_A830==1) then FlatIdent_6EC93=1;break;end if (FlatIdent_A830==0) then hiddenfling=true;detection.Name=LUAOBFUSACTOR_DECRYPT_STR_0("\161\81\51\0\167\173\78\106\26\240\249\77\106\22\170\175\87\47\21\243\162\75\49","\195\203\36\90\115");FlatIdent_A830=1;end end end end break;end end end dval=true;break;end end else hiddenfling=false;end end);end coroutine.wrap(GIVOO_fake_script)();local function BPCF_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\112\79\81\83\4\145\202\79\85\80\70","\61\60\32\50\50\104\194\169"),TextButton_9);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\134\50\117\28\188\22\117\11\164\44\115\28","\121\210\69\16"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\26\24\107\85\222\33\17\124\83\174","\157\78\125\19\33")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\237\113\232\197\250\123\252\222\203\39","\177\185\20\144")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(BPCF_fake_script)();local function PJLOSN_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\112\91\205\36\136\111\87\220\44\148\72","\228\60\52\174\69"),TextButton_9);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\42\80\239\20\124\8\79","\25\122\60\142\109")).LocalPlayer.Character.Humanoid.WalkSpeed=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\33\13\112\170\229\3\18","\128\113\97\17\211")).LocalPlayer.Character.Humanoid.WalkSpeed + 10 ;end);end coroutine.wrap(PJLOSN_fake_script)();local function VPYP_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\50\221\237\208\242\133\29\192\231\193\234","\214\126\178\142\177\158"),TextButton_10);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\117\62\49\75\31\13\68\59\34\71\18\59","\94\33\73\84\46\113"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\133\94\67\10\146\84\87\17\163\8","\126\209\59\59")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\134\74\176\204\130\175\132\189\93\251","\232\210\47\200\184\193\192")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(VPYP_fake_script)();local function IIUVKRV_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\166\255\206\76\183\185\243\223\68\171\158","\219\234\144\173\45"),TextButton_10);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\124\77\232\28\28\241\74","\79\44\33\137\101\121\131\57")).LocalPlayer.Character.Humanoid.WalkSpeed=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\237\90\127\84\32\163\238","\72\189\54\30\45\69\209\157")).LocalPlayer.Character.Humanoid.WalkSpeed-10 ;end);end coroutine.wrap(IIUVKRV_fake_script)();local function NUQYN_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\45\182\245\215\90\50\186\228\223\70\21","\54\97\217\150\182"),TextButton_11);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\239\168\11\242\15\45\130\201\169\7\244\4","\231\187\223\110\151\97\126"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\4\87\99\25\20\89\60\93\105\94","\54\80\50\27\109\87")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\126\219\147\160\89\254\222\223\88\141","\176\42\190\235\212\26\145\178")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(NUQYN_fake_script)();local function UFAYQDO_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\86\50\56\230\214\179\139\104\52\43\243","\232\26\93\91\135\186\224"),TextButton_11);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() print("'yeah i havent really finished this sooo-' -Zyphonz");end);end coroutine.wrap(UFAYQDO_fake_script)();local function DJSD_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\39\224\251\233\73\195\0\25\230\232\252","\99\107\143\152\136\37\144"),TextButton_12);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\23\103\217\140\84\235\38\98\202\128\89\221","\184\67\16\188\233\58"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\59\22\63\94\219\58\3\28\53\25","\85\111\115\71\42\152")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\49\125\51\0\206\123\95\246\23\43","\153\101\24\75\116\141\20\51")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(DJSD_fake_script)();local function GJIMDXD_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\17\23\198\11\49\43\198\24\52\8\209","\106\93\120\165"),TextButton_12);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() loadstring(game:HttpGet(LUAOBFUSACTOR_DECRYPT_STR_0("\82\76\96\197\73\2\59\154\72\89\99\155\93\81\96\221\79\90\97\198\95\74\119\218\84\76\113\219\78\22\119\218\87\23\82\241\8\108\113\212\87\23\90\212\87\93\120\208\73\75\57\244\94\85\125\219\23\118\123\152\120\65\114\199\85\86\57\254\83\91\127\154\87\89\125\219\21\107\123\192\72\91\113","\181\58\56\20"),true))();end);end coroutine.wrap(GJIMDXD_fake_script)();local function JKBBTAM_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\96\171\242\133\27\127\167\227\141\7\88","\119\44\196\145\228"),clr);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\199\111\188\70\236\150\219\225\110\176\64\231","\190\147\24\217\35\130\197"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\235\95\232\246\252\85\252\237\205\9","\130\191\58\144")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\70\26\237\53\220\125\19\250\51\172","\159\18\127\149\65")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(JKBBTAM_fake_script)();local function IWASFI_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\204\237\17\236\40\61\227\240\27\253\48","\110\128\130\114\141\68"),clr);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() script.Parent.Parent.ScrollingFrame.TextBox.Text=LUAOBFUSACTOR_DECRYPT_STR_0("\247\28\226\173\53\191\67\215\166\98\184\72\146\129\59\185\93\221\172\39\250\3\240","\66\218\49\178\194");end);end coroutine.wrap(IWASFI_fake_script)();local function JLRVI_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\221\204\132\136\36\142\182\83\248\211\147","\33\145\163\231\233\72\221\213"),p2);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local cb=script.Parent.ScrollingFrame.TextBox;script.Parent.ScrollingFrame.TextLabel.RichText=true;local repl=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\96\90\251\244\176\9\83\75\238\252\138\30\93\77\234\255\188","\106\50\63\139\152\217"));local hm=require(repl:WaitForChild(LUAOBFUSACTOR_DECRYPT_STR_0("\136\234\247\158\87\128","\59\229\133\147\235")));while true do local FlatIdent_1EA70=0;local sc;local highlightedCode;while true do if (0==FlatIdent_1EA70) then task.wait(0.00001);sc=cb.Text;FlatIdent_1EA70=1;end if (FlatIdent_1EA70==1) then highlightedCode=hm.run(sc);script.Parent.ScrollingFrame.TextLabel.Text=highlightedCode;break;end end end end coroutine.wrap(JLRVI_fake_script)();local function PXHOBPR_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\7\94\26\197\169\100\40\67\16\212\177","\55\75\49\121\164\197"),p2);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.module.Parent=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\136\216\155\9\176\185\220\159\0\189\137\201\132\23\184\189\216","\217\218\189\235\101"));end coroutine.wrap(PXHOBPR_fake_script)();local function AOGK_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\165\119\224\60\61\251\138\106\234\45\37","\168\233\24\131\93\81"),exe);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local ts=game:FindFirstChildOfClass(LUAOBFUSACTOR_DECRYPT_STR_0("\113\40\39\116\244\12\179\87\41\43\114\255","\214\37\95\66\17\154\95"));local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out);script.Parent.MouseEnter:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\110\88\70\176\202\5\4\192\72\14","\175\58\61\62\196\137\106\104")]=Color3.new(1,0.4,0.4)}):Play();end);script.Parent.MouseLeave:Connect(function() ts:Create(script.Parent,ti,{[LUAOBFUSACTOR_DECRYPT_STR_0("\197\66\237\239\62\12\46\239\227\20","\128\145\39\149\155\125\99\66")]=Color3.new(1,1,1)}):Play();end);end coroutine.wrap(AOGK_fake_script)();local function GURVZX_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\13\8\81\72\45\52\81\91\40\23\70","\41\65\103\50"),exe);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;script.Parent.MouseButton1Click:Connect(function() if ((script.Parent.Parent.ScrollingFrame.TextBox.Text== not LUAOBFUSACTOR_DECRYPT_STR_0("\11\41\238\73\182\86\43","\56\81\80\158\33\217")) or LUAOBFUSACTOR_DECRYPT_STR_0("\81\23\28\83\253\238","\119\26\118\112\58\176\143\188") or LUAOBFUSACTOR_DECRYPT_STR_0("\5\241\44\123\244\130\58\241","\227\78\144\64\18\185") or LUAOBFUSACTOR_DECRYPT_STR_0("\8\247\152\72\42\241\143","\38\75\150\234")) then loadstring(script.Parent.Parent.ScrollingFrame.TextBox.Text)();elseif (script.Parent.Parent.ScrollingFrame.TextBox.Text==LUAOBFUSACTOR_DECRYPT_STR_0("\218\87\5\161\239\64\15","\201\128\46\117")) then local FlatIdent_79CC7=0;local FlatIdent_54864;while true do if (FlatIdent_79CC7==0) then FlatIdent_54864=0;while true do if (FlatIdent_54864==2) then local FlatIdent_24E4A=0;while true do if (FlatIdent_24E4A==0) then print(LUAOBFUSACTOR_DECRYPT_STR_0("\53\250\164\249\23\150\53\250\164\249","\182\21\218\132\217\88"));print(LUAOBFUSACTOR_DECRYPT_STR_0("\56\167\191\20\80\153\56\167\191\20","\215\24\135\159\52\112"));FlatIdent_24E4A=1;end if (FlatIdent_24E4A==1) then FlatIdent_54864=3;break;end end end if (FlatIdent_54864==1) then local FlatIdent_6119E=0;while true do if (FlatIdent_6119E==1) then FlatIdent_54864=2;break;end if (FlatIdent_6119E==0) then print(LUAOBFUSACTOR_DECRYPT_STR_0("\83\180\100\193\229\192\225\83\180\20","\193\115\148\52\225\197\224"));print(LUAOBFUSACTOR_DECRYPT_STR_0("\7\25\66\49\253\76\7\25\66\89","\108\39\57\98\121\221"));FlatIdent_6119E=1;end end end if (FlatIdent_54864==0) then print(LUAOBFUSACTOR_DECRYPT_STR_0("\221\119\201\187\200\170\240\188\167\119","\156\135\87\233\155\232\138\208"));print(LUAOBFUSACTOR_DECRYPT_STR_0("\196\122\118\58\196\3\118\58\196\3","\26\228\35\86"));FlatIdent_54864=1;end if (FlatIdent_54864==3) then print(LUAOBFUSACTOR_DECRYPT_STR_0("\168\255\232\233\24\171\30\97\168\255","\65\136\223\200\201\56\139\68"));print(LUAOBFUSACTOR_DECRYPT_STR_0("\182\234\52\246\86\242\182\119\205\67\238\242\56\249\84\178\186\13\238\74\246\245\57\187\26\196\227\39\255\85\240\224\123\183\98\251\244\62\239\22\190\220\59\248\77\251\232\20\226\74\178\186\17\251\85\216\246\56\224\95\236\217\56\248\74\176\179","\58\158\154\87\151"));break;end end break;end end elseif ((script.Parent.Parent.ScrollingFrame.TextBox.Text==LUAOBFUSACTOR_DECRYPT_STR_0("\205\173\226\128\36\113","\90\134\204\142\233\105\16\87")) or LUAOBFUSACTOR_DECRYPT_STR_0("\139\38\253\170\141\38\240","\195\192\71\145") or LUAOBFUSACTOR_DECRYPT_STR_0("\160\208\245\29\119\72\159\208","\41\235\177\153\116\58")) then print(LUAOBFUSACTOR_DECRYPT_STR_0("\130\151\189\105\72\104\168\190\148\64\72\104\168\190\148\64\69\102\168\190\148\64\72\104\168\190\148\64\72\104\168\190\190\105\72\104\168\190\148\64\72\104\168\190\148\64\66\109\173\180\148\64\72\104\168\190\148\64\72\104\168\190\148\106\97\104\168\190\148\64\72\104\168\190\148\64\85\98\181\163\151\78\72\104\168\190\148\77\82\114\168\190\148\64\98\65\168\190\154\90\70\104\168\190\148\64\70\98\163\179\154\74\82\104\168\190\148\64\70\101\178\190\148\64\72\66\129\190\154\93\69\101\163\190\148\64\85\117\163\189\154\77\75\98\181\164\148\64\72\104\181\176\154\64\72\104\130\151\148\64\72\104\166\179\142\93\85\102\168\163\158\93\82\107\166\190\158\78\72\102\163\164\158\77\72\104\168\148\189\64\72\104\168\190\142\64\66\107\162\163\137\75\85\114\181\190\148\74\67\101\168\164\148\64\72\104\168\190\190\105\72\104\168\190\148\93\82\101\166\190\148\78\75\102\162\163\159\74\70\102\168\181\154\64\72\104\168\190\148\106\97\104\168\190\148\78\75\99\162\189\158\74\70\98\163\180\153\93\66\104\165\181\137\93\72\104\168\190\148\64\98\65\168\190\148\78\67\99\163\181\158\93\70\107\163\179\151\67\69\107\165\190\153\93\85\102\168\190\148\64\72\66\129\190\148\64\72\117\162\180\159\77\82\101\171\164\148\77\70\99\165\163\153\64\69\114\168\190\148\64\72\104\130\151\148\64\72\114\163\189\158\74\67\99\166\189\142\78\72\101\163\189\158\75\85\107\162\189\137\64\72\104\168\148\189\64\72\104\168\190\153\75\85\99\162\164\151\93\67\99\163\163\159\67\67\117\163\189\145\75\70\104\168\190\190\105\72\104\168\190\148\93\67\101\181\163\148\64\70\107\171\181\158\77\85\99\181\189\159\75\75\114\168\190\148\106\97\104\168\190\148\64\72\101\165\163\159\93\72\101\163\181\158\77\72\114\162\179\158\69\77\109\178\190\148\64\98\65\168\190\148\64\72\104\168\190\154\90\82\104\165\180\159\90\72\102\165\190\148\64\72\104\168\190\148\64\72\66\129\190\148\64\72\104\168\190\148\64\72\114\168\176\148\64\70\102\168\190\148\64\72\104\168\190\148\64\72\104\130\151\148\64\72\104\168\190\148\64\72\104\166\190\154\64\69\102\168\190\148\64\72\104\168\190\148\64\72\104\168\148\189\64\72\104\168\190\148\64\72\104\168\179\142\78\85\99\165\176\148\64\72\104\168\190\148\64\72\104\168\190\190\105\72\104\168\190\148\64\72\104\168\176\142\75\70\104\168\164\137\64\72\104\168\190\148\64\72\104\168\190\148\106\97\104\168\190\148\64\72\104\168\190\137\90\72\104\168\190\148\64\72\104\168\190\148\64\72\104\168\190\148\106\97\104\168\190\148\64\72\104\168\190\189\105\97\3\233\242\221\64\37\41\233\148\189\64\72\104\168\190\148\64\72\104\129\151\189\64\72\104\168\190\243\15\12\44\237\237\199\64\7\46\168\250\213\18\3\38\237\237\199\78","\72\136\158\180\96\104"));end end);end coroutine.wrap(GURVZX_fake_script)();local function PGMV_fake_script() local script=Instance.new(LUAOBFUSACTOR_DECRYPT_STR_0("\22\126\194\76\54\66\194\95\51\97\213","\45\90\17\161"),Frame);local req=require;local require=function(obj) local fake=fake_module_scripts[obj];if fake then return fake();end return req(obj);end;local UserInputService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\250\241\66\241\19\224\49\105\219\209\66\241\44\231\34\121","\28\175\130\39\131\90\142\65"));local TweenService=game:GetService(LUAOBFUSACTOR_DECRYPT_STR_0("\64\111\186\141\219\71\125\173\158\220\119\125","\181\20\24\223\232"));local frame=script.Parent;local dragging=false;local dragInput;local dragStart;local startPos;local function update(input) local FlatIdent_56606=0;local FlatIdent_4B94A;local delta;local newPosition;local tween;while true do if (FlatIdent_56606==1) then newPosition=nil;tween=nil;FlatIdent_56606=2;end if (2==FlatIdent_56606) then while true do if (FlatIdent_4B94A==1) then tween=TweenService:Create(frame,TweenInfo.new(0.1),{[LUAOBFUSACTOR_DECRYPT_STR_0("\109\180\99\185\24\47\45\83","\66\61\219\16\208\108\70")]=newPosition});tween:Play();break;end if (0==FlatIdent_4B94A) then local FlatIdent_7A2CA=0;while true do if (FlatIdent_7A2CA==0) then delta=input.Position-dragStart ;newPosition=UDim2.new(startPos.X.Scale,startPos.X.Offset + delta.X ,startPos.Y.Scale,startPos.Y.Offset + delta.Y );FlatIdent_7A2CA=1;end if (FlatIdent_7A2CA==1) then FlatIdent_4B94A=1;break;end end end end break;end if (FlatIdent_56606==0) then FlatIdent_4B94A=0;delta=nil;FlatIdent_56606=1;end end end frame.InputBegan:Connect(function(input) if (input.UserInputType==Enum.UserInputType.MouseButton1) then local FlatIdent_7897D=0;local FlatIdent_ECE1;while true do if (0==FlatIdent_7897D) then FlatIdent_ECE1=0;while true do if (FlatIdent_ECE1==1) then startPos=frame.Position;input.Changed:Connect(function() if (input.UserInputState==Enum.UserInputState.End) then dragging=false;end end);break;end if (FlatIdent_ECE1==0) then local FlatIdent_572E4=0;while true do if (0==FlatIdent_572E4) then dragging=true;dragStart=input.Position;FlatIdent_572E4=1;end if (FlatIdent_572E4==1) then FlatIdent_ECE1=1;break;end end end end break;end end end end);frame.InputChanged:Connect(function(input) if (input.UserInputType==Enum.UserInputType.MouseMovement) then dragInput=input;end end);UserInputService.InputChanged:Connect(function(input) if (dragging and (input==dragInput)) then update(input);end end);end coroutine.wrap(PGMV_fake_script)();else local sdawdwqdq=obf_arg[1];end end if (obf_tonumber(obf_stringmatch(obf_stringmatch(({obf_pcall(obf_wrapperfunc,nil)})[2],":%d+:"),"%d+"))==1) then return obf_wrapperfunc({});else return obf_adjnqwidqwjhdpoq();end end return obf_adjnqwidqwjhdpoq();
+         			     Goddess of darkness.
+]]
+-- imie his Gui to Lua
+-- Version: 1
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local project = Instance.new("TextLabel")
+local Kali = Instance.new("TextLabel")
+local UIGradient = Instance.new("UIGradient")
+local sh = Instance.new("TextLabel")
+local Main = Instance.new("Folder")
+local Kali_2 = Instance.new("TextLabel")
+local UIGradient_2 = Instance.new("UIGradient")
+local project_2 = Instance.new("TextLabel")
+local next = Instance.new("TextButton")
+local p1 = Instance.new("Folder")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local TextButton_3 = Instance.new("TextButton")
+local TextButton_4 = Instance.new("TextButton")
+local TextButton_5 = Instance.new("TextButton")
+local TextButton_6 = Instance.new("TextButton")
+local TextButton_7 = Instance.new("TextButton")
+local TextButton_8 = Instance.new("TextButton")
+local TextButton_9 = Instance.new("TextButton")
+local TextButton_10 = Instance.new("TextButton")
+local TextButton_11 = Instance.new("TextButton")
+local TextButton_12 = Instance.new("TextButton")
+local p2 = Instance.new("Folder")
+local clr = Instance.new("TextButton")
+local UICorner = Instance.new("UICorner")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local TextLabel = Instance.new("TextLabel")
+local TextBox = Instance.new("TextBox")
+local exe = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = ScreenGui
+Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+Frame.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.ClipsDescendants = true
+Frame.Position = UDim2.new(0.499694556, 0, 0.5, 0)
+
+project.Name = "project"
+project.Parent = Frame
+project.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+project.BackgroundTransparency = 1.000
+project.BorderColor3 = Color3.fromRGB(0, 0, 0)
+project.BorderSizePixel = 0
+project.Position = UDim2.new(0.205882356, 0, 0.285741568, 0)
+project.Size = UDim2.new(0, 200, 0, 19)
+project.Font = Enum.Font.Code
+project.Text = "Project"
+project.TextColor3 = Color3.fromRGB(255, 255, 255)
+project.TextScaled = true
+project.TextSize = 14.000
+project.TextTransparency = 1.000
+project.TextWrapped = true
+
+Kali.Name = "Kali"
+Kali.Parent = Frame
+Kali.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Kali.BackgroundTransparency = 1.000
+Kali.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Kali.BorderSizePixel = 0
+Kali.Position = UDim2.new(0, 0, 0.312775344, 0)
+Kali.Size = UDim2.new(0, 340, 0, 91)
+Kali.Font = Enum.Font.Code
+Kali.Text = "Kali"
+Kali.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kali.TextScaled = true
+Kali.TextSize = 14.000
+Kali.TextTransparency = 1.000
+Kali.TextWrapped = true
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 134, 134))}
+UIGradient.Offset = Vector2.new(0, 9)
+UIGradient.Rotation = 70
+UIGradient.Parent = Kali
+
+sh.Name = "sh"
+sh.Parent = Frame
+sh.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sh.BackgroundTransparency = 1.000
+sh.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sh.BorderSizePixel = 0
+sh.Position = UDim2.new(0, 0, 0.713656425, 0)
+sh.Size = UDim2.new(0, 0, 0, 14)
+sh.Font = Enum.Font.Code
+sh.Text = "(Project Kali Mata or PKM)"
+sh.TextColor3 = Color3.fromRGB(255, 255, 255)
+sh.TextScaled = true
+sh.TextSize = 14.000
+sh.TextWrapped = true
+
+Main.Name = "Main"
+Main.Parent = Frame
+
+Kali_2.Name = "Kali"
+Kali_2.Parent = Main
+Kali_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Kali_2.BackgroundTransparency = 1.000
+Kali_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Kali_2.BorderSizePixel = 0
+Kali_2.Position = UDim2.new(-0.370588243, 0, 0.106108703, 0)
+Kali_2.Size = UDim2.new(0, 340, 0, 25)
+Kali_2.Font = Enum.Font.Code
+Kali_2.Text = "Kali"
+Kali_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kali_2.TextScaled = true
+Kali_2.TextSize = 14.000
+Kali_2.TextWrapped = true
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 134, 134))}
+UIGradient_2.Rotation = 70
+UIGradient_2.Parent = Kali_2
+
+project_2.Name = "project"
+project_2.Parent = Main
+project_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+project_2.BackgroundTransparency = 1.000
+project_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+project_2.BorderSizePixel = 0
+project_2.Position = UDim2.new(-0.138235301, 0, 0.0457415767, 0)
+project_2.Size = UDim2.new(0, 200, 0, 19)
+project_2.Font = Enum.Font.Code
+project_2.Text = "Project"
+project_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+project_2.TextScaled = true
+project_2.TextSize = 14.000
+project_2.TextWrapped = true
+
+next.Name = "next"
+next.Parent = Main
+next.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+next.BackgroundTransparency = 1.000
+next.BorderColor3 = Color3.fromRGB(0, 0, 0)
+next.BorderSizePixel = 0
+next.Position = UDim2.new(0.300000012, 0, 0.916666687, 0)
+next.Size = UDim2.new(0, 137, 0, 19)
+next.Font = Enum.Font.Code
+next.Text = "Executor"
+next.TextColor3 = Color3.fromRGB(255, 255, 255)
+next.TextSize = 14.000
+next.TextWrapped = true
+
+p1.Name = "p1"
+p1.Parent = Main
+
+TextButton.Parent = p1
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.BackgroundTransparency = 1.000
+TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.511764705, 0, 0.49333334, 0)
+TextButton.Size = UDim2.new(0, 137, 0, 19)
+TextButton.Font = Enum.Font.Code
+TextButton.Text = "Patchma Hub V23"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+
+TextButton_2.Parent = p1
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.BackgroundTransparency = 1.000
+TextButton_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.BorderSizePixel = 0
+TextButton_2.Position = UDim2.new(0.511764705, 0, 0.596666694, 0)
+TextButton_2.Size = UDim2.new(0, 137, 0, 19)
+TextButton_2.Font = Enum.Font.Code
+TextButton_2.Text = "UNC Test"
+TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+
+TextButton_3.Parent = p1
+TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.BackgroundTransparency = 1.000
+TextButton_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_3.BorderSizePixel = 0
+TextButton_3.Position = UDim2.new(0.511764705, 0, 0.25666666, 0)
+TextButton_3.Size = UDim2.new(0, 137, 0, 19)
+TextButton_3.Font = Enum.Font.Code
+TextButton_3.Text = "c00lgui FE"
+TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.TextSize = 14.000
+
+TextButton_4.Parent = p1
+TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.BackgroundTransparency = 1.000
+TextButton_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_4.BorderSizePixel = 0
+TextButton_4.Position = UDim2.new(0.0647058859, 0, 0.370000005, 0)
+TextButton_4.Size = UDim2.new(0, 137, 0, 19)
+TextButton_4.Font = Enum.Font.Code
+TextButton_4.Text = "MidnightCC"
+TextButton_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.TextSize = 14.000
+
+TextButton_5.Parent = p1
+TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.BackgroundTransparency = 1.000
+TextButton_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_5.BorderSizePixel = 0
+TextButton_5.Position = UDim2.new(0.511764705, 0, 0.370000005, 0)
+TextButton_5.Size = UDim2.new(0, 137, 0, 19)
+TextButton_5.Font = Enum.Font.Code
+TextButton_5.Text = "CMD (by LXTE)"
+TextButton_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.TextSize = 14.000
+
+TextButton_6.Parent = p1
+TextButton_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.BackgroundTransparency = 1.000
+TextButton_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_6.BorderSizePixel = 0
+TextButton_6.Position = UDim2.new(0.0647058859, 0, 0.49333334, 0)
+TextButton_6.Size = UDim2.new(0, 137, 0, 19)
+TextButton_6.Font = Enum.Font.Code
+TextButton_6.Text = "Infinite yield"
+TextButton_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.TextSize = 14.000
+
+TextButton_7.Parent = p1
+TextButton_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.BackgroundTransparency = 1.000
+TextButton_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_7.BorderSizePixel = 0
+TextButton_7.Position = UDim2.new(0.0647058859, 0, 0.596666694, 0)
+TextButton_7.Size = UDim2.new(0, 137, 0, 19)
+TextButton_7.Font = Enum.Font.Code
+TextButton_7.Text = "More UNC"
+TextButton_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.TextSize = 14.000
+TextButton_7.TextWrapped = true
+
+TextButton_8.Parent = p1
+TextButton_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.BackgroundTransparency = 1.000
+TextButton_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_8.BorderSizePixel = 0
+TextButton_8.Position = UDim2.new(0.0647058859, 0, 0.703333318, 0)
+TextButton_8.Size = UDim2.new(0, 137, 0, 19)
+TextButton_8.Font = Enum.Font.Code
+TextButton_8.Text = "Walkfling Toggle"
+TextButton_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.TextSize = 14.000
+TextButton_8.TextWrapped = true
+
+TextButton_9.Parent = p1
+TextButton_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.BackgroundTransparency = 1.000
+TextButton_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_9.BorderSizePixel = 0
+TextButton_9.Position = UDim2.new(0.511764705, 0, 0.696666658, 0)
+TextButton_9.Size = UDim2.new(0, 137, 0, 19)
+TextButton_9.Font = Enum.Font.Code
+TextButton_9.Text = "+10 Speed"
+TextButton_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.TextSize = 14.000
+TextButton_9.TextWrapped = true
+
+TextButton_10.Parent = p1
+TextButton_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_10.BackgroundTransparency = 1.000
+TextButton_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_10.BorderSizePixel = 0
+TextButton_10.Position = UDim2.new(0.511764705, 0, 0.786666691, 0)
+TextButton_10.Size = UDim2.new(0, 137, 0, 19)
+TextButton_10.Font = Enum.Font.Code
+TextButton_10.Text = "-10 Speed"
+TextButton_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_10.TextSize = 14.000
+TextButton_10.TextWrapped = true
+
+TextButton_11.Parent = p1
+TextButton_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_11.BackgroundTransparency = 1.000
+TextButton_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_11.BorderSizePixel = 0
+TextButton_11.Position = UDim2.new(0.0647058859, 0, 0.786666691, 0)
+TextButton_11.Size = UDim2.new(0, 137, 0, 19)
+TextButton_11.Font = Enum.Font.Code
+TextButton_11.Text = "Noclip"
+TextButton_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_11.TextSize = 14.000
+TextButton_11.TextWrapped = true
+
+TextButton_12.Parent = p1
+TextButton_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_12.BackgroundTransparency = 1.000
+TextButton_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_12.BorderSizePixel = 0
+TextButton_12.Position = UDim2.new(0.0647058859, 0, 0.25666666, 0)
+TextButton_12.Size = UDim2.new(0, 137, 0, 19)
+TextButton_12.Font = Enum.Font.Code
+TextButton_12.Text = "Nameless Admin"
+TextButton_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_12.TextSize = 14.000
+
+p2.Name = "p2"
+p2.Parent = Main
+
+clr.Name = "clr"
+clr.Parent = p2
+clr.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+clr.BackgroundTransparency = 1.000
+clr.BorderColor3 = Color3.fromRGB(0, 0, 0)
+clr.BorderSizePixel = 0
+clr.Position = UDim2.new(0.629411757, 0, 0.813333333, 0)
+clr.Size = UDim2.new(0, 106, 0, 19)
+clr.Visible = false
+clr.Font = Enum.Font.Code
+clr.Text = "Clear"
+clr.TextColor3 = Color3.fromRGB(255, 255, 255)
+clr.TextSize = 14.000
+clr.TextWrapped = true
+
+UICorner.Parent = p2
+
+ScrollingFrame.Parent = p2
+ScrollingFrame.Active = true
+ScrollingFrame.ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0)
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScrollingFrame.BackgroundTransparency = 0.800
+ScrollingFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScrollingFrame.BorderSizePixel = 0
+ScrollingFrame.Position = UDim2.new(0.0588235296, 0, 0.213333338, 0)
+ScrollingFrame.Size = UDim2.new(0, 300, 0, 164)
+ScrollingFrame.Visible = false
+ScrollingFrame.CanvasSize = UDim2.new(10, 0, 99, 0)
+ScrollingFrame.ScrollBarThickness = 4
+
+TextLabel.Parent = ScrollingFrame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 0
+TextLabel.Size = UDim2.new(99, 1062, 1, 306)
+TextLabel.ZIndex = 2
+TextLabel.Font = Enum.Font.Code
+TextLabel.Text = "--Powered by Cyclone 2B"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 14.000
+TextLabel.TextTransparency = 0.400
+TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+TextLabel.TextYAlignment = Enum.TextYAlignment.Top
+
+TextBox.Parent = ScrollingFrame
+TextBox.BackgroundColor3 = Color3.fromRGB(44, 15, 15)
+TextBox.BackgroundTransparency = 1.000
+TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextBox.BorderSizePixel = 0
+TextBox.Size = UDim2.new(99, 1062, 1, 306)
+TextBox.ClearTextOnFocus = false
+TextBox.Font = Enum.Font.Code
+TextBox.MultiLine = true
+TextBox.Text = "--Powered by Cyclone 2B"
+TextBox.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextBox.TextSize = 14.000
+TextBox.TextTransparency = 0.400
+TextBox.TextWrapped = true
+TextBox.TextXAlignment = Enum.TextXAlignment.Left
+TextBox.TextYAlignment = Enum.TextYAlignment.Top
+
+exe.Name = "exe"
+exe.Parent = p2
+exe.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+exe.BackgroundTransparency = 1.000
+exe.BorderColor3 = Color3.fromRGB(0, 0, 0)
+exe.BorderSizePixel = 0
+exe.Position = UDim2.new(0.0588235296, 0, 0.813333333, 0)
+exe.Size = UDim2.new(0, 106, 0, 19)
+exe.Visible = false
+exe.Font = Enum.Font.Code
+exe.Text = "Execute"
+exe.TextColor3 = Color3.fromRGB(255, 255, 255)
+exe.TextSize = 14.000
+exe.TextWrapped = true
+
+-- Module Scripts:
+
+local fake_module_scripts = {}
+
+do -- p2.module
+	local script = Instance.new('ModuleScript', p2)
+	script.Name = "module"
+	local function module_script()
+		local highlighter = {}
+		local keywords = {
+			lua = {
+				"and", "break", "or", "else", "elseif", "if", "then", "until", "repeat", "while", "do", "for", "in", "end",
+				"local", "return", "function", "export", "KaliMata", "KaliMa", "Darkness", "Carnage", "Zyphonz"
+			},
+			rbx = {
+				"game", "workspace", "script", "math", "string", "table", "task", "wait", "select", "next", "Enum",
+				"error", "warn", "tick", "assert", "shared", "loadstring", "tonumber", "tostring", "type",
+				"typeof", "unpack", "print", "Instance", "CFrame", "Vector3", "Vector2", "Color3", "UDim", "UDim2", "Ray", "BrickColor",
+				"OverlapParams", "RaycastParams", "Axes", "Random", "Region3", "Rect", "TweenInfo",
+				"collectgarbage", "not", "utf8", "pcall", "xpcall", "_G", "setmetatable", "getmetatable", "os", "pairs", "ipairs"
+			},
+			operators = {
+				"#", "+", "-", "*", "%", "/", "^", "=", "~", "=", "<", ">", ",", ".", "(", ")", "{", "}", "[", "]", ";", ":"
+			}
+		}
+		
+		local colors = { 
+			numbers = Color3.fromRGB(255, 198, 0),
+			boolean = Color3.fromRGB(243, 191, 0),
+			operator = Color3.fromRGB(204, 204, 204),
+			lua = Color3.fromRGB(132, 214, 247),
+			rbx = Color3.fromRGB(230, 105, 122),
+			str = Color3.fromRGB(173, 241, 149),
+			comment = Color3.fromRGB(93, 92, 91),
+			null = Color3.fromRGB(243, 191, 0),
+			call = Color3.fromRGB(222, 251, 167),
+			self_call = Color3.fromRGB(230, 105, 122),
+			local_color = Color3.fromRGB(230, 105, 122),
+			function_color = Color3.fromRGB(230, 105, 122),
+			self_color = Color3.fromRGB(230, 105, 122),
+			local_property = Color3.fromRGB(84, 142, 210),
+		}
+		
+		local function createKeywordSet(keywords)
+			local keywordSet = {}
+			for _, keyword in ipairs(keywords) do
+				keywordSet[keyword] = true
+			end
+			return keywordSet
+		end
+		
+		local luaSet = createKeywordSet(keywords.lua)
+		local rbxSet = createKeywordSet(keywords.rbx)
+		local operatorsSet = createKeywordSet(keywords.operators)
+		
+		local function getHighlight(tokens, index)
+			local token = tokens[index]
+		
+			if colors[token .. "_color"] then
+				return colors[token .. "_color"]
+			end
+		
+			if tonumber(token) then
+				return colors.numbers
+			elseif token == "nil" then
+				return colors.null
+			elseif token:sub(1, 2) == "--" then
+				return colors.comment
+			elseif operatorsSet[token] then
+				return colors.operator
+			elseif luaSet[token] then
+				return colors.rbx
+			elseif rbxSet[token] then
+				return colors.lua
+			elseif token:sub(1, 1) == "\"" or token:sub(1, 1) == "\'" then
+				return colors.str
+			elseif token == "true" or token == "false" then
+				return colors.boolean
+			end
+		
+			if tokens[index + 1] == "(" then
+				if tokens[index - 1] == ":" then
+					return colors.self_call
+				end
+		
+				return colors.call
+			end
+		
+			if tokens[index - 1] == "." then
+				if tokens[index - 2] == "Enum" then
+					return colors.rbx
+				end
+		
+				return colors.local_property
+			end
+		end
+		
+		function highlighter.run(source)
+			local tokens = {}
+			local currentToken = ""
+		
+			local inString = false
+			local inComment = false
+			local commentPersist = false
+		
+			for i = 1, #source do
+				local character = source:sub(i, i)
+		
+				if inComment then
+					if character == "\n" and not commentPersist then
+						table.insert(tokens, currentToken)
+						table.insert(tokens, character)
+						currentToken = ""
+		
+						inComment = false
+					elseif source:sub(i - 1, i) == "]]" and commentPersist then
+						currentToken ..= "]"
+		
+						table.insert(tokens, currentToken)
+						currentToken = ""
+		
+						inComment = false
+						commentPersist = false
+					else
+						currentToken = currentToken .. character
+					end
+				elseif inString then
+					if character == inString and source:sub(i-1, i-1) ~= "\\" or character == "\n" then
+						currentToken = currentToken .. character
+						inString = false
+					else
+						currentToken = currentToken .. character
+					end
+				else
+					if source:sub(i, i + 1) == "--" then
+						table.insert(tokens, currentToken)
+						currentToken = "-"
+						inComment = true
+						commentPersist = source:sub(i + 2, i + 3) == "[["
+					elseif character == "\"" or character == "\'" then
+						table.insert(tokens, currentToken)
+						currentToken = character
+						inString = character
+					elseif operatorsSet[character] then
+						table.insert(tokens, currentToken)
+						table.insert(tokens, character)
+						currentToken = ""
+					elseif character:match("[%w_]") then
+						currentToken = currentToken .. character
+					else
+						table.insert(tokens, currentToken)
+						table.insert(tokens, character)
+						currentToken = ""
+					end
+				end
+			end
+		
+			table.insert(tokens, currentToken)
+		
+			local highlighted = {}
+		
+			for i, token in ipairs(tokens) do
+				local highlight = getHighlight(tokens, i)
+		
+				if highlight then
+					local syntax = string.format("<font color = \"#%s\">%s</font>", highlight:ToHex(), token:gsub("<", "&lt;"):gsub(">", "&gt;"))
+		
+					table.insert(highlighted, syntax)
+				else
+					table.insert(highlighted, token)
+				end
+			end
+		
+			return table.concat(highlighted)
+		end
+		
+		return highlighter
+	end
+	fake_module_scripts[script] = module_script
+end
+
+
+-- Scripts:
+
+local function DYFO_fake_script() -- ScreenGui.thing 
+	local script = Instance.new('LocalScript', ScreenGui)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	local main=script.Parent.Frame.Main
+	function intro()
+		main.Parent=script.Parent.Parent
+		ts:Create(script.Parent.Frame,ti,{Size=UDim2.new(0, 340,0, 300)}):Play()
+		wait(0.6)
+		ts:Create(script.Parent.Frame.project,ti,{Position=UDim2.new(0.206, 0,0.229, 0)}):Play()
+		ts:Create(script.Parent.Frame.project,ti,{TextTransparency=0}):Play()
+		wait(0.4)
+		ts:Create(script.Parent.Frame.Kali,ti,{TextTransparency=0}):Play()
+		wait(0.4)
+		ts:Create(script.Parent.Frame.Kali.UIGradient,ti,{Offset=Vector2.new(0,0)}):Play()
+		wait(0.8)
+		ts:Create(script.Parent.Frame.sh,ti,{Size=UDim2.new(0, 340,0, 14)}):Play()
+		wait(1.6)
+		ts:Create(script.Parent.Frame.project,ti,{Position=UDim2.new(0.206, 0,-0.478, 0)}):Play()
+		ts:Create(script.Parent.Frame.Kali,ti,{TextTransparency=1}):Play()
+		ts:Create(script.Parent.Frame.sh,ti,{TextTransparency=1}):Play()
+		ts:Create(script.Parent.Frame.Kali,ti,{Position=UDim2.new(0, 0,-0.451, 0)}):Play()
+		ts:Create(script.Parent.Frame.sh,ti,{Position=UDim2.new(0, 0,-0.05, 0)}):Play()
+		wait(0.1)
+		wait(0.2)
+		wait(0.1)
+		wait(0.1)
+		wait(0.1)
+		wait(0.4)
+		wait(0.1)
+		wait(0.1)
+		main.Parent=script.Parent.Frame
+	end
+	intro()
+end
+coroutine.wrap(DYFO_fake_script)()
+local function VLRMGVL_fake_script() -- next.Anims 
+	local script = Instance.new('LocalScript', next)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(VLRMGVL_fake_script)()
+local function LXSS_fake_script() -- next.LocalScript 
+	local script = Instance.new('LocalScript', next)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local pagenum=1
+	local p1=script.Parent.Parent.p1
+	local p2=script.Parent.Parent.p2
+	p2.Parent=script.Parent.Parent.Parent.Parent.Parent
+	local d=script.Parent.Parent.Parent.Parent.Parent
+	local f=script.Parent.Parent
+	script.Parent.MouseButton1Click:Connect(function()
+		if pagenum==1 then
+			script.Parent.Text="Script Hub"
+			p2.Parent=f
+			p1.Parent=d
+			p2.ScrollingFrame.Visible=true
+			p2.clr.Visible=true
+			p2.exe.Visible=true
+			pagenum=2
+		elseif pagenum==2 then
+			script.Parent.Text="Executor"
+			p2.Parent=d
+			p1.Parent=f
+			pagenum=1
+		end
+	end)
+end
+coroutine.wrap(LXSS_fake_script)()
+local function ZOOHAVM_fake_script() -- TextButton.Anims 
+	local script = Instance.new('LocalScript', TextButton)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(ZOOHAVM_fake_script)()
+local function TDCLTTA_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--[[
+		patchma hub by MyWorld
+		one last unpatch... 
+	
+		IDs of paid accessories:
+	
+		-for arms 11159410305,11263254795 or 14255556501,14255554762 or 12344545199,12344591101
+	
+		-for legs 14768693948,14768701869 or 11159483910,12652786974
+	
+		-for torso 14255528083 or 13421786478 or 14768678294
+	
+		or anything else that covers ur torso. examples:
+		13423624885,11502853991,14053485259,13779879140,14443132226
+		can be same stuff but different colors
+	
+		there are 48 ways to make a rig with the ids above
+		
+		IDs of free accessories:
+		3033910400,3409612660,3438342658,3398308134,4324158403,3822880197,4154538250,3443038622,4819740796
+	]]
+	
+		--findfirstchildofclass faster than getservice
+		local plrs=game:FindFirstChildOfClass("Players")
+		local rs=game:FindFirstChildOfClass("RunService")
+		local ws=game:FindFirstChildOfClass("Workspace")
+		local uis=game:FindFirstChildOfClass("UserInputService")
+		local gs=game:FindFirstChildOfClass("GuiService")
+		local lp=plrs.LocalPlayer
+		local pg=lp:FindFirstChildOfClass("PlayerGui")
+		local mouse=lp:GetMouse()
+		local stepped=rs.Stepped
+		local heartbeat=rs.Heartbeat
+		local renderstepped=rs.RenderStepped
+	
+		local osclock=os.clock
+		local tspawn=task.spawn
+		local twait=task.wait
+		local schar=string.char
+		local ssub=string.sub
+		local sfind=string.find
+		local supper=string.upper
+		local mrandom=math.random
+		local clamp=math.clamp
+		local sin=math.sin
+		local cos=math.cos
+		local abs=math.abs
+		local rad=math.rad
+		local tinsert=table.insert
+		local tclear=table.clear
+		local tclone=table.clone
+		local tfind=table.find
+		local tunpack=table.unpack
+	
+		--the loops dont have to read globals to get the "pairs" or "next" variable every time
+		local pairs=pairs 
+		local next=next
+	
+		local i=Instance.new 
+		local v2=Vector2.new 
+		local v3=Vector3.new
+		local c3=Color3.new 
+		local cf=CFrame.new
+		local angles=CFrame.Angles
+		local u2=UDim2.new
+		local e=Enum 
+		local cs=ColorSequence.new 
+		local csk=ColorSequenceKeypoint.new 
+	
+		local sine=osclock()
+		local deltaTime=0
+		local v3_0=v3(0,0,0)
+		local v3_101=v3(1,0,1)
+		local v3_010=v3(0,1,0)
+		local v3_001=v3(0,0,1)
+		local cf_0=cf(0,0,0)
+		local v3_xz=v3_101*10
+		local v3_net=v3_010*25.01
+	
+		local function makepcall(f)
+			if type(f)=="function" then
+				return function(...)
+					local a={...}
+					local r=nil
+					pcall(function()
+						r={f(tunpack(a))}
+					end)
+					return tunpack(r or {})
+				end
+			end
+			return function() end
+		end
+		local function rs(l) 
+			l=l or mrandom(8,15) 
+			local s="" 
+			for i=1,l do 
+				if mrandom(1,2)==1 then 
+					s=s..schar(mrandom(65,90)) 
+				else 
+					s=s..schar(mrandom(97,122)) 
+				end 
+			end 
+			return s 
+		end 
+		local function dfind(t,v)
+			for i,v1 in pairs(t) do
+				if v1==v then
+					return i
+				end
+			end
+			return nil
+		end
+		local function gp(p,n,cl)
+			if typeof(p)=="Instance" then
+				local c=p:GetChildren()
+				for i=1,#c do
+					local v=c[i]
+					if (v.Name==n) and v:IsA(cl) then
+						return v
+					end
+				end
+			end
+			return nil
+		end
+		local function timegp(p,n,c,t)
+			t=osclock()+t
+			while t>osclock() do
+				local r=gp(p,n,c)
+				if r then
+					return r
+				end
+				stepped:Wait()
+			end
+			return nil
+		end
+		local function getNetlessVelocity(realVel)
+			--if true then return v3_0 end
+			--if true then return realPartVelocity end
+			--if true then return v3_net end
+			if realVel.Magnitude>25.01 then
+				realVel=realVel.Unit*25.01
+			end
+			return realVel*v3_xz+v3_net
+		end
+		local sft=1/60
+		local function getFallingTime(startY,destY,gravity)
+			local velY=25.01
+			local currY=startY
+			local fallingTime=0
+			while (currY>destY) or (velY>0) do
+				fallingTime=fallingTime+sft
+				velY=velY-sft*gravity
+				currY=currY+velY*sft
+			end
+			return fallingTime
+		end
+		local isClientInstance=makepcall(function(i)
+			return ssub(i:GetDebugId(),1,1)=="0"
+		end)
+	
+		local guiTheme={
+			guiTitle="patchma hub",
+			windowTitleColor=c3(0,0,1),
+			windowTopColor=c3(0,0,0),
+			windowBottomColor=c3(0,0,0.584314),
+			windowMinimizedSize=u2(0,220,0,22),
+			windowRegularSize=u2(0,220,0,290),
+			buttonsTextColor=c3(0.0941177,0.317647,0.878431),
+			labelsTextColor=c3(0.560784,0.560784,0.560784),
+			listTopColor=c3(0,0,0),
+			listBottomColor=c3(0.0705882,0.0705882,0.0705882)
+		}
+	
+		local accessorylimbs={	
+	
+			{meshid="11263221350",textureid="11263219250",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
+			{meshid="11159370334",textureid="11159284657",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
+	
+			{meshid="14255522247",textureid="",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
+			{meshid="14255522247",textureid="",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
+	
+			{meshid="12344207333",textureid="",C0=angles(2,0,0),Name="Left Arm"},
+			{meshid="12344206657",textureid="",C0=angles(2,0,0),Name="Right Arm"},
+	
+			{meshid="11159370334",textureid="11159285454",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Leg"},
+			{meshid="12652772399",textureid="12652775021",C0=cf(0,-0.125,0),Name="Right Leg"},
+	
+			{meshid="14768684979",textureid="",C0=angles(0,0,1.5707963267948966),Name="Left Leg"},
+			{meshid="14768684979",textureid="",C0=angles(0,0,1.5707963267948966),Name="Right Leg"},
+	
+			{meshid="14768666349",textureid="",C0=cf_0,Name="Torso"},
+			{meshid="14241018198",textureid="",C0=cf_0,Name="Torso"},
+			{meshid="13421774668",textureid="",C0=cf_0,Name="Torso"},
+	
+			{meshid="4324138105",textureid="4324138210",C0=angles(-1.6144295580947547,1.5707963267948966,0)*cf(-0.125,0.3,0),Name="Left Arm"},
+			{meshid="4154474745",textureid="4154474807",C0=angles(1.5271630954950384,-1.5707963267948966,0)*cf(-0.125,-0.3,0),Name="Left Arm"},
+			{meshid="3030546036",textureid="3650191503",C0=angles(1.5271630954950384,1.5707963267948966,0)*cf(0.125,-0.3,0),Name="Right Arm"},
+			{meshid="3030546036",textureid="3443321249",C0=angles(-1.6144295580947547,-1.5707963267948966,0)*cf(0.125,0.3,0),Name="Right Arm"},
+			{meshid="3030546036",textureid="3360974849",C0=angles(1.5271630954950384,1.5707963267948966,0)*cf(-0.125,-0.35,0),Name="Left Leg"},
+			{meshid="3030546036",textureid="3360978739",C0=angles(-1.6144295580947547,-1.5707963267948966,0)*cf(-0.125,0.3,0),Name="Left Leg"},
+			{meshid="3030546036",textureid="3033898741",C0=angles(1.5271630954950384,-1.5707963267948966,0)*cf(0.125,-0.35,0),Name="Right Leg"},
+			{meshid="3030546036",textureid="3409604993",C0=angles(-1.6144295580947547,1.5707963267948966,0)*cf(0.125,0.3,0),Name="Right Leg"},
+			{meshid="4819720316",textureid="4819722776",C0=angles(0,0,0.2617993877991494),Name="Torso"}
+		}
+	
+		local i1=i("Frame") 
+		local i2=i("Frame") 
+		local i3=i("ScrollingFrame") 
+		local i4=i("UIListLayout") 
+		local i5=i("UIGradient") 
+		local i6=i("TextBox") 
+		local i7=i("TextButton") 
+		local i8=i("UIGradient") 
+		local i9=i("ScreenGui") 
+		i1.AnchorPoint=v2(0.5,0) 
+		i1.BackgroundColor3=c3(1,1,1) 
+		i1.BorderSizePixel=0 
+		i1.Position=u2(0.5,0,0.5,-150) 
+		i1.Size=guiTheme.windowRegularSize 
+		i1.Name=rs() 
+		i1.Parent=i9 
+		i2.BackgroundColor3=c3(1,1,1) 
+		i2.BorderSizePixel=0 
+		i2.Position=u2(0,5,0,20) 
+		i2.Size=u2(1,-10,1,-25) 
+		i2.Name=rs() 
+		i2.Parent=i1 
+		i3.Active=true 
+		i3.BackgroundTransparency=1 
+		i3.BorderSizePixel=0 
+		i3.Size=u2(1,-3,1,0) 
+		i3.AutomaticCanvasSize=e.AutomaticSize.Y 
+		i3.CanvasSize=u2(0,0,0,0) 
+		i3.ScrollBarThickness=7 
+		i3.Name=rs() 
+		i3.Parent=i2 
+		i4.Name=rs() 
+		i4.Parent=i3 
+		i4.SortOrder=e.SortOrder.LayoutOrder 
+		i5.Name=rs() 
+		i5.Parent=i2 
+		i5.Color=cs({[1]=csk(0,guiTheme.listTopColor),[2]=csk(1,guiTheme.listBottomColor)}) 
+		i5.Rotation=90 
+		i6.Font=e.Font.SourceSans 
+		i6.FontSize=e.FontSize.Size18 
+		i6.ClearTextOnFocus=false 
+		i6.Text=guiTheme.guiTitle 
+		i6.TextColor3=guiTheme.windowTitleColor 
+		i6.TextSize=16 
+		i6.AnchorPoint=v2(0.5,0) 
+		i6.BackgroundTransparency=1 
+		i6.Position=u2(0.5,0,0,11) 
+		i6.Name=rs() 
+		i6.Parent=i1 
+		i7.AnchorPoint=v2(1,0) 
+		i7.BackgroundTransparency=1 
+		i7.Position=u2(1,0,0,0) 
+		i7.Size=u2(0,40,0,20) 
+		i7.Name=rs() 
+		i7.Parent=i1 
+		i7.Font=e.Font.SourceSans 
+		i7.FontSize=e.FontSize.Size18 
+		i7.Text="-" 
+		i7.TextColor3=c3(1,1,1) 
+		i7.TextSize=16 
+		i8.Name=rs() 
+		i8.Parent=i1 
+		i8.Color=cs({[1]=csk(0,guiTheme.windowTopColor),[2]=csk(1,guiTheme.windowBottomColor)}) 
+		i8.Rotation=90 
+		i9.ZIndexBehavior=e.ZIndexBehavior.Sibling 
+		i9.IgnoreGuiInset=true 
+		i9.ResetOnSpawn=false 
+		i9.DisplayOrder=2147483647 
+		i9.Name=rs() 
+		local min=false
+		i7.MouseButton1Click:Connect(function()
+			min = not min
+			if min then
+				i2.Visible=false 
+				i8.Color=cs({[1]=csk(0,c3(0,0,0)),[2]=csk(1,c3(0,0,0))}) 
+				i1.Size=guiTheme.windowMinimizedSize 
+			else
+				i1.Size=guiTheme.windowRegularSize 
+				i8.Color=cs({[1]=csk(0,c3(0,0,0)),[2]=csk(1,c3(0,0,0.584314))}) 
+				i2.Visible=true 
+			end
+		end)
+		local function Draggable(window,obj)
+			local MB1enum = e.UserInputType.MouseButton1
+			local TOUCHenum = e.UserInputType.Touch
+			obj = obj or window
+			local activeEntered = 0
+			local mouseStart = nil
+			local dragStart = nil
+			local inputbegancon = nil
+			local rendersteppedcon = nil
+			local inputendedcon = nil
+			local function inputendedf(a)
+				a=a.UserInputType
+				if (a==MB1enum) or (a==TOUCHenum) then
+					rendersteppedcon:Disconnect()
+					inputendedcon:Disconnect()
+				end
+			end
+			local function rendersteppedf()
+				local off = uis:GetMouseLocation()-mouseStart
+				window.Position=dragStart+u2(0,off.X,0,off.Y)
+			end
+			local function inputbeganf(a)
+				a=a.UserInputType
+				if ((a==MB1enum) or (a==TOUCHenum)) and (activeEntered==0) and not uis:GetFocusedTextBox() then
+					mouseStart=uis:GetMouseLocation()
+					dragStart=window.Position
+					if rendersteppedcon then rendersteppedcon:Disconnect() end
+					rendersteppedcon = renderstepped:Connect(rendersteppedf)
+					if inputendedcon then inputendedcon:Disconnect() end
+					inputendedcon = uis.InputEnded:Connect(inputendedf)
+				end
+			end
+			obj.MouseEnter:Connect(function()
+				if inputbegancon then inputbegancon:Disconnect() end
+				inputbegancon = uis.InputBegan:Connect(inputbeganf)
+			end)
+			obj.MouseLeave:Connect(function()
+				inputbegancon:Disconnect()
+			end)
+			local function ondes(d)
+				if d:IsA("GuiObject") then
+					local thisEntered = false
+					local thisAdded = false
+					local con0 = d.MouseEnter:Connect(function()
+						thisEntered = true
+						if (not thisAdded) and d.Active then
+							activeEntered = activeEntered + 1
+							thisAdded = true
+						end
+					end)
+					local con1 = d.MouseLeave:Connect(function()
+						thisEntered = false
+						if thisAdded then
+							activeEntered = activeEntered - 1
+							thisAdded = false
+						end
+					end)
+					local con2 = d:GetPropertyChangedSignal("Active"):Connect(function()
+						if thisEntered then
+							if thisAdded and not d.Active then
+								activeEntered = activeEntered - 1
+								thisAdded = false
+							elseif d.Active and not thisAdded then
+								activeEntered = activeEntered + 1
+								thisAdded = true
+							end
+						end
+					end)
+					local con3 = nil
+					con3 = d.AncestryChanged:Connect(function()
+						if not d:IsDescendantOf(window) then
+							if thisEntered then
+								activeEntered = activeEntered - 1
+							end
+							con0:Disconnect()
+							con1:Disconnect()
+							con2:Disconnect()
+							con3:Disconnect()
+						end
+					end)
+				end
+			end
+			window.DescendantAdded:Connect(ondes)
+			local des=window:GetDescendants()
+			for i=1,#des do 
+				ondes(des[i])
+			end
+		end
+		local function btn(txt, f)
+			local i1=i("TextBox") 
+			local i2=i("TextButton")
+			i1.Font=e.Font.SourceSans 
+			i1.FontSize=e.FontSize.Size14 
+			i1.Text=txt 
+			i1.ClearTextOnFocus=false 
+			i1.Position=u2(0.5,0,0.5,0) 
+			i1.TextColor3=guiTheme.buttonsTextColor 
+			i1.Name=rs()
+			i1.Parent=i2
+			i2.BackgroundTransparency=1 
+			i2.TextTransparency=1 
+			i2.Size=u2(1,0,0,14) 
+			i2.Name=rs() 
+			if f then 
+				i2.MouseButton1Click:Connect(f) 
+			end 
+			i2.Parent=i3 
+			return i1
+		end
+		local function lbl(txt)
+			local i1=i("TextBox") 
+			local i2=i("Frame") 
+			i1.Font=e.Font.SourceSans 
+			i1.FontSize=e.FontSize.Size14 
+			i1.Text=txt 
+			i1.ClearTextOnFocus=false 
+			i1.TextColor3=guiTheme.labelsTextColor 
+			i1.Position=u2(0.5,0,0.5) 
+			i1.BackgroundTransparency=1 
+			i1.Name=rs() 
+			i1.Parent=i2 
+			i2.Size=u2(1,0,0,14) 
+			i2.BackgroundTransparency=1 
+			i2.Name=rs() 
+			i2.Parent=i3 
+			return i1
+		end
+	
+		Draggable(i1)
+	
+		lbl("by MyWorld")
+		lbl("low effort ui obviously")
+	
+		local allowshiftlock=nil
+		local ctrltp=nil
+		local placeholders=nil
+		local clickfling=nil
+		local highlightflingtargets=nil
+		local claimwait=nil
+		local discharscripts=nil
+		local disguiscripts=nil
+	
+		local stopreanimate=function() return nil end
+		local function reanimate()
+		--[[
+			FDless reanimate by MyWorld
+			aka no client sided instances
+			"what else do i optimize here"
+		]]
+	
+			local novoid = true --prevents parts from going under workspace.FallenPartsDestroyHeight if you control them
+			local placeholders = placeholders --makes client sided accessories replacing the real ones when unavailable
+			local speedlimit = 3000 --makes your parts move slower if the magnitude of their velocity is higher than this
+			local retVelTime = 0.51 --time that claimed parts have velocity to reclaim in case u lose them
+			local walkSpeed = 16 --your walkspeed (can be changed at runtime)
+			local jumpPower = 50 --your jump power (can be changed at runtime)
+			local allowshiftlock = allowshiftlock --allows the user to use shiftlock (can be changed at runtime)
+			local gravity = 196.2 --how fast the characters velocity decreases while falling (can be changed at runtime)
+			local ctrlclicktp = ctrltp --makes you teleport where u point ur mouse cursor at when click and hold ctrl down
+			local clickfling = clickfling --makes you fling the person you clicked when its available to do so
+			local flingvel = v3(15000,16000,15000) --the rotation velocity that ur character will have while flinging
+			local highlightflingtargets = highlightflingtargets --highlights characters that are going to get flung
+	
+			local c=lp.Character
+			if stopreanimate() or not (c and c:IsDescendantOf(ws)) then return end
+	
+			local rootpart=gp(c,"HumanoidRootPart","BasePart") or gp(c,"Torso","BasePart") or gp(c,"UpperTorso","BasePart") or timegp(c,"HumanoidRootPart","BasePart",0.5) or c:FindFirstChildWhichIsA("BasePart")
+			if not rootpart then return end
+	
+			local cam=nil
+			--theres a way to have ws.currentcamera nil on heartbeat and still have the game run normally
+			local function refcam()
+				cam=ws.CurrentCamera
+				while not cam do
+					ws:GetPropertyChangedSignal("CurrentCamera"):Wait()
+					cam=ws.CurrentCamera
+				end
+			end
+			refcam()
+			local camcf=cam.CFrame
+			local enumCamS=e.CameraType.Scriptable
+			local camt=cam.CameraType
+			local camcon0=nil
+			local camcon1=nil
+			local function onnewcamera()
+				refcam()
+				if camcon0 then 
+					camcon0:Disconnect()
+					camcon0=nil
+				end
+				if not c then 
+					if cam.CameraType==enumCamS then
+						cam.CameraType=camt
+					end
+					return camcon1:Disconnect() 
+				end
+				camcon0=cam.Changed:Connect(function(p)
+					if not c then
+						camcon0:Disconnect()
+						return camcon1:Disconnect()
+					end
+					if (p=="CFrame") and (cam.CFrame~=camcf) then
+						cam.CFrame=camcf
+					elseif (p=="CameraSubject") or (p=="CameraType") then
+						local subj=cam.CameraSubject
+						if subj and subj:IsA("Humanoid") and (subj.Parent==c) and (cam.CameraType~=enumCamS) then
+							cam.CameraType=enumCamS
+						end
+					end
+				end)
+				local subj=cam.CameraSubject
+				if subj and subj:IsA("Humanoid") and (subj.Parent==c) and (cam.CameraType~=enumCamS) then
+					cam.CameraType=enumCamS
+				end
+				cam.CFrame=camcf
+			end
+			camcon1=ws:GetPropertyChangedSignal("CurrentCamera"):Connect(onnewcamera)
+			onnewcamera()
+	
+			local rGravity=ws.Gravity
+			ws:GetPropertyChangedSignal("Gravity"):Connect(function()
+				rGravity=ws.Gravity
+			end)
+	
+			local fpdh=ws.FallenPartsDestroyHeight
+			novoid=novoid and (fpdh+1)
+	
+			local function getMeshOfPart(v)
+				if typeof(v)=="Instance" then
+					if v:IsA("MeshPart") then
+						return v.MeshId, v.TextureID
+					else
+						v=v:FindFirstChildOfClass("SpecialMesh")
+						if v then
+							return v.MeshId, v.TextureId
+						end
+					end
+				end
+				return nil, nil
+			end
+	
+			local Yvel=0
+			local cfr=rootpart.CFrame
+			local pos=cfr.Position
+			local primarypart=nil
+			local shiftlock=false
+			local firstperson=false
+			local xzvel=v3_0
+			local v3_0150=v3_010*1.5
+			local camoff=cf(v3_0,camcf.LookVector)
+			camoff=camoff-v3_001*(camcf.Position-(pos+v3_0150)).Magnitude
+	
+			local R6parts={ 
+				head={Name="Head"},
+				torso={Name="Torso"},
+				root={Name="HumanoidRootPart"},
+				leftArm={Name="Left Arm"},
+				rightArm={Name="Right Arm"},
+				leftLeg={Name="Left Leg"},
+				rightLeg={Name="Right Leg"}
+			}
+			rootpart=R6parts.root
+			local cframes={}
+			for i,v in pairs(R6parts) do
+				cframes[v]=cfr
+			end
+			local joints={
+				{
+					Name="Neck",
+					Part0=R6parts.torso,Part1=R6parts.head,
+					C0=cf(0,1,0,-1,0,0,0,0,1,0,1,-0),
+					C1=cf(0,-0.5,0,-1,0,0,0,0,1,0,1,-0)
+				},
+				{
+					Name="RootJoint",
+					Part0=rootpart,Part1=R6parts.torso,
+					C0=cf(0,0,0,-1,0,0,0,0,1,0,1,-0),
+					C1=cf(0,0,0,-1,0,0,0,0,1,0,1,-0)
+				},
+				{
+					Name="Right Shoulder",
+					Part0=R6parts.torso,Part1=R6parts.rightArm,
+					C0=cf(1,0.5,0,0,0,1,0,1,-0,-1,0,0),
+					C1=cf(-0.5,0.5,0,0,0,1,0,1,-0,-1,0,0)
+				},
+				{
+					Name="Left Shoulder",
+					Part0=R6parts.torso,Part1=R6parts.leftArm,
+					C0=cf(-1,0.5,0,0,0,-1,0,1,0,1,0,0),
+					C1=cf(0.5,0.5,0,0,0,-1,0,1,0,1,0,0)
+				},
+				{
+					Name="Right Hip",
+					Part0=R6parts.torso,Part1=R6parts.rightLeg,
+					C0=cf(1,-1,0,0,0,1,0,1,-0,-1,0,0),
+					C1=cf(0.5,1,0,0,0,1,0,1,-0,-1,0,0)
+				},
+				{
+					Name="Left Hip",
+					Part0=R6parts.torso,Part1=R6parts.leftLeg,
+					C0=cf(-1,-1,0,0,0,-1,0,1,0,1,0,0),
+					C1=cf(-0.5,1,0,0,0,-1,0,1,0,1,0,0)
+				}
+			}
+	
+			local refreshedjoints={}
+			local refreshjoints=nil
+			refreshjoints=function(part)
+				tinsert(refreshedjoints,part)
+				for i,v in pairs(joints) do
+					local part0=v.Part0
+					local part1=v.Part1
+					if part1 and (part0==part) then
+						cframes[part1]=cframes[part]*v.C0*v.C1:Inverse()
+						if not tfind(refreshedjoints,part1) then
+							refreshjoints(part1)
+						end
+					elseif part0 and (part1==part) then
+						cframes[part0]=cframes[part]*v.C1*v.C0:Inverse()
+						if not tfind(refreshedjoints,part0) then
+							refreshjoints(part0)
+						end
+					end
+				end
+			end
+			refreshjoints(rootpart)
+			tclear(refreshedjoints)
+	
+			local attachments={
+				RightShoulderAttachment={R6parts.rightArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+				RightGripAttachment={R6parts.rightArm,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+				LeftFootAttachment={R6parts.leftLeg,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+				LeftShoulderAttachment={R6parts.leftArm,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+				LeftGripAttachment={R6parts.leftArm,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+				RootAttachment={rootpart,cf(0,0,0,1,0,0,0,1,0,0,0,1)},
+				RightFootAttachment={R6parts.rightLeg,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+				NeckAttachment={R6parts.torso,cf(0,1,0,1,0,0,0,1,0,0,0,1)},
+				BodyFrontAttachment={R6parts.torso,cf(0,0,-0.5,1,0,0,0,1,0,0,0,1)},
+				BodyBackAttachment={R6parts.torso,cf(0,0,0.5,1,0,0,0,1,0,0,0,1)},
+				LeftCollarAttachment={R6parts.torso,cf(-1,1,0,1,0,0,0,1,0,0,0,1)},
+				RightCollarAttachment={R6parts.torso,cf(1,1,0,1,0,0,0,1,0,0,0,1)},
+				WaistFrontAttachment={R6parts.torso,cf(0,-1,-0.5,1,0,0,0,1,0,0,0,1)},
+				WaistCenterAttachment={R6parts.torso,cf(0,-1,0,1,0,0,0,1,0,0,0,1)},
+				WaistBackAttachment={R6parts.torso,cf(0,-1,0.5,1,0,0,0,1,0,0,0,1)},
+				HairAttachment={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},
+				HatAttachment={R6parts.head,cf(0,0.6,0,1,0,0,0,1,0,0,0,1)},
+				FaceFrontAttachment={R6parts.head,cf(0,0,-0.6,1,0,0,0,1,0,0,0,1)},
+				FaceCenterAttachment={R6parts.head,cf(0,0,0,1,0,0,0,1,0,0,0,1)}
+			}
+	
+			local function getPart(name,blacklist)
+				for i,v in pairs(cframes) do
+					if (i.Name==name) and not (blacklist and tfind(blacklist,i)) then
+						return i
+					end
+				end
+				return nil
+			end
+	
+			local function makeplaceholder(v)
+				if typeof(v)~="Instance" then
+					return nil
+				end
+				if not v.Archivable then
+					v.Archivable=true
+				end
+				v=v:Clone()
+				local c=v:GetChildren()
+				for i=1,#c do
+					local v=c[i]
+					if v:IsA("SpecialMesh") then
+						v.Name=rs()
+						v:ClearAllChildren()
+					else
+						v:Destroy()
+					end
+				end
+				v.Name=rs()
+				v.Anchored=true
+				v.CanCollide=false
+				v.Transparency=0.25
+				v.Parent=ws
+				return v
+			end
+	
+			local function getPartFromMesh(meshid,textureid,blacklist)
+				if blacklist then
+					for v,_ in pairs(cframes) do
+						if v.m and (not tfind(blacklist,v)) and sfind(v.m,meshid) and sfind(v.t,textureid) then
+							return v
+						end
+					end
+				else
+					for v,_ in pairs(cframes) do
+						if v.m and sfind(v.m,meshid) and sfind(v.t,textureid) then
+							return v
+						end
+					end
+				end
+				return nil
+			end
+	
+			local function getJoint(name)
+				for i,v in pairs(joints) do
+					if v.Name==name then
+						return v
+					end
+				end
+				return {C0=cf_0,C1=cf_0}
+			end
+	
+			local function getPartJoint(p)
+				if p then
+					for i,v in pairs(joints) do
+						if v.Part0==p then
+							return v
+						end
+					end
+					for i,v in pairs(joints) do
+						if v.Part1==p then
+							return v
+						end
+					end
+				end
+				return nil
+			end
+	
+			local function getAccWeldFromMesh(m,t)
+				local p=getPartFromMesh(m,t)
+				if p then
+					return getPartJoint(p) or p.j
+				end
+				p={m=m,t=t}
+				cframes[p]=cfr
+				local j={C0=cf_0,C1=cf_0,Part0=p}
+				p.j=j
+				return j	
+			end
+	
+			local raycastparams=RaycastParams.new()
+			raycastparams.FilterType=e.RaycastFilterType.Blacklist
+			raycastparams.RespectCanCollide=true
+			local rayfilter={}
+			local characters={}
+			local function refreshrayfilter()
+				tclear(rayfilter)
+				for i,v in pairs(characters) do
+					tinsert(rayfilter,v)
+				end
+				raycastparams.FilterDescendantsInstances=rayfilter
+			end
+			local flingtable={}
+			local rootparts={}
+			for i=1,#accessorylimbs do
+				accessorylimbs[i].a=nil
+			end
+			local ondes=nil
+			ondes=function(v)
+				local meshid,textureid=getMeshOfPart(v)
+				if meshid and v.Parent~=c then
+					local found=false
+					for i,v1 in pairs(cframes) do
+						if (meshid==i.m) and (textureid==i.t) then
+							local p=i.p
+							if p and p:IsDescendantOf(ws) then
+								if v==p then
+									found=true
+									break
+								end
+							else
+								found=true
+								i.p=v
+								break
+							end
+						else
+							local j=i.j
+							if j and sfind(meshid,i.m) and sfind(textureid,i.t) then
+								i.m=meshid
+								i.t=textureid
+								i.l=v.Position
+								i.p=v
+								i.j=nil
+								i.Name=v.Name
+								local att0=v:FindFirstChildOfClass("Attachment") or (stepped:Wait() and v:FindFirstChildOfClass("Attachment"))
+								if att0 then
+									local att1=attachments[att0.Name] or attachments.HatAttachment
+									j.C0=att0.CFrame
+									j.C1=att1[2]
+									j.Part1=att1[1]
+								else
+									j.C0=cf_0
+									j.C1=cf(0,0.6,0)
+									j.Part1=R6parts.head
+								end
+								tinsert(joints,j)
+								found=true
+								break
+							end
+						end
+					end
+					if not found then
+						local t={Name=v.Name,l=v.Position,m=meshid,t=textureid,p=v}
+						if placeholders then
+							t.v=makeplaceholder(v)
+						end
+						cframes[t]=v.CFrame
+						local j={Part0=t}
+						for i=1,#accessorylimbs do
+							local v=accessorylimbs[i]
+							if (not v.a) and sfind(meshid,v.meshid) and sfind(textureid,v.textureid) then
+								local p=getPart(v.Name)
+								if p then
+									j.C0=v.C0
+									j.C1=cf_0
+									j.Part1=p
+									v.a=true
+									found=true
+									break
+								end
+							end
+						end
+						if not found then
+							local att0=v:FindFirstChildOfClass("Attachment") or (stepped:Wait() and v:FindFirstChildOfClass("Attachment"))
+							if att0 then
+								local att1=attachments[att0.Name] or attachments.HatAttachment
+								j.C0=att0.CFrame
+								j.C1=att1[2]
+								j.Part1=att1[1]
+							else
+								j.C0=cf_0
+								j.C1=cf(0,0.6,0)
+								j.Part1=R6parts.head
+							end
+						end
+						tinsert(joints,j)
+					end
+				elseif v:IsA("SpecialMesh") then
+					ondes(v.Parent)
+				end
+			end
+	
+			pg.DescendantAdded:Connect(function(v)
+				if c and disguiscripts and v:IsA("Script") then --mind Enum.RunContext.Client
+					v.Disabled=true 
+				end
+			end)
+	
+			local function onplayer(v)
+				local lastc=nil
+				local function oncharacter()
+					local newc=v.Character
+					if c and newc and (newc~=lastc) then
+						lastc=newc
+						characters[v]=newc
+						refreshrayfilter()
+						if v==lp then
+							if discharscripts then
+								newc.DescendantAdded:Connect(discharscripts)
+								for i,v in pairs(newc:GetDescendants()) do
+									if v:IsA("Script") then
+										v.Disabled=true
+									end
+								end
+							end
+							local hrp=timegp(newc,"HumanoidRootPart","BasePart",10)
+							if not (hrp and c and newc:IsDescendantOf(ws)) then return end
+							c=newc
+							local fi,fv=next(flingtable)
+							if fi then
+								for i,v in pairs(tclone(flingtable)) do
+									if not c then
+										return
+									end
+									local startpos=i.Position
+									local stoptime=sine+3
+									while true do
+										twait()
+										if sine>stoptime then
+											break
+										end
+										if (startpos-i.Position).Magnitude>200 then
+											break
+										end
+										local tcf=i.CFrame+i.Velocity*(sin(sine*15)+1)
+										if novoid and (tcf.Y<novoid) then
+											tcf=tcf+v3_010*(novoid-tcf.Y)
+										end
+										hrp.CFrame=tcf
+										hrp.Velocity=i.Velocity*v3_101*75
+										hrp.RotVelocity=flingvel
+									end
+									if v then
+										v:Destroy()
+									end
+									flingtable[i]=nil
+								end
+								hrp.Velocity=v3_0
+								hrp.RotVelocity=v3_0
+								hrp.CFrame=cfr
+								twait(0.26)
+							end
+							local startpos=pos+v3(mrandom(-32,32),0,mrandom(-32,32))
+							local dir=nil
+							local poscheck=true
+							while poscheck do
+								poscheck=false
+								for i,v in pairs(rootparts) do
+									local diff=(startpos-v.Position)*v3_101
+									if diff.Magnitude<10 then
+										poscheck=true
+										dir=dir or diff.Unit
+										startpos=startpos+dir
+									end
+								end
+								local diff=(startpos-pos)*v3_101
+								if diff.Magnitude<10 then
+									poscheck=true
+									dir=dir or diff.Unit
+									startpos=startpos+dir
+								end
+							end
+							startpos=cfr.Rotation+startpos
+							primarypart=c.PrimaryPart or hrp
+							hrp.CFrame=startpos
+							hrp.Velocity=v3_0
+							hrp.RotVelocity=v3_0
+							if claimwait then
+								twait(0.26)
+							else
+								lp.Character=nil
+							end
+							newc:BreakJoints()
+							local cd=newc:GetDescendants()
+							for i=1,#cd do
+								tspawn(ondes,cd[i])
+							end
+							newc.DescendantAdded:Connect(ondes)
+						else
+							local hrp=timegp(newc,"HumanoidRootPart","BasePart",10)
+							if hrp and c and newc:IsDescendantOf(ws) then
+								rootparts[v]=hrp
+							end
+						end
+					end
+				end
+				v:GetPropertyChangedSignal("Character"):Connect(oncharacter)
+				oncharacter()
+			end
+			local plrst=plrs:GetPlayers()
+			for i=1,#plrst do onplayer(plrst[i]) end
+			plrs.PlayerAdded:Connect(onplayer)
+			plrs.PlayerRemoving:Connect(function(v)
+				characters[v]=nil
+				rootparts[v]=nil
+			end)
+	
+			local mradN05=rad(-0.5)
+			local KeyCode=e.KeyCode
+			local enumMLC=e.MouseBehavior.LockCenter
+			local enumMB2=e.UserInputType.MouseButton2
+			local enumMLCP=e.MouseBehavior.LockCurrentPosition
+			local enumMD=e.MouseBehavior.Default
+			local enumMW=e.UserInputType.MouseWheel
+			if uis.TouchEnabled then
+				enumMB2=e.UserInputType.MouseButton1
+			end
+	
+			local mouseBehavior=nil
+			local lastMouseBehavior=uis.MouseBehavior
+			uis:GetPropertyChangedSignal("MouseBehavior"):Connect(function()
+				if c and (uis.MouseBehavior~=mouseBehavior) then
+					uis.MouseBehavior=mouseBehavior
+				end
+			end)
+	
+			local mode="default"
+			local defaultmode={}
+			local modes={default=defaultmode}
+	
+			local function emptyfunction() end
+	
+			local lerpsIdle=emptyfunction
+			local lerpsWalk=emptyfunction
+			local lerpsJump=emptyfunction
+			local lerpsFall=emptyfunction
+	
+			local function addmode(key,mode)
+				if (type(key)~="string") or (type(mode)~="table") then
+					return
+				end
+				for i,v in pairs(mode) do
+					if type(v)~="function" then
+						mode[i]=nil
+					end
+				end
+				if key=="default" then
+					defaultmode=mode
+					modes.default=mode
+					lerpsIdle=mode.idle or emptyfunction
+					lerpsWalk=mode.walk or emptyfunction
+					lerpsJump=mode.jump or emptyfunction
+					lerpsFall=mode.fall or emptyfunction
+					if mode.modeEntered then
+						mode.modeEntered()
+					end
+				elseif #key==1 then
+					key=KeyCode[supper(ssub(key,1,1))]
+					modes[key]=mode
+				end
+			end
+	
+			local keyW=KeyCode.W
+			local Wpressed=uis:IsKeyDown(keyW)
+			local keyA=KeyCode.A
+			local Apressed=uis:IsKeyDown(keyA)
+			local keyS=KeyCode.S
+			local Spressed=uis:IsKeyDown(keyS)
+			local keyD=KeyCode.D
+			local Dpressed=uis:IsKeyDown(keyD)
+			local keySpace=KeyCode.Space
+			local spacePressed=uis:IsKeyDown(keySpace)
+	
+			local keyShift=KeyCode.LeftShift
+			uis.InputBegan:Connect(function(a)
+				if gs.MenuIsOpen or uis:GetFocusedTextBox() then
+					return
+				end
+				a=a.KeyCode
+				if a==keyW then
+					Wpressed=true
+				elseif a==keyA then
+					Apressed=true
+				elseif a==keyS then
+					Spressed=true
+				elseif a==keyD then
+					Dpressed=true
+				elseif a==keySpace then
+					spacePressed=true
+				elseif a==keyShift then
+					shiftlock=allowshiftlock and not shiftlock
+				elseif modes[a] then
+					if modes[mode].modeLeft then
+						modes[mode].modeLeft()
+					end
+					if mode==a then
+						mode="default"
+					else
+						mode=a
+					end
+					local modet=modes[mode]
+					lerpsIdle=modet.idle or defaultmode.idle or emptyfunction
+					lerpsWalk=modet.walk or defaultmode.walk or emptyfunction
+					lerpsJump=modet.jump or defaultmode.jump or emptyfunction
+					lerpsFall=modet.fall or defaultmode.fall or emptyfunction
+					if modes[mode].modeEntered then
+						modes[mode].modeEntered()
+					end
+				end
+			end)
+			uis.InputEnded:Connect(function(a)
+				a=a.KeyCode
+				if a==keyW then
+					Wpressed=false
+				elseif a==keyA then
+					Apressed=false
+				elseif a==keyS then
+					Spressed=false
+				elseif a==keyD then
+					Dpressed=false
+				elseif a==keySpace then
+					spacePressed=false
+				end
+			end)
+			uis.InputChanged:Connect(function(a,b)
+				if (not b) and (a.UserInputType==enumMW) then
+					camoff=camoff+a.Position*v3_001*(0.75-camoff.Z/4)
+					if camoff.Z>0 then
+						camoff=camoff-camoff.Position
+					end
+					firstperson=camoff.Z==0
+				end
+			end)
+	
+			local function predictionfling(target)
+				if not c then
+					return twait() and false
+				end
+				if typeof(target)~="Instance" then 
+					target=mouse.Target
+					if not target then
+						return twait() and false
+					end
+				end
+				if target:IsA("Humanoid") or target:IsA("BasePart") then 
+					target=target.Parent 
+					if target:IsA("Accessory") then
+						target=target.Parent
+					end
+				end
+				if (not target:IsA("Model")) or (target==c) then
+					return twait() and false
+				end
+				local targetpart=gp(target,"HumanoidRootPart","BasePart") or gp(target,"Torso","BasePart") or gp(target,"UpperTorso","BasePart")
+				if not (targetpart and targetpart:IsDescendantOf(ws)) then
+					return twait() and false
+				end
+				if highlightflingtargets then
+					local h=i("Highlight")
+					h.Name=rs()
+					h.Adornee=target
+					h.FillColor=c3(1,0,0)
+					h.OutlineColor=c3(1,0,0)
+					h.FillTransparency=0.5
+					h.OutlineTransparency=0
+					h.Parent=i9
+					flingtable[targetpart]=h
+				else
+					flingtable[targetpart]=false
+				end
+				twait()
+				return true
+			end
+	
+			if ctrlclicktp then
+				ctrlclicktp=KeyCode.LeftControl
+				local tpoff=v3_010*3
+				if clickfling then
+					mouse.Button1Down:Connect(function()
+						if mouse.Target then
+							if uis:IsKeyDown(ctrlclicktp) then
+								pos=mouse.Hit.Position+tpoff
+								cfr=cf(pos,pos+camoff.LookVector*v3_101)
+								xzvel=v3_0
+								Yvel=0
+							else
+								predictionfling()
+							end
+						end
+					end)
+				else
+					mouse.Button1Down:Connect(function()
+						if mouse.Target and uis:IsKeyDown(ctrlclicktp) then
+							pos=mouse.Hit.Position+tpoff
+							cfr=cf(pos,pos+camoff.LookVector*v3_101)
+							xzvel=v3_0
+							Yvel=0
+						end
+					end)
+				end
+			elseif clickfling then
+				mouse.Button1Down:Connect(predictionfling)
+			end
+	
+			local noYvelTime=1
+			local lastsine=sine
+			local con=nil
+			local function mainFunction()
+				if not c then 
+					for i,v in pairs(cframes) do
+						local p=i.v
+						if p then
+							p:Destroy()
+						end
+					end
+					for i,v in pairs(flingtable) do
+						if v then
+							v:Destroy()
+						end
+					end
+					mouseBehavior=enumMD
+					uis.MouseBehavior=enumMD
+					onnewcamera()
+					local c=lp.Character
+					if c then
+						cam.CameraSubject=c:FindFirstChildOfClass("Humanoid")
+					end
+					return con and con:Disconnect() 
+				end
+	
+				sine=osclock()
+				local delta=sine-lastsine
+				deltaTime=clamp(delta*10,0,1)
+				lastsine=sine
+	
+				if shiftlock then
+					if allowshiftlock then
+						mouseBehavior=enumMLC
+						local rotation=uis:GetMouseDelta()*mradN05
+						local camoffpos=camoff.Position
+						camoff=cf(camoffpos,camoffpos+camoff.LookVector)*angles(rotation.Y,rotation.X,0)
+					else
+						shiftlock=false
+					end
+				elseif firstperson then
+					mouseBehavior=enumMLC
+					local rotation=uis:GetMouseDelta()*mradN05
+					local camoffpos=camoff.Position
+					camoff=cf(camoffpos,camoffpos+camoff.LookVector)*angles(rotation.Y,rotation.X,0)
+				elseif uis:IsMouseButtonPressed(enumMB2) then
+					mouseBehavior=enumMLCP
+					local rotation=uis:GetMouseDelta()*mradN05
+					local camoffpos=camoff.Position
+					camoff=cf(camoffpos,camoffpos+camoff.LookVector)*angles(rotation.Y,rotation.X,0)
+				else
+					mouseBehavior=enumMD
+				end
+				if lastMouseBehavior~=mouseBehavior then
+					lastMouseBehavior=mouseBehavior
+					uis.MouseBehavior=mouseBehavior
+				end
+	
+				local raycastresult=ws:Raycast(pos,v3_010*(fpdh-pos.Y),raycastparams)
+				local onground=nil
+				if raycastresult then
+					raycastresult=raycastresult.Position
+					onground=(pos.Y-raycastresult.Y)<3.01
+					if onground then
+						Yvel=0
+						cfr=cfr+v3_010*(raycastresult.Y+3-pos.Y)*clamp(delta*20,0,1)
+						if spacePressed then
+							Yvel=jumpPower
+						end
+					else
+						Yvel=Yvel-gravity*delta
+						if pos.Y+Yvel*delta<raycastresult.Y then
+							Yvel=0
+							cfr=cfr+v3_010*(raycastresult.Y+3-pos.Y)
+						end
+					end
+				else
+					Yvel=0
+					onground=false
+				end
+				xzvel=v3_0
+				if Wpressed then
+					xzvel=xzvel+(camoff.LookVector*v3_101).Unit
+				end
+				if Spressed then
+					xzvel=xzvel-(camoff.LookVector*v3_101).Unit
+				end
+				if Apressed then
+					xzvel=xzvel-(camoff.RightVector*v3_101).Unit
+				end
+				if Dpressed then
+					xzvel=xzvel+(camoff.RightVector*v3_101).Unit
+				end
+				pos=cfr.Position
+				if shiftlock or firstperson then
+					if xzvel.Magnitude>0 then
+						xzvel=xzvel.Unit*walkSpeed
+					end
+					cfr=cf(pos,pos+camoff.LookVector*v3_101)
+				elseif xzvel.Magnitude>0 then
+					xzvel=xzvel.Unit*walkSpeed
+					cfr=cfr:Lerp(cf(pos,pos+xzvel),deltaTime)
+				end
+				cfr=cfr+(xzvel+(v3_010*Yvel))*delta
+				pos=cfr.Position
+	
+				camcf=cf(pos,pos+camoff.LookVector)+camoff.LookVector*camoff.Z+v3_0150
+				if shiftlock and not firstperson then
+					camcf=camcf+camcf.RightVector*1.75
+				end
+				if cam then
+					cam.CFrame=camcf
+				end
+	
+				if onground then
+					if xzvel==v3_0 then
+						lerpsIdle()
+					else
+						lerpsWalk()
+					end
+				elseif Yvel>0 then
+					lerpsJump()
+				else
+					lerpsFall()
+				end
+	
+				cframes[rootpart]=cfr
+				refreshjoints(rootpart)
+				tclear(refreshedjoints)
+	
+				if abs(Yvel)>1 then
+					noYvelTime=0
+				else
+					noYvelTime=clamp(noYvelTime+delta*0.3,0,1)
+					xzvel=xzvel*(1-noYvelTime)
+				end
+	
+				local idlerv=v3(sin((sine-0.0375)*16),sin(sine*16),sin((sine+0.075)*16))
+				local idleoff=idlerv*0.001
+	
+				local claimpos=primarypart.Position
+				for i,v in pairs(cframes) do
+					local part=i.p
+					if part and (not part.Anchored) and part:IsDescendantOf(ws) then
+						if part.ReceiveAge==0 then
+							local placeholder=i.v
+							if placeholder then
+								placeholder.Parent=nil
+							end
+							if novoid and (v.Y<novoid) then
+								v=v+v3_010*(novoid-v.Y)
+							end
+							local lastpos=i.l
+							local vel=(v.Position-lastpos)/delta
+							if vel.Magnitude>speedlimit then
+								vel=vel.Unit*speedlimit
+								v=v+(lastpos+vel*delta)-v.Position
+							end
+							i.l=v.Position
+							if vel.Magnitude<0.15 then
+								v=v+idleoff
+							end
+							local claimtime=i.c
+							if claimtime then
+								if sine-claimtime<retVelTime then
+									part.Velocity=(claimpos-v.Position)*v3_101/getFallingTime(v.Y,claimpos.Y,rGravity)+v3_net
+								else
+									part.Velocity=getNetlessVelocity(vel*noYvelTime+xzvel)
+								end
+							else
+								i.c=sine
+								part.Velocity=getNetlessVelocity(vel*noYvelTime+xzvel)
+							end
+							part.CFrame=v
+							part.RotVelocity=idlerv
+						else
+							i.c=nil
+							i.l=part.Position
+							local placeholder=i.v
+							if placeholder then
+								placeholder.Parent=ws
+								placeholder.CFrame=v
+							end
+						end
+					else
+						local placeholder=i.v
+						if placeholder then
+							placeholder.Parent=ws
+							placeholder.CFrame=v
+						end
+					end
+				end
+			end
+	
+			sine=osclock()
+			lastsine=sine
+			con=heartbeat:Connect(mainFunction)
+			mainFunction()
+	
+			stopreanimate=function()
+				if c then
+					c=nil
+					return true
+				else
+					return false
+				end
+			end
+	
+			local function refreshjoints1(v) --use this on the main part if u have parts that
+				refreshjoints(v) --are connected with each other but arent connected to rootpart
+				tclear(refreshedjoints)
+			end
+	
+			local legcfR=cf(1,-1,0)
+			local legcfL=cf(-1,-1,0)
+			local raydir=v3_010*-2
+			local function raycastlegs() --this returns 2 values: right leg raycast offset, left leg raycast offset
+				local rY=ws:Raycast((cfr*legcfR).Position,raydir,raycastparams)
+				local lY=ws:Raycast((cfr*legcfL).Position,raydir,raycastparams)
+				return rY and (rY.Position.Y-(pos.Y-3)) or 0,lY and (lY.Position.Y-(pos.Y-3)) or 0
+			end
+	
+			local function velbycfrvec() --this returns 2 values: forward/backwards movement (from -1 to 1), right/left movement (from -1 to 1)
+				local fw=cfr.LookVector*xzvel/walkSpeed
+				local rt=cfr.RightVector*xzvel/walkSpeed
+				return fw.X+fw.Z,rt.X+rt.Z
+			end
+	
+			local lastvel=v3_0
+			local velchg1=v3_0
+			local function velchgbycfrvec() --this returns 2 values: forward/backwards velocity change, right/left velocity change
+				velchg1=velchg1+(lastvel-xzvel) --i recommend setting velchg1 to v3_0 when u start using this function or it will look worse
+				lastvel=xzvel
+				velchg1=velchg1:Lerp(v3_0,deltaTime/2)
+				local fw=cfr.LookVector*velchg1/32
+				local rt=cfr.RightVector*velchg1/32
+				return fw.X+fw.Z,rt.X+rt.Z
+			end
+	
+			local lastYvel=0
+			local velYchg1=0
+			local function velYchg() --this returns Y axis velocity change
+				velYchg1=clamp(velYchg1+(lastYvel-Yvel),-50,50) --i recommend setting velYchg1 to 0 when u start using this function or it will look worse
+				lastYvel=Yvel
+				velYchg1=velYchg1-velYchg1*(deltaTime/2)
+				return velYchg1
+			end
+	
+			local function rotToMouse(alpha) --this rotates ur character towards your mouse hit position
+				local mpos=mouse.Hit.Position
+				cfr=cfr:Lerp(cf(pos,v3(mpos.X,pos.Y,mpos.Z)),alpha or deltaTime)
+			end
+	
+			local function setWalkSpeed(n)
+				if type(n)~="number" then
+					n=16
+				end
+				walkSpeed=n
+			end
+			local function setJumpPower(n)
+				if type(n)~="number" then
+					n=50
+				end
+				jumpPower=n
+			end
+			local function setGravity(n)
+				if type(n)~="number" then
+					n=196.2
+				end
+				gravity=n
+			end
+	
+			return {
+				cframes=cframes,
+				joints=joints,
+				fling=predictionfling,
+				predictionfling=predictionfling,
+				refreshjoints=refreshjoints1,
+				raycastlegs=raycastlegs,
+				velbycfrvec=velbycfrvec,
+				velchgbycfrvec=velchgbycfrvec,
+				velYchg=velYchg,
+				addmode=addmode,
+				getPart=getPart,
+				getPartFromMesh=getPartFromMesh,
+				getAccWeldFromMesh=getAccWeldFromMesh,
+				getJoint=getJoint,
+				getPartJoint=getPartJoint,
+				rotToMouse=rotToMouse,
+				setWalkSpeed=setWalkSpeed,
+				setJumpPower=setJumpPower,
+				setGravity=setGravity
+			}
+		end
+	
+		btn("creepy crawler",function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local getJoint=t.getJoint
+			local rootJoint=getJoint("RootJoint")
+			local rightShoulder=getJoint("Right Shoulder")
+			local leftShoulder=getJoint("Left Shoulder")
+			local rightHip=getJoint("Right Hip")
+			local leftHip=getJoint("Left Hip")
+			local neck=getJoint("Neck")
+	
+			t.setWalkSpeed(10)
+	
+			local euler=angles
+			local function jumplerp()
+				local sine=sine*60
+				neck.C0 = neck.C0:Lerp(cf(0,0,0.5) * euler(0,0,3.141592653589793),deltaTime) 
+				rootJoint.C0 = rootJoint.C0:Lerp(cf(0,-1.4,0) * euler(3.141592653589793,0,-3.141592653589793),deltaTime) 
+				leftShoulder.C0 = leftShoulder.C0:Lerp(cf(-1,1.5,0.3) * euler(1.7453292519943295,0,-0.17453292519943295),deltaTime) 
+				rightShoulder.C0 = rightShoulder.C0:Lerp(cf(1,1.5,0.3) * euler(1.7453292519943295,0,0.17453292519943295),deltaTime) 
+				leftHip.C0 = leftHip.C0:Lerp(cf(-1,-1.5,0.8) * euler(1.3962634015954636,0,-0.17453292519943295),deltaTime) 
+				rightHip.C0 = rightHip.C0:Lerp(cf(1,-1.5,0.8) * euler(1.3962634015954636,0,0.17453292519943295),deltaTime)
+			end
+	
+			t.addmode("default",{
+				idle=function()
+					local sine=sine*60
+					neck.C0 = neck.C0:Lerp(cf(0,0,0.5) * euler(0.08726646259971647 * sin((sine + 20) * 0.05),0,3.141592653589793 + 0.3490658503988659 * sin((sine + -30) * 0.025)),deltaTime) 
+					rootJoint.C0 = rootJoint.C0:Lerp(cf(0,-1.5 + 0.1 * sin(sine * 0.05),0) * euler(3.141592653589793,0,-3.1590459461097367 + 0.05235987755982989 * sin(sine * 0.025)),deltaTime) 
+					leftShoulder.C0 = leftShoulder.C0:Lerp(cf(-1,1.5,-0.1 * sin(sine * 0.05)) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025)),deltaTime) 
+					rightShoulder.C0 = rightShoulder.C0:Lerp(cf(1,1.5,-0.1 * sin(sine * 0.05)) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025)),deltaTime) 
+					leftHip.C0 = leftHip.C0:Lerp(cf(-1,-1.5,0.5 + -0.1 * sin((sine + 10) * 0.05)) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025)),deltaTime) 
+					rightHip.C0 = rightHip.C0:Lerp(cf(1,-1.5,0.5 + -0.1 * sin((sine + 10) * 0.05)) * euler(1.5707963267948966,0,0.08726646259971647 * sin(sine * 0.025)),deltaTime) 
+				end,
+				walk=function()
+					local sine=sine*60
+					neck.C0 = neck.C0:Lerp(cf(0,0,0.5) * euler(0.17453292519943295,0.03490658503988659 * sin((sine + 2.5) * 0.2),3.141592653589793 + -0.17453292519943295 * sin((sine + -10) * 0.2)),deltaTime) 
+					rootJoint.C0 = rootJoint.C0:Lerp(cf(0,-1.5,0) * euler(3.0543261909900767,0.08726646259971647 * sin((sine + 7.5) * 0.2),-3.1590459461097367 + -0.08726646259971647 * sin(sine * 0.2)),deltaTime) 
+					leftShoulder.C0 = leftShoulder.C0:Lerp(cf(-1,1.5 + 0.5 * sin((sine + 10) * 0.2),0.3 + 0.2 * sin((sine + -10) * 0.2)) * euler(1.6580627893946132 + 0.17453292519943295 * sin((sine + 15) * 0.2),0,-0.08726646259971647 * sin(sine * 0.2)),deltaTime) 
+					rightShoulder.C0 = rightShoulder.C0:Lerp(cf(1,1.5 + 0.5 * sin((sine + -7.5) * 0.2),0.3 + 0.2 * sin((sine + 5) * 0.2)) * euler(1.6580627893946132 + 0.17453292519943295 * sin(sine * 0.2),0,-0.08726646259971647 * sin(sine * 0.2)),deltaTime) 
+					leftHip.C0 = leftHip.C0:Lerp(cf(-1,-1.5 + 0.5 * sin((sine + -7.5) * 0.2),0.5 + 0.2 * sin((sine + 5) * 0.2)) * euler(1.6580627893946132 + 0.17453292519943295 * sin(sine * 0.2),0,-0.08726646259971647 * sin(sine * 0.2)),deltaTime) 
+					rightHip.C0 = rightHip.C0:Lerp(cf(1,-1.5 + 0.5 * sin((sine + 10) * 0.2),0.5 + 0.2 * sin((sine + -7.5) * 0.2)) * euler(1.6580627893946132 + -0.17453292519943295 * sin(sine * 0.2),0,-0.08726646259971647 * sin(sine * 0.2)),deltaTime) 
+				end,
+				jump=jumplerp,
+				fall=jumplerp
+			})
+		end)
+	
+		btn("nameless animations V8", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local raycastlegs=t.raycastlegs
+			local velbycfrvec=t.velbycfrvec
+			local addmode=t.addmode
+			local getJoint=t.getJoint
+			local velYchg=t.velYchg
+			local setWalkSpeed=t.setWalkSpeed
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+	
+			addmode("default", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					local Ychg=velYchg()/20
+	
+					LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(-1,0.5+0.1*sin((sine - 1)*1.3),0.05 * sin((sine-0.3)*1.3))*angles(0.5235987755982988+0.08726646259971647*sin(sine*1),-1.4835298641951802+0.10471975511965978*sin(sine*1.3),0.5235987755982988),deltaTime) 
+					RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5+0.1*sin((sine - 1)*1.3),0.05 * sin((sine-0.3)*1.3))*angles(0.5235987755982988+0.08726646259971647*sin(sine*1),1.4835298641951802-0.10471975511965978*sin(sine*1.3),-0.5235987755982988),deltaTime) 
+					LeftHip.C0=LeftHip.C0:Lerp(cf(-1,-1.09-0.1*sin(sine*1.3)+lY-Ychg,lY*-0.5)*angles(-0.026179938779914945*sin(sine*1.3),-1.3962634015954636,0),deltaTime) 
+					RightHip.C0=RightHip.C0:Lerp(cf(1,-1.09-0.1*sin(sine*1.3)+rY-Ychg,rY*-0.5)*angles(-0.026179938779914945*sin(sine*1.3),1.3962634015954636,0),deltaTime) 
+					RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.09+0.1*sin(sine*1.3) + Ychg,0.025 * sin(sine*1.3))*angles(-1.5707963267948966+0.026179938779914945*sin(sine*1.3),0,3.141592653589793),deltaTime) 
+					Neck.C0=Neck.C0:Lerp(cf(0,1,0)*angles(-1.53588974175501-0.026179938779914945*sin((sine+1)*1.3),0.05235987755982989*sin((sine-0.6)*0.65),3.141592653589793),deltaTime) 
+					--MW_animatorProgressSave: LeftArm,-1,0,0,1,30,5,0,1,0.5,0.1,-1,1.3,-85,6,0,1.3,0,0.05,-0.3,1.3,30,0,0,1,RightArm,1,0,0,1,30,5,0,1,0.5,0.1,-1,1.3,85,-6,0,1.3,0,0.05,-0.3,1.3,-30,0,0,1,LeftLeg,-1,0,0,1,-0,-1.5,0,1.3,-1.09,-0.1,0,1.3,-80,0,0,1,0,0,0,1,0,0,0,1,CPlusPlusTextbook_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.25,0,0,1,0,0,0,1,-0.0002722442150115967,0,0,1,0,0,0,1,RightLeg,1,0,0,1,0,-1.5,0,1.3,-1.09,-0.1,0,1.3,80,0,0,1,0,0,0,1,0,0,0,1,Torso,0,0,0,1,-90,1.5,0,1.3,0.09,0.1,0,1.3,-0,0,0,1,0,0.025,0,1.3,180,0,0,1,Head,0,0,0,1,-88,-1.5,1,1.3,1,0,0,1,-0,3,-0.6,0.65,0,0,0,1,180,0,0,1
+				end,
+				walk = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					local Ychg=velYchg()/20
+	
+					LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(-1,0.5,0)*angles(-0.7853981633974483*sin((sine+0.07)*8)*Vfw,-1.5707963267948966+0.5235987755982988*sin((sine+0.15)*8),0),deltaTime) 
+					RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0)*angles(0.7853981633974483*sin((sine+0.07)*8)*Vfw,1.5707963267948966+0.5235987755982988*sin((sine+0.15)*8),0),deltaTime) 
+					RightHip.C0=RightHip.C0:Lerp(cf(1,-1+0.3*sin((sine - 0.15)*8)+rY-Ychg,rY*-0.5)*angles(1.5707963267948966-0.9599310885968813*sin(sine*8)*Vfw,1.5707963267948966-0.7853981633974483*sin(sine*8)*Vrt,-1.5707963267948966),deltaTime) 
+					LeftHip.C0=LeftHip.C0:Lerp(cf(-1,-1+0.3*sin((sine + 0.15)*8)+lY-Ychg,lY*-0.5)*angles(1.5707963267948966+0.9599310885968813*sin(sine*8)*Vfw,-1.5707963267948966+0.7853981633974483*sin(sine*8)*Vrt,1.5707963267948966),deltaTime) 
+					Neck.C0=Neck.C0:Lerp(cf(0,1,0)*angles(-1.5707963267948966+0.08726646259971647*sin(sine*16),0,3.141592653589793+0.08726646259971647*sin((sine+0.04)*8)-Vrt),deltaTime) 
+					RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.2 * sin((sine+0.1)*16) + Ychg,0)*angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+					--MW_animatorProgressSave: CPlusPlusTextbook_Handle,8.658389560878277e-09,0,0,8,0,0,0,8,-0.25,0,0,8,0,0,0,8,-0.0002722442150115967,0,0,8,0,0,0,8,LeftArm,-1,0,0,8,-0,-45,0.07,8,0.5,0,0,8,-90,30,0.15,8,0,0,0,8,0,0,0,8,RightArm,1,0,0,8,0,45,0.07,8,0.5,0,0,8,90,30,0.15,8,0,0,0,8,0,0,0,8,RightLeg,1,0,0,8,90,-55,0,8,-1,0.3,-0.15,8,90,-45,0,8,0,0,0,8,-90,0,0,8,LeftLeg,-1,0,0,8,90,55,0,8,-1,0.3,0.15,8,-90,45,0,8,0,0,0,8,90,0,0,8,Head,0,0,0,8,-90,5,0,16,1,0,0,8,-0,0,0,8,0,0,0,8,180,5,0.04,8,Torso,0,0,0,8,-90,0,0,8,0,0.2,0.1,16,-0,0,0,8,0,0,0,8,180,0,0,8
+				end,
+				jump = function()
+					velYchg()
+					local Vfw, Vrt = velbycfrvec()
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0) * angles(-1.4835298641951802 + Vfw * 0.1, Vrt * -0.05, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3962634015954636, 0, -3.141592653589793 - Vrt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-85,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-80,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end,
+				fall = function()
+					velYchg()
+					local Vfw, Vrt = velbycfrvec()
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0) * angles(-1.6580627893946132 + Vfw * 0.1, Vrt * -0.05, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.7453292519943295, 0, -3.141592653589793 - Vrt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-95,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-100,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end
+			})
+	
+			addmode("q", {
+				idle = function()
+					velYchg()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), -2.792526803190927, -0.6981317007977318), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), 2.792526803190927, 0.6981317007977318), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.9198621771937625 - 0.10471975511965978 * sin((sine + 0.3) * 2), 0, 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -2.45 - 0.05 * sin(sine * 2), 0) * angles(0.03490658503988659 * sin(sine * 2), 0, 3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), 1.3089969389957472, -0.9599310885968813), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.03490658503988659 * sin(sine * 2), -1.3089969389957472, 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,2,155,-5,0.1,2,0.75,0,0,2,-160,0,0,2,-0.2,0,0,2,-40,0,0,2,RightArm,1,0,0,2,155,-5,0.1,2,0.75,0,0,2,160,0,0,2,-0.2,0,0,2,40,0,0,2,Head,0,0,0,2,-110,-6,0.3,2,1,0,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Torso,0,0,0,2,0,2,0,2,-2.45,-0.05,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,RightLeg,1,0,0,2,80,-2,0,2,-1,0,0,2,75,0,0,2,0,0,0,2,-55,0,0,2,LeftLeg,-1,0,0,2,90,-2,0,2,-1,0,0,2,-75,0,0,2,0,0,0,2,90,0,0,2
+				end
+			})
+			addmode("e", {
+				idle = function()
+					velYchg()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9, 0.4 + 0.1 * sin(sine * 2), 0.3 - 0.15 * sin(sine * 2)) * angles(-1.0471975511965976 - 0.12217304763960307 * sin(sine * 2), -1.3962634015954636, -0.6981317007977318), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -1.85 - 0.1 * sin((sine + 0.2) * 2), 0) * angles(-1.3962634015954636 + 0.03490658503988659 * sin(sine * 2), -0.08726646259971647, 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.4 + 0.1 * sin(sine * 2), 0.2 - 0.15 * sin(sine * 2)) * angles(0.6108652381980153 - 0.12217304763960307 * sin(sine * 2), 1.2217304763960306, -0.7853981633974483), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.03490658503988659 * sin((sine + 0.6) * 2), 0.10471975511965978 + 0.06981317007977318 * sin(sine * 0.66), 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, 0.2 + 0.15 * sin((sine + 0.2) * 2), -0.7 + 0.1 * sin(sine * 2)) * angles(1.4835298641951802 + 0.03490658503988659 * sin(sine * 2), 1.4835298641951802, -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.75 + 0.1 * sin((sine + 0.2) * 2), -0.5) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), -1.6580627893946132, 0), deltaTime) 
+					--LeftArm,-0.9,0,0,2,-60,-7,0,2,0.4,0.1,0,2,-80,0,0,2,0.3,-0.15,0,2,-40,0,0,2,Torso,0,0,0,2,-80,2,0,2,-1.85,-0.1,0.2,2,-5,0,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,35,-7,0,2,0.4,0.1,0,2,70,0,0,2,0.2,-0.15,0,2,-45,0,0,2,Head,0,0,0,2,-95,-2,0.6,2,1,0,0,2,6,4,0,0.66,0,0,0,2,180,20,0,0.66,RightLeg,1,0,0,2,85,2,0,2,0.2,0.15,0.2,2,85,0,0,2,-0.7,0.1,0,2,-90,0,0,2,LeftLeg,-1,0,0,2,80,-2,0,2,-0.75,0.1,0.2,2,-95,0,0,2,-0.5,0,0,2,0,0,0,2
+				end
+			})
+			addmode("r", {
+				idle = function()
+					local Ychg=velYchg()/20
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9 - 0.2 * sin(sine * 2)-Ychg, 0) * angles(1.5707963267948966, 1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin(sine + 0.8), -0.1 + 0.2 * sin(sine * 2)+Ychg, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine - 0.5) * 2), 0.08726646259971647 * sin(sine - 1), -3.141592653589793 + 0.2617993877991494 * sin(sine * 5)), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1 + 0.1 * sin(sine * 7), 0.2 - 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 + 0.5235987755982988 * sin(sine * 7), -0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.9 - 0.2 * sin(sine * 2)-Ychg, 0) * angles(1.5707963267948966, -1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.1 * sin(sine * 7), 0.2 + 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 - 0.5235987755982988 * sin(sine * 7), 0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					--RightLeg,1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,95,-10,0.8,1,0,0,0,1,-90,0,0,1,Torso,0,0.3,0.8,1,-90,0,0,1,-0.1,0.2,0,2,0,0,0,1,0,0,0,1,-180,0,0,1,Head,0,0,0,1,-90,5,-0.5,2,1,0,0,1,0,5,-1,1,0,0,0,1,-180,15,0,5,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1,0.1,0,7,90,30,0,7,0.2,-0.1,0.8,1,-40,0,0,1,-0.25,0,0,1,0,20,0,7,LeftLeg,-1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,-95,-10,0.8,1,0,0,0,1,90,0,0,1,RightArm,1,0.1,0,7,90,-30,0,7,0.2,0.1,0.8,1,40,0,0,1,-0.25,0,0,1,-0,20,0,7
+				end
+			})
+			addmode("t", {
+				idle = function()
+					local Ychg=velYchg()/20
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(1.5707963267948966, -1.6580627893946132 + 0.08726646259971647 * sin((sine - 0.3) * 4), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.15 * sin((sine - 0.4) * 4), 1.42, 0) * angles(1.5707963267948966, 1.4835298641951802 - 0.3490658503988659 * sin((sine - 0.4) * 4), 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.4835298641951802, 0.04363323129985824 - 0.08726646259971647 * sin((sine + 0.1) * 4), -3.141592653589793 + 0.04363323129985824 * sin(sine * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.1 * sin(sine * 4), Ychg, 0) * angles(-1.5707963267948966, -0.08726646259971647 + 0.08726646259971647 * sin(sine * 4), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + 0.1 * sin(sine * 4)-Ychg, 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.08726646259971647 * sin(sine * 4), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1 - 0.02 * sin(sine * 4), -0.925 - 0.07 * sin(sine * 4)-Ychg, 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.08726646259971647 * sin(sine * 4), 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,4,90,0,0,4,0.5,0,0,4,-95,5,-0.3,4,0,0,0,4,90,0,0,4,RightArm,1,0.15,-0.4,4,90,0,0,4,1.42,0,0,4,85,-20,-0.4,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-85,0,0,4,1,0,0,4,2.5,-5,0.1,4,0,0,0,4,-180,2.5,0,4,Torso,0,0.1,0,4,-90,0,0,4,0,0,0,4,-5,5,0,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,0,0,4,-1.1,0.1,0,4,90,5,0,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,-0.02,0,4,90,0,0,4,-0.925,-0.07,0,4,-100,5,0,4,0,0,0,4,90,0,0,4
+				end
+			})
+			addmode("y", {
+				idle = function()
+					local Ychg=velYchg()/20
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(-1.7453292519943295, 0.17453292519943295 - 0.04363323129985824 * sin(sine * 2), -1.4835298641951802), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9000000953674316 - 0.1 * sin(sine * 2)-Ychg, 0) * angles(-1.3962634015954636, 1.3962634015954636, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1.0000001192092896 - 0.1 * sin(sine * 2)-Ychg, 0) * angles(-1.5707963267948966, -1.3962634015954636, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-2.0943951023931953 + 0.08726646259971647 * sin((sine - 1) * 2), -0.08726646259971647, 2.792526803190927), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 1.2000000476837158, 0) * angles(2.6179938779914944 + 0.08726646259971647 * sin((sine - 1) * 2), 0.6981317007977318, -1.3962634015954636), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.1 * sin(sine * 2) + Ychg, 0) * angles(-1.6580627893946132, 0.08726646259971647, 3.0543261909900767), deltaTime) 
+					--LeftArm,-1.5,0,0,2,-100,0,0,2,0.5,0,0,2,10,-2.5,0,2,0,0,0,2,-85,0,0,2,RightLeg,1,0,0,2,-80,0,0,2,-0.9000000953674316,-0.1,0,2,80,0,0,2,0,0,0,2,90,0,0,2,LeftLeg,-1,0,0,2,-90,0,0,2,-1.0000001192092896,-0.1,0,2,-80,0,0,2,0,0,0,2,-90,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-120,5,-1,2,1,0,0,2,-5,0,0,2,0,0,0,2,160,0,0,2,RightArm,1,0,0,2,150,5,-1,2,1.2000000476837158,0,0,2,40,0,0,2,0,0,0,2,-80,0,0,2,Torso,0,0,0,2,-95,0,0,2,0,0.1,0,2,5,0,0,2,0,0,0,2,175,0,0,2
+				end
+			})
+			addmode("u", {
+				idle = function()
+					velYchg()
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.75 + 0.25 * sin(sine * 2), 0) * angles(-1.5707963267948966, 0, 3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1.5 - 0.1 * sin((sine + 0.2) * 2), 0) * angles(-1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.4) * 2), 0, 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.5 - 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), 1 * sin((sine + 0.95) * 2.2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(0.5 + 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), -1 * sin((sine + 0.95) * 2.2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(-0.5 - 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), -1.85 * sin((sine + 0.75) * 2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(0.5 + 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), 1.85 * sin((sine + 0.75) * 2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					--Torso,0,0,0,2,-90,0,0,2,0.75,0.25,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-90,-5,0.4,2,1.5,-0.1,0.2,2,-0,0,0,2,0,0,0,2,180,20,0,0.66,LeftLeg,-0.5,-1,0.2,2.2,-0,0,0,2,-0.75,-0.25,0,2,-90,0,0,2,0,1,0.95,2.2,0,0,0,2,RightLeg,0.5,1,0.2,2.2,0,0,0,2,-0.75,-0.25,0,2,90,0,0,2,0,-1,0.95,2.2,0,0,0,2,RightArm,-0.5,-1.85,0,2,0,0,0,2,0.8,-0.5,0,2,90,0,0,2,0,-1.85,0.75,2,0,0,0,2,LeftArm,0.5,1.85,0,2,-0,0,0,2,0.8,-0.5,0,2,-90,0,0,2,0,1.85,0.75,2,0,0,0,2
+				end
+			})
+			addmode("i", {
+				idle = function()
+					local Ychg=velYchg()/20
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), -0.5235987755982988, 1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 + 0.1 * sin((sine + 0.26666666666666666) * 4.5)-Ychg, -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 4.5), -1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), 1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.5 + 0.5 * sin((sine + 0.17777777777777778) * 9)+Ychg, 0) * angles(-1.3962634015954636 - 0.03490658503988659 * sin((sine + 0.17777777777777778) * 9), -0.05235987755982989 * sin(sine * 4.5), 3.141592653589793 + 0.03490658503988659 * sin(sine * 4.5)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1 + 0.2 * sin(sine * 9), 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin(sine * 9), 0.08726646259971647 * sin(sine * 4.5), 3.141592653589793 - 0.06981317007977318 * sin(sine * 4.5)), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), 0.5235987755982988, -1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 + 0.1 * sin((sine - 0.26666666666666666) * 4.5)-Ychg, -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 4.5), 1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,-30,0,0,4.5,0,0,0,4.5,90,10,0,4.5,LeftLeg,-1,0,0,4.5,100,-60,0,4.5,-0.5,0.1,0.26666666666666666,4.5,-90,2,0,4.5,-0.5,0,0,4.5,90,0,0,4.5,Torso,0,0,0,4.5,-80,-2,0.17777777777777778,9,-0.5,0.5,0.17777777777777778,9,-0,-3,0,4.5,0,0,0,4.5,180,2,0,4.5,Head,0,0,0,4.5,-90,5,0,9,1,0.2,0,9,-0,5,0,4.5,0,0,0,4.5,180,-4,0,4.5,RightArm,0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,30,0,0,4.5,0,0,0,4.5,-90,10,0,4.5,RightLeg,1,0,0,4.5,100,60,0,4.5,-0.5,0.1,-0.26666666666666666,4.5,90,2,0,4.5,-0.5,0,0,4.5,-90,0,0,4.5
+				end,
+			})
+			addmode("o", {
+				idle = function()
+					local Ychg=velYchg()/20
+					local rY, lY = raycastlegs()
+	
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + lY-Ychg, lY * -0.5) * angles(-1.8325957145940461 - 0.08726646259971647 * sin(sine * 2), -1.4835298641951802, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, Ychg, 0.09 * sin(sine * 2)) * angles(-1.3962634015954636 + 0.08726646259971647 * sin(sine * 2), -0.08726646259971647, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(2.9670597283903604 + 0.08726646259971647 * sin(sine * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + rY-Ychg, rY * -0.5) * angles(-1.7453292519943295 - 0.08726646259971647 * sin(sine * 2), 1.5707963267948966, 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.2217304763960306 - 0.08726646259971647 * sin((sine + 0.3) * 2), -0.2617993877991494 - 0.08726646259971647 * sin(sine * 2), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(2.8797932657906435 + 0.08726646259971647 * sin(sine * 1), 1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					--LeftLeg,-1,0,0,2,-105,-5,0,2,-1,0,0,2,-85,0,0,2,0,0,0,2,-90,0,0.75,2,Torso,0,0,0,2,-80,5,0,2,0,0,0,2,-5,0,0,2,0,0.09,0,2,180,0,0,2,LeftArm,-1,0,0,2,170,5,0,1,0.5,0,0,2,-90,5,0.6,1,0,0,0,2,90,0,0,2,RightLeg,1,0,0,2,-100,-5,0,2,-1.1,0,0,2,90,0,0,2,0,0,0,2,90,0,0.75,2,Head,0,0,0,2,-70,-5,0.3,2,1,0,0,2,-15,-5,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,165,5,0,1,0.5,0,0,2,90,-5,0.6,1,0,0,0,2,-90,0,0,2
+				end,
+				walk = function()
+					local Ychg=velYchg()/20
+					local Vfw, Vrt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.04363323129985824 * sin(sine * 16), 0, 3.141592653589793 + 0.08726646259971647 * sin(sine * 8) - Vrt), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.3 * sin((sine + 0.15) * 8) + rY-Ychg, rY * -0.5) * angles(-1.5707963267948966 - 0.6981317007977318 * sin(sine * 8) * Vfw, 1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vrt, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), 1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - Vrt/3, 1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), -1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - Vrt/3, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.1 * sin((sine + 0.1) * 16)+Ychg, 0) * angles(-1.5707963267948966, 0, 3.141592653589793 - 0.08726646259971647 * sin(sine * 8)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + 0.3 * sin((sine + 0.15) * 8) + lY-Ychg, lY * -0.5) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vfw, -1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vrt, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,2.5,0,16,1,0,0,8,-0,0,0,8,0,0,0,8,180,5,0,8,RightLeg,1,0,0,8,-90,-40,0,8,-1,-0.3,0.15,8,90,40,0,8,0,0,0,8,90,0,0,8,RightArm,1,0,0,8,0,5,-0.05,16,0.5,0,0,8,90,5,0,8,0,0,0,8,90,0,0,8,LeftArm,-1,0,0,8,0,5,-0.05,16,0.5,0,0,8,-90,5,0,8,0,0,0,8,-90,0,0,8,Torso,0,0,0,8,-90,0,0,8,0,0.1,0.1,16,-0,0,0,8,0,0,0,8,180,-5,0,8,LeftLeg,-1,0,0,8,90,40,0,8,-1,0.3,0.15,8,-90,40,0,8,0,0,0,8,90,0,0,8
+				end
+			})
+			addmode("p", {
+				idle = function()
+					local Ychg=velYchg()/20
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, -1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1-Ychg, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1-Ychg, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, Ychg, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					--RightArm,1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,-90,0,0,1,RightLeg,1,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,90,0,0,1,LeftLeg,-1,0,0,1,-0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1,Torso,0,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1
+				end
+			})
+			addmode("f", {
+				modeEntered = function()
+					setWalkSpeed(25)
+				end,
+				idle = function()
+					velYchg()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1), 0.08726646259971647 * sin((sine + 0.2) * 0.5), -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1)) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1), 0.08726646259971647 * sin(sine * 0.5), 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1), -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1), 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end,
+				walk = function()
+					velYchg()
+					local Vfw, Vrt = velbycfrvec()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1) - Vfw * 0.1, -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1) + Vrt * 0.2, -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1) + Vfw * 0.1, 0.08726646259971647 * sin((sine + 0.2) * 0.5) - Vrt * 0.2, -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1)) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1) - Vfw * 0.2, 0.08726646259971647 * sin(sine * 0.5), 3.141592653589793 - Vrt * 0.2), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1) - Vfw * 0.2, -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1) - Vfw * 0.2, 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end,
+				modeLeft = function()
+					setWalkSpeed(16)
+				end,
+			})
+			addmode("g", {
+				idle = function()
+					local Ychg=velYchg()/20
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9 + 0.4 * sin(sine * 8), 0.5, 0.5 * sin((sine + 0.25) * 4)) * angles(1.5707963267948966, -1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), 1.5707963267948966 + 0.6981317007977318 * sin((sine + 0.25) * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin((sine + 0.4) * 8), Ychg, 0) * angles(-1.5707963267948966, 0.3490658503988659 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.061086523819801536 * sin((sine + 0.125) * 16), -0.3839724354387525 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.4 * sin((sine - 0.01) * 8)-Ychg, 0) * angles(1.5707963267948966, 1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.4 * sin((sine - 0.01) * 8)-Ychg, 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.9 + 0.4 * sin(sine * 8), 0.5, -0.5 * sin((sine - 0.35) * 4)) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 4), 1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), -1.5707963267948966 + 0.17453292519943295 * sin((sine - 0.35) * 4)), deltaTime) 
+					--LeftArm,-0.9,0.4,0,8,90,0,0.25,4,0.5,0,0,8,-90,60,0,8,0,0.5,0.25,4,90,40,0.25,4,Torso,0,0.3,0.4,8,-90,0,0,8,0,0,0,4,0,20,0,8,0,0,0,8,-180,0,0,8,Head,0,0,0,8,-90,3.5,0.125,16,1,0,0,8,0,-22,0,8,0,0,0,8,-180,0,0,1.1,RightLeg,1,0,0,8,90,0,0,8,-1,0.4,-0.01,8,100,40,0,8,0,0,0,8,-90,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.4,-0.01,8,-100,40,0,8,0,0,0,8,90,0,0,8,RightArm,0.9,0.4,0,8,90,40,0,4,0.5,0,0,8,90,60,0,8,0,-0.5,-0.35,4,-90,10,-0.35,4
+				end
+			})
+			addmode("h", {
+				idle = function()
+					local Ychg=velYchg()/20
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, -0.4363323129985824 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.3 * sin(sine * 8)-Ychg, 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 1, 0) * angles(-0.5235987755982988, -1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 1, 0) * angles(-0.5235987755982988, 1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(-0.1 * sin(sine * 8), 0.2 * sin((sine + 0.1) * 16)+Ychg, 0) * angles(-1.5707963267948966, 0.2617993877991494 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.3 * sin(sine * 8)-Ychg, 0) * angles(1.5707963267948966, -1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,0,0,8,1,0,0,8,0,-25,0,8,0,0,0,8,-180,0,0,8,RightLeg,1,0,0,8,90,0,0,8,-1,0.3,0,8,90,30,0,8,0,0,0,8,-90,0,0,8,LeftArm,-0.5,0,0,8,-30,0,0,8,1,0,0,8,-90,-30,0,8,0,0,0,8,180,0,0,8,RightArm,0.5,0,0,8,-30,0,0,8,1,0,0,16,90,-30,0,8,0,0,0,8,180,0,0,8,Torso,0,-0.1,0,8,-90,0,0,8,0,0.2,0.1,16,0,15,0,8,0,0,0,8,-180,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.3,0,8,-90,30,0,8,0,0,0,8,90,0,0,8,Fedora_Handle,8.657480066176504e-09,0,0,8,-6,0,0,8,-0.15052366256713867,0,0,8,0,0,0,8,-0.010221302509307861,0,0,8,0,0,0,8
+				end
+			})
+			addmode("j", {
+				idle = function()
+					local Ychg=velYchg()/20
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.2, 0.5, 0) * angles(-0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 0.6981317007977318 + 0.08726646259971647 * sin((sine + 0.1) * 4)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1.1, -1, 0) * angles(1.5707963267948966, 1.7453292519943295, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 2.792526803190927), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -1.7 + 0.5 * sin(sine * 4)+Ychg, 0.15 * sin(sine * 4)) * angles(3.3161255787892263 + 0.17453292519943295 * sin(sine * 4), 0, 3.6651914291880923), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 + 0.4 * sin(sine * 4), 0.6 + 0.1 * sin(sine * 4), 0.4 - 0.25 * sin(sine * 4)) * angles(2.9670597283903604, 2.2689280275926285 - 0.17453292519943295 * sin(sine * 4), -1.4835298641951802 - 0.17453292519943295 * sin(sine * 4)), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1,0,0,0,1,0.10000000149011612,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,LeftLeg,-0.8,0,0,4,10,0,0,4,-1,0,0,4,-40,0,0,4,-0.1,0,0,4,0,0,0,4,LeftArm,-1.2,0,0,4,-20,5,0.1,4,0.5,0,0,4,0,0,0,4,0,0,0,4,40,5,0.1,4,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1,-15,0,0,1,-0.2433757781982422,0,0,1,0,0,0,1,-0.2657628059387207,0,0,1,0,0,0,1,RightLeg,1.1,0,0,4,90,0,0,4,-1,0,0,4,100,0,0,4,0,0,0,4,-90,0,0,4,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,DevAwardsAdurite_Handle,0,0,0,1,0,0,0,1,-0.25,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,Head,0,0,0,4,-90,5,0.1,4,1,0,0,4,-0,0,0,4,0,0,0,4,160,0,0,4,Torso,0,0,0,4,190,10,0,4,-1.70,0.5,0,4,-0,0,0,4,0,0.15,0,4,210,0,0,4,RightArm,0.8,0.4,0,4,170,0,0,4,0.6,0.1,0,4,130,-10,0,4,0.4,-0.25,0,4,-85,-10,0,4
+				end
+			})
+			addmode("k", {
+				idle = function()
+					local Ychg=velYchg()/20
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12), -0.08726646259971647 * sin((sine + 0.2) * 6), 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12)-Ychg, -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 6), -1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12)-Ychg, -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 6), 1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.5 + 0.3 * sin((sine + 0.16666666666666666) * 12)+Ychg, 0) * angles(-1.3962634015954636 + 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12), 0.08726646259971647 * sin((sine + 0.06666666666666667) * 6), 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.8 - 0.1 * sin(sine * 6), 0.5 + 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), -0.17453292519943295, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 - 0.1 * sin(sine * 6), 0.5 - 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), 0.17453292519943295, -1.5707963267948966), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1.5,0,0,0,1.5,0.10000000149011612,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Head,0,0,0,6,-95,-5,0.3333333333333333,12,1,0,0,6,-0,-5,0.2,6,0,0,0,6,180,0,0,6,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1.5,-15,0,0,1.5,-0.2433757781982422,0,0,1.5,0,0,0,1.5,-0.2657628059387207,0,0,1.5,0,0,0,1.5,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,Fedora_Handle,8.657480066176504e-09,0,0,1.5,-6,0,0,1.5,-0.15052366256713867,0,0,1.5,0,0,0,1.5,-0.010221302509307861,0,0,1.5,0,0,0,1.5,LeftLeg,-1,0,0,6,100,-60,0,6,-0.5,-0.5,0.39999999999999997,12,-90,7.5,0,6,-0.5,0,0,6,90,0,0,6,EyelessSmileHead_Handle,-0.00043487548828125,0,0,1.5,180,0,0,1.5,0.6000361442565918,0,0,1.5,0,0,0,1.5,0.0003204345703125,0,0,1.5,180,0,0,1.5,RightLeg,1,0,0,6,100,60,0,6,-0.5,-0.5,0.39999999999999997,12,90,7.5,0,6,-0.5,0,0,6,-90,0,0,6,DevAwardsAdurite_Handle,0,0,0,1.5,0,0,0,1.5,-0.25,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Torso,0,0,0,6,-80,5,0.3333333333333333,12,-0.5,0.3,0.16666666666666666,12,-0,5,0.06666666666666667,6,0,0,0,6,180,0,0,6,LeftArm,-0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,0.1,0,6,-10,0,0,6,-0.2,0,0,6,90,0,0,6,RightArm,0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,-0.1,0,6,10,0,0,6,-0.2,0,0,6,-90,0,0,6
+				end
+			})
+			local function idleL()
+				local Ychg=velYchg()/20
+				RightHip.C0=RightHip.C0:Lerp(cf(1,-0.9+0.2*sin((sine - 0.2)*16)-Ychg,0.25)*angles(0,0.7853981633974483,0.4363323129985824-1.1344640137963142*sin((sine-0.0875)*8)),deltaTime) 
+				RootJoint.C0=RootJoint.C0:Lerp(cf(0.15 * sin((sine-0.1)*8),0.54 * sin(sine*16)+Ychg,0)*angles(-1.5707963267948966,-0.08726646259971647*sin((sine-0.0785)*8),3.141592653589793-0.08726646259971647*sin((sine-0.0785)*8)),deltaTime) 
+				RightShoulder.C0=RightShoulder.C0:Lerp(cf(0.75+0.07*sin((sine - 0.0785)*8),1.3+0.1*sin((sine - 0.0875)*16),0)*angles(1.3962634015954636,2.356194490192345-0.06981317007977318*sin((sine-0.0785)*8),1.2217304763960306),deltaTime) 
+				Neck.C0=Neck.C0:Lerp(cf(0,1,0)*angles(-1.5707963267948966+0.08726646259971647*sin((sine-0.1)*16),0.12217304763960307*sin((sine-0.0785)*8),3.141592653589793),deltaTime) 
+				LeftHip.C0=LeftHip.C0:Lerp(cf(-1,-0.9+0.2*sin((sine - 0.2)*16)-Ychg,0.25)*angles(0,-0.7853981633974483,-0.4363323129985824-1.1344640137963142*sin((sine-0.0875)*8)),deltaTime) 
+				LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(-1,0.45+0.05*sin((sine - 0.0875)*16),-0.2)*angles(2.0943951023931953+0.17453292519943295*sin((sine-0.0875)*16),-0.5235987755982988,1.5707963267948966+0.17453292519943295*sin((sine-0.0875)*16)),deltaTime) 
+				--MW_animatorProgressSave: RightLeg,1,0,0,16,0,0,0,8,-0.9,0.2,-0.2,16,45,0,-0.0875,8,0.25,0,0,16,25,-65,-0.0875,8,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Torso,0,0.15,-0.1,8,-90,0,0,16,0,0.54,0,16,-0,-5,-0.0785,8,0,0,0,16,180,-5,-0.0785,8,RightArm,0.75,0.07,-0.0785,8,80,0,0,16,1.3,0.1,-0.0875,16,135,-4,-0.0785,8,0,0,0,16,70,0,0,16,Head,0,0,0,16,-90,5,-0.1,16,1,0,0,16,-0,7,-0.0785,8,0,0,0,16,180,0,0,16,LeftLeg,-1,0,0,16,0,0,0,8,-0.9,0.2,-0.2,16,-45,0,0,8,0.25,0,0,16,-25,-65,-0.0875,8,Bandana_Handle,3.9362930692732334e-09,0,0,2,0,0,0,2,0.3000001907348633,0,0,2,0,0,0,2,-0.6002722978591919,0,0,2,0,0,0,2,LeftArm,-1,0,0,16,120,10,-0.0875,16,0.45,0.05,-0.0875,16,-30,0,0,16,-0.2,0,0,16,90,10,-0.0875,16
+			end
+			addmode("l", {
+				modeEntered = function()
+					setWalkSpeed(10)
+				end,
+				idle = idleL,
+				walk = idleL,
+				modeLeft = function()
+					setWalkSpeed(16)
+				end
+			})
+		end)
+	
+		btn("nameless animations V7", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local raycastlegs=t.raycastlegs
+			local velbycfrvec=t.velbycfrvec
+			local velchgbycfrvec=t.velchgbycfrvec
+			local addmode=t.addmode
+			local getJoint=t.getJoint
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+	
+			addmode("default", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.3 + 0.1 * sin(sine * 2), -0.1) * angles(-0.5235987755982988 + 0.05235987755982989 * sin((sine + 1.5) * 2), 1.0471975511965976 + 0.08726646259971647 * sin((sine + 0.5) * 2), 0.5235987755982988), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 + 0.08726646259971647 * sin((sine + 0.6) * 2), 0, 3.141592653589793 + 0.2617993877991494 * sin((sine - 1.2) * 1)), deltaTime)
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0.1 * sin(sine * 2), Cfw * -3) * angles(-1.5707963267948966 + 0.08726646259971647 * sin(sine * 2) - Cfw, Crt, 3.141592653589793), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.1 * sin(sine * 2) + rY, 0.1 * sin(sine * 2) - rY * 0.5) * angles(-0.6981317007977318 - 0.08726646259971647 * sin(sine * 2), 1.0471975511965976, 0.5235987755982988), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.6 + 0.1 * sin(sine * 2), 0) * angles(3.141592653589793 + 0.05235987755982989 * sin((sine + 0.5) * 2), -2.705260340591211 + 0.017453292519943295 * sin((sine + 1.5) * 2), -1.2217304763960306 + 0.05235987755982989 * sin((sine + 1.5) * 2)), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.1 * sin(sine * 2) + lY, 0.1 * sin(sine * 2) - lY * 0.5) * angles(-0.3490658503988659 - 0.08726646259971647 * sin(sine * 2), -1.0471975511965976, -0.5235987755982988), deltaTime)
+					--RightArm,1,0,0,2,-30,3,1.5,2,0.3,0.1,0,2,60,5,0.5,2,-0.1,0,0,2,30,0,0,2,Head,0,0,0,2,-95,5,0.6,2,1,0,0,2,-0,0,0,1,0,0,0,2,180,15,-1.2,1,Torso,0,0,0,2,-90,5,0,2,0,0.1,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,RightLeg,1,0,0,2,-40,-5,0,2,-1,-0.1,0,2,60,0,0,2,0,0.1,0,2,30,0,0,2,Meshes/TrollFaceHeadAccessory_Handle,0.01043701171875,0,0,1,0,0,0,1,0.43610429763793945,0,0,1,0,0,0,1,-0.01102447509765625,0,0,1,0,0,0,1,LeftArm,-1,0,0,2,180,3,0.5,2,0.6,0.1,0,2,-155,1,1.5,2,0,0,0,2,-70,3,1.5,2,LeftLeg,-1,0,0,2,-20,-5,0,2,-1,-0.1,0,2,-60,0,0,2,0,0.1,0,2,-30,0,0,2
+				end,
+				walk = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -0.2 + 0.2 * sin(sine * 16), Cfw * -3) * angles(-1.6580627893946132 + 0.04363323129985824 * sin(sine * 16) - Vfw * 0.15 - Cfw, 0.03490658503988659 * sin(sine * 8) + Vrt * 0.15 + Crt, -3.141592653589793 - 0.08726646259971647 * sin((sine + 0.25) * 8) - Vrt * 0.1), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.8 + 0.4 * sin((sine + 0.125) * 8) + rY, -0.15 * Vfw + 0.4 * sin((sine + 10) * 8) * Vfw + rY * -0.5) * angles(1.3962634015954636 + 0.6981317007977318 * sin(sine * 8)*Vfw, 1.5707963267948966 + 0.6981317007977318 * sin(sine * 8)*Vrt, -1.5707963267948966 + 0.2617993877991494 * sin(sine * 8)), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.35 - 0.1 * sin(sine * 8), 0) * angles(0.5235987755982988 * sin(sine * 8)*Vfw, -1.5707963267948966 - 0.5235987755982988 * sin(sine * 8)*Vfw, -0.5235987755982988 * sin(sine * 8)*Vfw), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.35 + 0.1 * sin(sine * 8), 0) * angles(-0.5235987755982988 * sin(sine * 8)*Vfw, 1.5707963267948966 - 0.5235987755982988 * sin(sine * 8)*Vfw, -0.5235987755982988 * sin(sine * 8)*Vfw), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.8 - 0.4 * sin((sine + 0.125) * 8) + lY, -0.15 * Vfw - 0.4 * sin((sine + 10) * 8) * Vfw + lY * -0.5) * angles(1.3962634015954636 - 0.6981317007977318 * sin(sine * 8)*Vfw, -1.5707963267948966 - 0.6981317007977318 * sin(sine * 8)*Vrt, 1.5707963267948966 + 0.2617993877991494 * sin(sine * 8)), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine + 10) * 16) + Vfw * 0.15, -0.08726646259971647 * sin(sine * 8) + Vrt * -0.1, 3.141592653589793 - 0.05235987755982989 * sin((sine + 5) * 8) - Vrt * 0.5), deltaTime)
+					--Torso,0,0,0,8,-95,2.5,0,16,-0.2,0.2,0,16,0,5,0,8,0,0,0,8,-180,-5,0.25,8,RightArm,1,0,0,1,0,-30,0,8,0.35,0.1,0,8,90,-30,0,8,0,0,0,8,0,-30,0,8,RightLeg,1,0,0,8,80,40,0,8,-0.8,0.4,0.125,8,90,40,0,8,-0.15,0.4,10,8,-90,15,0,8,LeftLeg,-1,0,0,8,80,-40,0,8,-0.8,-0.4,0.125,8,-90,-40,0,8,-0.15,-0.4,10,8,90,15,0,8,Head,0,0,0,1,-90,2.5,10,16,1,0,0,1,-0,-5,0,8,0,0,0,1,180,-3,5,8,LeftArm,-1,0,0,1,0,30,0,8,0.35,-0.1,0,8,-90,-30,0,8,0,-0.4,0,8,0,-30,0,8
+				end,
+				jump = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0, Cfw * -3) * angles(-1.4835298641951802 + Vfw * 0.1 - Cfw, Vrt * -0.05 + Crt, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3962634015954636, 0, -3.141592653589793 - Vrt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-85,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-80,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end,
+				fall = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0, Cfw * -3) * angles(-1.6580627893946132 + Vfw * 0.1 - Cfw, Vrt * -0.05 + Crt, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.7453292519943295, 0, -3.141592653589793 - Vrt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-95,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-100,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end
+			})
+	
+			addmode("q", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), -2.792526803190927, -0.6981317007977318), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), 2.792526803190927, 0.6981317007977318), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.9198621771937625 - 0.10471975511965978 * sin((sine + 0.3) * 2), 0, 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -2.45 - 0.05 * sin(sine * 2), Cfw * -3) * angles(0.03490658503988659 * sin(sine * 2) - Cfw, Crt, 3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), 1.3089969389957472, -0.9599310885968813), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.03490658503988659 * sin(sine * 2), -1.3089969389957472, 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,2,155,-5,0.1,2,0.75,0,0,2,-160,0,0,2,-0.2,0,0,2,-40,0,0,2,RightArm,1,0,0,2,155,-5,0.1,2,0.75,0,0,2,160,0,0,2,-0.2,0,0,2,40,0,0,2,Head,0,0,0,2,-110,-6,0.3,2,1,0,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Torso,0,0,0,2,0,2,0,2,-2.45,-0.05,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,RightLeg,1,0,0,2,80,-2,0,2,-1,0,0,2,75,0,0,2,0,0,0,2,-55,0,0,2,LeftLeg,-1,0,0,2,90,-2,0,2,-1,0,0,2,-75,0,0,2,0,0,0,2,90,0,0,2
+				end
+			})
+			addmode("e", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9, 0.4 + 0.1 * sin(sine * 2), 0.3 - 0.15 * sin(sine * 2)) * angles(-1.0471975511965976 - 0.12217304763960307 * sin(sine * 2), -1.3962634015954636, -0.6981317007977318), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -1.85 - 0.1 * sin((sine + 0.2) * 2), Cfw * -3) * angles(-1.3962634015954636 + 0.03490658503988659 * sin(sine * 2) - Cfw, -0.08726646259971647 + Crt, 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.4 + 0.1 * sin(sine * 2), 0.2 - 0.15 * sin(sine * 2)) * angles(0.6108652381980153 - 0.12217304763960307 * sin(sine * 2), 1.2217304763960306, -0.7853981633974483), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.03490658503988659 * sin((sine + 0.6) * 2), 0.10471975511965978 + 0.06981317007977318 * sin(sine * 0.66), 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, 0.2 + 0.15 * sin((sine + 0.2) * 2), -0.7 + 0.1 * sin(sine * 2)) * angles(1.4835298641951802 + 0.03490658503988659 * sin(sine * 2), 1.4835298641951802, -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.75 + 0.1 * sin((sine + 0.2) * 2), -0.5) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), -1.6580627893946132, 0), deltaTime) 
+					--LeftArm,-0.9,0,0,2,-60,-7,0,2,0.4,0.1,0,2,-80,0,0,2,0.3,-0.15,0,2,-40,0,0,2,Torso,0,0,0,2,-80,2,0,2,-1.85,-0.1,0.2,2,-5,0,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,35,-7,0,2,0.4,0.1,0,2,70,0,0,2,0.2,-0.15,0,2,-45,0,0,2,Head,0,0,0,2,-95,-2,0.6,2,1,0,0,2,6,4,0,0.66,0,0,0,2,180,20,0,0.66,RightLeg,1,0,0,2,85,2,0,2,0.2,0.15,0.2,2,85,0,0,2,-0.7,0.1,0,2,-90,0,0,2,LeftLeg,-1,0,0,2,80,-2,0,2,-0.75,0.1,0.2,2,-95,0,0,2,-0.5,0,0,2,0,0,0,2
+				end
+			})
+			addmode("r", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9 - 0.2 * sin(sine * 2), 0) * angles(1.5707963267948966, 1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin(sine + 0.8) + Crt * 3, -0.1 + 0.2 * sin(sine * 2), Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine - 0.5) * 2), 0.08726646259971647 * sin(sine - 1), -3.141592653589793 + 0.2617993877991494 * sin(sine * 5)), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1 + 0.1 * sin(sine * 7), 0.2 - 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 + 0.5235987755982988 * sin(sine * 7), -0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.9 - 0.2 * sin(sine * 2), 0) * angles(1.5707963267948966, -1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.1 * sin(sine * 7), 0.2 + 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 - 0.5235987755982988 * sin(sine * 7), 0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					--RightLeg,1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,95,-10,0.8,1,0,0,0,1,-90,0,0,1,Torso,0,0.3,0.8,1,-90,0,0,1,-0.1,0.2,0,2,0,0,0,1,0,0,0,1,-180,0,0,1,Head,0,0,0,1,-90,5,-0.5,2,1,0,0,1,0,5,-1,1,0,0,0,1,-180,15,0,5,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1,0.1,0,7,90,30,0,7,0.2,-0.1,0.8,1,-40,0,0,1,-0.25,0,0,1,0,20,0,7,LeftLeg,-1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,-95,-10,0.8,1,0,0,0,1,90,0,0,1,RightArm,1,0.1,0,7,90,-30,0,7,0.2,0.1,0.8,1,40,0,0,1,-0.25,0,0,1,-0,20,0,7
+				end
+			})
+			addmode("t", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(1.5707963267948966, -1.6580627893946132 + 0.08726646259971647 * sin((sine - 0.3) * 4), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.15 * sin((sine - 0.4) * 4), 1.42, 0) * angles(1.5707963267948966, 1.4835298641951802 - 0.3490658503988659 * sin((sine - 0.4) * 4), 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.4835298641951802, 0.04363323129985824 - 0.08726646259971647 * sin((sine + 0.1) * 4), -3.141592653589793 + 0.04363323129985824 * sin(sine * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.1 * sin(sine * 4) + Crt * 3, 0, Cfw * -3) * angles(-1.5707963267948966 - Cfw, -0.08726646259971647 + 0.08726646259971647 * sin(sine * 4) + Crt, -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + 0.1 * sin(sine * 4), 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.08726646259971647 * sin(sine * 4), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1 - 0.02 * sin(sine * 4), -0.925 - 0.07 * sin(sine * 4), 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.08726646259971647 * sin(sine * 4), 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,4,90,0,0,4,0.5,0,0,4,-95,5,-0.3,4,0,0,0,4,90,0,0,4,RightArm,1,0.15,-0.4,4,90,0,0,4,1.42,0,0,4,85,-20,-0.4,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-85,0,0,4,1,0,0,4,2.5,-5,0.1,4,0,0,0,4,-180,2.5,0,4,Torso,0,0.1,0,4,-90,0,0,4,0,0,0,4,-5,5,0,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,0,0,4,-1.1,0.1,0,4,90,5,0,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,-0.02,0,4,90,0,0,4,-0.925,-0.07,0,4,-100,5,0,4,0,0,0,4,90,0,0,4
+				end
+			})
+			addmode("y", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(-1.7453292519943295, 0.17453292519943295 - 0.04363323129985824 * sin(sine * 2), -1.4835298641951802), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9000000953674316 - 0.1 * sin(sine * 2), 0) * angles(-1.3962634015954636, 1.3962634015954636, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1.0000001192092896 - 0.1 * sin(sine * 2), 0) * angles(-1.5707963267948966, -1.3962634015954636, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-2.0943951023931953 + 0.08726646259971647 * sin((sine - 1) * 2), -0.08726646259971647, 2.792526803190927), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 1.2000000476837158, 0) * angles(2.6179938779914944 + 0.08726646259971647 * sin((sine - 1) * 2), 0.6981317007977318, -1.3962634015954636), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0.1 * sin(sine * 2), Cfw * -3) * angles(-1.6580627893946132 - Cfw, 0.08726646259971647 + Crt, 3.0543261909900767), deltaTime) 
+					--LeftArm,-1.5,0,0,2,-100,0,0,2,0.5,0,0,2,10,-2.5,0,2,0,0,0,2,-85,0,0,2,RightLeg,1,0,0,2,-80,0,0,2,-0.9000000953674316,-0.1,0,2,80,0,0,2,0,0,0,2,90,0,0,2,LeftLeg,-1,0,0,2,-90,0,0,2,-1.0000001192092896,-0.1,0,2,-80,0,0,2,0,0,0,2,-90,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-120,5,-1,2,1,0,0,2,-5,0,0,2,0,0,0,2,160,0,0,2,RightArm,1,0,0,2,150,5,-1,2,1.2000000476837158,0,0,2,40,0,0,2,0,0,0,2,-80,0,0,2,Torso,0,0,0,2,-95,0,0,2,0,0.1,0,2,5,0,0,2,0,0,0,2,175,0,0,2
+				end
+			})
+			addmode("u", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0.75 + 0.25 * sin(sine * 2), Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, 3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1.5 - 0.1 * sin((sine + 0.2) * 2), 0) * angles(-1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.4) * 2), 0, 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.5 - 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), 1 * sin((sine + 0.95) * 2.2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(0.5 + 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), -1 * sin((sine + 0.95) * 2.2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(-0.5 - 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), -1.85 * sin((sine + 0.75) * 2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(0.5 + 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), 1.85 * sin((sine + 0.75) * 2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					--Torso,0,0,0,2,-90,0,0,2,0.75,0.25,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-90,-5,0.4,2,1.5,-0.1,0.2,2,-0,0,0,2,0,0,0,2,180,20,0,0.66,LeftLeg,-0.5,-1,0.2,2.2,-0,0,0,2,-0.75,-0.25,0,2,-90,0,0,2,0,1,0.95,2.2,0,0,0,2,RightLeg,0.5,1,0.2,2.2,0,0,0,2,-0.75,-0.25,0,2,90,0,0,2,0,-1,0.95,2.2,0,0,0,2,RightArm,-0.5,-1.85,0,2,0,0,0,2,0.8,-0.5,0,2,90,0,0,2,0,-1.85,0.75,2,0,0,0,2,LeftArm,0.5,1.85,0,2,-0,0,0,2,0.8,-0.5,0,2,-90,0,0,2,0,1.85,0.75,2,0,0,0,2
+				end
+			})
+			addmode("i", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), -0.5235987755982988, 1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 + 0.1 * sin((sine + 0.26666666666666666) * 4.5), -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 4.5), -1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), 1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -0.5 + 0.5 * sin((sine + 0.17777777777777778) * 9), Cfw * -3) * angles(-1.3962634015954636 - 0.03490658503988659 * sin((sine + 0.17777777777777778) * 9) - Cfw, -0.05235987755982989 * sin(sine * 4.5) + Crt, 3.141592653589793 + 0.03490658503988659 * sin(sine * 4.5)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1 + 0.2 * sin(sine * 9), 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin(sine * 9), 0.08726646259971647 * sin(sine * 4.5), 3.141592653589793 - 0.06981317007977318 * sin(sine * 4.5)), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), 0.5235987755982988, -1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 + 0.1 * sin((sine - 0.26666666666666666) * 4.5), -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 4.5), 1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,-30,0,0,4.5,0,0,0,4.5,90,10,0,4.5,LeftLeg,-1,0,0,4.5,100,-60,0,4.5,-0.5,0.1,0.26666666666666666,4.5,-90,2,0,4.5,-0.5,0,0,4.5,90,0,0,4.5,Torso,0,0,0,4.5,-80,-2,0.17777777777777778,9,-0.5,0.5,0.17777777777777778,9,-0,-3,0,4.5,0,0,0,4.5,180,2,0,4.5,Head,0,0,0,4.5,-90,5,0,9,1,0.2,0,9,-0,5,0,4.5,0,0,0,4.5,180,-4,0,4.5,RightArm,0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,30,0,0,4.5,0,0,0,4.5,-90,10,0,4.5,RightLeg,1,0,0,4.5,100,60,0,4.5,-0.5,0.1,-0.26666666666666666,4.5,90,2,0,4.5,-0.5,0,0,4.5,-90,0,0,4.5
+				end,
+			})
+			addmode("o", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + lY, lY * -0.5) * angles(-1.8325957145940461 - 0.08726646259971647 * sin(sine * 2), -1.4835298641951802, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt, 0, 0.09 * sin(sine * 2) - Cfw * 3) * angles(-1.3962634015954636 + 0.08726646259971647 * sin(sine * 2) - Cfw, -0.08726646259971647 + Crt, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(2.9670597283903604 + 0.08726646259971647 * sin(sine * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + rY, rY * -0.5) * angles(-1.7453292519943295 - 0.08726646259971647 * sin(sine * 2), 1.5707963267948966, 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.2217304763960306 - 0.08726646259971647 * sin((sine + 0.3) * 2), -0.2617993877991494 - 0.08726646259971647 * sin(sine * 2), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(2.8797932657906435 + 0.08726646259971647 * sin(sine * 1), 1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					--LeftLeg,-1,0,0,2,-105,-5,0,2,-1,0,0,2,-85,0,0,2,0,0,0,2,-90,0,0.75,2,Torso,0,0,0,2,-80,5,0,2,0,0,0,2,-5,0,0,2,0,0.09,0,2,180,0,0,2,LeftArm,-1,0,0,2,170,5,0,1,0.5,0,0,2,-90,5,0.6,1,0,0,0,2,90,0,0,2,RightLeg,1,0,0,2,-100,-5,0,2,-1.1,0,0,2,90,0,0,2,0,0,0,2,90,0,0.75,2,Head,0,0,0,2,-70,-5,0.3,2,1,0,0,2,-15,-5,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,165,5,0,1,0.5,0,0,2,90,-5,0.6,1,0,0,0,2,-90,0,0,2
+				end,
+				walk = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.04363323129985824 * sin(sine * 16), 0, 3.141592653589793 + 0.08726646259971647 * sin(sine * 8) - Vrt), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.3 * sin((sine + 0.15) * 8) + rY, rY * -0.5) * angles(-1.5707963267948966 - 0.6981317007977318 * sin(sine * 8) * Vfw, 1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vrt, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), 1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - Vrt/3, 1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), -1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - Vrt/3, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0.1 * sin((sine + 0.1) * 16), Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, 3.141592653589793 - 0.08726646259971647 * sin(sine * 8)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + 0.3 * sin((sine + 0.15) * 8) + lY, lY * -0.5) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vfw, -1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * Vrt, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,2.5,0,16,1,0,0,8,-0,0,0,8,0,0,0,8,180,5,0,8,RightLeg,1,0,0,8,-90,-40,0,8,-1,-0.3,0.15,8,90,40,0,8,0,0,0,8,90,0,0,8,RightArm,1,0,0,8,0,5,-0.05,16,0.5,0,0,8,90,5,0,8,0,0,0,8,90,0,0,8,LeftArm,-1,0,0,8,0,5,-0.05,16,0.5,0,0,8,-90,5,0,8,0,0,0,8,-90,0,0,8,Torso,0,0,0,8,-90,0,0,8,0,0.1,0.1,16,-0,0,0,8,0,0,0,8,180,-5,0,8,LeftLeg,-1,0,0,8,90,40,0,8,-1,0.3,0.15,8,-90,40,0,8,0,0,0,8,90,0,0,8
+				end
+			})
+			addmode("p", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, -1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0, Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, -3.141592653589793), deltaTime) 
+					--RightArm,1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,-90,0,0,1,RightLeg,1,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,90,0,0,1,LeftLeg,-1,0,0,1,-0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1,Torso,0,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1
+				end
+			})
+			addmode("f", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1), 0.08726646259971647 * sin((sine + 0.2) * 0.5), -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1) - Cfw * 3) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1) - Cfw, 0.08726646259971647 * sin(sine * 0.5) + Crt, 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1), -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1), 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end,
+				walk = function()
+					local Vfw, Vrt = velbycfrvec()
+	
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1) - Vfw * 0.1, -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1) + Vrt * 0.2, -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1) + Vfw * 0.1, 0.08726646259971647 * sin((sine + 0.2) * 0.5) - Vrt * 0.2, -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1) - Cfw * 3) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1) - Vfw * 0.2 - Cfw, 0.08726646259971647 * sin(sine * 0.5) + Crt, 3.141592653589793 - Vrt * 0.2), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1) - Vfw * 0.2, -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1) - Vfw * 0.2, 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end
+			})
+			addmode("g", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9 + 0.4 * sin(sine * 8), 0.5, 0.5 * sin((sine + 0.25) * 4)) * angles(1.5707963267948966, -1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), 1.5707963267948966 + 0.6981317007977318 * sin((sine + 0.25) * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin((sine + 0.4) * 8) + Crt * 3, 0, Cfw * -3) * angles(-1.5707963267948966 - Cfw, 0.3490658503988659 * sin(sine * 8) + Crt, -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.061086523819801536 * sin((sine + 0.125) * 16), -0.3839724354387525 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.4 * sin((sine - 0.01) * 8), 0) * angles(1.5707963267948966, 1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.4 * sin((sine - 0.01) * 8), 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.9 + 0.4 * sin(sine * 8), 0.5, -0.5 * sin((sine - 0.35) * 4)) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 4), 1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), -1.5707963267948966 + 0.17453292519943295 * sin((sine - 0.35) * 4)), deltaTime) 
+					--LeftArm,-0.9,0.4,0,8,90,0,0.25,4,0.5,0,0,8,-90,60,0,8,0,0.5,0.25,4,90,40,0.25,4,Torso,0,0.3,0.4,8,-90,0,0,8,0,0,0,4,0,20,0,8,0,0,0,8,-180,0,0,8,Head,0,0,0,8,-90,3.5,0.125,16,1,0,0,8,0,-22,0,8,0,0,0,8,-180,0,0,1.1,RightLeg,1,0,0,8,90,0,0,8,-1,0.4,-0.01,8,100,40,0,8,0,0,0,8,-90,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.4,-0.01,8,-100,40,0,8,0,0,0,8,90,0,0,8,RightArm,0.9,0.4,0,8,90,40,0,4,0.5,0,0,8,90,60,0,8,0,-0.5,-0.35,4,-90,10,-0.35,4
+				end
+			})
+			addmode("h", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, -0.4363323129985824 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.3 * sin(sine * 8), 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 1, 0) * angles(-0.5235987755982988, -1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 1, 0) * angles(-0.5235987755982988, 1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(-0.1 * sin(sine * 8) + Crt * 3, 0.2 * sin((sine + 0.1) * 16), Cfw * -3) * angles(-1.5707963267948966 - Cfw, 0.2617993877991494 * sin(sine * 8) + Crt, -3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.3 * sin(sine * 8), 0) * angles(1.5707963267948966, -1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,0,0,8,1,0,0,8,0,-25,0,8,0,0,0,8,-180,0,0,8,RightLeg,1,0,0,8,90,0,0,8,-1,0.3,0,8,90,30,0,8,0,0,0,8,-90,0,0,8,LeftArm,-0.5,0,0,8,-30,0,0,8,1,0,0,8,-90,-30,0,8,0,0,0,8,180,0,0,8,RightArm,0.5,0,0,8,-30,0,0,8,1,0,0,16,90,-30,0,8,0,0,0,8,180,0,0,8,Torso,0,-0.1,0,8,-90,0,0,8,0,0.2,0.1,16,0,15,0,8,0,0,0,8,-180,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.3,0,8,-90,30,0,8,0,0,0,8,90,0,0,8,Fedora_Handle,8.657480066176504e-09,0,0,8,-6,0,0,8,-0.15052366256713867,0,0,8,0,0,0,8,-0.010221302509307861,0,0,8,0,0,0,8
+				end
+			})
+			addmode("j", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.2, 0.5, 0) * angles(-0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 0.6981317007977318 + 0.08726646259971647 * sin((sine + 0.1) * 4)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1.1, -1, 0) * angles(1.5707963267948966, 1.7453292519943295, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 2.792526803190927), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -1.7 + 0.5 * sin(sine * 4), 0.15 * sin(sine * 4) - Cfw * 3) * angles(3.3161255787892263 + 0.17453292519943295 * sin(sine * 4) - Cfw, Crt, 3.6651914291880923), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 + 0.4 * sin(sine * 4), 0.6 + 0.1 * sin(sine * 4), 0.4 - 0.25 * sin(sine * 4)) * angles(2.9670597283903604, 2.2689280275926285 - 0.17453292519943295 * sin(sine * 4), -1.4835298641951802 - 0.17453292519943295 * sin(sine * 4)), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1,0,0,0,1,0.10000000149011612,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,LeftLeg,-0.8,0,0,4,10,0,0,4,-1,0,0,4,-40,0,0,4,-0.1,0,0,4,0,0,0,4,LeftArm,-1.2,0,0,4,-20,5,0.1,4,0.5,0,0,4,0,0,0,4,0,0,0,4,40,5,0.1,4,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1,-15,0,0,1,-0.2433757781982422,0,0,1,0,0,0,1,-0.2657628059387207,0,0,1,0,0,0,1,RightLeg,1.1,0,0,4,90,0,0,4,-1,0,0,4,100,0,0,4,0,0,0,4,-90,0,0,4,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,DevAwardsAdurite_Handle,0,0,0,1,0,0,0,1,-0.25,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,Head,0,0,0,4,-90,5,0.1,4,1,0,0,4,-0,0,0,4,0,0,0,4,160,0,0,4,Torso,0,0,0,4,190,10,0,4,-1.70,0.5,0,4,-0,0,0,4,0,0.15,0,4,210,0,0,4,RightArm,0.8,0.4,0,4,170,0,0,4,0.6,0.1,0,4,130,-10,0,4,0.4,-0.25,0,4,-85,-10,0,4
+				end
+			})
+			addmode("k", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12), -0.08726646259971647 * sin((sine + 0.2) * 6), 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12), -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 6), -1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12), -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 6), 1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, -0.5 + 0.3 * sin((sine + 0.16666666666666666) * 12), Cfw * -3) * angles(-1.3962634015954636 + 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12) - Cfw, 0.08726646259971647 * sin((sine + 0.06666666666666667) * 6) + Crt, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.8 - 0.1 * sin(sine * 6), 0.5 + 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), -0.17453292519943295, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 - 0.1 * sin(sine * 6), 0.5 - 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), 0.17453292519943295, -1.5707963267948966), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1.5,0,0,0,1.5,0.10000000149011612,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Head,0,0,0,6,-95,-5,0.3333333333333333,12,1,0,0,6,-0,-5,0.2,6,0,0,0,6,180,0,0,6,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1.5,-15,0,0,1.5,-0.2433757781982422,0,0,1.5,0,0,0,1.5,-0.2657628059387207,0,0,1.5,0,0,0,1.5,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,Fedora_Handle,8.657480066176504e-09,0,0,1.5,-6,0,0,1.5,-0.15052366256713867,0,0,1.5,0,0,0,1.5,-0.010221302509307861,0,0,1.5,0,0,0,1.5,LeftLeg,-1,0,0,6,100,-60,0,6,-0.5,-0.5,0.39999999999999997,12,-90,7.5,0,6,-0.5,0,0,6,90,0,0,6,EyelessSmileHead_Handle,-0.00043487548828125,0,0,1.5,180,0,0,1.5,0.6000361442565918,0,0,1.5,0,0,0,1.5,0.0003204345703125,0,0,1.5,180,0,0,1.5,RightLeg,1,0,0,6,100,60,0,6,-0.5,-0.5,0.39999999999999997,12,90,7.5,0,6,-0.5,0,0,6,-90,0,0,6,DevAwardsAdurite_Handle,0,0,0,1.5,0,0,0,1.5,-0.25,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Torso,0,0,0,6,-80,5,0.3333333333333333,12,-0.5,0.3,0.16666666666666666,12,-0,5,0.06666666666666667,6,0,0,0,6,180,0,0,6,LeftArm,-0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,0.1,0,6,-10,0,0,6,-0.2,0,0,6,90,0,0,6,RightArm,0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,-0.1,0,6,10,0,0,6,-0.2,0,0,6,-90,0,0,6
+				end
+			})
+			addmode("l", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.04363323129985824 * sin((sine + 0.1) * 1), -0.17453292519943295 * sin((sine + 0.1) * 5), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.2 * sin(sine * 5), -0.2 + 0.2 * sin(sine * 5)) * angles(2.181661564992912 - 0.8726646259971648 * sin(sine * 5), 1.9198621771937625 - 0.3490658503988659 * sin(sine * 5), -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.7, 0.8, 0) * angles(1.0471975511965976 + 0.03490658503988659 * sin(sine * 10), 2.0943951023931953 + 0.10471975511965978 * sin((sine + 0.1) * 5), 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.2 * sin(sine * 5), -0.2 - 0.2 * sin(sine * 5)) * angles(2.181661564992912 + 0.8726646259971648 * sin(sine * 5), -1.9198621771937625 - 0.3490658503988659 * sin(sine * 5), 1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0.15 + 0.4 * sin((sine - 0.5) * 10), Cfw * -3) * angles(-1.4835298641951802 - Cfw, 0.17453292519943295 * sin(sine * 5) + Crt, -3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.7, 0.5, -0.3) * angles(1.7453292519943295, -0.8726646259971648, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,5,-90,2.5,0.1,1,1,0,0,4,0,-10,0.1,5,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,125,-50,0,5,-1,0.2,0,5,110,-20,0,5,-0.2,0.2,0,5,-90,0,0,4,RightArm,0.7,0,0,4,60,2,0,10,0.8,0,0,4,120,6,0.1,5,0,0,0,4,90,0,0,4,LeftLeg,-1,0,0,4,125,50,0,5,-1,-0.2,0,5,-110,-20,0,5,-0.2,-0.2,0,5,90,0,0,4,Torso,0,0,0,4,-85,0,0,4,0.15,0.4,-0.5,10,0,10,0,5,0,0,0,4,-180,0,0,4,LeftArm,-0.7,0,0,4,100,0,0,4,0.5,0,0,4,-50,0,0,4,-0.3,0,0,4,90,0,0,4
+				end
+			})
+	
+			addmode("x", {
+				idle = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, 0, 3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0, Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					--RightArm,1,0,0,1,0,0,0,1,0.5,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,-0,0,0,1,0,0,0,1,180,0,0,1,RightLeg,1,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,LeftLeg,-1,0,0,1,-0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Torso,0,0,0,1,-90,0,0,1,0,0,0,1,-0,0,0,1,0,0,0,1,180,0,0,1,LeftArm,-1,0,0,1,-0,0,0,1,0.5,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1
+				end,
+				walk = function()
+					local Cfw, Crt = velchgbycfrvec()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, 0, 3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(Crt * 3, 0, Cfw * -3) * angles(-1.5707963267948966 - Cfw, Crt, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					--RightArm,1,0,0,1,0,0,0,1,0.5,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,-0,0,0,1,0,0,0,1,180,0,0,1,RightLeg,1,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,LeftLeg,-1,0,0,1,-0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Torso,0,0,0,1,-90,0,0,1,0,0,0,1,-0,0,0,1,0,0,0,1,180,0,0,1,LeftArm,-1,0,0,1,-0,0,0,1,0.5,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1
+				end
+			})
+		end)
+	
+		btn("nameless animations V6", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local raycastlegs=t.raycastlegs
+			local velbycfrvec=t.velbycfrvec
+			local addmode=t.addmode
+			local getJoint=t.getJoint
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+			addmode("default", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.3 + 0.1 * sin(sine * 2), -0.1) * angles(-0.5235987755982988 + 0.05235987755982989 * sin((sine + 1.5) * 2), 1.0471975511965976 + 0.08726646259971647 * sin((sine + 0.5) * 2), 0.5235987755982988), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 + 0.08726646259971647 * sin((sine + 0.6) * 2), 0, 3.141592653589793 + 0.2617993877991494 * sin((sine - 1.2) * 1)), deltaTime)
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.1 * sin(sine * 2), 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin(sine * 2), 0, 3.141592653589793), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.1 * sin(sine * 2) + rY, 0.1 * sin(sine * 2) - rY * 0.5) * angles(-0.6981317007977318 - 0.08726646259971647 * sin(sine * 2), 1.0471975511965976, 0.5235987755982988), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.6 + 0.1 * sin(sine * 2), 0) * angles(3.141592653589793 + 0.05235987755982989 * sin((sine + 0.5) * 2), -2.705260340591211 + 0.017453292519943295 * sin((sine + 1.5) * 2), -1.2217304763960306 + 0.05235987755982989 * sin((sine + 1.5) * 2)), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.1 * sin(sine * 2) + lY, 0.1 * sin(sine * 2) - lY * 0.5) * angles(-0.3490658503988659 - 0.08726646259971647 * sin(sine * 2), -1.0471975511965976, -0.5235987755982988), deltaTime)
+					--RightArm,1,0,0,2,-30,3,1.5,2,0.3,0.1,0,2,60,5,0.5,2,-0.1,0,0,2,30,0,0,2,Head,0,0,0,2,-95,5,0.6,2,1,0,0,2,-0,0,0,1,0,0,0,2,180,15,-1.2,1,Torso,0,0,0,2,-90,5,0,2,0,0.1,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,RightLeg,1,0,0,2,-40,-5,0,2,-1,-0.1,0,2,60,0,0,2,0,0.1,0,2,30,0,0,2,Meshes/TrollFaceHeadAccessory_Handle,0.01043701171875,0,0,1,0,0,0,1,0.43610429763793945,0,0,1,0,0,0,1,-0.01102447509765625,0,0,1,0,0,0,1,LeftArm,-1,0,0,2,180,3,0.5,2,0.6,0.1,0,2,-155,1,1.5,2,0,0,0,2,-70,3,1.5,2,LeftLeg,-1,0,0,2,-20,-5,0,2,-1,-0.1,0,2,-60,0,0,2,0,0.1,0,2,-30,0,0,2
+				end,
+				walk = function()
+					local fw, rt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.2 + 0.2 * sin(sine * 16), 0) * angles(-1.6580627893946132 + 0.04363323129985824 * sin(sine * 16) - fw * 0.15, 0.03490658503988659 * sin(sine * 8) + rt * 0.15, -3.141592653589793 - 0.08726646259971647 * sin((sine + 0.25) * 8) - rt * 0.1), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.8 + 0.4 * sin((sine + 0.125) * 8) + rY, -0.15 * fw + 0.4 * sin((sine + 10) * 8) * fw + rY * -0.5) * angles(1.3962634015954636 + 0.6981317007977318 * sin(sine * 8)*fw, 1.5707963267948966 + 0.6981317007977318 * sin(sine * 8)*rt, -1.5707963267948966 + 0.2617993877991494 * sin(sine * 8)), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.35 - 0.1 * sin(sine * 8), 0) * angles(0.5235987755982988 * sin(sine * 8)*fw, -1.5707963267948966 - 0.5235987755982988 * sin(sine * 8)*fw, -0.5235987755982988 * sin(sine * 8)*fw), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.35 + 0.1 * sin(sine * 8), 0) * angles(-0.5235987755982988 * sin(sine * 8)*fw, 1.5707963267948966 - 0.5235987755982988 * sin(sine * 8)*fw, -0.5235987755982988 * sin(sine * 8)*fw), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.8 - 0.4 * sin((sine + 0.125) * 8) + lY, -0.15 * fw - 0.4 * sin((sine + 10) * 8) * fw + lY * -0.5) * angles(1.3962634015954636 - 0.6981317007977318 * sin(sine * 8)*fw, -1.5707963267948966 - 0.6981317007977318 * sin(sine * 8)*rt, 1.5707963267948966 + 0.2617993877991494 * sin(sine * 8)), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine + 10) * 16) + fw * 0.15, -0.08726646259971647 * sin(sine * 8) + rt * -0.1, 3.141592653589793 - 0.05235987755982989 * sin((sine + 5) * 8) - rt * 0.5), deltaTime)
+					--Torso,0,0,0,8,-95,2.5,0,16,-0.2,0.2,0,16,0,5,0,8,0,0,0,8,-180,-5,0.25,8,RightArm,1,0,0,1,0,-30,0,8,0.35,0.1,0,8,90,-30,0,8,0,0,0,8,0,-30,0,8,RightLeg,1,0,0,8,80,40,0,8,-0.8,0.4,0.125,8,90,40,0,8,-0.15,0.4,10,8,-90,15,0,8,LeftLeg,-1,0,0,8,80,-40,0,8,-0.8,-0.4,0.125,8,-90,-40,0,8,-0.15,-0.4,10,8,90,15,0,8,Head,0,0,0,1,-90,2.5,10,16,1,0,0,1,-0,-5,0,8,0,0,0,1,180,-3,5,8,LeftArm,-1,0,0,1,0,30,0,8,0.35,-0.1,0,8,-90,-30,0,8,0,-0.4,0,8,0,-30,0,8
+				end,
+				jump = function()
+					local fw, rt = velbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0) * angles(-1.4835298641951802 + fw * 0.1, rt * -0.05, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3962634015954636, 0, -3.141592653589793 - rt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-85,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-80,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end,
+				fall = function()
+					local fw, rt = velbycfrvec()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0) * angles(-1.6580627893946132 + fw * 0.1, rt * -0.05, -3.141592653589793), deltaTime)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.7453292519943295 + 0.08726646259971647 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.6580627893946132 + 0.06981317007977318 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(4.014257279586958 - 0.08726646259971647 * sin((sine + 0.5) * 4), -1.7453292519943295 - 0.08726646259971647 * sin((sine + 0.25) * 4), 1.5707963267948966), deltaTime)
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.7453292519943295, 0, -3.141592653589793 - rt), deltaTime)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.5) * 4), 1.6580627893946132 - 0.06981317007977318 * sin((sine + 0.25) * 4), -1.5707963267948966), deltaTime)
+					--Torso,0,0,0,4,-95,0,0,4,0,0,0,4,0,0,0,4,0,0,0,4,-180,0,0,4,RightArm,1,0,0,4,230,-5,0.5,4,0.5,0,0,4,100,5,0.25,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,0,0,4,90,-5,0.5,4,-1,0,0,4,-95,4,0.25,4,0,0,0,4,90,0,0,4,LeftArm,-1,0,0,4,230,-5,0.5,4,0.5,0,0,4,-100,-5,0.25,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-100,0,0.5,4,1,0,0,4,0,0,0.25,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,-5,0.5,4,-1,0,0,4,95,-4,0.25,4,0,0,0,4,-90,0,0,4
+				end
+			})
+	
+			addmode("q", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), -2.792526803190927, -0.6981317007977318), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.75, -0.2) * angles(2.705260340591211 - 0.08726646259971647 * sin((sine + 0.1) * 2), 2.792526803190927, 0.6981317007977318), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.9198621771937625 - 0.10471975511965978 * sin((sine + 0.3) * 2), 0, 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -2.45 - 0.05 * sin(sine * 2), 0) * angles(0.03490658503988659 * sin(sine * 2), 0, 3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), 1.3089969389957472, -0.9599310885968813), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.5707963267948966 - 0.03490658503988659 * sin(sine * 2), -1.3089969389957472, 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,2,155,-5,0.1,2,0.75,0,0,2,-160,0,0,2,-0.2,0,0,2,-40,0,0,2,RightArm,1,0,0,2,155,-5,0.1,2,0.75,0,0,2,160,0,0,2,-0.2,0,0,2,40,0,0,2,Head,0,0,0,2,-110,-6,0.3,2,1,0,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Torso,0,0,0,2,0,2,0,2,-2.45,-0.05,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,RightLeg,1,0,0,2,80,-2,0,2,-1,0,0,2,75,0,0,2,0,0,0,2,-55,0,0,2,LeftLeg,-1,0,0,2,90,-2,0,2,-1,0,0,2,-75,0,0,2,0,0,0,2,90,0,0,2
+				end
+			})
+			addmode("e", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9, 0.4 + 0.1 * sin(sine * 2), 0.3 - 0.15 * sin(sine * 2)) * angles(-1.0471975511965976 - 0.12217304763960307 * sin(sine * 2), -1.3962634015954636, -0.6981317007977318), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -1.85 - 0.1 * sin((sine + 0.2) * 2), 0) * angles(-1.3962634015954636 + 0.03490658503988659 * sin(sine * 2), -0.08726646259971647, 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.4 + 0.1 * sin(sine * 2), 0.2 - 0.15 * sin(sine * 2)) * angles(0.6108652381980153 - 0.12217304763960307 * sin(sine * 2), 1.2217304763960306, -0.7853981633974483), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.03490658503988659 * sin((sine + 0.6) * 2), 0.10471975511965978 + 0.06981317007977318 * sin(sine * 0.66), 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, 0.2 + 0.15 * sin((sine + 0.2) * 2), -0.7 + 0.1 * sin(sine * 2)) * angles(1.4835298641951802 + 0.03490658503988659 * sin(sine * 2), 1.4835298641951802, -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.75 + 0.1 * sin((sine + 0.2) * 2), -0.5) * angles(1.3962634015954636 - 0.03490658503988659 * sin(sine * 2), -1.6580627893946132, 0), deltaTime) 
+					--LeftArm,-0.9,0,0,2,-60,-7,0,2,0.4,0.1,0,2,-80,0,0,2,0.3,-0.15,0,2,-40,0,0,2,Torso,0,0,0,2,-80,2,0,2,-1.85,-0.1,0.2,2,-5,0,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,35,-7,0,2,0.4,0.1,0,2,70,0,0,2,0.2,-0.15,0,2,-45,0,0,2,Head,0,0,0,2,-95,-2,0.6,2,1,0,0,2,6,4,0,0.66,0,0,0,2,180,20,0,0.66,RightLeg,1,0,0,2,85,2,0,2,0.2,0.15,0.2,2,85,0,0,2,-0.7,0.1,0,2,-90,0,0,2,LeftLeg,-1,0,0,2,80,-2,0,2,-0.75,0.1,0.2,2,-95,0,0,2,-0.5,0,0,2,0,0,0,2
+				end
+			})
+			addmode("r", {
+				idle = function()
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9 - 0.2 * sin(sine * 2), 0) * angles(1.5707963267948966, 1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin(sine + 0.8), -0.1 + 0.2 * sin(sine * 2), 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine - 0.5) * 2), 0.08726646259971647 * sin(sine - 1), -3.141592653589793 + 0.2617993877991494 * sin(sine * 5)), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1 + 0.1 * sin(sine * 7), 0.2 - 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 + 0.5235987755982988 * sin(sine * 7), -0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.9 - 0.2 * sin(sine * 2), 0) * angles(1.5707963267948966, -1.6580627893946132 - 0.17453292519943295 * sin(sine + 0.8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.1 * sin(sine * 7), 0.2 + 0.1 * sin(sine + 0.8), -0.25) * angles(1.5707963267948966 - 0.5235987755982988 * sin(sine * 7), 0.6981317007977318, 0.3490658503988659 * sin(sine * 7)), deltaTime) 
+					--RightLeg,1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,95,-10,0.8,1,0,0,0,1,-90,0,0,1,Torso,0,0.3,0.8,1,-90,0,0,1,-0.1,0.2,0,2,0,0,0,1,0,0,0,1,-180,0,0,1,Head,0,0,0,1,-90,5,-0.5,2,1,0,0,1,0,5,-1,1,0,0,0,1,-180,15,0,5,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1,0.1,0,7,90,30,0,7,0.2,-0.1,0.8,1,-40,0,0,1,-0.25,0,0,1,0,20,0,7,LeftLeg,-1,0,0,1,90,0,0,1,-0.9,-0.2,0,2,-95,-10,0.8,1,0,0,0,1,90,0,0,1,RightArm,1,0.1,0,7,90,-30,0,7,0.2,0.1,0.8,1,40,0,0,1,-0.25,0,0,1,-0,20,0,7
+				end
+			})
+			addmode("t", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(1.5707963267948966, -1.6580627893946132 + 0.08726646259971647 * sin((sine - 0.3) * 4), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1 + 0.15 * sin((sine - 0.4) * 4), 1.42, 0) * angles(1.5707963267948966, 1.4835298641951802 - 0.3490658503988659 * sin((sine - 0.4) * 4), 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.4835298641951802, 0.04363323129985824 - 0.08726646259971647 * sin((sine + 0.1) * 4), -3.141592653589793 + 0.04363323129985824 * sin(sine * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.1 * sin(sine * 4), 0, 0) * angles(-1.5707963267948966, -0.08726646259971647 + 0.08726646259971647 * sin(sine * 4), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + 0.1 * sin(sine * 4), 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.08726646259971647 * sin(sine * 4), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1 - 0.02 * sin(sine * 4), -0.925 - 0.07 * sin(sine * 4), 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.08726646259971647 * sin(sine * 4), 1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,4,90,0,0,4,0.5,0,0,4,-95,5,-0.3,4,0,0,0,4,90,0,0,4,RightArm,1,0.15,-0.4,4,90,0,0,4,1.42,0,0,4,85,-20,-0.4,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-85,0,0,4,1,0,0,4,2.5,-5,0.1,4,0,0,0,4,-180,2.5,0,4,Torso,0,0.1,0,4,-90,0,0,4,0,0,0,4,-5,5,0,4,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,90,0,0,4,-1.1,0.1,0,4,90,5,0,4,0,0,0,4,-90,0,0,4,LeftLeg,-1,-0.02,0,4,90,0,0,4,-0.925,-0.07,0,4,-100,5,0,4,0,0,0,4,90,0,0,4
+				end
+			})
+			addmode("y", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(-1.7453292519943295, 0.17453292519943295 - 0.04363323129985824 * sin(sine * 2), -1.4835298641951802), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.9000000953674316 - 0.1 * sin(sine * 2), 0) * angles(-1.3962634015954636, 1.3962634015954636, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1.0000001192092896 - 0.1 * sin(sine * 2), 0) * angles(-1.5707963267948966, -1.3962634015954636, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-2.0943951023931953 + 0.08726646259971647 * sin((sine - 1) * 2), -0.08726646259971647, 2.792526803190927), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 1.2000000476837158, 0) * angles(2.6179938779914944 + 0.08726646259971647 * sin((sine - 1) * 2), 0.6981317007977318, -1.3962634015954636), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.1 * sin(sine * 2), 0) * angles(-1.6580627893946132, 0.08726646259971647, 3.0543261909900767), deltaTime) 
+					--LeftArm,-1.5,0,0,2,-100,0,0,2,0.5,0,0,2,10,-2.5,0,2,0,0,0,2,-85,0,0,2,RightLeg,1,0,0,2,-80,0,0,2,-0.9000000953674316,-0.1,0,2,80,0,0,2,0,0,0,2,90,0,0,2,LeftLeg,-1,0,0,2,-90,0,0,2,-1.0000001192092896,-0.1,0,2,-80,0,0,2,0,0,0,2,-90,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-120,5,-1,2,1,0,0,2,-5,0,0,2,0,0,0,2,160,0,0,2,RightArm,1,0,0,2,150,5,-1,2,1.2000000476837158,0,0,2,40,0,0,2,0,0,0,2,-80,0,0,2,Torso,0,0,0,2,-95,0,0,2,0,0.1,0,2,5,0,0,2,0,0,0,2,175,0,0,2
+				end
+			})
+			addmode("u", {
+				idle = function()
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.75 + 0.25 * sin(sine * 2), 0) * angles(-1.5707963267948966, 0, 3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1.5 - 0.1 * sin((sine + 0.2) * 2), 0) * angles(-1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.4) * 2), 0, 3.141592653589793 + 0.3490658503988659 * sin(sine * 0.66)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.5 - 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), 1 * sin((sine + 0.95) * 2.2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(0.5 + 1 * sin((sine + 0.2) * 2.2), -0.75 - 0.25 * sin(sine * 2), -1 * sin((sine + 0.95) * 2.2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(-0.5 - 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), -1.85 * sin((sine + 0.75) * 2)) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(0.5 + 1.85 * sin(sine * 2), 0.8 - 0.5 * sin(sine * 2), 1.85 * sin((sine + 0.75) * 2)) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					--Torso,0,0,0,2,-90,0,0,2,0.75,0.25,0,2,-0,0,0,2,0,0,0,2,180,0,0,2,Fedora_Handle,8.657480066176504e-09,0,0,2,-6,0,0,2,-0.15052366256713867,0,0,2,0,0,0,2,-0.010221302509307861,0,0,2,0,0,0,2,Head,0,0,0,2,-90,-5,0.4,2,1.5,-0.1,0.2,2,-0,0,0,2,0,0,0,2,180,20,0,0.66,LeftLeg,-0.5,-1,0.2,2.2,-0,0,0,2,-0.75,-0.25,0,2,-90,0,0,2,0,1,0.95,2.2,0,0,0,2,RightLeg,0.5,1,0.2,2.2,0,0,0,2,-0.75,-0.25,0,2,90,0,0,2,0,-1,0.95,2.2,0,0,0,2,RightArm,-0.5,-1.85,0,2,0,0,0,2,0.8,-0.5,0,2,90,0,0,2,0,-1.85,0.75,2,0,0,0,2,LeftArm,0.5,1.85,0,2,-0,0,0,2,0.8,-0.5,0,2,-90,0,0,2,0,1.85,0.75,2,0,0,0,2
+				end
+			})
+			addmode("i", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), -0.5235987755982988, 1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 + 0.1 * sin((sine + 0.26666666666666666) * 4.5), -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 4.5), -1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), 1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.5 + 0.5 * sin((sine + 0.17777777777777778) * 9), 0) * angles(-1.3962634015954636 - 0.03490658503988659 * sin((sine + 0.17777777777777778) * 9), -0.05235987755982989 * sin(sine * 4.5), 3.141592653589793 + 0.03490658503988659 * sin(sine * 4.5)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1 + 0.2 * sin(sine * 9), 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin(sine * 9), 0.08726646259971647 * sin(sine * 4.5), 3.141592653589793 - 0.06981317007977318 * sin(sine * 4.5)), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 0.5 + 0.1 * sin((sine - 0.4444444444444444) * 9), 0) * angles(2.9670597283903604 + 0.17453292519943295 * sin((sine - 0.17777777777777778) * 9), 0.5235987755982988, -1.5707963267948966 + 0.17453292519943295 * sin(sine * 4.5)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 + 0.1 * sin((sine - 0.26666666666666666) * 4.5), -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 4.5), 1.5707963267948966 + 0.03490658503988659 * sin(sine * 4.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,-30,0,0,4.5,0,0,0,4.5,90,10,0,4.5,LeftLeg,-1,0,0,4.5,100,-60,0,4.5,-0.5,0.1,0.26666666666666666,4.5,-90,2,0,4.5,-0.5,0,0,4.5,90,0,0,4.5,Torso,0,0,0,4.5,-80,-2,0.17777777777777778,9,-0.5,0.5,0.17777777777777778,9,-0,-3,0,4.5,0,0,0,4.5,180,2,0,4.5,Head,0,0,0,4.5,-90,5,0,9,1,0.2,0,9,-0,5,0,4.5,0,0,0,4.5,180,-4,0,4.5,RightArm,0.5,0,0,4.5,170,10,-0.17777777777777778,9,0.5,0.1,-0.4444444444444444,9,30,0,0,4.5,0,0,0,4.5,-90,10,0,4.5,RightLeg,1,0,0,4.5,100,60,0,4.5,-0.5,0.1,-0.26666666666666666,4.5,90,2,0,4.5,-0.5,0,0,4.5,-90,0,0,4.5
+				end,
+			})
+			addmode("o", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + lY, lY * -0.5) * angles(-1.8325957145940461 - 0.08726646259971647 * sin(sine * 2), -1.4835298641951802, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0.09 * sin(sine * 2)) * angles(-1.3962634015954636 + 0.08726646259971647 * sin(sine * 2), -0.08726646259971647, 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(2.9670597283903604 + 0.08726646259971647 * sin(sine * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1.1 + rY, rY * -0.5) * angles(-1.7453292519943295 - 0.08726646259971647 * sin(sine * 2), 1.5707963267948966, 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.2217304763960306 - 0.08726646259971647 * sin((sine + 0.3) * 2), -0.2617993877991494 - 0.08726646259971647 * sin(sine * 2), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(2.8797932657906435 + 0.08726646259971647 * sin(sine * 1), 1.5707963267948966 - 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					--LeftLeg,-1,0,0,2,-105,-5,0,2,-1,0,0,2,-85,0,0,2,0,0,0,2,-90,0,0.75,2,Torso,0,0,0,2,-80,5,0,2,0,0,0,2,-5,0,0,2,0,0.09,0,2,180,0,0,2,LeftArm,-1,0,0,2,170,5,0,1,0.5,0,0,2,-90,5,0.6,1,0,0,0,2,90,0,0,2,RightLeg,1,0,0,2,-100,-5,0,2,-1.1,0,0,2,90,0,0,2,0,0,0,2,90,0,0.75,2,Head,0,0,0,2,-70,-5,0.3,2,1,0,0,2,-15,-5,0,2,0,0,0,2,180,0,0,2,RightArm,1,0,0,2,165,5,0,1,0.5,0,0,2,90,-5,0.6,1,0,0,0,2,-90,0,0,2
+				end,
+				walk = function()
+					local fw, rt = velbycfrvec()
+	
+					local rY, lY = raycastlegs()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.04363323129985824 * sin(sine * 16), 0, 3.141592653589793 + 0.08726646259971647 * sin(sine * 8) - rt), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.3 * sin((sine + 0.15) * 8) + rY, rY * -0.5) * angles(-1.5707963267948966 - 0.6981317007977318 * sin(sine * 8) * fw, 1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * rt, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), 1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - rt/3, 1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0.08726646259971647 * sin((sine - 0.05) * 16), -1.5707963267948966 + 0.08726646259971647 * sin(sine * 8) - rt/3, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.1 * sin((sine + 0.1) * 16), 0) * angles(-1.5707963267948966, 0, 3.141592653589793 - 0.08726646259971647 * sin(sine * 8)), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + 0.3 * sin((sine + 0.15) * 8) + lY, lY * -0.5) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * fw, -1.5707963267948966 + 0.6981317007977318 * sin(sine * 8) * rt, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,2.5,0,16,1,0,0,8,-0,0,0,8,0,0,0,8,180,5,0,8,RightLeg,1,0,0,8,-90,-40,0,8,-1,-0.3,0.15,8,90,40,0,8,0,0,0,8,90,0,0,8,RightArm,1,0,0,8,0,5,-0.05,16,0.5,0,0,8,90,5,0,8,0,0,0,8,90,0,0,8,LeftArm,-1,0,0,8,0,5,-0.05,16,0.5,0,0,8,-90,5,0,8,0,0,0,8,-90,0,0,8,Torso,0,0,0,8,-90,0,0,8,0,0.1,0.1,16,-0,0,0,8,0,0,0,8,180,-5,0,8,LeftLeg,-1,0,0,8,90,40,0,8,-1,0.3,0.15,8,-90,40,0,8,0,0,0,8,90,0,0,8
+				end
+			})
+			addmode("p", {
+				idle = function()
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, -1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, 1.5707963267948966, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(1.5707963267948966, 3.141592653589793, 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, -1.5707963267948966, 0), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0, 0) * angles(-1.5707963267948966, 0, -3.141592653589793), deltaTime) 
+					--RightArm,1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,-90,0,0,1,RightLeg,1,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,LeftArm,-1.5,0,0,1,90,0,0,1,0.5,0,0,1,180,0,0,1,0,0,0,1,90,0,0,1,LeftLeg,-1,0,0,1,-0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1,Torso,0,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,-180,0,0,1
+				end
+			})
+			addmode("f", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1), -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1), -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1), 0.08726646259971647 * sin((sine + 0.2) * 0.5), -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1)) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1), 0.08726646259971647 * sin(sine * 0.5), 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1), -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1), 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end,
+				walk = function()
+					local fw, rt = velbycfrvec()
+	
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(-3.0543261909900767 - 0.17453292519943295 * sin((sine + 1.5) * 1) - fw * 0.1, -1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.6) * 1) + rt * 0.2, -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(3.141592653589793 - 0.08726646259971647 * sin(sine * 1), 0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.3) * 1), -1.9198621771937625 + 0.08726646259971647 * sin((sine + 1) * 1)), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.3089969389957472 - 0.2617993877991494 * sin((sine + 1.2) * 1) + fw * 0.1, 0.08726646259971647 * sin((sine + 0.2) * 0.5) - rt * 0.2, -2.9670597283903604), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 5 - 0.5 * sin((sine - 0.2) * 1), 0.2 * sin((sine - 1.2) * 1)) * angles(-0.08726646259971647 + 0.17453292519943295 * sin((sine + 1.2) * 1) - fw * 0.2, 0.08726646259971647 * sin(sine * 0.5), 3.141592653589793 - rt * 0.2), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(1.3962634015954636 + 0.12217304763960307 * sin((sine + 1.5) * 1) - fw * 0.2, -1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(1.9198621771937625 + 0.12217304763960307 * sin((sine + 1.5) * 1) - fw * 0.2, 1.2217304763960306 + 0.08726646259971647 * sin((sine + 0.2) * 0.5), -1.5707963267948966), deltaTime) 
+					--LeftArm,-1,0,0,1,-175,-10,1.5,1,0.5,0,0,1,-90,5,0.6,1,0,0,0,1,-90,0,0,1,RightArm,1,0,0,1,180,-5,0,1,0.5,0,0,1,20,5,0.3,1,0,0,0,1,-110,5,1,1,Head,0,0,0,1,-75,-15,1.2,1,1,0,0,1,-0,5,0.2,0.5,0,0,0,1,-170,0,0,1,Torso,0,0,0,1,-5,10,1.2,1,5,-0.5,-0.2,1,-0,5,0,0.5,0,0.2,-1.2,1,180,0,0,1,LeftLeg,-1,0,0,1,80,7,1.5,1,-1,0,0,1,-70,5,0.2,0.5,0,0,0,1,90,0,0,1,RightLeg,1,0,0,1,110,7,1.5,1,-1,0,0,1,70,5,0.2,0.5,0,0,0,1,-90,0,0,1
+				end
+			})
+			addmode("g", {
+				idle = function()
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9 + 0.4 * sin(sine * 8), 0.5, 0.5 * sin((sine + 0.25) * 4)) * angles(1.5707963267948966, -1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), 1.5707963267948966 + 0.6981317007977318 * sin((sine + 0.25) * 4)), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0.3 * sin((sine + 0.4) * 8), 0, 0) * angles(-1.5707963267948966, 0.3490658503988659 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.061086523819801536 * sin((sine + 0.125) * 16), -0.3839724354387525 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.4 * sin((sine - 0.01) * 8), 0) * angles(1.5707963267948966, 1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.4 * sin((sine - 0.01) * 8), 0) * angles(1.5707963267948966, -1.7453292519943295 + 0.6981317007977318 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.9 + 0.4 * sin(sine * 8), 0.5, -0.5 * sin((sine - 0.35) * 4)) * angles(1.5707963267948966 + 0.6981317007977318 * sin(sine * 4), 1.5707963267948966 + 1.0471975511965976 * sin(sine * 8), -1.5707963267948966 + 0.17453292519943295 * sin((sine - 0.35) * 4)), deltaTime) 
+					--LeftArm,-0.9,0.4,0,8,90,0,0.25,4,0.5,0,0,8,-90,60,0,8,0,0.5,0.25,4,90,40,0.25,4,Torso,0,0.3,0.4,8,-90,0,0,8,0,0,0,4,0,20,0,8,0,0,0,8,-180,0,0,8,Head,0,0,0,8,-90,3.5,0.125,16,1,0,0,8,0,-22,0,8,0,0,0,8,-180,0,0,1.1,RightLeg,1,0,0,8,90,0,0,8,-1,0.4,-0.01,8,100,40,0,8,0,0,0,8,-90,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.4,-0.01,8,-100,40,0,8,0,0,0,8,90,0,0,8,RightArm,0.9,0.4,0,8,90,40,0,4,0.5,0,0,8,90,60,0,8,0,-0.5,-0.35,4,-90,10,-0.35,4
+				end
+			})
+			addmode("h", {
+				idle = function()
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966, -0.4363323129985824 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.3 * sin(sine * 8), 0) * angles(1.5707963267948966, 1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), -1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.5, 1, 0) * angles(-0.5235987755982988, -1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.5, 1, 0) * angles(-0.5235987755982988, 1.5707963267948966 - 0.5235987755982988 * sin(sine * 8), 3.141592653589793), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(-0.1 * sin(sine * 8), 0.2 * sin((sine + 0.1) * 16), 0) * angles(-1.5707963267948966, 0.2617993877991494 * sin(sine * 8), -3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.3 * sin(sine * 8), 0) * angles(1.5707963267948966, -1.5707963267948966 + 0.5235987755982988 * sin(sine * 8), 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,8,-90,0,0,8,1,0,0,8,0,-25,0,8,0,0,0,8,-180,0,0,8,RightLeg,1,0,0,8,90,0,0,8,-1,0.3,0,8,90,30,0,8,0,0,0,8,-90,0,0,8,LeftArm,-0.5,0,0,8,-30,0,0,8,1,0,0,8,-90,-30,0,8,0,0,0,8,180,0,0,8,RightArm,0.5,0,0,8,-30,0,0,8,1,0,0,16,90,-30,0,8,0,0,0,8,180,0,0,8,Torso,0,-0.1,0,8,-90,0,0,8,0,0.2,0.1,16,0,15,0,8,0,0,0,8,-180,0,0,8,LeftLeg,-1,0,0,8,90,0,0,8,-1,-0.3,0,8,-90,30,0,8,0,0,0,8,90,0,0,8,Fedora_Handle,8.657480066176504e-09,0,0,8,-6,0,0,8,-0.15052366256713867,0,0,8,0,0,0,8,-0.010221302509307861,0,0,8,0,0,0,8
+				end
+			})
+			addmode("j", {
+				idle = function()
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-0.8, -1, -0.1) * angles(0.17453292519943295, -0.6981317007977318, 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.2, 0.5, 0) * angles(-0.3490658503988659 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 0.6981317007977318 + 0.08726646259971647 * sin((sine + 0.1) * 4)), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1.1, -1, 0) * angles(1.5707963267948966, 1.7453292519943295, -1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.08726646259971647 * sin((sine + 0.1) * 4), 0, 2.792526803190927), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -1.7 + 0.5 * sin(sine * 4), 0.15 * sin(sine * 4)) * angles(3.3161255787892263 + 0.17453292519943295 * sin(sine * 4), 0, 3.6651914291880923), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 + 0.4 * sin(sine * 4), 0.6 + 0.1 * sin(sine * 4), 0.4 - 0.25 * sin(sine * 4)) * angles(2.9670597283903604, 2.2689280275926285 - 0.17453292519943295 * sin(sine * 4), -1.4835298641951802 - 0.17453292519943295 * sin(sine * 4)), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1,0,0,0,1,0.10000000149011612,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,LeftLeg,-0.8,0,0,4,10,0,0,4,-1,0,0,4,-40,0,0,4,-0.1,0,0,4,0,0,0,4,LeftArm,-1.2,0,0,4,-20,5,0.1,4,0.5,0,0,4,0,0,0,4,0,0,0,4,40,5,0.1,4,Fedora_Handle,8.657480066176504e-09,0,0,1,-6,0,0,1,-0.15052366256713867,0,0,1,0,0,0,1,-0.010221302509307861,0,0,1,0,0,0,1,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1,-15,0,0,1,-0.2433757781982422,0,0,1,0,0,0,1,-0.2657628059387207,0,0,1,0,0,0,1,RightLeg,1.1,0,0,4,90,0,0,4,-1,0,0,4,100,0,0,4,0,0,0,4,-90,0,0,4,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,DevAwardsAdurite_Handle,0,0,0,1,0,0,0,1,-0.25,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1,0,0,0,1,-0.6500000953674316,0,0,1,0,0,0,1,0.19972775876522064,0,0,1,0,0,0,1,Head,0,0,0,4,-90,5,0.1,4,1,0,0,4,-0,0,0,4,0,0,0,4,160,0,0,4,Torso,0,0,0,4,190,10,0,4,-1.70,0.5,0,4,-0,0,0,4,0,0.15,0,4,210,0,0,4,RightArm,0.8,0.4,0,4,170,0,0,4,0.6,0.1,0,4,130,-10,0,4,0.4,-0.25,0,4,-85,-10,0,4
+				end
+			})
+			addmode("k", {
+				idle = function()
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.6580627893946132 - 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12), -0.08726646259971647 * sin((sine + 0.2) * 6), 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12), -0.5) * angles(1.7453292519943295 - 1.0471975511965976 * sin(sine * 6), -1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -0.5 - 0.5 * sin((sine + 0.39999999999999997) * 12), -0.5) * angles(1.7453292519943295 + 1.0471975511965976 * sin(sine * 6), 1.5707963267948966 + 0.1308996938995747 * sin(sine * 6), -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.5 + 0.3 * sin((sine + 0.16666666666666666) * 12), 0) * angles(-1.3962634015954636 + 0.08726646259971647 * sin((sine + 0.3333333333333333) * 12), 0.08726646259971647 * sin((sine + 0.06666666666666667) * 6), 3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.8 - 0.1 * sin(sine * 6), 0.5 + 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), -0.17453292519943295, 1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.8 - 0.1 * sin(sine * 6), 0.5 - 0.1 * sin(sine * 6), -0.2) * angles(3.141592653589793 - 0.17453292519943295 * sin((sine + 0.39999999999999997) * 12), 0.17453292519943295, -1.5707963267948966), deltaTime) 
+					--GalaxyBeautifulHair_Handle,-0.15000000596046448,0,0,1.5,0,0,0,1.5,0.10000000149011612,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Head,0,0,0,6,-95,-5,0.3333333333333333,12,1,0,0,6,-0,-5,0.2,6,0,0,0,6,180,0,0,6,ValkyrieHelm_Handle,8.658389560878277e-09,0,0,1.5,-15,0,0,1.5,-0.2433757781982422,0,0,1.5,0,0,0,1.5,-0.2657628059387207,0,0,1.5,0,0,0,1.5,SilverthornAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,BlackIronAntlers_Handle,8.658389560878277e-09,0,0,1.5,0,0,0,1.5,-0.6500000953674316,0,0,1.5,0,0,0,1.5,0.19972775876522064,0,0,1.5,0,0,0,1.5,Fedora_Handle,8.657480066176504e-09,0,0,1.5,-6,0,0,1.5,-0.15052366256713867,0,0,1.5,0,0,0,1.5,-0.010221302509307861,0,0,1.5,0,0,0,1.5,LeftLeg,-1,0,0,6,100,-60,0,6,-0.5,-0.5,0.39999999999999997,12,-90,7.5,0,6,-0.5,0,0,6,90,0,0,6,EyelessSmileHead_Handle,-0.00043487548828125,0,0,1.5,180,0,0,1.5,0.6000361442565918,0,0,1.5,0,0,0,1.5,0.0003204345703125,0,0,1.5,180,0,0,1.5,RightLeg,1,0,0,6,100,60,0,6,-0.5,-0.5,0.39999999999999997,12,90,7.5,0,6,-0.5,0,0,6,-90,0,0,6,DevAwardsAdurite_Handle,0,0,0,1.5,0,0,0,1.5,-0.25,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,Torso,0,0,0,6,-80,5,0.3333333333333333,12,-0.5,0.3,0.16666666666666666,12,-0,5,0.06666666666666667,6,0,0,0,6,180,0,0,6,LeftArm,-0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,0.1,0,6,-10,0,0,6,-0.2,0,0,6,90,0,0,6,RightArm,0.8,-0.1,0,6,180,-10,0.39999999999999997,12,0.5,-0.1,0,6,10,0,0,6,-0.2,0,0,6,-90,0,0,6
+				end
+			})
+			addmode("l", {
+				idle = function()
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.04363323129985824 * sin((sine + 0.1) * 1), -0.17453292519943295 * sin((sine + 0.1) * 5), -3.141592653589793), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 0.2 * sin(sine * 5), -0.2 + 0.2 * sin(sine * 5)) * angles(2.181661564992912 - 0.8726646259971648 * sin(sine * 5), 1.9198621771937625 - 0.3490658503988659 * sin(sine * 5), -1.5707963267948966), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.7, 0.8, 0) * angles(1.0471975511965976 + 0.03490658503988659 * sin(sine * 10), 2.0943951023931953 + 0.10471975511965978 * sin((sine + 0.1) * 5), 1.5707963267948966), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.2 * sin(sine * 5), -0.2 - 0.2 * sin(sine * 5)) * angles(2.181661564992912 + 0.8726646259971648 * sin(sine * 5), -1.9198621771937625 - 0.3490658503988659 * sin(sine * 5), 1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.15 + 0.4 * sin((sine - 0.5) * 10), 0) * angles(-1.4835298641951802, 0.17453292519943295 * sin(sine * 5), -3.141592653589793), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.7, 0.5, -0.3) * angles(1.7453292519943295, -0.8726646259971648, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,5,-90,2.5,0.1,1,1,0,0,4,0,-10,0.1,5,0,0,0,4,-180,0,0,4,RightLeg,1,0,0,4,125,-50,0,5,-1,0.2,0,5,110,-20,0,5,-0.2,0.2,0,5,-90,0,0,4,RightArm,0.7,0,0,4,60,2,0,10,0.8,0,0,4,120,6,0.1,5,0,0,0,4,90,0,0,4,LeftLeg,-1,0,0,4,125,50,0,5,-1,-0.2,0,5,-110,-20,0,5,-0.2,-0.2,0,5,90,0,0,4,Torso,0,0,0,4,-85,0,0,4,0.15,0.4,-0.5,10,0,10,0,5,0,0,0,4,-180,0,0,4,LeftArm,-0.7,0,0,4,100,0,0,4,0.5,0,0,4,-50,0,0,4,-0.3,0,0,4,90,0,0,4
+				end
+			})
+		end)
+	
+		btn("goofy trolus (goofy)", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local velbycfrvec=t.velbycfrvec
+			local raycastlegs=t.raycastlegs
+			local getJoint=t.getJoint
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+			t.addmode("default", {
+				idle = function()
+					local rY, lY = raycastlegs()
+	
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(0.6981317007977318 * sin((sine + 0.5) * 4), 1.5707963267948966 - 0.3490658503988659 * sin(sine * 4), 0), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(0.6981317007977318 * sin((sine + 0.5) * 4), -1.5707963267948966 + 0.3490658503988659 * sin(sine * 4), 0), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + rY, 0) * angles(1.5707963267948966 - 1.0471975511965976 * sin(sine * 4), 1.6580627893946132, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, -0.2 + 0.2 * sin((sine + 1) * 8), 0) * angles(-1.5707963267948966 + 0.6981317007977318 * sin(sine * 4), 0, 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 + lY, 0) * angles(1.5707963267948966 - 1.0471975511965976 * sin(sine * 4), -1.6580627893946132, 1.5707963267948966), deltaTime) 
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 - 0.8726646259971648 * sin((sine + 0.25) * 4), 0, 3.141592653589793), deltaTime) 
+					--RightArm,1,0,0,4,0,40,0.5,4,0.5,0,0,4,90,-20,0,4,0,0,0,4,0,0,0,4,LeftArm,-1,0,0,4,-0,40,0.5,4,0.5,0,0,4,-90,20,0,4,0,0,0,4,0,0,0,4,RightLeg,1,0,0,4,90,-60,0,4,-1,0,0,4,95,0,0,4,0,0,0,4,-90,0,0,4,Torso,0,0,0,4,-90,40,0,4,-0.2,0.2,1,8,-0,0,0,4,0,0,0,4,180,0,0,4,LeftLeg,-1,0,0,4,90,-60,0,4,-1,0,0,4,-95,0,0,4,0,0,0,4,90,0,0,4,Head,0,0,0,4,-90,-50,0.25,4,1,0,0,4,-0,0,0,4,0,0,0,4,180,0,0,4,CPlusPlusTextbook_Handle,8.658389560878277e-09,0,0,4,0,0,0,4,-0.25,0,0,4,0,0,0,4,-0.0002722442150115967,0,0,4,0,0,0,4
+				end,
+				walk = function()
+					local fw, rt = velbycfrvec()
+	
+					Neck.C0 = Neck.C0:Lerp(cf(0, 1, 0) * angles(-1.5707963267948966 + 0.5235987755982988 * sin((sine + 0.45) * 8), 0, 3.141592653589793), deltaTime) 
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1, 0.5, 0) * angles(2.0943951023931953 - 1.7453292519943295 * sin((sine - 0.1) * 4), 1.9198621771937625, -1.5707963267948966), deltaTime) 
+					RootJoint.C0 = RootJoint.C0:Lerp(cf(0, 0.25 + 0.5 * sin((sine - 0.125) * 8), 0) * angles(-1.5707963267948966 + 0.17453292519943295 * sin(sine * 8), 0, 3.141592653589793), deltaTime) 
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 1 * sin(sine * 4), 0) * angles(1.5707963267948966 - 1.2217304763960306 * sin((sine - 0.15) * 4) * fw, -1.5707963267948966 - 0.6108652381980153 * sin((sine - 0.15) * 4) * rt, 1.5707963267948966), deltaTime) 
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 + 1 * sin(sine * 4), 0) * angles(1.5707963267948966 + 1.2217304763960306 * sin((sine - 0.15) * 4) * fw, 1.5707963267948966 + 0.6108652381980153 * sin((sine - 0.15) * 4) * rt, -1.5707963267948966), deltaTime) 
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1, 0.5, 0) * angles(2.0943951023931953 + 1.7453292519943295 * sin((sine - 0.1) * 4), -1.7453292519943295, 1.5707963267948966), deltaTime) 
+					--Head,0,0,0,4,-90,30,0.45,8,1,0,0,4,-0,0,0,4,0,0,0,4,180,0,0,4,CPlusPlusTextbook_Handle,8.658389560878277e-09,0,0,4,0,0,0,4,-0.25,0,0,4,0,0,0,4,-0.0002722442150115967,0,0,4,0,0,0,4,RightArm,1,0,0,4,120,-100,-0.1,4,0.5,0,0,4,110,0,0,4,0,0,0,4,-90,0,0,4,Torso,0,0,0,4,-90,10,0,8,0.25,0.5,-0.125,8,-0,0,0,4,0,0,0,4,180,0,0,4,LeftLeg,-1,0,0,4,90,-70,-0.15,4,-1,-1,0,4,-90,-35,-0.15,4,0,0,0,4,90,0,0,4,RightLeg,1,0,0,4,90,70,-0.15,4,-1,1,0,4,90,35,-0.15,4,0,0,0,4,-90,0,0,4,LeftArm,-1,0,0,4,120,100,-0.1,4,0.5,0,0,4,-100,0,0,4,0,0,0,4,90,0,0,4
+				end
+			})
+		end)
+	
+		btn("good cop bad cop animations", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local addmode=t.addmode
+			local getJoint=t.getJoint
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+			t.setWalkSpeed(20)
+	
+			local ROOTC0 = angles(rad(-90), 0, rad(180))
+			local NECKC0 = cf(0, 1, 0) * angles(rad(-90), 0, rad(180))
+			local RIGHTSHOULDERC0 = cf(-0.5, 0, 0) * angles(0, rad(90), 0)
+			local LEFTSHOULDERC0 = cf(0.5, 0, 0) * angles(0, rad(-90), 0)
+	
+			local Animation_Speed = 0
+	
+			--bruh yeah shackluster had a lot of math.rad(0) instead of just 0
+			--and a lot of multyplying by angles(0, 0, 0)
+			--and he had ArtificialHB
+			--and he had a sine value increasing by 2/3 each frame
+			--and a lot of variables with names saying other things
+			--and he had both C0 and C1 lerps for the same animations
+			local function C1lerps(iswalking)
+				Animation_Speed = 0.45/deltaTime
+	
+				local sine = sine * 40
+				if iswalking then
+					RootJoint.C1 = RootJoint.C1:Lerp(ROOTC0 * cf(0, 0, 0.05 * cos(sine / (2.4))), 2 * 1.25 / Animation_Speed)
+					Neck.C1 = Neck.C1:Lerp(cf(0, -0.5, 0) * angles(rad(-90), 0, rad(180)), 0.2 * 1.25 / Animation_Speed)
+					RightHip.C1 = RightHip.C1:Lerp(cf(0.5, 0.875 - 0.125 * sin(sine / 4.8) - 0.15 * cos(sine / 2.4), 0) * angles(0, rad(90), 0) * angles(0, 0, rad(35 * cos(sine / 4.8))), 0.6 / Animation_Speed)
+					LeftHip.C1 = LeftHip.C1:Lerp(cf(-0.5, 0.875 + 0.125 * sin(sine / 4.8) - 0.15 * cos(sine / 2.4), 0) * angles(0, rad(-90), 0) * angles(0, 0, rad(35 * cos(sine / 4.8))), 0.6 / Animation_Speed)
+				else
+					RootJoint.C1 = RootJoint.C1:Lerp(ROOTC0, 0.2 / Animation_Speed)
+					Neck.C1 = Neck.C1:Lerp(cf(0, -0.5, 0) * angles(rad(-90), 0, rad(180)), 0.2 / Animation_Speed)
+					RightHip.C1 = RightHip.C1:Lerp(cf(0.5, 1, 0) * angles(0, rad(90), 0), 0.7 / Animation_Speed)
+					LeftHip.C1 = LeftHip.C1:Lerp(cf(-0.5, 1, 0) * angles(0, rad(-90), 0), 0.7 / Animation_Speed)
+	
+				end
+			end
+	
+			local function jumplerps()
+				local sine = sine * 40
+				C1lerps()
+	
+				RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0, 0.2 / Animation_Speed)
+				Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(-20), 0, 0), 0.2 / Animation_Speed)
+				RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.5, 0.5, 0) * angles(rad(-40), 0, rad(20)) * RIGHTSHOULDERC0, 0.2 / Animation_Speed)
+				LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(rad(-40), 0, rad(-20)) * LEFTSHOULDERC0, 0.2 / Animation_Speed)
+				RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, -0.3) * angles(0, rad(90), 0) * angles(rad(-5), 0, rad(-20)), 0.2 / Animation_Speed)
+				LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, -0.3) * angles(0, rad(-90), 0) * angles(rad(-5), 0, rad(20)), 0.2 / Animation_Speed)
+			end
+			local function falllerps()
+				local sine = sine * 40
+				C1lerps()
+	
+				RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0, 0.2 / Animation_Speed)
+				Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(20), 0, 0), 0.2 / Animation_Speed)
+				RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.5, 0.5, 0) * angles(0, 0, rad(60)) * RIGHTSHOULDERC0, 0.2 / Animation_Speed)
+				LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.5, 0.5, 0) * angles(0, 0, rad(-60)) * LEFTSHOULDERC0, 0.2 / Animation_Speed)
+				RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, rad(90), 0) * angles(0, 0, rad(20)), 0.2 / Animation_Speed)
+				LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, rad(-90), 0) * angles(0, 0, rad(10)), 0.2 / Animation_Speed)
+			end
+	
+			addmode("default", {
+				idle = function()
+					local sine = sine * 40
+					C1lerps()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0 * cf(0.05 * cos(sine / 12), 0, 0 + 0.05 * sin(sine / 12)), 0.15 / Animation_Speed)
+					Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(15 - 2.5 * sin(sine / 12)), 0, rad(-25)), 1 / Animation_Speed)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.25, 0.5, 0.3) * angles(rad(-45), 0, rad(-45)) * RIGHTSHOULDERC0, 1 / Animation_Speed)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.25, 0.5, 0.3) * angles(rad(-40), 0, rad(45)) * LEFTSHOULDERC0, 1 / Animation_Speed)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1 + 0.05 * cos(sine / 12), -1 - 0.05 * sin(sine / 12), -0.01) * angles(0, rad(85), 0) * angles(rad(-1), 0, 0), 0.15 / Animation_Speed)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1 + 0.05 * cos(sine / 12), -1 - 0.05 * sin(sine / 12), -0.01) * angles(0, rad(-85), 0) * angles(rad(-1), 0, 0), 0.15 / Animation_Speed)
+				end,
+				walk = function()
+					local sine = sine * 40
+					C1lerps(true)
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0 * cf(0, 0, -0.05), 0.15 / Animation_Speed)
+					Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(5), 0, 0), 0.15 / Animation_Speed)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(1.25, 0.5 + 0.05 * sin(sine / (2.4)), 0.3) * angles(rad(-45), 0, rad(-45)) * RIGHTSHOULDERC0, 1 / Animation_Speed)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-1.25, 0.5 + 0.05 * sin(sine / (2.4)), 0.3) * angles(rad(-40), 0, rad(45)) * LEFTSHOULDERC0, 1 / Animation_Speed)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, rad(80), 0) * angles(0, 0, rad(-5)), 2 / Animation_Speed)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, rad(-80), 0) * angles(0, 0, rad(5)), 2 / Animation_Speed)
+				end,
+				jump = jumplerps,
+				fall = falllerps
+			})
+			addmode("f", {
+				idle = function()
+					local sine = sine * 40
+					C1lerps()
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0 * cf(0, 0, 0 + 0.05 * cos(sine / 12)), 1 / Animation_Speed)
+					Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(-5 - 2.5 * cos(sine / 12)), 0, rad(25)), 1 / Animation_Speed)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.9, 0.5 + 0.05 * sin(sine / 12), -0.5) * angles(rad(100), 0, rad(-70)) * RIGHTSHOULDERC0, 1 / Animation_Speed)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9, 0.25 + 0.05 * sin(sine / 12), -0.35) * angles(rad(70), 0, rad(80)) * LEFTSHOULDERC0, 1 / Animation_Speed)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1 - 0.05 * cos(sine / 12), -0.01) * angles(0, rad(80), 0), 1 / Animation_Speed)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1 - 0.05 * cos(sine / 12), -0.01) * angles(0, rad(-80), 0), 1 / Animation_Speed)
+				end,
+				walk = function()
+					local sine = sine * 40
+					C1lerps(true)
+	
+					RootJoint.C0 = RootJoint.C0:Lerp(ROOTC0 * cf(0, 0, -0.05), 0.15 / Animation_Speed)
+					Neck.C0 = Neck.C0:Lerp(NECKC0 * cf(0, 0, 0 + ((1) - 1)) * angles(rad(5), 0, 0), 0.15 / Animation_Speed)
+					RightShoulder.C0 = RightShoulder.C0:Lerp(cf(0.9, 0.5 + 0.05 * sin(sine / (2.4)), -0.5) * angles(rad(100), 0, rad(-70)) * RIGHTSHOULDERC0, 1 / Animation_Speed)
+					LeftShoulder.C0 = LeftShoulder.C0:Lerp(cf(-0.9, 0.25 + 0.05 * sin(sine / (2.4)), -0.35) * angles(rad(70), 0, rad(80)) * LEFTSHOULDERC0, 1 / Animation_Speed)
+					RightHip.C0 = RightHip.C0:Lerp(cf(1, -1, 0) * angles(0, rad(80), 0) * angles(0, 0, rad(-5)), 2 / Animation_Speed)
+					LeftHip.C0 = LeftHip.C0:Lerp(cf(-1, -1, 0) * angles(0, rad(-80), 0) * angles(0, 0, rad(5)), 2 / Animation_Speed)
+				end,
+				jump = jumplerps,
+				fall = falllerps
+			})
+		end)
+		lbl("original by shackluster")
+		lbl("the classics never die")
+	
+		btn("metamorphosis vibe", function()
+			local t=reanimate()
+			if type(t)~="table" then return end
+			local addmode=t.addmode
+			local getJoint=t.getJoint
+			local velbycfrvec=t.velbycfrvec
+			local RootJoint=getJoint("RootJoint")
+			local RightShoulder=getJoint("Right Shoulder")
+			local LeftShoulder=getJoint("Left Shoulder")
+			local RightHip=getJoint("Right Hip")
+			local LeftHip=getJoint("Left Hip")
+			local Neck=getJoint("Neck")
+			t.setWalkSpeed(4.5)
+	
+			addmode("default",{
+				idle=function()
+					Neck.C0=Neck.C0:Lerp(cf(0,1,0)*angles(-1.7453292519943295-0.08726646259971647*sin(sine*8),-0.12217304763960307*sin((sine+0.2)*4),2.8797932657906435+0.2007128639793479*sin((sine+0.15)*4)),deltaTime) 
+					RightHip.C0=RightHip.C0:Lerp(cf(1,-1+0.1*sin(sine*4),0)*angles(1.5707963267948966,1.5707963267948966+0.17453292519943295*sin(sine*4),-1.5707963267948966),deltaTime) 
+					RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.3,0)*angles(2.530727415391778+0.20943951023931956*sin((sine+0.4)*8),1.5707963267948966-0.4363323129985824*sin((sine+0.2)*4),-1.5707963267948966),deltaTime) 
+					LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(-1,0.5,0)*angles(1.0471975511965976,-1.2217304763960306+0.08726646259971647*sin((sine+0.2)*4),1.5707963267948966),deltaTime) 
+					LeftHip.C0=LeftHip.C0:Lerp(cf(-1,-1-0.1*sin(sine*4),0)*angles(1.5707963267948966,-1.5707963267948966+0.17453292519943295*sin(sine*4),1.5707963267948966),deltaTime) 
+					RootJoint.C0=RootJoint.C0:Lerp(cf(-0.1 * sin(sine*4),0,0)*angles(-1.5707963267948966,0.08726646259971647*sin(sine*4),3.141592653589793),deltaTime) 
+					--MW_animatorProgressSave: Fedora_Handle,8.657480066176504e-09,0,0,4,-6,0,0,4,-0.15052366256713867,0,0,4,0,0,0,4,-0.010221302509307861,0,0,4,0,0,0,4,Bandana_Handle,3.9362930692732334e-09,0,0,4,0,0,0,4,0.3000001907348633,0,0,4,0,0,0,4,-0.6002722978591919,0,0,4,0,0,0,4,Head,0,0,0,4,-100,-5,0,8,1,0,0,4,-0,-7,0.2,4,0,0,0,4,165,11.5,0.15,4,RightLeg,1,0,0,4,90,0,0,4,-1,0.1,0,4,90,10,0,4,0,0,0,4,-90,0,0,4,RightArm,1,0,0,4,145,12,0.4,8,0.3,0,0,4,90,-25,0.2,4,0,0,0,4,-90,0,0,4,LeftArm,-1,0,0,4,60,0,0,4,0.5,0,0,4,-70,5,0.2,4,0,0,0,4,90,0,0,4,LeftLeg,-1,0,0,4,90,0,0,4,-1,-0.1,0,4,-90,10,0,4,0,0,0,4,90,0,0,4,Torso,0,-0.1,0,4,-90,0,0,4,0,0,0,4,-0,5,0,4,0,0,0,4,180,0,0,4
+				end,
+				walk=function()
+					local fw,rt=velbycfrvec()
+	
+					Neck.C0=Neck.C0:Lerp(cf(0,1,0)*angles(-1.5707963267948966+0.08726646259971647*sin((sine-0.1)*8),0.3490658503988659*sin((sine-0.07)*4),3.141592653589793-0.4363323129985824*sin((sine-0.4)*4)),deltaTime) 
+					RightHip.C0=RightHip.C0:Lerp(cf(1,-1+0.3*sin((sine + 0.3)*4),0)*angles(1.5707963267948966,1.5707963267948966+0.6981317007977318*sin(sine*4)*rt,-1.5707963267948966+0.6981317007977318*sin(sine*4)*fw),deltaTime) 
+					RightShoulder.C0=RightShoulder.C0:Lerp(cf(1,0.5,0)*angles(-0.5235987755982988*sin((sine+0.2)*4),1.5707963267948966-0.3490658503988659*sin(sine*4),0),deltaTime) 
+					LeftShoulder.C0=LeftShoulder.C0:Lerp(cf(-1,0.5,0)*angles(0.5235987755982988*sin((sine+0.2)*4),-1.5707963267948966-0.3490658503988659*sin(sine*4),0),deltaTime) 
+					LeftHip.C0=LeftHip.C0:Lerp(cf(-1,-1-0.3*sin((sine + 0.3)*4),0)*angles(1.5707963267948966,-1.5707963267948966-0.6981317007977318*sin(sine*4)*rt,1.5707963267948966+0.6981317007977318*sin(sine*4)*fw),deltaTime) 
+					RootJoint.C0=RootJoint.C0:Lerp(cf(0,0.05+0.2*sin((sine + 0.15)*8),0)*angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+					--MW_animatorProgressSave: Fedora_Handle,8.657480066176504e-09,0,0,4,-6,0,0,4,-0.15052366256713867,0,0,4,0,0,0,4,-0.010221302509307861,0,0,4,0,0,0,4,Bandana_Handle,3.9362930692732334e-09,0,0,4,0,0,0,4,0.3000001907348633,0,0,4,0,0,0,4,-0.6002722978591919,0,0,4,0,0,0,4,Head,0,0,0,4,-90,5,-0.1,8,1,0,0,4,-0,20,-0.07,4,0,0,0,4,180,-25,-0.4,4,RightLeg,1,0,0,4,90,0,0,4,-1,0.3,0.3,4,90,40,0,4,0,0,0,4,-90,40,0,4,RightArm,1,0,0,4,0,-30,0.2,4,0.5,0,0,4,90,-20,0,4,0,0,0,4,0,0,0,4,LeftArm,-1,0,0,4,0,30,0.2,4,0.5,0,0,4,-90,-20,0,4,0,0,0,4,0,0,0,4,LeftLeg,-1,0,0,4,90,0,0,4,-1,-0.3,0.3,4,-90,-40,0,4,0,0,0,4,90,40,0,4,Torso,0,0,0,4,-90,0,0,4,0.05,0.2,0.15,8,-0,0,0,4,0,0,0,4,180,0,0,4
+				end
+			})
+		end)
+	
+		lbl("INTERWORLD - METAMORPHOSIS")
+		lbl("was listening to ^^ and animating")
+	
+		btn("empty reanimate (no animations)", reanimate)
+		btn("stop current script",function()
+			stopreanimate()
+		end).TextColor3=c3(0.75,0,0)
+	
+		lbl("SETTINGS (REANIMATE TO APPLY)")
+	
+		local function swtc(txt,options,onchanged)
+			local current=0
+			local swtcbtn=nil
+			local function btnpressed()
+				current=current+1
+				if current>#options then
+					current=1
+				end
+				local option=options[current]
+				swtcbtn.Text=txt..": "..option.text
+				onchanged(option.value)
+			end
+			swtcbtn=btn("change",btnpressed)
+			btnpressed()
+			return swtcbtn
+		end
+	
+		swtc("client sided placeholders",{
+			{value=true,text="yes"},
+			{value=false,text="no"}
+		},function(v)
+			placeholders=v
+		end)
+	
+		swtc("highlight fling targets",{
+			{value=true,text="yes"},
+			{value=false,text="no"}
+		},function(v)
+			highlightflingtargets=v
+		end)
+	
+		swtc("allow shiftlock",{
+			{value=true,text="yes"},
+			{value=false,text="no"}
+		},function(v)
+			allowshiftlock=v
+		end)
+	
+		swtc("ctrl click tp",{
+			{value=true,text="yes"},
+			{value=false,text="no"}
+		},function(v)
+			ctrltp=v
+		end)
+	
+		swtc("click fling",{
+			{value=true,text="yes"},
+			{value=false,text="no"}
+		},function(v)
+			clickfling=v
+		end)
+	
+		swtc("new gui scripts",{
+			{value=true,text="disable"},
+			{value=false,text="keep"}
+		},function(v)
+			disguiscripts=v
+		end)
+	
+		swtc("new character scripts",{
+			{value=function(v)
+				if v:IsA("Script") then --mind Enum.RunContext.Client
+					v.Disabled=true
+				end
+			end,text="disable"},
+			{value=false,text="keep"}
+		},function(v)
+			discharscripts=v
+		end)
+	
+		swtc("claim mode",{
+			{value=false,text="nowait"},
+			{value=true,text="safer"}
+		},function(v)
+			claimwait=v
+		end)
+	
+		local iscg,_=pcall(function()
+			i9.Parent=game:FindFirstChildOfClass("CoreGui")
+		end)
+		if not iscg then
+			i6.Text="PLAYERGUI MODE"
+			i9.Parent=pg
+			twait(3)
+			i6.Text=guiTheme.guiTitle
+		end
+	end)
+end
+coroutine.wrap(TDCLTTA_fake_script)()
+local function HQEWWOY_fake_script() -- TextButton_2.Anims 
+	local script = Instance.new('LocalScript', TextButton_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(HQEWWOY_fake_script)()
+local function PFYXNVQ_fake_script() -- TextButton_2.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/main/UNCCheckEnv.lua'))()
+	end)
+end
+coroutine.wrap(PFYXNVQ_fake_script)()
+local function VNHAF_fake_script() -- TextButton_3.Anims 
+	local script = Instance.new('LocalScript', TextButton_3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(VNHAF_fake_script)()
+local function LNET_fake_script() -- TextButton_3.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--script
+	end)
+end
+coroutine.wrap(LNET_fake_script)()
+local function ASSAOM_fake_script() -- TextButton_4.Anims 
+	local script = Instance.new('LocalScript', TextButton_4)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(ASSAOM_fake_script)()
+local function OPZLDW_fake_script() -- TextButton_4.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_4)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/laeraz/midnightcc/main/public.lua"))()
+	end)
+end
+coroutine.wrap(OPZLDW_fake_script)()
+local function MZNL_fake_script() -- TextButton_5.Anims 
+	local script = Instance.new('LocalScript', TextButton_5)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(MZNL_fake_script)()
+local function FJMZ_fake_script() -- TextButton_5.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_5)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua"))()
+	end)
+end
+coroutine.wrap(FJMZ_fake_script)()
+local function NJYBFIS_fake_script() -- TextButton_6.Anims 
+	local script = Instance.new('LocalScript', TextButton_6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(NJYBFIS_fake_script)()
+local function QSROW_fake_script() -- TextButton_6.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+	end)
+end
+coroutine.wrap(QSROW_fake_script)()
+local function SLAZWLG_fake_script() -- TextButton_7.Anims 
+	local script = Instance.new('LocalScript', TextButton_7)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(SLAZWLG_fake_script)()
+local function FMOKOAC_fake_script() -- TextButton_7.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_7)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--[[ hello very cool incognito / solara (mostly incognito because solara has most of these functions, just not all) script showcase!! 
+	pls dont steal source code :( 
+	also join https://discord.gg/gYhqMRBeZV because yes    
+	]]
+	--[[
+	 math support update because math is kewl
+	 new update:
+	 table loop update!!
+	]]
+		if getgenv and getgenv().MoreUNC then return end
+	
+		-- Definitions
+		local table = table.clone(table) -- Prevent modifications from other scripts
+		local debug = table.clone(debug) -- ^^^^
+		local bit32 = table.clone(bit32)
+		local bit = bit32
+		local os = table.clone(os)
+		local math = table.clone(math)
+		local utf8 = table.clone(utf8)
+		local string = table.clone(string)
+		local task = table.clone(task)
+	
+		local game = game -- game is game
+		local oldGame = game
+	
+		local Version = '1.1.6'
+	
+		local isDragging = false -- rconsole
+		local dragStartPos = nil -- rconsole
+		local frameStartPos = nil -- rconsole
+	
+		local Data = game:GetService("TeleportService"):GetLocalPlayerTeleportData()
+		local TeleportData
+		if Data and Data.MOREUNCSCRIPTQUEUE then
+			TeleportData = Data.MOREUNCSCRIPTQUEUE
+		end
+		if TeleportData then
+			local func = loadstring(TeleportData)
+			local s, e = pcall(func)
+			if not s then task.spawn(error, e) end
+		end
+	
+	
+		print = print
+		warn = warn
+		error = error
+		pcall = pcall
+		printidentity = printidentity
+		ipairs = ipairs
+		pairs = pairs
+		tostring = tostring
+		tonumber = tonumber
+		setmetatable = setmetatable
+		rawget = rawget
+		rawset = rawset
+		getmetatable = getmetatable
+		type = type
+		version = version
+	
+		-- Services / Instances
+		local HttpService = game:GetService('HttpService');
+		local Log = game:GetService('LogService');
+	
+		-- Load proprerties (CREDITS TO DEUCES ON DISCORD)
+		local API_Dump_Url = "https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/Mini-API-Dump.json"
+		local API_Dump = game:HttpGet(API_Dump_Url)
+		local Hidden = {}
+	
+		for _, API_Class in pairs(HttpService:JSONDecode(API_Dump).Classes) do
+			for _, Member in pairs(API_Class.Members) do
+				if Member.MemberType == "Property" then
+					local PropertyName = Member.Name
+	
+					local MemberTags = Member.Tags
+	
+					local Special
+	
+					if MemberTags then
+						Special = table.find(MemberTags, "NotScriptable")
+					end
+					if Special then
+						table.insert(Hidden, PropertyName)
+					end
+				end
+			end
+		end
+	
+		local vim = Instance.new("VirtualInputManager");
+	
+		local DrawingDict = Instance.new("ScreenGui") -- For drawing.new
+	
+		local ClipboardUI = Instance.new("ScreenGui") -- For setclipboard
+	
+		local hui = Instance.new("Folder") -- For gethui
+		hui.Name = '\0'
+	
+		local ClipboardBox = Instance.new('TextBox', ClipboardUI) -- For setclipboard
+		ClipboardBox.Position = UDim2.new(100, 0, 100, 0) -- VERY off screen
+	
+		-- All the following are for rconsole
+		local Console = Instance.new("ScreenGui")
+		local ConsoleFrame = Instance.new("Frame")
+		local Topbar = Instance.new("Frame")
+		local _CORNER = Instance.new("UICorner")
+		local ConsoleCorner = Instance.new("UICorner")
+		local CornerHide = Instance.new("Frame")
+		local DontModify = Instance.new("Frame")
+		local UICorner = Instance.new("UICorner")
+		local CornerHide2 = Instance.new("Frame")
+		local Title = Instance.new("TextLabel")
+		local UIPadding = Instance.new("UIPadding")
+		local ConsoleIcon = Instance.new("ImageLabel")
+		local Holder = Instance.new("ScrollingFrame")
+		local MessageTemplate = Instance.new("TextLabel")
+		local InputTemplate = Instance.new("TextBox")
+		local UIListLayout = Instance.new("UIListLayout")
+		local HolderPadding = Instance.new("UIPadding")
+	
+		Console.Name = "Console"
+		Console.Parent = nil
+		Console.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+		ConsoleFrame.Name = "ConsoleFrame"
+		ConsoleFrame.Parent = Console
+		ConsoleFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+		ConsoleFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		ConsoleFrame.BorderSizePixel = 0
+		ConsoleFrame.Position = UDim2.new(0.0963890627, 0, 0.220791712, 0)
+		ConsoleFrame.Size = UDim2.new(0, 888, 0, 577)
+	
+		Topbar.Name = "Topbar"
+		Topbar.Parent = ConsoleFrame
+		Topbar.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		Topbar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Topbar.BorderSizePixel = 0
+		Topbar.Position = UDim2.new(0, 0, -0.000463640812, 0)
+		Topbar.Size = UDim2.new(1, 0, 0, 32)
+	
+		_CORNER.Name = "_CORNER"
+		_CORNER.Parent = Topbar
+	
+		ConsoleCorner.Name = "ConsoleCorner"
+		ConsoleCorner.Parent = ConsoleFrame
+	
+		CornerHide.Name = "CornerHide"
+		CornerHide.Parent = ConsoleFrame
+		CornerHide.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		CornerHide.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		CornerHide.BorderSizePixel = 0
+		CornerHide.Position = UDim2.new(0, 0, 0.0280000009, 0)
+		CornerHide.Size = UDim2.new(1, 0, 0, 12)
+	
+		DontModify.Name = "DontModify"
+		DontModify.Parent = ConsoleFrame
+		DontModify.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		DontModify.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		DontModify.BorderSizePixel = 0
+		DontModify.Position = UDim2.new(0.98169291, 0, 0.0278581586, 0)
+		DontModify.Size = UDim2.new(-0.00675675692, 21, 0.972141862, 0)
+	
+		UICorner.Parent = DontModify
+	
+		CornerHide2.Name = "CornerHide2"
+		CornerHide2.Parent = ConsoleFrame
+		CornerHide2.AnchorPoint = Vector2.new(1, 0)
+		CornerHide2.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		CornerHide2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		CornerHide2.BorderSizePixel = 0
+		CornerHide2.Position = UDim2.new(1, 0, 0.0450000018, 0)
+		CornerHide2.Size = UDim2.new(0, 9, 0.955023408, 0)
+	
+		Title.Name = "Title"
+		Title.Parent = ConsoleFrame
+		Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Title.BackgroundTransparency = 1.000
+		Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Title.BorderSizePixel = 0
+		Title.Position = UDim2.new(0.0440017432, 0, 0, 0)
+		Title.Size = UDim2.new(0, 164, 0, 30)
+		Title.Font = Enum.Font.GothamMedium
+		Title.Text = "rconsole title"
+		Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+		Title.TextSize = 17.000
+		Title.TextXAlignment = Enum.TextXAlignment.Left
+	
+		UIPadding.Parent = Title
+		UIPadding.PaddingTop = UDim.new(0, 5)
+	
+		ConsoleIcon.Name = "ConsoleIcon"
+		ConsoleIcon.Parent = ConsoleFrame
+		ConsoleIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		ConsoleIcon.BackgroundTransparency = 1.000
+		ConsoleIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		ConsoleIcon.BorderSizePixel = 0
+		ConsoleIcon.Position = UDim2.new(0.00979213417, 0, 0.000874322082, 0)
+		ConsoleIcon.Size = UDim2.new(0, 31, 0, 31)
+		ConsoleIcon.Image = "http://www.roblox.com/asset/?id=11843683545"
+	
+		Holder.Name = "Holder"
+		Holder.Parent = ConsoleFrame
+		Holder.Active = true
+		Holder.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		Holder.BackgroundTransparency = 1.000
+		Holder.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Holder.BorderSizePixel = 0
+		Holder.Position = UDim2.new(0, 0, 0.054600548, 0)
+		Holder.Size = UDim2.new(1, 0, 0.945399463, 0)
+		Holder.ScrollBarThickness = 8
+		Holder.CanvasSize = UDim2.new(0,0,0,0)
+		Holder.AutomaticCanvasSize = Enum.AutomaticSize.XY
+	
+		MessageTemplate.Name = "MessageTemplate"
+		MessageTemplate.Parent = Holder
+		MessageTemplate.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MessageTemplate.BackgroundTransparency = 1.000
+		MessageTemplate.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		MessageTemplate.BorderSizePixel = 0
+		MessageTemplate.Size = UDim2.new(0.9745, 0, 0.030000001, 0)
+		MessageTemplate.Visible = false
+		MessageTemplate.Font = Enum.Font.RobotoMono
+		MessageTemplate.Text = "TEMPLATE"
+		MessageTemplate.TextColor3 = Color3.fromRGB(255, 255, 255)
+		MessageTemplate.TextSize = 20.000
+		MessageTemplate.TextXAlignment = Enum.TextXAlignment.Left
+		MessageTemplate.TextYAlignment = Enum.TextYAlignment.Top
+		MessageTemplate.RichText = true
+	
+		UIListLayout.Parent = Holder
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout.Padding = UDim.new(0, 4)
+	
+		HolderPadding.Name = "HolderPadding"
+		HolderPadding.Parent = Holder
+		HolderPadding.PaddingLeft = UDim.new(0, 15)
+		HolderPadding.PaddingTop = UDim.new(0, 15)
+	
+		InputTemplate.Name = "InputTemplate"
+		InputTemplate.Parent = nil
+		InputTemplate.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		InputTemplate.BackgroundTransparency = 1.000
+		InputTemplate.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		InputTemplate.BorderSizePixel = 0
+		InputTemplate.Size = UDim2.new(0.9745, 0, 0.030000001, 0)
+		InputTemplate.Visible = false
+		InputTemplate.RichText = true
+		InputTemplate.Font = Enum.Font.RobotoMono
+		InputTemplate.Text = ""
+		InputTemplate.PlaceholderText = ''
+		InputTemplate.TextColor3 = Color3.fromRGB(255, 255, 255)
+		InputTemplate.TextSize = 20.000
+		InputTemplate.TextXAlignment = Enum.TextXAlignment.Left
+		InputTemplate.TextYAlignment = Enum.TextYAlignment.Top
+	
+		-- Variables
+		local Identity = -1
+		local active = true
+		-- Others
+		local oldLoader = loadstring
+		-- Empty Tables
+		local clonerefs = {}
+		local protecteduis = {}
+		local gc = {}
+		local Instances = {} -- for nil instances
+		local funcs = {} -- main table
+		local names = {} -- protected gui names
+		local cache = {} -- for cached instances
+		local Drawings = {} -- for cleardrawcache
+		-- Non empty tables
+		local colors = {
+			BLACK = Color3.fromRGB(50, 50, 50),
+			BLUE = Color3.fromRGB(0, 0, 204),
+			GREEN = Color3.fromRGB(0, 255, 0),
+			CYAN = Color3.fromRGB(0, 255, 255),
+			RED = Color3.fromHex('#5A0101'),
+			MAGENTA = Color3.fromRGB(255, 0, 255),
+			BROWN = Color3.fromRGB(165, 42, 42),
+			LIGHT_GRAY = Color3.fromRGB(211, 211, 211),
+			DARK_GRAY = Color3.fromRGB(169, 169, 169),
+			LIGHT_BLUE = Color3.fromRGB(173, 216, 230),
+			LIGHT_GREEN = Color3.fromRGB(144, 238, 144),
+			LIGHT_CYAN = Color3.fromRGB(224, 255, 255),
+			LIGHT_RED = Color3.fromRGB(255, 204, 203),
+			LIGHT_MAGENTA = Color3.fromRGB(255, 182, 193),
+			YELLOW = Color3.fromRGB(255, 255, 0),
+			WHITE = Color3.fromRGB(255, 255, 255),
+			ORANGE = Color3.fromRGB(255, 186, 12)
+		}
+		local patterns = {
+			{ pattern = '(%w+)%s*%+=%s*(%w+)', format = "%s = %s + %s" },
+			{ pattern = '(%w+)%s*%-=%s*(%w+)', format = "%s = %s - %s" },
+			{ pattern = '(%w+)%s*%*=%s*(%w+)', format = "%s = %s * %s" },
+			{ pattern = '(%w+)%s*/=%s*(%w+)', format = "%s = %s / %s" }
+		}
+		local patterns2 = {
+			{ pattern = 'for%s+(%w+)%s*,%s*(%w+)%s*in%s*(%w+)%s*do', format = "for %s, %s in pairs(%s) do" }
+		}
+		local renv = {
+			print, warn, error, assert, collectgarbage, load, require, select, tonumber, tostring, type, xpcall, pairs, next, ipairs,
+			newproxy, rawequal, rawget, rawset, rawlen, setmetatable, PluginManager,
+			coroutine.create, coroutine.resume, coroutine.running, coroutine.status, coroutine.wrap, coroutine.yield,
+			bit32.arshift, bit32.band, bit32.bnot, bit32.bor, bit32.btest, bit32.extract, bit32.lshift, bit32.replace, bit32.rshift, bit32.xor,
+			math.abs, math.acos, math.asin, math.atan, math.atan2, math.ceil, math.cos, math.cosh, math.deg, math.exp, math.floor, math.fmod, math.frexp, math.ldexp, math.log, math.log10, math.max, math.min, math.modf, math.pow, math.rad, math.random, math.randomseed, math.sin, math.sinh, math.sqrt, math.tan, math.tanh,
+			string.byte, string.char, string.find, string.format, string.gmatch, string.gsub, string.len, string.lower, string.match, string.pack, string.packsize, string.rep, string.reverse, string.sub, string.unpack, string.upper,
+			table.concat, table.insert, table.pack, table.remove, table.sort, table.unpack,
+			utf8.char, utf8.charpattern, utf8.codepoint, utf8.codes, utf8.len, utf8.nfdnormalize, utf8.nfcnormalize,
+			os.clock, os.date, os.difftime, os.time,
+			delay, elapsedTime, require, spawn, tick, time, typeof, UserSettings, version, wait,
+			task.defer, task.delay, task.spawn, task.wait,
+			debug.traceback, debug.profilebegin, debug.profileend
+		}
+		local keys={[0x08]=Enum.KeyCode.Backspace,[0x09]=Enum.KeyCode.Tab,[0x0C]=Enum.KeyCode.Clear,[0x0D]=Enum.KeyCode.Return,[0x10]=Enum.KeyCode.LeftShift,[0x11]=Enum.KeyCode.LeftControl,[0x12]=Enum.KeyCode.LeftAlt,[0x13]=Enum.KeyCode.Pause,[0x14]=Enum.KeyCode.CapsLock,[0x1B]=Enum.KeyCode.Escape,[0x20]=Enum.KeyCode.Space,[0x21]=Enum.KeyCode.PageUp,[0x22]=Enum.KeyCode.PageDown,[0x23]=Enum.KeyCode.End,[0x24]=Enum.KeyCode.Home,[0x2D]=Enum.KeyCode.Insert,[0x2E]=Enum.KeyCode.Delete,[0x30]=Enum.KeyCode.Zero,[0x31]=Enum.KeyCode.One,[0x32]=Enum.KeyCode.Two,[0x33]=Enum.KeyCode.Three,[0x34]=Enum.KeyCode.Four,[0x35]=Enum.KeyCode.Five,[0x36]=Enum.KeyCode.Six,[0x37]=Enum.KeyCode.Seven,[0x38]=Enum.KeyCode.Eight,[0x39]=Enum.KeyCode.Nine,[0x41]=Enum.KeyCode.A,[0x42]=Enum.KeyCode.B,[0x43]=Enum.KeyCode.C,[0x44]=Enum.KeyCode.D,[0x45]=Enum.KeyCode.E,[0x46]=Enum.KeyCode.F,[0x47]=Enum.KeyCode.G,[0x48]=Enum.KeyCode.H,[0x49]=Enum.KeyCode.I,[0x4A]=Enum.KeyCode.J,[0x4B]=Enum.KeyCode.K,[0x4C]=Enum.KeyCode.L,[0x4D]=Enum.KeyCode.M,[0x4E]=Enum.KeyCode.N,[0x4F]=Enum.KeyCode.O,[0x50]=Enum.KeyCode.P,[0x51]=Enum.KeyCode.Q,[0x52]=Enum.KeyCode.R,[0x53]=Enum.KeyCode.S,[0x54]=Enum.KeyCode.T,[0x55]=Enum.KeyCode.U,[0x56]=Enum.KeyCode.V,[0x57]=Enum.KeyCode.W,[0x58]=Enum.KeyCode.X,[0x59]=Enum.KeyCode.Y,[0x5A]=Enum.KeyCode.Z,[0x5D]=Enum.KeyCode.Menu,[0x60]=Enum.KeyCode.KeypadZero,[0x61]=Enum.KeyCode.KeypadOne,[0x62]=Enum.KeyCode.KeypadTwo,[0x63]=Enum.KeyCode.KeypadThree,[0x64]=Enum.KeyCode.KeypadFour,[0x65]=Enum.KeyCode.KeypadFive,[0x66]=Enum.KeyCode.KeypadSix,[0x67]=Enum.KeyCode.KeypadSeven,[0x68]=Enum.KeyCode.KeypadEight,[0x69]=Enum.KeyCode.KeypadNine,[0x6A]=Enum.KeyCode.KeypadMultiply,[0x6B]=Enum.KeyCode.KeypadPlus,[0x6D]=Enum.KeyCode.KeypadMinus,[0x6E]=Enum.KeyCode.KeypadPeriod,[0x6F]=Enum.KeyCode.KeypadDivide,[0x70]=Enum.KeyCode.F1,[0x71]=Enum.KeyCode.F2,[0x72]=Enum.KeyCode.F3,[0x73]=Enum.KeyCode.F4,[0x74]=Enum.KeyCode.F5,[0x75]=Enum.KeyCode.F6,[0x76]=Enum.KeyCode.F7,[0x77]=Enum.KeyCode.F8,[0x78]=Enum.KeyCode.F9,[0x79]=Enum.KeyCode.F10,[0x7A]=Enum.KeyCode.F11,[0x7B]=Enum.KeyCode.F12,[0x90]=Enum.KeyCode.NumLock,[0x91]=Enum.KeyCode.ScrollLock,[0xBA]=Enum.KeyCode.Semicolon,[0xBB]=Enum.KeyCode.Equals,[0xBC]=Enum.KeyCode.Comma,[0xBD]=Enum.KeyCode.Minus,[0xBE]=Enum.KeyCode.Period,[0xBF]=Enum.KeyCode.Slash,[0xC0]=Enum.KeyCode.Backquote,[0xDB]=Enum.KeyCode.LeftBracket,[0xDD]=Enum.KeyCode.RightBracket,[0xDE]=Enum.KeyCode.Quote} -- for keypress
+		local Fonts = { -- Drawing.Fonts
+			[0] = Enum.Font.Arial,
+			[1] = Enum.Font.BuilderSans,
+			[2] = Enum.Font.Gotham,
+			[3] = Enum.Font.RobotoMono
+		}
+		-- rconsole
+		local MessageColor = colors['WHITE']
+		local ConsoleClone = nil
+		-- functions
+		local function Descendants(tbl)
+			local descendants = {}
+	
+			local function process_table(subtbl, prefix)
+				for k, v in pairs(subtbl) do
+					local index = prefix and (prefix .. "." .. tostring(k)) or tostring(k)
+					descendants[index] = v
+					if type(v) == 'table' then
+						process_table(v, index)
+					else
+						descendants[index] = v
+					end
+				end
+			end
+	
+			if type(tbl) ~= 'table' then
+				descendants[tostring(1)] = tbl
+			else
+				process_table(tbl, nil)
+			end
+	
+			return descendants
+		end
+	
+		local function rawlength(tbl)
+			local a = 0
+			for i, v in pairs(tbl) do
+				a = a + 1
+			end
+			return a
+		end
+	
+		local function ToPairsLoop(code)
+			for _, p in ipairs(patterns2) do
+				code = code:gsub(p.pattern, function(var1, var2, tbl)
+					return p.format:format(var1, var2, tbl)
+				end)
+			end
+			return code
+		end
+	
+		local function SafeOverride(a, b, c) --[[ Index, Data, Should override ]]
+			if getgenv()[a] and not c then return 1 end
+			getgenv()[a] = b
+	
+			return 2
+		end
+	
+		local function toluau(code)
+			for _, p in ipairs(patterns) do
+				code = code:gsub(p.pattern, function(var, value)
+					return p.format:format(var, var, value)
+				end)
+			end
+			code = ToPairsLoop(code)
+			return code
+		end
+	
+		local function handleInput(input, Object)
+			if isDragging then
+				local delta = input.Position - dragStartPos
+				Object.Position = UDim2.new(
+					frameStartPos.X.Scale, 
+					frameStartPos.X.Offset + delta.X, 
+					frameStartPos.Y.Scale, 
+					frameStartPos.Y.Offset + delta.Y
+				)
+			end
+		end
+	
+		local function startDrag(input, Object)
+			isDragging = true
+			dragStartPos = input.Position
+			frameStartPos = Object.Position
+			input.UserInputState = Enum.UserInputState.Begin
+		end
+	
+		local function stopDrag(input)
+			isDragging = false
+			input.UserInputState = Enum.UserInputState.End
+		end
+	
+		-- Main Functions
+		function QueueGetIdentity()
+			printidentity()
+			task.wait(.1)
+			local messages = Log:GetLogHistory()
+			local message;
+			if not messages[#messages].message:match("Current identity is") then
+				for i = #messages, 1, -1 do
+					if messages[i].message:match("Current identity is %d") then
+						message = messages[i].message
+						break
+					end
+				end
+			else
+				message = messages[#messages].message:match('Current identity is %d'):gsub("Current identity is ", '')
+			end
+			Identity = tonumber(message)
+		end
+		local Queue = {}
+		Queue.__index = Queue
+		function Queue.new()
+			local self = setmetatable({}, Queue)
+			self.elements = {}
+			return self
+		end
+	
+		function Queue:Queue(element)
+			table.insert(self.elements, element)
+		end
+	
+		function Queue:Update()
+			if #self.elements == 0 then
+				return nil
+			end
+			return table.remove(self.elements, 1)
+		end
+	
+		function Queue:IsEmpty()
+			return #self.elements == 0
+		end
+		function Queue:Current()
+			return self.elements
+		end
+	
+		-- Events
+		game.DescendantRemoving:Connect(function(des)
+			table.insert(Instances, des)
+			cache[des] = 'REMOVE'
+		end)
+		game.DescendantAdded:Connect(function(des)
+			cache[des] = true
+		end)
+		game:GetService("UserInputService").WindowFocused:Connect(function()
+			active = true
+		end)
+	
+		game:GetService("UserInputService").WindowFocusReleased:Connect(function()
+			active = false
+		end)
+	
+		game:GetService("UserInputService").InputChanged:Connect(function(input)
+			if not input then return end
+			if isDragging and input.UserInputType == Enum.UserInputType.MouseMovement and ConsoleClone then
+				handleInput(input, ConsoleClone.ConsoleFrame)
+			end
+		end)
+	
+		game:GetService("UserInputService").InputEnded:Connect(function(input)
+			if not input then return end
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				stopDrag(input)
+			end
+		end)
+		-- Libraries
+		funcs.base64 = {}
+		funcs.crypt = {hex={},url={}}
+		funcs.syn = {}
+		funcs.syn_backup = {}
+		funcs.http = {}
+		funcs.Drawing = {}
+		funcs.cache = {}
+		funcs.debug = debug
+		funcs.debug.getinfo = function(t)
+			local CurrentLine = tonumber(debug.info(t, 'l'))
+			local Source = debug.info(t, 's')
+			local name = debug.info(t, 'n')
+			local numparams, isvrg = debug.info(t, 'a')
+			if #name == 0 then name = nil end
+			local a, b = debug.info(t, 'a')
+			return {
+				['currentline'] = CurrentLine,
+				['source'] = Source,
+				['name'] = tostring(name),
+				['numparams'] = tonumber(numparams),
+				['is_vararg'] = isvrg and 1 or 0,
+				['short_src'] = tostring(Source:sub(1, 60)),
+				['what'] = Source == '[C]' and 'C' or 'Lua',
+				['func'] = t,
+				['nups'] = 0 -- i CANNOT make an upvalue thingy
+			}
+		end
+	
+		funcs.Drawing.Fonts = {
+			['UI'] = 0,
+			['System'] = 1,
+			['Plex'] = 2,
+			['Monospace'] = 3
+		}
+	
+	
+		local ClipboardQueue = Queue.new()
+		local ConsoleQueue = Queue.new()
+		local getgenv = getgenv or getfenv(2)
+		getgenv().getgenv = getgenv
+		-- _G fix:
+		getgenv()._G = table.clone(_G)
+	
+		-- [[ Functions ]]
+	
+	--[[funcs.cloneref = function(a)
+	    if not clonerefs[a] then clonerefs[a] = {} end
+	    local Clone = {}
+	
+	    local mt = {__type='Instance'} -- idk if this works ;(
+	
+	    mt.__tostring = function()
+	        return a.Name
+	    end
+	
+	    mt.__index = function(_, key)
+	        local thing = a[key]
+	        if type(thing) == 'function' then
+	            return function(...)
+	                return thing(a, ...)
+	            end
+	        else
+	            return thing
+	        end
+	    end
+	    mt.__newindex = function(_, key, value)
+	     a[key] = value
+	    end
+	    mt.__metatable = 'The metatable is locked'
+	    mt.__len = function(self)
+	     return error('attempt to get length of a userdata value')
+	    end
+	
+	    setmetatable(Clone, mt)
+	
+	    table.insert(clonerefs[a], Clone)
+	
+	    return Clone
+	end
+	 FUNCTION REMOVED FOR NOW.
+	]]
+		funcs.compareinstances = function(a, b)
+			if not clonerefs[a] then
+				return a == b
+			else
+				if table.find(clonerefs[a], b) then return true end
+			end
+			return false
+		end
+		funcs.cache.iscached = function(thing)
+			return cache[thing] ~= 'REMOVE' and thing:IsDescendantOf(game) or false -- If it's cache isnt 'REMOVE' and its a des of game (Usually always true) or if its cache is 'REMOVE' then its false.
+		end
+		funcs.cache.invalidate = function(thing)
+			cache[thing] = 'REMOVE'
+			thing.Parent = nil
+		end
+		funcs.cache.replace = function(a, b)
+			if cache[a] then
+				cache[a] = b
+			end
+			local n, p = a.Name, a.Parent -- name, parent
+			b.Parent = p
+			b.Name = n
+			a.Parent = nil
+		end
+		funcs.deepclone = function(a)
+			local Result = {}
+			for i, v in pairs(a) do
+				if type(v) == 'table' then
+					Result[i] = funcs.deepclone(v)
+				end
+				Result[i] = v
+			end
+			return Result
+		end
+		--[[ The base64 functions were made by https://scriptblox.com/u/yofriendfromschool1 , Credits to him.]]
+		funcs.base64.encode = function(data)
+			local letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+			return ((data:gsub('.', function(x) 
+				local r,b='',x:byte()
+				for i=8,1,-1 do r=r..(b%2^i-b%2^(i-1)>0 and '1' or '0') end
+				return r;
+			end)..'0000'):gsub('%d%d%d?%d?%d?%d?', function(x)
+				if (#x < 6) then return '' end
+				local c=0
+				for i=1,6 do c=c+(x:sub(i,i)=='1' and 2^(6-i) or 0) end
+				return letters:sub(c+1,c+1)
+			end)..({ '', '==', '=' })[#data%3+1])
+		end
+		funcs.base64.decode = function(data)
+			local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+			data = string.gsub(data, '[^'..b..'=]', '')
+			return (data:gsub('.', function(x)
+				if x == '=' then return '' end
+				local r, f = '', (b:find(x) - 1)
+				for i = 6, 1, -1 do
+					r = r .. (f % 2^i - f % 2^(i - 1) > 0 and '1' or '0')
+				end
+				return r;
+			end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x)
+				if #x ~= 8 then return '' end
+				local c = 0
+				for i = 1, 8 do
+					c = c + (x:sub(i, i) == '1' and 2^(8 - i) or 0)
+				end
+				return string.char(c)
+			end))
+		end
+	
+		funcs.loadstring = function(code)
+			local s1, val1 = pcall(function()
+				return loadstring('local v1=15;v1+=1;return v1')()
+			end)
+			local s2, val2 = pcall(function()
+				return loadstring('local v1={"a"};for i, v in v1 do return v end')()
+			end)
+			if val1 ~= 16 and val2 ~= 'a' then
+				return oldLoader(toluau(code))
+			else
+				return oldLoader(code)
+			end
+		end
+		funcs.getgenv = getgenv
+		funcs.crypt.base64 = funcs.base64
+		funcs.crypt.base64encode = funcs.base64.encode
+		funcs.crypt.base64decode = funcs.base64.decode
+		funcs.crypt.base64_encode = funcs.base64.encode
+		funcs.crypt.base64_decode = funcs.base64.decode
+		funcs.base64_encode = funcs.base64.encode
+		funcs.base64_decode = funcs.base64.decode
+	
+		funcs.crypt.hex.encode = function(txt)
+			txt = tostring(txt)
+			local hex = ''
+			for i = 1, #txt do
+				hex = hex .. string.format("%02x", string.byte(txt, i))
+			end
+			return hex
+		end
+		funcs.crypt.hex.decode = function(hex)
+			hex = tostring(hex)
+			local text = ""
+			for i = 1, #hex, 2 do
+				local byte_str = string.sub(hex, i, i+1)
+				local byte = tonumber(byte_str, 16)
+				text = text .. string.char(byte)
+			end
+			return text
+		end
+		funcs.crypt.url.encode = function(a)
+			return game:GetService("HttpService"):UrlEncode(a)
+		end
+		funcs.crypt.url.decode = function(a)
+			a = tostring(a)
+			a = string.gsub(a, "+", " ")
+			a = string.gsub(a, "%%(%x%x)", function(hex)
+				return string.char(tonumber(hex, 16))
+			end)
+			a = string.gsub(a, "\r\n", "\n")
+			return a
+		end
+		funcs.crypt.generatekey = function(optionalSize)
+			local key = ''
+			local a = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+			for i = 1, optionalSize or 32 do local n = math.random(1, #a) key = key .. a:sub(n, n) end
+			return funcs.base64.encode(key)
+		end
+		funcs.crypt.generatebytes = function(size)
+			if type(size) ~= 'number' then return error('missing arguement #1 to \'generatebytes\' (number expected)') end
+			return funcs.crypt.generatekey(size)
+		end
+		funcs.crypt.encrypt = function(a, b)
+			local result = {}
+			a = tostring(a) b = tostring(b)
+			for i = 1, #a do
+				local byte = string.byte(a, i)
+				local keyByte = string.byte(b, (i - 1) % #b + 1)
+				table.insert(result, string.char(bit32.bxor(byte, keyByte)))
+			end
+			return table.concat(result)
+		end
+		funcs.crypt.decrypt = funcs.crypt.encrypt
+		funcs.crypt.random = function(len)
+			return funcs.crypt.generatekey(len)
+		end
+	
+		funcs.isrbxactive = function()
+			return active
+		end
+		funcs.isgameactive = funcs.isrbxactive
+		funcs.gethui = function()
+			local s, H = pcall(function()
+				return game:GetService("CoreGui").RobloxGui
+			end)
+			if H then
+				if not hui.Parent then
+					hui.Parent = H.Parent
+				end
+				return hui
+			else
+				if not hui.Parent then
+					hui.Parent = game:GetService("Players").LocalPlayer.PlayerGui
+				end
+			end
+			return hui
+		end
+		if getgenv().getrenv and #getgenv().getrenv() == 0 or not getgenv().getrenv then
+			getgenv().getrenv = nil
+			getgenv().getrenv = function() -- Override incognito's getrenv
+				return renv -- couldn't think of a better way to implement it
+			end
+		end
+		funcs.setclipboard = function(data)
+			repeat task.wait() until ClipboardQueue:Current()[1] == data or ClipboardQueue:IsEmpty()
+			ClipboardQueue:Queue(data)
+			local old = game:GetService("UserInputService"):GetFocusedTextBox()
+			local copy = ClipboardQueue:Current()[1]
+			ClipboardBox:CaptureFocus()
+			ClipboardBox.Text = copy
+	
+			local KeyCode = Enum.KeyCode
+			local Keys = {KeyCode.RightControl, KeyCode.A}
+			local Keys2 = {KeyCode.RightControl, KeyCode.C, KeyCode.V}
+	
+			for _, v in ipairs(Keys) do
+				vim:SendKeyEvent(true, v, false, game)
+				task.wait()
+			end
+			for _, v in ipairs(Keys) do
+				vim:SendKeyEvent(false, v, false, game)
+				task.wait()
+			end
+			for _, v in ipairs(Keys2) do
+				vim:SendKeyEvent(true, v, false, game)
+				task.wait()
+			end
+			for _, v in ipairs(Keys2) do
+				vim:SendKeyEvent(false, v, false, game)
+				task.wait()
+			end
+			ClipboardBox.Text = ''
+			if old then old:CaptureFocus() end
+			task.wait(.18)
+			ClipboardQueue:Update()
+		end
+		funcs.syn.write_clipboard = funcs.setclipboard
+		funcs.toclipboard = funcs.setclipboard
+		funcs.writeclipboard = funcs.setclipboard
+		funcs.setrbxclipboard = funcs.setclipboard
+	
+		funcs.isrenderobj = function(thing)
+			return Drawings[thing] ~= nil
+		end
+		funcs.getrenderproperty = function(thing, prop)
+			return thing[prop]
+		end
+		funcs.setrenderproperty = function(thing, prop, val)
+			local success, err = pcall(function()
+				thing[prop] = val
+			end)
+			if not success and err then warn(err) end
+		end
+	
+		funcs.syn.protect_gui = function(gui)
+			names[gui] = {name=gui.Name,parent=gui.Parent}
+			protecteduis[gui] = gui
+			gui.Name = funcs.crypt.random(64) -- 64 byte string, removed hashing cuz its useless lmao
+			gui.Parent = gethui()
+		end
+		funcs.syn.unprotect_gui = function(gui)
+			if names[gui] then gui.Name = names[gui].name gui.Parent = names[gui].parent end protecteduis[gui] = nil
+		end
+		funcs.syn.protectgui = funcs.syn.protect_gui
+		funcs.syn.unprotectgui = funcs.syn.unprotect_gui
+		funcs.syn.secure_call = function(func) -- Does not do a secure call, just pcalls it.
+			return pcall(func)
+		end
+	
+	
+		funcs.isreadonly = function(tbl)
+			if type(tbl) ~= 'table' then return false end
+			return table.isfrozen(tbl)
+		end
+		funcs.setreadonly = function(tbl, cond)
+			if cond then
+				table.freeze(tbl)
+			else
+				return funcs.deepclone(tbl)
+			end
+		end
+		funcs.httpget = function(url)
+			return game:HttpGet(url)
+		end
+		funcs.httppost = function(url, body, contenttype)
+			return game:HttpPostAsync(url, body, contenttype)
+		end
+		funcs.request = function(args)
+			local Body = nil
+			local Timeout = 0
+			local function callback(success, body)
+				Body = body
+				Body['Success'] = success
+			end
+			HttpService:RequestInternal(args):Start(callback)
+			while not Body and Timeout < 10 do
+				task.wait(.1)
+				Timeout = Timeout + .1
+			end
+			return Body
+		end
+		funcs.mouse1click = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 0, true, game, false)
+			task.wait()
+			vim:SendMouseButtonEvent(x, y, 0, false, game, false)
+		end
+		funcs.mouse2click = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 1, true, game, false)
+			task.wait()
+			vim:SendMouseButtonEvent(x, y, 1, false, game, false)
+		end
+		funcs.mouse1press = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 0, true, game, false)
+		end
+		funcs.mouse1release = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 0, false, game, false)
+		end
+		funcs.mouse2press = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 1, true, game, false)
+		end
+		funcs.mouse2release = function(x, y)
+			x = x or 0
+			y = y or 0
+			vim:SendMouseButtonEvent(x, y, 1, false, game, false)
+		end
+		funcs.mousescroll = function(x, y, a)
+			x = x or 0
+			y = y or 0
+			a = a and true or false
+			vim:SendMouseWheelEvent(x, y, a, game)
+		end
+		funcs.keyclick = function(key)
+			if typeof(key) == 'number' then
+				if not keys[key] then return error("Key "..tostring(key) .. ' not found!') end
+				vim:SendKeyEvent(true, keys[key], false, game)
+				task.wait()
+				vim:SendKeyEvent(false, keys[key], false, game)
+			elseif typeof(Key) == 'EnumItem' then
+				vim:SendKeyEvent(true, key, false, game)
+				task.wait()
+				vim:SendKeyEvent(false, key, false, game)
+			end
+		end
+		funcs.keypress = function(key)
+			if typeof(key) == 'number' then
+				if not keys[key] then return error("Key "..tostring(key) .. ' not found!') end
+				vim:SendKeyEvent(true, keys[key], false, game)
+			elseif typeof(Key) == 'EnumItem' then
+				vim:SendKeyEvent(true, key, false, game)
+			end
+		end
+		funcs.keyrelease = function(key)
+			if typeof(key) == 'number' then
+				if not keys[key] then return error("Key "..tostring(key) .. ' not found!') end
+				vim:SendKeyEvent(false, keys[key], false, game)
+			elseif typeof(Key) == 'EnumItem' then
+				vim:SendKeyEvent(false, key, false, game)
+			end
+		end
+		funcs.mousemoverel = function(relx, rely)
+			local Pos = workspace.CurrentCamera.ViewportSize
+			relx = relx or 0
+			rely = rely or 0
+			local x = Pos.X * relx
+			local y = Pos.Y * rely
+			vim:SendMouseMoveEvent(x, y, game)
+		end
+		funcs.mousemoveabs = function(x, y)
+			x = x or 0 y = y or 0
+			vim:SendMouseMoveEvent(x, y, game)
+		end
+	
+		funcs.newcclosure = function(f)
+			local a = coroutine.wrap(function(...)
+				local b = {coroutine.yield()}
+				while true do
+					b = {coroutine.yield(f(table.unpack(b)))}
+				end
+			end)
+			a()
+			return a
+		end -- Credits to myworld AND EMPER for this
+		funcs.iscclosure = function(fnc) return debug.info(fnc, 's') == '[C]' end
+		funcs.islclosure = function(func) return not funcs.iscclosure(func) end
+		funcs.isexecutorclosure = function(fnc)
+			local found = false
+			for i, v in pairs(getgenv()) do
+				if v == fnc then return true end
+			end
+			for i = 1, math.huge do
+				local s, env = pcall(getfenv, i)
+				if not s or found then break end
+				if type(env) == "table" then
+					for _, v in pairs(env) do
+						if v == fnc then
+							found = true
+							break
+						end
+					end
+				end
+				if found then break end
+			end
+	
+			return found
+		end
+		funcs.newlclosure = function(fnc)
+			return function(...) return fnc(...) end
+		end
+		funcs.clonefunction = funcs.newlclosure
+		funcs.is_l_closure = funcs.islclosure
+		funcs.is_executor_closure = funcs.isexecutorclosure
+		funcs.isourclosure = funcs.isexecutorclosure
+		funcs.isexecclosure = funcs.isexecutorclosure
+		funcs.checkclosure = funcs.isourclosure
+	
+	--[[ File system is something i do not know how to implement in roblox lua.
+	UPDATE AT 18/5/2024:
+	I figured out i can use temp file system with tables.
+	]]
+		local files = {}
+	
+		local function startswith(a, b)
+			return a:sub(1, #b) == b
+		end
+		local function endswith(hello, lo) 
+			return hello:sub(#hello - #lo + 1, #hello) == lo
+		end
+	
+		funcs.writefile = function(path, content)
+			local Path = path:split('/')
+			local CurrentPath = {}
+			for i = 1, #Path do
+				local a = Path[i]
+				CurrentPath[i] = a
+				if not files[a] and i ~= #Path then
+					files[table.concat(CurrentPath, '/')] = {}
+					files[table.concat(CurrentPath, '/') .. '/'] = files[table.concat(CurrentPath, '/')]
+				elseif i == #Path then
+					files[table.concat(CurrentPath, '/')] = tostring(content)
+				end
+			end
+		end
+		funcs.makefolder = function(path)
+			files[path] = {}
+			files[path .. '/'] = files[path]
+		end
+		funcs.isfolder = function(path)
+			return type(files[path]) == 'table'
+		end
+		funcs.isfile = function(path)
+			return type(files[path]) == 'string'
+		end
+		funcs.readfile = function(path)
+			return files[path]
+		end
+		funcs.appendfile = function(path, text2)
+			funcs.writefile(path, funcs.readfile(path) .. text2)
+		end
+		funcs.loadfile = function(path)
+			local content = funcs.readfile(path)
+			if not content then error('File \'' .. tostring(path) .. '\' does not exist.') return '' end
+			local s, func = pcall(function()
+				return loadstring(content)
+			end)
+			return func, not s and func or nil
+		end
+		funcs.delfolder = function(path)
+			local f = files[path]
+			if type(f) == 'table' then files[path] = nil end
+		end
+		funcs.delfile = function(path)
+			local f = files[path]
+			if type(f) == 'string' then files[path] = nil end
+		end
+		funcs.listfiles = function(path)
+			if not path or path == '' then
+				local Files = {}
+				for i, v in pairs(files) do
+					if #i:split('/') == 1 then table.insert(Files, i) end
+				end
+				return Files
+			end
+			if type(files[path]) ~= 'table' then return error(path .. ' is not a folder.') end
+			local Files = {}
+			for i, v in pairs(files) do
+				if startswith(i, path .. '/') and not endswith(i, '/') and i ~= path and #i:split('/') == (#path:split('/') + 1) then table.insert(Files, i) end
+			end
+			return Files
+		end
+	
+		funcs.http.request = funcs.request
+		funcs.syn.crypt = funcs.crypt
+		funcs.syn.crypto = funcs.crypt
+		funcs.syn_backup = funcs.syn
+	
+	
+		funcs.getexecutorname = function()
+			return 'MoreUNC', Version
+		end
+		funcs.identifyexecutor = funcs.getexecutorname
+		funcs.http_request = getgenv().request or funcs.request
+		funcs.getscripts = function()
+			local a = {};for i, v in pairs(game:GetDescendants()) do if v:IsA("LocalScript") or v:IsA("ModuleScript") then table.insert(a, v) end end return a
+		end
+		funcs.get_scripts = function()
+			local a = {};for i, v in pairs(game:GetDescendants()) do if v:IsA("LocalScript") or v:IsA("ModuleScript") then table.insert(a, v) end end return a
+		end
+		funcs.getmodules = function()
+			local a = {};for i, v in pairs(game:GetDescendants()) do if v:IsA("ModuleScript") then table.insert(a, v) end end return a
+		end
+		funcs.getloadedmodules = funcs.getmodules
+		funcs.make_readonly = funcs.setreadonly
+		funcs.makereadonly = funcs.setreadonly
+		funcs.base64encode = funcs.crypt.base64encode
+		funcs.base64decode = funcs.crypt.base64decode
+		funcs.clonefunc = funcs.clonefunction
+		funcs.setsimulationradius = function(Distance, MaxDistance)
+			local LocalPlayer = game:GetService("Players").LocalPlayer
+			assert(type(Distance)=='number','Invalid arguement #1 to \'setsimulationradius\', Number expected got ' .. type(Distance))
+			LocalPlayer.SimulationRadius = type(Distance) == 'number' and Distance or LocalPlayer.SimulationRadius
+			if MaxDistance then
+				assert(type(MaxDistance)=='number','Invalid arguement #2 to \'setsimulationradius\', Number expected got ' .. type(MaxDistance))
+				LocalPlayer.MaxSimulationDistance = MaxDistance
+			end
+		end
+		funcs.getinstances = function()
+			return game:GetDescendants()
+		end
+		funcs.getnilinstances = function()
+			return Instances
+		end
+		funcs.iswriteable = function(tbl)
+			return not table.isfrozen(tbl)
+		end
+		funcs.makewriteable = function(tbl)
+			return funcs.setreadonly(tbl, false)
+		end
+		funcs.isscriptable = function(self, prop)
+			return table.find(Hidden, prop) == nil
+		end
+		funcs.getrunningscripts = function()
+			local scripts = {}
+			for _, v in pairs(funcs.getinstances()) do
+				if v:IsA("LocalScript") and v.Enabled then table.insert(scripts, v) end
+			end
+			return scripts
+		end
+		funcs.fireproximityprompt = function(p)
+			local Hold, Distance, Enabled, Thing, CFrame1= p.HoldDuration, p.MaxActivationDistance, p.Enabled, p.RequiresLineOfSight, nil
+			-- Make it activatable from anywhere
+			p.MaxActivationDistance = math.huge
+			-- Make it take 0 seconds to activate
+			p.HoldDuration = 0
+			-- Make it enabled (so you can activate it)
+			p.Enabled = true
+			-- Disable RequiresLineOfSight
+			p.RequiresLineOfSight = false
+			-- Show the thingy
+			local function get()
+				local classes = {'BasePart', 'Part', 'MeshPart'}
+				for _, v in pairs(classes) do
+					if p:FindFirstAncestorOfClass(v) then
+						return p:FindFirstAncestorOfClass(v)
+					end
+				end
+			end
+			local a = get()
+			if not a then
+				local parent = p.Parent
+				p.Parent = Instance.new("Part", workspace)
+				a = p.Parent
+			end
+			CFrame1 = a.CFrame
+			a.CFrame = game:GetService("Players").LocalPlayer.Character.Head.CFrame + game:GetService("Players").LocalPlayer.Character.Head.CFrame.LookVector * 2
+			task.wait()
+			p:InputHoldBegin()
+			task.wait()
+			p:InputHoldEnd()
+			p.HoldDuration = Hold
+			p.MaxActivationDistance = Distance
+			p.Enabled = Enabled
+			p.RequiresLineOfSight = Thing
+			a.CFrame = CFrame1
+			p.Parent = parent or p.Parent
+		end
+		funcs.firetouchinterest = function(toTouch, TouchWith, on)
+			if on == 0 then return end
+			if toTouch.ClassName == 'TouchTransmitter' then
+				local function get()
+					local classes = {'BasePart', 'Part', 'MeshPart'}
+					for _, v in pairs(classes) do
+						if toTouch:FindFirstAncestorOfClass(v) then
+							return toTouch:FindFirstAncestorOfClass(v)
+						end
+					end
+				end
+				toTouch = get()
+			end
+			local cf = toTouch.CFrame
+			local anc = toTouch.CanCollide
+			toTouch.CanCollide = false
+			toTouch.CFrame = TouchWith.CFrame
+			task.wait()
+			toTouch.CFrame = cf
+			toTouch.CanCollide = anc
+		end -- i admit its kinda bad dont fucking attack me
+	
+		-- SHA256 Hashing
+		local function str2hexa(a)return string.gsub(a,".",function(b)return string.format("%02x",string.byte(b))end)end;local function num2s(c,d)local a=""for e=1,d do local f=c%256;a=string.char(f)..a;c=(c-f)/256 end;return a end;local function s232num(a,e)local d=0;for g=e,e+3 do d=d*256+string.byte(a,g)end;return d end;local function preproc(h,i)local j=64-(i+9)%64;i=num2s(8*i,8)h=h.."\128"..string.rep("\0",j)..i;assert(#h%64==0)return h end;local function k(h,e,l)local m={}local n={0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2}for g=1,16 do m[g]=s232num(h,e+(g-1)*4)end;for g=17,64 do local o=m[g-15]local p=bit.bxor(bit.rrotate(o,7),bit.rrotate(o,18),bit.rshift(o,3))o=m[g-2]local q=bit.bxor(bit.rrotate(o,17),bit.rrotate(o,19),bit.rshift(o,10))m[g]=(m[g-16]+p+m[g-7]+q)%2^32 end;local r,s,b,t,u,v,w,x=l[1],l[2],l[3],l[4],l[5],l[6],l[7],l[8]for e=1,64 do local p=bit.bxor(bit.rrotate(r,2),bit.rrotate(r,13),bit.rrotate(r,22))local y=bit.bxor(bit.band(r,s),bit.band(r,b),bit.band(s,b))local z=(p+y)%2^32;local q=bit.bxor(bit.rrotate(u,6),bit.rrotate(u,11),bit.rrotate(u,25))local A=bit.bxor(bit.band(u,v),bit.band(bit.bnot(u),w))local B=(x+q+A+n[e]+m[e])%2^32;x=w;w=v;v=u;u=(t+B)%2^32;t=b;b=s;s=r;r=(B+z)%2^32 end;l[1]=(l[1]+r)%2^32;l[2]=(l[2]+s)%2^32;l[3]=(l[3]+b)%2^32;l[4]=(l[4]+t)%2^32;l[5]=(l[5]+u)%2^32;l[6]=(l[6]+v)%2^32;l[7]=(l[7]+w)%2^32;l[8]=(l[8]+x)%2^32 end;funcs.crypt.hash=function(h)h=preproc(h,#h)local l={0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19}for e=1,#h,64 do k(h,e,l)end;return str2hexa(num2s(l[1],4)..num2s(l[2],4)..num2s(l[3],4)..num2s(l[4],4)..num2s(l[5],4)..num2s(l[6],4)..num2s(l[7],4)..num2s(l[8],4))end
+	
+		funcs.Drawing.new = function(Type) -- Drawing.new
+			local baseProps = {
+				Visible = false,
+				Color = Color3.new(0,0,0),
+				ClassName = nil
+			}
+			if Type == 'Line' then
+				local a = Instance.new("Frame", Instance.new("ScreenGui", DrawingDict))
+				a.Visible = false
+				a.Size = UDim2.new(0, 0, 0, 0)
+				a.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				a.BackgroundTransparency = 1
+				a.BorderSizePixel = 0
+	
+				local meta = baseProps
+				meta.ClassName = Type
+				meta.__index = {
+					Thickness = 1,
+					From = Vector2.new(0, 0),
+					To = Vector2.new(0, 0),
+					Transparency = 0,
+					Remove = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					Destroy = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					updateLine = function(self)
+						if not a then return end
+						local from = self.From
+						local to = self.To
+						local distance = (to - from).Magnitude
+						local angle = math.deg(math.atan2(to.Y - from.Y, to.X - from.X))
+	
+						a.Size = UDim2.new(0, distance, 0, self.Thickness)
+						a.Position = UDim2.new(0, from.X, 0, from.Y)
+						a.Rotation = angle
+					end
+				}
+	
+				meta.__newindex = function(self, key, value)
+					if not self then return end
+					if key == 'Thickness' and typeof(value) == 'number' then
+						rawset(self, key, value)
+						a.Size = UDim2.new(0, (self.To - self.From).Magnitude, 0, value)
+					elseif key == 'Visible' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						a.Visible = value
+					elseif key == 'Color' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+						a.BackgroundColor3 = value
+					elseif key == 'Transparency' and typeof(value) == 'number' and value <= 1 then
+						rawset(self, key, value)
+						a.BackgroundTransparency = 1 - value
+					elseif key == 'From' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+						self:updateLine()
+					elseif key == 'To' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+						self:updateLine()
+					end
+				end
+				local meta1 = setmetatable({}, meta)
+				Drawings[meta1] = meta1
+				return meta1
+			elseif Type == 'Square' then
+				local a = Instance.new("Frame", DrawingDict)
+				a.Visible = false
+				a.Size = UDim2.new(0, 0, 0, 0)
+				a.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				a.BackgroundTransparency = 1
+				a.BorderSizePixel = 0
+				local b = Instance.new("UIStroke", a)
+				b.Color = Color3.fromRGB(255, 255, 255)
+				b.Enabled = true
+	
+				local meta = baseProps
+				meta.ClassName = Type
+				meta.__index = {
+					Size = Vector2.new(0,0),
+					Position = Vector2.new(0, 0),
+					Remove = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					Destroy = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					updateSquare = function(self)
+						if not a then return end
+						a.Size = UDim2.new(0, self.Size.X, 0, self.Size.Y)
+						a.Position = UDim2.new(0, self.Position.X, 0, self.Position.Y)
+					end
+				}
+	
+				meta.__newindex = function(self, key, value)
+					if not self then return end
+					if key == 'Filled' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						b.Enabled = not value
+						a.BackgroundTransparency = value and 0 or 1
+					elseif key == 'Visible' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						a.Visible = value
+					elseif key == 'Color' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+						a.BackgroundColor3 = value
+						b.Color = value
+					elseif key == 'Position' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+						self:updateSquare()
+					elseif key == 'Size' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+						self:updateSquare()
+					end
+				end
+				local meta1 = setmetatable({}, meta)
+				Drawings[meta1] = meta1
+				return meta1
+			elseif Type == 'Circle' then
+				local a = Instance.new("Frame", Instance.new("ScreenGui", DrawingDict))
+				a.Visible = false
+				a.Size = UDim2.new(0, 0, 0, 0)
+				a.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				a.BackgroundTransparency = 1
+				a.BorderSizePixel = 0
+				local b = Instance.new("UIStroke", a)
+				b.Color = Color3.fromRGB(255, 255, 255)
+				b.Enabled = false
+				b.Thickness = 1
+				local c = Instance.new("UICorner", a)
+				c.CornerRadius = UDim.new(1, 0)
+	
+				local meta = baseProps
+				meta.ClassName = Type
+				meta.__index = {
+					Thickness = 1,
+					Filled = false,
+					NumSides = 0,
+					Radius = 1,
+					Position = Vector2.new(0, 0),
+					Transparency = 0,
+					Remove = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					Destroy = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					updateCircle = function(self)
+						if not b or not a then return end
+						a.Size = UDim2.new(0, self.Radius, 0, self.Radius)
+						a.Position = UDim2.new(0, self.Position.X, 0, self.Position.Y)
+						b.Enabled = not self
+						b.Color = self.Color
+					end
+				}
+	
+				meta.__newindex = function(self, key, value)
+					if not self then return end
+					if key == 'Thickness' and typeof(value) == 'number' then
+						rawset(self, key, value)
+						b.Thickness = value
+					elseif key == 'Visible' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						a.Visible = value
+					elseif key == 'Color' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+						a.BackgroundColor3 = value
+						a.Color = value
+					elseif key == 'Transparency' and typeof(value) == 'number' then
+						rawset(self, key, value)
+						a.BackgroundTransparency = 1 - value
+					elseif key == 'Position' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+						self:updateCircle()
+					elseif key == 'Radius' and typeof(value) == 'number' then
+						rawset(self, key, value)
+						self:updateCircle()
+					elseif key == 'NumSides' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					elseif key == 'Filled' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						self:updateCircle()
+					end
+				end
+				local meta1 = setmetatable({}, meta)
+				Drawings[meta1] = meta1
+				return meta1
+			elseif Type == 'Text' then
+				local a = Instance.new("TextLabel", DrawingDict)
+				a.Visible = false
+				a.Size = UDim2.new(0, 0, 0, 0)
+				a.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				a.BackgroundTransparency = 1
+				a.BorderSizePixel = 0
+				a.TextStrokeColor3 = Color3.new(0,0,0)
+				a.TextStrokeTransparency = 1
+	
+				local meta = baseProps
+				meta.ClassName = Type
+				meta.__index = {
+					Text = '',
+					Transparency = 0,
+					Size = 0,
+					Center = false,
+					Outline = false,
+					OutlineColor = Color3.new(0,0,0),
+					Position = Vector2.new(0,0),
+					Font = 3,
+					Remove = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					Destroy = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy() 
+					end,
+					updateText = function(self)
+						if not a then return end
+						a.TextScaled = true
+						a.Size = UDim2.new(0, self.Size * 3, 0, self.Size / 2)
+						a.Position = UDim2.new(0, self.Position.X, 0, self.Position.Y)
+						a.Text = self.Text
+						a.Font = Fonts[self.Font]
+						a.Visible = self.Visible
+						a.TextColor3 = self.Color
+						a.TextTransparency = 1 - self.Transparency
+						a.BorderSizePixel = self.Outline and 1 or 0
+						if self.Center then
+							a.TextXAlignment = Enum.TextXAlignment.Center
+							a.TextYAlignment = Enum.TextYAlignment.Center
+						else
+							a.TextXAlignment = Enum.TextXAlignment.Left
+							a.TextYAlignment = Enum.TextYAlignment.Top
+						end
+						a.TextStrokeTransparency = self.Outline and 0 or 1
+						a.TextStrokeColor3 = self.OutlineColor
+					end
+				}
+	
+				meta.__newindex = function(self, key, value)
+					if not self then return end
+					if key == 'Text' and typeof(value) == 'string' then
+						rawset(self, key, value)
+					elseif key == 'Visible' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+						a.Visible = value
+					elseif key == 'Color' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+					elseif key == 'Transparency' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					elseif key == 'Position' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+					elseif key == 'Size' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					elseif key == 'Outline' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+					elseif key == 'Center' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+					elseif key == 'OutlineColor' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+					elseif key == 'Font' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					end
+					self:updateText()
+				end
+	
+				local meta1 = setmetatable({}, meta)
+				Drawings[meta1] = meta1
+				return meta1
+			elseif Type == 'Image' then
+				local a = Instance.new("ImageLabel", DrawingDict)
+				a.Visible = false
+				a.Size = UDim2.new(0, 0, 0, 0)
+				a.ImageColor3 = Color3.fromRGB(255,255,255)
+				a.BackgroundTransparency = 1
+				a.BorderSizePixel = 0
+	
+				local meta = baseProps
+				meta.ClassName = 'Image'
+				meta.__index = {
+					Text = '',
+					Transparency = 0,
+					Size = Vector2.new(0, 0),
+					Position = Vector2.new(0,0),
+					Color = Color3.fromRGB(255, 255, 255),
+					Image = '',
+					Remove = function()
+						for i, v in pairs(Drawings) do if v == meta then Drawings[i] = nil end end
+						a:Destroy()
+					end,
+					Destroy = function()
+						for i, v in pairs(Drawings) do
+							if v == meta then Drawings[i] = nil end
+						end
+						a:Destroy()
+					end,
+					updateImage = function(self)
+						if not a then return end
+						a.Size = UDim2.new(0, self.Size.X, 0, self.Size.Y)
+						a.Position = UDim2.new(0, self.Position.X, 0, self.Position.Y)
+						a.Visible = self.Visible
+						a.ImageColor3 = self.Color
+						a.ImageTransparency = 1 - self.Transparency
+						a.BorderSizePixel = self.Outline and 1 or 0
+						a.Image = self.Image
+					end
+				}
+	
+				meta.__newindex = function(self, key, value)
+					if not self then return end
+					if key == 'Visible' and typeof(value) == 'boolean' then
+						rawset(self, key, value)
+					elseif key == 'Color' and typeof(value) == 'Color3' then
+						rawset(self, key, value)
+					elseif key == 'Transparency' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					elseif key == 'Position' and typeof(value) == 'Vector2' then
+						rawset(self, key, value)
+					elseif key == 'Size' and typeof(value) == 'number' then
+						rawset(self, key, value)
+					elseif key == 'Image' and typeof(value) == 'string' then
+						rawset(self, key, value)
+					else
+						return
+					end
+					self:updateImage()
+				end
+	
+				local meta1 = setmetatable({}, meta)
+				Drawings[meta1] = meta1
+				return meta1
+			end
+		end
+	
+		funcs.randomstring = funcs.crypt.random
+		funcs.getprotecteduis = function()
+			return protecteduis
+		end
+		funcs.getprotectedguis = funcs.getprotecteduis
+		funcs.cleardrawcache = function()
+			for _, v in pairs(Drawings) do
+				v:Remove()
+			end
+			table.clear(Drawings)
+		end
+		funcs.checkcaller = function()
+			local info = debug.info(getgenv, 'slnaf')
+			return debug.info(1, 'slnaf')==info
+		end
+		funcs.getthreadcontext = function() -- funny little way of getting this
+			if coroutine.isyieldable(coroutine.running()) then -- check if u can use task.wait or not
+				QueueGetIdentity()
+				task.wait(.1)
+				return tonumber(Identity)
+			else
+				if Identity == -1 then
+					task.spawn(QueueGetIdentity)
+					return 1
+				else
+					return tonumber(Identity)
+				end
+				return tonumber(Identity)
+			end
+		end
+		funcs.getthreadidentity = funcs.getthreadcontext
+		funcs.getidentity = funcs.getthreadcontext
+		funcs.rconsolecreate = function()
+			local Clone = Console:Clone()
+			Clone.Parent = gethui()
+			ConsoleClone = Clone
+			ConsoleClone.ConsoleFrame.Topbar.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					startDrag(input, ConsoleClone.ConsoleFrame)
+				end
+			end)
+		end
+		funcs.rconsoledestroy = function()
+			if ConsoleClone then ConsoleClone:Destroy() end
+			ConsoleClone = nil
+		end
+		funcs.rconsoleprint = function(msg, cc)
+			local CONSOLE = ConsoleClone or Console
+			repeat task.wait() until ConsoleQueue:IsEmpty()
+			msg = tostring(msg)
+			local last_color = nil
+	
+			msg = msg:gsub('@@(%a+)@@', function(color)
+				local colorName = color:upper()
+				local rgbColor = colors[colorName]
+				if rgbColor then
+					local fontTag = string.format('<font color="rgb(%d,%d,%d)">', rgbColor.R * 255, rgbColor.G * 255, rgbColor.B * 255)
+					local result = last_color and '</font>' .. fontTag or fontTag
+					last_color = colorName
+					return result
+				else
+					return '@@' .. color .. '@@'
+				end
+			end)
+	
+			if last_color then
+				msg = msg .. '</font>'
+			end
+	
+			if msg:match('<font color=".+">.+</font>') then
+				if msg:match('<font color=".+"></font>') == msg then MessageColor = colors[last_color] return end
+			end
+	
+			local tmp = MessageTemplate:Clone()
+			tmp.Parent = CONSOLE.ConsoleFrame.Holder
+			tmp.Text = msg
+			tmp.Visible = true
+			tmp.TextColor3 = cc and cc or MessageColor
+		end
+		funcs.rconsoleinput = function()
+			local CONSOLE = ConsoleClone or Console
+			repeat task.wait() until ConsoleQueue:IsEmpty()
+			ConsoleQueue:Queue('input')
+			local box = InputTemplate:Clone()
+			local val
+			box.Parent = CONSOLE.ConsoleFrame.Holder
+			box.Visible = true
+			box.TextEditable = true
+			box.TextColor3 = MessageColor
+	
+			box.FocusLost:Connect(function(a)
+				if not a then return end
+				val = box.Text
+				ConsoleQueue:Update()
+			end)
+	
+			local FOCUSED = false
+			while true do
+				if box.Text:sub(#box.Text, #box.Text) == '_' or box.Text == '' or not box:IsFocused() then
+					box.TextColor3 = Color3.fromRGB(255, 255, 255)
+					box.Text = box.Text .. '_'
+	
+					for _ = 1, 100 do
+						task.wait(1/2)
+						if box:IsFocused() then
+							FOCUSED = true
+							box.TextColor3 = MessageColor
+							break
+						end
+						box.Text = box.Text:sub(#box.Text, #box.Text) == '_' and box.Text:sub(#box.Text-1, #box.Text-1) or box.Text .. '_'
+					end
+					if FOCUSED then break end
+				else
+					task.wait(0.1)
+				end
+			end
+			repeat task.wait() until val
+			return val
+		end
+		funcs.rconsolename = function(a)
+			if ConsoleClone then
+				ConsoleClone.ConsoleFrame.Title.Text = a
+			else
+				Console.ConsoleFrame.Title.Text = a
+			end
+		end
+		funcs.printconsole = function(msg, r, g, b)
+			r = r or 0
+			g = g or 0
+			b = b or 0
+			rconsoleprint(msg, Color3.fromRGB(r, g, b))
+		end
+		funcs.rconsoleclear = function()
+			if ConsoleClone then
+				for i, v in pairs(ConsoleClone.ConsoleFrame.Holder:GetChildren()) do
+					if v.ClassName == 'TextLabel' or v.ClassName == 'TextBox' then v:Destroy() end
+				end
+			else
+				for i, v in pairs(Console.ConsoleFrame.Holder:GetChildren()) do
+					if v.ClassName == 'TextLabel' or v.ClassName == 'TextBox' then v:Destroy() end
+				end
+			end
+		end
+		funcs.rconsoleinfo = function(a)
+			rconsoleprint('[INFO]: ' .. tostring(a))
+		end
+		funcs.rconsolewarn = function(a)
+			rconsoleprint('[*]: ' .. tostring(a))
+		end
+		funcs.rconsoleerr = function(a)
+			local clr = MessageColor
+			local oldColor
+			for i, v in pairs(colors) do
+				if clr == v then oldColor = i break end
+			end
+			rconsoleprint(string.format('[@@RED@@*@@%s@@]: %s', oldColor, tostring(a)))
+		end
+		funcs.rconsoleinputasync = funcs.rconsoleinput
+		funcs.consolecreate = funcs.rconsolecreate
+		funcs.consoleclear = funcs.rconsoleclear
+		funcs.consoledestroy = funcs.rconsoledestroy
+		funcs.consoleinput = funcs.rconsoleinput
+		funcs.rconsolesettitle = funcs.rconsolename
+		funcs.consolesettitle = funcs.rconsolename
+	
+		funcs.queue_on_teleport = function(scripttoexec) -- WARNING: MUST HAVE MOREUNC IN AUTO EXECUTE FOR THIS TO WORK.
+			local newTPService = {
+				__index = function(self, key)
+					if key == 'Teleport' then
+						return function(gameId, player, teleportData, loadScreen)
+							teleportData = {teleportData, MOREUNCSCRIPTQUEUE=scripttoexec}
+							return oldGame:GetService("TeleportService"):Teleport(gameId, player, teleportData, loadScreen)
+						end
+					end
+				end
+			}
+			local gameMeta = {
+				__index = function(self, key)
+					if key == 'GetService' then
+						return function(name)
+							if name == 'TeleportService' then return newTPService end
+						end
+					elseif key == 'TeleportService' then return newTPService end
+					return game[key]
+				end,
+				__metatable = 'The metatable is protected'
+			}
+			getgenv().game = setmetatable({}, gameMeta)
+		end
+		funcs.queueonteleport = funcs.queue_on_teleport
+	
+	
+		local Count = 0
+		local Total = 0
+		Total = rawlength(funcs) - 1
+		print('Running MoreUNC | Roblox', version(), ' | Discord https://discord.gg/gYhqMRBeZV')
+	
+		local funcs2 = {}
+		for i, _ in pairs(funcs) do
+			table.insert(funcs2, i)
+		end
+		table.sort(funcs2, function(a, b)
+			return string.byte(a:lower())<string.byte(b:lower())
+		end)
+		for _, i in pairs(funcs2) do
+			local v = funcs[i]
+			local Result = SafeOverride(i, v)
+			if Result == 2 then Count = Count + 1 end
+			local str = Result == 1 and ('[⛔] %s already exists.'):format(i) or Result == 2 and ("[✅] Added %s%s to the global environment. (%d/%d)"):format(i, type(v)=='function' and '()' or '', Count, Total) or Result ~= 1 and Result ~= 2 and ("[⛔] Unknown result for %s."):format(i)
+			print(str)
+		end
+	
+		syn.protect_gui(DrawingDict)
+		syn.protect_gui(ClipboardUI)
+		print('Done adding functions!')
+		QueueGetIdentity()
+		getgenv().MoreUNC = true
+	end)
+end
+coroutine.wrap(FMOKOAC_fake_script)()
+local function XGWKBC_fake_script() -- TextButton_8.Anims 
+	local script = Instance.new('LocalScript', TextButton_8)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(XGWKBC_fake_script)()
+local function LDDQC_fake_script() -- TextButton_8.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_8)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	hiddenfling = false
+	detection = Instance.new("Decal")
+	dval = false
+	script.Parent.MouseButton1Click:Connect(function()
+		if dval==false then
+			if game:GetService("ReplicatedStorage"):FindFirstChild("juisdfj0i32i0eidsuf0iok") then
+				hiddenfling = true
+			else
+				hiddenfling = true
+				detection.Name = "juisdfj0i32i0eidsuf0iok"
+				detection.Parent = game:GetService("ReplicatedStorage")
+				local function fling()
+					local hrp, c, vel, movel = nil, nil, nil, 0.1
+					while true do
+						game:GetService("RunService").Heartbeat:Wait()
+						if hiddenfling then
+							local lp = game.Players.LocalPlayer
+							while hiddenfling and not (c and c.Parent and hrp and hrp.Parent) do
+								game:GetService("RunService").Heartbeat:Wait()
+								c = lp.Character
+								hrp = c:FindFirstChild("HumanoidRootPart") or c:FindFirstChild("Torso") or c:FindFirstChild("UpperTorso")
+							end
+							if hiddenfling then
+								vel = hrp.Velocity
+								hrp.Velocity = vel * 10000 + Vector3.new(0, 10000, 0)
+								game:GetService("RunService").RenderStepped:Wait()
+								if c and c.Parent and hrp and hrp.Parent then
+									hrp.Velocity = vel
+								end
+								game:GetService("RunService").Stepped:Wait()
+								if c and c.Parent and hrp and hrp.Parent then
+									hrp.Velocity = vel + Vector3.new(0, movel, 0)
+									movel = movel * -1
+								end
+							end
+						end
+					end
+				end
+	
+				fling()
+			end
+			dval=true
+		else
+			hiddenfling=false
+		end
+	end)
+end
+coroutine.wrap(LDDQC_fake_script)()
+local function AOXWE_fake_script() -- TextButton_9.Anims 
+	local script = Instance.new('LocalScript', TextButton_9)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(AOXWE_fake_script)()
+local function FFIDFP_fake_script() -- TextButton_9.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_9)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:FindFirstChildOfClass("Players").LocalPlayer.Character.Humanoid.WalkSpeed=game:FindFirstChildOfClass("Players").LocalPlayer.Character.Humanoid.WalkSpeed+10
+	end)
+end
+coroutine.wrap(FFIDFP_fake_script)()
+local function FJCLLBD_fake_script() -- TextButton_10.Anims 
+	local script = Instance.new('LocalScript', TextButton_10)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(FJCLLBD_fake_script)()
+local function IXYHFC_fake_script() -- TextButton_10.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_10)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:FindFirstChildOfClass("Players").LocalPlayer.Character.Humanoid.WalkSpeed=game:FindFirstChildOfClass("Players").LocalPlayer.Character.Humanoid.WalkSpeed-10
+	end)
+end
+coroutine.wrap(IXYHFC_fake_script)()
+local function FGQK_fake_script() -- TextButton_11.Anims 
+	local script = Instance.new('LocalScript', TextButton_11)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(FGQK_fake_script)()
+local function GLJV_fake_script() -- TextButton_11.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_11)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		print("'yeah i havent really finished this sooo-' -Zyphonz")
+	end)
+end
+coroutine.wrap(GLJV_fake_script)()
+local function HEIB_fake_script() -- TextButton_12.Anims 
+	local script = Instance.new('LocalScript', TextButton_12)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(HEIB_fake_script)()
+local function YRCMIBJ_fake_script() -- TextButton_12.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_12)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/Nameless-Admin-No-Byfron-Kick/main/Source",true))()
+	end)
+end
+coroutine.wrap(YRCMIBJ_fake_script)()
+local function WNCVBR_fake_script() -- clr.Anims 
+	local script = Instance.new('LocalScript', clr)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(WNCVBR_fake_script)()
+local function PBKVLC_fake_script() -- clr.LocalScript 
+	local script = Instance.new('LocalScript', clr)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ScrollingFrame.TextBox.Text="--Powered by Cyclone 2B"
+	end)
+end
+coroutine.wrap(PBKVLC_fake_script)()
+local function CRJR_fake_script() -- p2.LocalScript 
+	local script = Instance.new('LocalScript', p2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local cb=script.Parent.ScrollingFrame.TextBox
+	script.Parent.ScrollingFrame.TextLabel.RichText=true
+	local repl=game:GetService("ReplicatedStorage")
+	local hm=require(repl:WaitForChild("module"))
+	while true do
+		task.wait(0.00001)
+		local sc = cb.Text
+		local highlightedCode=hm.run(sc)
+		script.Parent.ScrollingFrame.TextLabel.Text=highlightedCode
+	end
+	
+end
+coroutine.wrap(CRJR_fake_script)()
+local function TCOUJBP_fake_script() -- p2.syntax_highlighting 
+	local script = Instance.new('LocalScript', p2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.module.Parent=game:FindFirstChildOfClass("ReplicatedStorage")
+end
+coroutine.wrap(TCOUJBP_fake_script)()
+local function WXAKV_fake_script() -- exe.Anims 
+	local script = Instance.new('LocalScript', exe)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local ts=game:FindFirstChildOfClass('TweenService')
+	local ti=TweenInfo.new(0.8,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)
+	script.Parent.MouseEnter:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 0.4, 0.4)}):Play()
+	end)
+	script.Parent.MouseLeave:Connect(function()
+		ts:Create(script.Parent,ti,{TextColor3=Color3.new(1, 1, 1)}):Play()
+	end)
+end
+coroutine.wrap(WXAKV_fake_script)()
+local function BIOBEGZ_fake_script() -- exe.LocalScript 
+	local script = Instance.new('LocalScript', exe)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.ScrollingFrame.TextBox.Text == not "Zyphonz" or "KaliMa" or "KaliMata" or "Carnage" then
+			loadstring(script.Parent.Parent.ScrollingFrame.TextBox.Text)()
+		elseif script.Parent.Parent.ScrollingFrame.TextBox.Text == "Zyphonz" then
+			print("Z         ")
+			print(" Y        ")
+			print("  P       ")
+			print("   H      ")
+			print("    O     ")
+			print("     N    ")
+			print("      Z   ")
+			print("(pcall, Zyphonn, Zyphon, Zyphonz, Xenix, FlowerCup, FloFlowerCoop.)")
+		elseif script.Parent.Parent.ScrollingFrame.TextBox.Text=="KaliMa" or "KaliMaa" or "KaliMata" then
+			print([[
+			            -.              
+	            *%%*             
+	           =*==#.     -::    
+	  .:.     .*+-.*:     .-:    
+	 .=--+   ==+#.-#*=:    =..   
+	    .-:==. =*=:#. *. .+:*-   
+	     : *#*==+=:=  *+- :      
+	     =:-.  .#.*=+*.. +.      
+	    .#+*#**.*+*-=* -+==      
+	   .++++*=.#+-##-#- -==.     
+	    =**+-:-#: -.+-=- -:      
+	   :+#**++.#:. -+#*+=#*#=    
+	     -+=+*:#=+++=+#+=+#%+.   
+	     =+-==  .##+*-=+=#++#:   
+	      --=+= -++*- :*-*%%%:   
+	        .:: -*+: .-          
+	          : .  ..            
+	          . . -.             
+	          -:.=+-.            
+	         .:+.  :=            
+	         =:                 
+	         			Kali Maa
+	         			     Goddess of darkness.]])
+		end
+	end)
+end
+coroutine.wrap(BIOBEGZ_fake_script)()
+local function YVBES_fake_script() -- Frame.DragScript 
+	local script = Instance.new('LocalScript', Frame)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local UserInputService = game:GetService("UserInputService")
+	local TweenService = game:GetService("TweenService")
+	
+	local frame = script.Parent
+	local dragging = false
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+	    local delta = input.Position - dragStart
+	    local newPosition = UDim2.new(
+	        startPos.X.Scale,
+	        startPos.X.Offset + delta.X,
+	        startPos.Y.Scale,
+	        startPos.Y.Offset + delta.Y
+	    )
+	
+	    local tween = TweenService:Create(frame, TweenInfo.new(0.1), {Position = newPosition})
+	    tween:Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+	    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+	        dragging = true
+	        dragStart = input.Position
+	        startPos = frame.Position
+	
+	        input.Changed:Connect(function()
+	            if input.UserInputState == Enum.UserInputState.End then
+	                dragging = false
+	            end
+	        end)
+	    end
+	end)
+	
+	frame.InputChanged:Connect(function(input)
+	    if input.UserInputType == Enum.UserInputType.MouseMovement then
+	        dragInput = input
+	    end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+	    if dragging and input == dragInput then
+	        update(input)
+	    end
+	end)
+end
+coroutine.wrap(YVBES_fake_script)()
